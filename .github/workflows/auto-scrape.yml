@@ -1,0 +1,121 @@
+name: Auto Scrape Jobs
+
+on:
+  # 每天凌晨3点UTC自动运行（北京时间11点）
+  schedule:
+    - cron: '0 3 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Number of companies per run'
+        required: false
+        default: '500'
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Scrape jobs
+        run: |
+          echo "🚀 Starting job scraping..."
+          echo "📊 Total companies: $(wc -l < companies_tokens_only.txt)"
+          
+          # 每天抓取500家公司（避免超时）
+          # 2754家 ÷ 500 = 6天抓取完成
+          
+          # 计算今天应该抓取哪一批
+          DAY_OF_YEAR=$(date +%j)
+          BATCH_NUM=$((DAY_OF_YEAR % 6))
+          START=$((BATCH_NUM * 500 + 1))
+          END=$((START + 499))
+          
+          echo "📅 Today is day $DAY_OF_YEAR, running batch $BATCH_NUM"
+          echo "📋 Scraping companies $START to $END"
+          
+          # 提取对应批次的公司
+          sed -n "${START},${END}p" companies_tokens_only.txt > batch_today.txt
+          
+          # 执行抓取
+          python3 fetch_greenhouse_jobs.py \
+            --companies batch_today.txt \
+            --output data \
+            --delay 1.5
+          
+          echo "✅ Scraping completed"
+      
+      - name: Build search index
+        run: |
+          echo "🔨 Building search index..."
+          python3 build_search_index.py --data data --output .
+          
+          # 复制到根目录（GitHub Pages访问）
+          cp search-index.json search-meta.json companies-list.json locations-list.json ./
+          cp -r indexes ./
+          
+          echo "✅ Search index built"
+      
+      - name: Update statistics
+        run: |
+          echo "📊 Generating statistics..."
+          python3 -c "
+import json
+from pathlib import Path
+
+total_jobs = 0
+total_companies = 0
+
+for f in Path('data').glob('*.json'):
+    if f.name.startswith('_'):
+        continue
+    with open(f) as file:
+        data = json.load(file)
+        total_jobs += data.get('job_count', 0)
+        total_companies += 1
+
+stats = {
+    'total_jobs': total_jobs,
+    'total_companies': total_companies,
+    'last_updated': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+    'next_update': 'Daily at 3:00 UTC'
+}
+
+with open('stats.json', 'w') as f:
+    json.dump(stats, f, indent=2)
+
+print(f'✅ Total: {total_jobs} jobs from {total_companies} companies')
+          "
+      
+      - name: Commit and push updates
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          
+          git add data/ search-index.json search-meta.json companies-list.json locations-list.json indexes/ stats.json
+          
+          # 只在有变化时提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update: $(date '+%Y-%m-%d %H:%M UTC') [skip ci]"
+            git push
+            echo "✅ Changes pushed to repository"
+          fi
+      
+      - name: Summary
+        run: |
+          echo "## 📊 Scraping Summary" >> $GITHUB_STEP_SUMMARY
+          cat stats.json >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🌐 Website: https://jiayuliang1314.github.io/tech-jobs-hub/" >> $GITHUB_STEP_SUMMARY
+
