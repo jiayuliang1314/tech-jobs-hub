@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Job Details</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gradient-purple {
+            background: linear-gradient(135deg, #9333ea 0%, #4f46e5 100%);
+        }
+        .job-content h3 { font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 0.75rem; }
+        .job-content ul { list-style: disc; margin-left: 1.5rem; margin-bottom: 1rem; }
+        .job-content p { margin-bottom: 1rem; line-height: 1.6; }
+        .job-content a { color: #2563eb; text-decoration: underline; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <div class="bg-white border-b sticky top-0 z-10 shadow">
+        <div class="max-w-4xl mx-auto px-4 py-4">
+            <a href="search-real.html" class="text-blue-600 hover:underline">
+                ← Back to Search
+            </a>
+        </div>
+    </div>
+
+    <div id="jobContent" class="max-w-4xl mx-auto px-4 py-8">
+        <div class="text-center py-12">
+            <div class="text-5xl mb-4">⏳</div>
+            <p>Loading job details...</p>
+        </div>
+    </div>
+
+    <script>
+        const INDEED_PUBLISHER_ID = 'YOUR_INDEED_ID';
+        const ZIPRECRUITER_AID = 'YOUR_ZR_ID';
+        const CJ_AFFILIATE_ID = 'YOUR_CJ_ID';
+
+        async function loadJobDetails() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const jobId = urlParams.get('id');
+            const company = urlParams.get('company') || '';
+            
+            if (!jobId || !company) {
+                showError('Missing job ID or company');
+                return;
+            }
+
+            try {
+                // 从data_full目录加载公司数据
+                const response = await fetch(`../data_full/${company}.json`);
+                const companyData = await response.json();
+                
+                // 查找对应的职位
+                const job = companyData.jobs.find(j => String(j.id) === String(jobId));
+                
+                if (!job) {
+                    showError('Job not found');
+                    return;
+                }
+                
+                renderJob(job, companyData.company);
+                
+            } catch (error) {
+                console.error('Error loading job:', error);
+                showError('Failed to load job details');
+            }
+        }
+
+        function renderJob(job, companyName) {
+            document.getElementById('pageTitle').textContent = `${job.title} at ${companyName}`;
+            
+            const affiliateLinks = {
+                indeed: generateIndeedLink(job, companyName),
+                ziprecruiter: generateZipRecruiterLink(job),
+                glassdoor: generateGlassdoorLink(companyName)
+            };
+            
+            // 处理职位描述HTML
+            const description = job.content || 'No description available';
+            
+            document.getElementById('jobContent').innerHTML = `
+                <h1 class="text-4xl font-bold mb-2">${job.title}</h1>
+                <p class="text-xl text-gray-600 mb-6">
+                    ${companyName} • ${job.location.name || job.location}
+                </p>
+
+                <!-- 💰 Apply Buttons -->
+                <div class="bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg shadow-lg p-6 mb-8">
+                    <h2 class="text-2xl font-bold mb-4">Apply to this job</h2>
+                    
+                    <a href="${job.absolute_url}" target="_blank"
+                       class="block w-full bg-green-600 hover:bg-green-700 text-white text-center font-bold py-4 px-6 rounded-lg mb-3 transition shadow-md">
+                        ✅ Apply on ${companyName} Career Page
+                    </a>
+
+                    <a href="${affiliateLinks.indeed}" target="_blank"
+                       onclick="trackClick('indeed', '${job.id}', '${companyName}')"
+                       class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-lg mb-3 transition shadow-md">
+                        <div class="flex items-center justify-center">
+                            <span class="text-2xl mr-2">⭐</span>
+                            <div class="text-left">
+                                <div class="text-lg">Apply via Indeed</div>
+                                <div class="text-sm font-normal opacity-90">
+                                    💰 Browse 1,000+ similar jobs
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="${affiliateLinks.ziprecruiter}" target="_blank"
+                       onclick="trackClick('ziprecruiter', '${job.id}', '${companyName}')"
+                       class="block w-full border-2 border-blue-600 hover:bg-blue-50 text-blue-600 font-bold py-4 px-6 rounded-lg transition">
+                        <div class="text-lg">Apply via ZipRecruiter</div>
+                        <div class="text-sm font-normal">💰 One-click apply</div>
+                    </a>
+                </div>
+
+                <!-- Job Description -->
+                <div class="bg-white rounded-lg shadow p-6 mb-8">
+                    <h2 class="text-2xl font-bold mb-4">Job Description</h2>
+                    <div class="job-content text-gray-700">
+                        ${description}
+                    </div>
+                </div>
+
+                <!-- Glassdoor -->
+                <div class="gradient-purple text-white rounded-lg shadow-lg p-6 mb-8">
+                    <h3 class="text-2xl font-bold mb-4">
+                        💡 Learn more about ${companyName}
+                    </h3>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">⭐</div>
+                            <div class="font-bold">Reviews</div>
+                            <div class="text-sm opacity-90">Employee ratings</div>
+                        </div>
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">💰</div>
+                            <div class="font-bold">Salaries</div>
+                            <div class="text-sm opacity-90">Real compensation data</div>
+                        </div>
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">💼</div>
+                            <div class="font-bold">Interviews</div>
+                            <div class="text-sm opacity-90">Questions & tips</div>
+                        </div>
+                    </div>
+
+                    <a href="${affiliateLinks.glassdoor}" target="_blank"
+                       onclick="trackClick('glassdoor', '${job.id}', '${companyName}')"
+                       class="block w-full bg-white text-purple-600 text-center font-bold py-4 px-6 rounded-lg hover:bg-gray-100 transition">
+                        💰 View ${companyName} on Glassdoor →
+                    </a>
+                </div>
+
+                <p class="text-xs text-gray-500 text-center">
+                    <strong>Disclosure:</strong> Some links are affiliate links. We may earn a commission.
+                </p>
+            `;
+        }
+
+        function showError(message) {
+            document.getElementById('jobContent').innerHTML = `
+                <div class="text-center py-12">
+                    <div class="text-5xl mb-4">❌</div>
+                    <h2 class="text-2xl font-bold mb-2">${message}</h2>
+                    <a href="search-real.html" class="text-blue-600 hover:underline">Back to Search</a>
+                </div>
+            `;
+        }
+
+        function generateIndeedLink(job, company) {
+            const query = encodeURIComponent(`${job.title} ${company}`);
+            const location = encodeURIComponent(job.location.name || job.location);
+            return `https://www.indeed.com/jobs?q=${query}&l=${location}&from=${INDEED_PUBLISHER_ID}`;
+        }
+
+        function generateZipRecruiterLink(job) {
+            const search = encodeURIComponent(job.title);
+            const location = encodeURIComponent(job.location.name || job.location);
+            return `https://www.ziprecruiter.com/candidate/search?search=${search}&location=${location}&aid=${ZIPRECRUITER_AID}`;
+        }
+
+        function generateGlassdoorLink(company) {
+            const slug = company.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+            const target = `https://www.glassdoor.com/Overview/Working-at-${slug}.htm`;
+            return `https://www.anrdoezrs.net/links/${CJ_AFFILIATE_ID}/type/dlg/${encodeURIComponent(target)}`;
+        }
+
+        function trackClick(platform, jobId, company) {
+            console.log(`%c💰 ${platform.toUpperCase()} Click!`, 'color: green; font-size: 16px; font-weight: bold', {
+                jobId, company, timestamp: new Date().toISOString()
+            });
+        }
+
+        loadJobDetails();
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Jobs Hub - 100,000+ Tech Jobs from 3,000+ Companies</title>
+    <meta name="description" content="Find your dream tech job. Browse 100,000+ positions from top companies like Airbnb, Stripe, Shopee. Updated daily.">
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .card-hover:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <!-- Hero Section -->
+    <div class="gradient-bg text-white py-20">
+        <div class="max-w-6xl mx-auto px-4">
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 text-center">
+                Find Your Dream Tech Job
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 text-center opacity-90">
+                100,000+ jobs from 3,000+ companies • Updated Daily
+            </p>
+
+            <!-- Search Form -->
+            <div class="max-w-4xl mx-auto">
+                <div class="bg-white rounded-lg shadow-2xl p-6">
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <input
+                            id="searchInput"
+                            type="text"
+                            placeholder="Job title, keyword..."
+                            class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-900"
+                        />
+                        <input
+                            id="locationInput"
+                            type="text"
+                            placeholder="Location..."
+                            class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-900"
+                        />
+                        <button
+                            onclick="searchJobs()"
+                            class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition duration-200"
+                        >
+                            Search Jobs
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Features -->
+    <div class="max-w-6xl mx-auto px-4 py-16">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="text-center p-6">
+                <div class="text-6xl mb-4">🚀</div>
+                <h3 class="text-2xl font-bold mb-2">3,000+ Companies</h3>
+                <p class="text-gray-600">
+                    From startups to Fortune 500, all in one place
+                </p>
+            </div>
+            <div class="text-center p-6">
+                <div class="text-6xl mb-4">🔄</div>
+                <h3 class="text-2xl font-bold mb-2">Updated Daily</h3>
+                <p class="text-gray-600">
+                    New jobs added automatically every day
+                </p>
+            </div>
+            <div class="text-center p-6">
+                <div class="text-6xl mb-4">💡</div>
+                <h3 class="text-2xl font-bold mb-2">Company Insights</h3>
+                <p class="text-gray-600">
+                    Salary data, reviews, and interview tips
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sample Jobs -->
+    <div class="bg-white py-16">
+        <div class="max-w-6xl mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-8 text-center">Latest Jobs</h2>
+            
+            <div id="jobsContainer" class="space-y-4">
+                <!-- Jobs will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Popular Companies -->
+    <div class="bg-gray-100 py-16">
+        <div class="max-w-6xl mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-8 text-center">
+                Popular Companies
+            </h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+                <a href="company.html?name=airbnb" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Airbnb
+                </a>
+                <a href="company.html?name=stripe" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Stripe
+                </a>
+                <a href="company.html?name=notion" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Notion
+                </a>
+                <a href="company.html?name=figma" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Figma
+                </a>
+                <a href="company.html?name=coupang" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Coupang
+                </a>
+                <a href="company.html?name=databricks" class="bg-white rounded-lg shadow p-4 text-center hover:shadow-lg transition font-semibold text-gray-700 card-hover">
+                    Databricks
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="max-w-6xl mx-auto px-4 text-center">
+            <p class="mb-2">Tech Jobs Hub - Find Your Dream Tech Job</p>
+            <p class="text-sm text-gray-400">
+                Disclosure: Some links are affiliate links. We may earn a commission.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // 模拟职位数据
+        const sampleJobs = [
+            {
+                id: 1,
+                title: 'Senior Software Engineer - Backend',
+                company: 'Airbnb',
+                location: 'San Francisco, CA',
+                greenhouseUrl: 'https://careers.airbnb.com/positions/7353690',
+                updated: '2 days ago'
+            },
+            {
+                id: 2,
+                title: 'Frontend Engineer',
+                company: 'Stripe',
+                location: 'Remote',
+                greenhouseUrl: 'https://stripe.com/jobs/listing/frontend-engineer',
+                updated: '1 day ago'
+            },
+            {
+                id: 3,
+                title: 'Product Designer',
+                company: 'Notion',
+                location: 'New York, NY',
+                greenhouseUrl: 'https://notion.so/jobs/product-designer',
+                updated: '3 days ago'
+            },
+            {
+                id: 4,
+                title: 'Data Scientist',
+                company: 'Coupang',
+                location: 'Seoul, Korea',
+                greenhouseUrl: 'https://www.coupang.jobs/en/jobs/data-scientist',
+                updated: '5 days ago'
+            },
+            {
+                id: 5,
+                title: 'Engineering Manager',
+                company: 'Databricks',
+                location: 'San Francisco, CA',
+                greenhouseUrl: 'https://databricks.com/company/careers',
+                updated: '1 week ago'
+            }
+        ];
+
+        function searchJobs() {
+            const query = document.getElementById('searchInput').value;
+            const location = document.getElementById('locationInput').value;
+            
+            // 跳转到job-detail.html查看详情
+            if (query || location) {
+                alert(`Searching for: ${query} in ${location}\n\nClick on any job below to see the full affiliate monetization demo!`);
+            }
+        }
+
+        function renderJobs() {
+            const container = document.getElementById('jobsContainer');
+            
+            container.innerHTML = sampleJobs.map(job => `
+                <a href="job-detail.html?id=${job.id}" class="block bg-white rounded-lg shadow hover:shadow-xl transition p-6 card-hover">
+                    <h3 class="text-2xl font-bold mb-2 text-gray-900 hover:text-blue-600">
+                        ${job.title}
+                    </h3>
+                    <div class="flex items-center text-gray-600 mb-3">
+                        <span class="font-semibold">${job.company}</span>
+                        <span class="mx-2">•</span>
+                        <span>${job.location}</span>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <div class="flex gap-2">
+                            <span class="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                                Full-time
+                            </span>
+                            ${job.location.toLowerCase().includes('remote') ? 
+                                '<span class="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded">Remote</span>' 
+                                : ''}
+                        </div>
+                        <span class="text-sm text-gray-500">
+                            Updated ${job.updated}
+                        </span>
+                    </div>
+                </a>
+            `).join('');
+        }
+
+        // 页面加载时渲染职位
+        renderJobs();
+    </script>
+</body>
+</html>
+
