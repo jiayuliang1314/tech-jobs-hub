@@ -11,7 +11,7 @@ on:
       batch_size:
         description: 'Number of companies per run'
         required: false
-        default: '500'
+        default: '1000'
 
 jobs:
   scrape-and-update:
@@ -31,14 +31,14 @@ jobs:
           echo "🚀 Starting job scraping..."
           echo "📊 Total companies: $(wc -l < companies_tokens_only.txt)"
           
-          # 每天抓取500家公司（避免超时）
-          # 2754家 ÷ 500 = 6天抓取完成
+          # 每天抓取1000家公司
+          # 2754家 ÷ 1000 = 3天抓取完成
           
           # 计算今天应该抓取哪一批
           DAY_OF_YEAR=$(date +%j)
-          BATCH_NUM=$((DAY_OF_YEAR % 6))
-          START=$((BATCH_NUM * 500 + 1))
-          END=$((START + 499))
+          BATCH_NUM=$((DAY_OF_YEAR % 3))
+          START=$((BATCH_NUM * 1000 + 1))
+          END=$((START + 999))
           
           echo "📅 Today is day $DAY_OF_YEAR, running batch $BATCH_NUM"
           echo "📋 Scraping companies $START to $END"
