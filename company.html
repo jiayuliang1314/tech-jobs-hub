@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airbnb Jobs - 127 Open Positions | Tech Jobs Hub</title>
+    <meta name="description" content="Browse 127 open positions at Airbnb. See company reviews, salaries, and interview tips.">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        .gradient-purple {
+            background: linear-gradient(135deg, #9333ea 0%, #4f46e5 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <!-- Header -->
+    <div class="bg-white border-b">
+        <div class="max-w-6xl mx-auto px-4 py-4">
+            <a href="index.html" class="text-blue-600 hover:underline">
+                ← Back to Home
+            </a>
+        </div>
+    </div>
+
+    <!-- Company Header -->
+    <div class="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-12">
+        <div class="max-w-6xl mx-auto px-4">
+            <h1 class="text-5xl font-bold mb-4" id="companyName">Airbnb</h1>
+            <p class="text-2xl opacity-90" id="jobCount">
+                127 open positions
+            </p>
+        </div>
+    </div>
+
+    <div class="max-w-6xl mx-auto px-4 py-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <!-- Sidebar -->
+            <div class="lg:col-span-1">
+                <!-- 💰 Glassdoor联盟卡片（$1.50/点击） -->
+                <div class="gradient-purple text-white rounded-lg shadow-lg p-6 mb-6">
+                    <h3 class="text-2xl font-bold mb-4">
+                        💡 Learn about <span id="sidebarCompany">Airbnb</span>
+                    </h3>
+                    
+                    <div class="space-y-3 mb-6">
+                        <div class="flex items-start">
+                            <span class="text-2xl mr-3">⭐</span>
+                            <div>
+                                <div class="font-bold">Company Rating: 4.3/5</div>
+                                <div class="text-sm opacity-90">Based on 5,000+ reviews</div>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start">
+                            <span class="text-2xl mr-3">💰</span>
+                            <div>
+                                <div class="font-bold">Avg Salary</div>
+                                <div class="text-sm opacity-90">$150k - $250k for Engineers</div>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start">
+                            <span class="text-2xl mr-3">💼</span>
+                            <div>
+                                <div class="font-bold">Interview Process</div>
+                                <div class="text-sm opacity-90">500+ questions from real candidates</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a
+                        href="#"
+                        onclick="trackAndRedirect('glassdoor'); return false;"
+                        class="block w-full bg-white text-purple-600 text-center font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition duration-200"
+                    >
+                        💰 View on Glassdoor →
+                    </a>
+                </div>
+
+                <!-- Quick Stats -->
+                <div class="bg-white rounded-lg shadow p-6">
+                    <h3 class="text-lg font-bold mb-4">Quick Stats</h3>
+                    <div class="space-y-3 text-sm">
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Total Jobs:</span>
+                            <span class="font-semibold">127</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Remote Jobs:</span>
+                            <span class="font-semibold">42</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Last Updated:</span>
+                            <span class="font-semibold">Today</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Jobs List -->
+            <div class="lg:col-span-2">
+                <div class="mb-6">
+                    <h2 class="text-2xl font-bold mb-2">Open Positions at <span id="mainCompany">Airbnb</span></h2>
+                    <p class="text-gray-600">
+                        Showing all 127 jobs
+                    </p>
+                </div>
+
+                <div id="jobsList" class="space-y-4">
+                    <!-- Jobs will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 从URL获取公司名称
+        const urlParams = new URLSearchParams(window.location.search);
+        const companyName = urlParams.get('name') || 'airbnb';
+        const formattedName = companyName.charAt(0).toUpperCase() + companyName.slice(1);
+
+        document.getElementById('companyName').textContent = formattedName;
+        document.getElementById('sidebarCompany').textContent = formattedName;
+        document.getElementById('mainCompany').textContent = formattedName;
+
+        // 模拟职位数据
+        const jobs = [
+            { id: 1, title: 'Senior Software Engineer - Backend', location: 'San Francisco, CA', updated: '2 days ago' },
+            { id: 2, title: 'Staff Engineer - Infrastructure', location: 'Remote', updated: '3 days ago' },
+            { id: 3, title: 'Product Designer', location: 'New York, NY', updated: '1 week ago' },
+            { id: 4, title: 'Engineering Manager - Payments', location: 'San Francisco, CA', updated: '5 days ago' },
+            { id: 5, title: 'Data Scientist - ML', location: 'Seattle, WA', updated: '1 day ago' },
+            { id: 6, title: 'Frontend Engineer - React', location: 'Remote', updated: '4 days ago' },
+            { id: 7, title: 'Mobile Engineer - iOS', location: 'San Francisco, CA', updated: '1 week ago' },
+            { id: 8, title: 'Security Engineer', location: 'Remote', updated: '3 days ago' },
+        ];
+
+        function renderJobs() {
+            const container = document.getElementById('jobsList');
+            container.innerHTML = jobs.map(job => `
+                <a href="job-detail.html?id=${job.id}" 
+                   class="block bg-white rounded-lg shadow hover:shadow-lg transition p-6">
+                    <h3 class="text-xl font-bold mb-2 text-gray-900 hover:text-blue-600">
+                        ${job.title}
+                    </h3>
+                    <div class="flex items-center text-gray-600 mb-3">
+                        <span>${job.location}</span>
+                        <span class="mx-2">•</span>
+                        <span class="text-sm">Updated ${job.updated}</span>
+                    </div>
+                    <div class="flex gap-2">
+                        <span class="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                            Full-time
+                        </span>
+                        ${job.location.toLowerCase().includes('remote') ? 
+                            '<span class="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded">Remote</span>' 
+                            : ''}
+                    </div>
+                </a>
+            `).join('');
+        }
+
+        // 联盟链接生成
+        function trackAndRedirect(platform) {
+            console.log(`💰 ${platform} click tracked`);
+            
+            let revenue = '';
+            let url = '';
+            const company = formattedName;
+            
+            if (platform === 'indeed') {
+                revenue = '💰 You earn $0.75';
+                url = `https://www.indeed.com/jobs?q=${encodeURIComponent(company)}&from=${INDEED_PUBLISHER_ID}`;
+            } else if (platform === 'ziprecruiter') {
+                revenue = '💰 You earn $10 if user registers';
+                url = `https://www.ziprecruiter.com/candidate/search?search=${encodeURIComponent(company)}&aid=${ZIPRECRUITER_AID}`;
+            } else if (platform === 'glassdoor') {
+                revenue = '💰 You earn $1.50';
+                const companySlug = company.toLowerCase().replace(/\s+/g, '-');
+                const target = `https://www.glassdoor.com/Overview/Working-at-${companySlug}.htm`;
+                url = `https://www.anrdoezrs.net/links/${CJ_AFFILIATE_ID}/type/dlg/${encodeURIComponent(target)}`;
+            }
+
+            alert(`${revenue}\n\nPlatform: ${platform}\nCompany: ${company}\n\nAffiliate URL:\n${url.substring(0, 100)}...`);
+        }
+
+        renderJobs();
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-time Job Search Demo - 1,458 Jobs</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    
+    <div class="max-w-6xl mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="text-center mb-8">
+            <h1 class="text-4xl font-bold mb-2">Real-time Job Search Demo</h1>
+            <p class="text-xl text-gray-600">
+                Search through <span id="totalJobs" class="font-bold text-blue-600">1,458</span> real jobs
+            </p>
+            <p class="text-sm text-gray-500 mt-2">
+                Data from: Airbnb (181 jobs), Stripe (499 jobs), Coupang (778 jobs)
+            </p>
+        </div>
+
+        <!-- Search Box -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <input
+                    id="searchQuery"
+                    type="text"
+                    placeholder="Job title or company..."
+                    class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none"
+                    onkeyup="performSearch()"
+                />
+                <input
+                    id="searchLocation"
+                    type="text"
+                    placeholder="Location..."
+                    class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none"
+                    onkeyup="performSearch()"
+                />
+                <button
+                    onclick="performSearch()"
+                    class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition"
+                >
+                    Search
+                </button>
+            </div>
+            
+            <!-- Search Stats -->
+            <div class="mt-4 flex items-center justify-between text-sm">
+                <div id="searchStats" class="text-gray-600">
+                    Loading index...
+                </div>
+                <button
+                    onclick="clearSearch()"
+                    class="text-blue-600 hover:underline"
+                >
+                    Clear
+                </button>
+            </div>
+        </div>
+
+        <!-- Results -->
+        <div id="resultsContainer">
+            <div class="text-center py-12 text-gray-500">
+                <div class="text-5xl mb-4">🔍</div>
+                <p>Loading jobs...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let searchIndex = null;
+        let isLoading = true;
+
+        // 加载搜索索引
+        async function loadSearchIndex() {
+            try {
+                const response = await fetch('search-index.json');
+                searchIndex = await response.json();
+                
+                document.getElementById('totalJobs').textContent = searchIndex.total.toLocaleString();
+                document.getElementById('searchStats').textContent = `Ready to search ${searchIndex.total.toLocaleString()} jobs`;
+                
+                isLoading = false;
+                
+                // 默认显示所有职位（前20个）
+                displayResults(searchIndex.jobs.slice(0, 20), searchIndex.total);
+                
+                console.log('✅ Search index loaded:', {
+                    total: searchIndex.total,
+                    generated: searchIndex.generated_at,
+                    size: `${(JSON.stringify(searchIndex).length / 1024 / 1024).toFixed(2)}MB`
+                });
+                
+            } catch (error) {
+                console.error('❌ Failed to load search index:', error);
+                document.getElementById('searchStats').textContent = 'Failed to load index';
+            }
+        }
+
+        // 执行搜索
+        function performSearch() {
+            if (isLoading || !searchIndex) {
+                return;
+            }
+            
+            const query = document.getElementById('searchQuery').value.toLowerCase().trim();
+            const location = document.getElementById('searchLocation').value.toLowerCase().trim();
+            
+            const startTime = performance.now();
+            
+            let results = searchIndex.jobs;
+            
+            // 过滤：关键词匹配
+            if (query) {
+                results = results.filter(job => 
+                    job._k.includes(query)
+                );
+            }
+            
+            // 过滤：地点匹配
+            if (location) {
+                results = results.filter(job =>
+                    job.location.toLowerCase().includes(location)
+                );
+            }
+            
+            const endTime = performance.now();
+            const searchTime = (endTime - startTime).toFixed(0);
+            
+            // 更新统计
+            document.getElementById('searchStats').innerHTML = `
+                Found <strong>${results.length.toLocaleString()}</strong> jobs in <strong>${searchTime}ms</strong>
+                ${query ? `matching "<em>${query}</em>"` : ''}
+                ${location ? `in "<em>${location}</em>"` : ''}
+            `;
+            
+            // 显示结果（前50个）
+            displayResults(results.slice(0, 50), results.length);
+            
+            console.log('🔍 Search performed:', {
+                query,
+                location,
+                results: results.length,
+                time: `${searchTime}ms`
+            });
+        }
+
+        function displayResults(jobs, total) {
+            const container = document.getElementById('resultsContainer');
+            
+            if (jobs.length === 0) {
+                container.innerHTML = `
+                    <div class="text-center py-12">
+                        <div class="text-5xl mb-4">😕</div>
+                        <h3 class="text-2xl font-bold mb-2">No jobs found</h3>
+                        <p class="text-gray-600 mb-4">Try different keywords or location</p>
+                        <button onclick="clearSearch()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg">
+                            Clear Search
+                        </button>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = `
+                ${jobs.length < total ? `
+                    <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+                        <p class="text-sm">
+                            Showing <strong>${jobs.length}</strong> of <strong>${total.toLocaleString()}</strong> results
+                        </p>
+                    </div>
+                ` : ''}
+                
+                <div class="space-y-4">
+                    ${jobs.map(job => `
+                        <a href="job-detail.html?id=${job.id}" 
+                           class="block bg-white rounded-lg shadow hover:shadow-lg transition p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-900 hover:text-blue-600">
+                                ${highlightText(job.title, document.getElementById('searchQuery').value)}
+                            </h3>
+                            <div class="flex items-center text-gray-600 mb-3">
+                                <span class="font-semibold">${highlightText(job.company, document.getElementById('searchQuery').value)}</span>
+                                <span class="mx-2">•</span>
+                                <span>${highlightText(job.location, document.getElementById('searchLocation').value)}</span>
+                            </div>
+                            <div class="flex gap-2">
+                                <span class="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                                    Full-time
+                                </span>
+                                ${job.location.toLowerCase().includes('remote') ? 
+                                    '<span class="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded">Remote</span>' 
+                                    : ''}
+                            </div>
+                        </a>
+                    `).join('')}
+                </div>
+                
+                ${jobs.length < total ? `
+                    <div class="text-center mt-8">
+                        <p class="text-gray-600 text-sm">
+                            Showing first 50 results. Refine your search to see more specific jobs.
+                        </p>
+                    </div>
+                ` : ''}
+            `;
+        }
+
+        function highlightText(text, query) {
+            if (!query || !text) return text;
+            
+            const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+            return text.replace(regex, '<mark class="bg-yellow-200">$1</mark>');
+        }
+
+        function escapeRegex(str) {
+            return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        function clearSearch() {
+            document.getElementById('searchQuery').value = '';
+            document.getElementById('searchLocation').value = '';
+            performSearch();
+        }
+
+        // 页面加载时加载索引
+        loadSearchIndex();
+    </script>
+</body>
+</html>
+

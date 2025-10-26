@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Job Details</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gradient-purple {
+            background: linear-gradient(135deg, #9333ea 0%, #4f46e5 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <!-- Header -->
+    <div class="bg-white border-b">
+        <div class="max-w-4xl mx-auto px-4 py-4">
+            <a href="search-real.html" class="text-blue-600 hover:underline">
+                ← Back to Search
+            </a>
+        </div>
+    </div>
+
+    <div id="jobContent" class="max-w-4xl mx-auto px-4 py-8">
+        <!-- Loading state -->
+        <div class="text-center py-12">
+            <div class="text-5xl mb-4">⏳</div>
+            <p>Loading job details...</p>
+        </div>
+    </div>
+
+    <script>
+        // 联盟ID配置
+        const INDEED_PUBLISHER_ID = 'YOUR_INDEED_ID';
+        const ZIPRECRUITER_AID = 'YOUR_ZR_ID';
+        const CJ_AFFILIATE_ID = 'YOUR_CJ_ID';
+
+        async function loadJobDetails() {
+            // 从URL获取job ID
+            const urlParams = new URLSearchParams(window.location.search);
+            const jobId = urlParams.get('id');
+            
+            if (!jobId) {
+                showError('Job ID not found');
+                return;
+            }
+
+            try {
+                // 从localStorage获取职位数据
+                const jobsData = localStorage.getItem('jobsData');
+                let job = null;
+                
+                if (jobsData) {
+                    const jobs = JSON.parse(jobsData);
+                    job = jobs[jobId];
+                }
+                
+                // 如果localStorage没有，从search-index.json加载
+                if (!job) {
+                    const response = await fetch('search-index.json');
+                    const index = await response.json();
+                    job = index.jobs.find(j => j.id === jobId);
+                }
+                
+                if (!job) {
+                    showError('Job not found');
+                    return;
+                }
+                
+                renderJob(job);
+                
+            } catch (error) {
+                console.error('Error loading job:', error);
+                showError('Failed to load job details');
+            }
+        }
+
+        function renderJob(job) {
+            // 更新页面标题
+            document.getElementById('pageTitle').textContent = `${job.title} at ${job.company}`;
+            
+            // 生成联盟链接
+            const affiliateLinks = {
+                indeed: generateIndeedLink(job),
+                ziprecruiter: generateZipRecruiterLink(job),
+                glassdoor: generateGlassdoorLink(job)
+            };
+            
+            // 渲染页面内容
+            document.getElementById('jobContent').innerHTML = `
+                <!-- Job Title -->
+                <h1 class="text-4xl font-bold mb-2">${job.title}</h1>
+                <p class="text-xl text-gray-600 mb-6">
+                    ${job.company} • ${job.location}
+                </p>
+
+                <!-- 💰 Apply Buttons (核心盈利区域) -->
+                <div class="bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg shadow-lg p-6 mb-8 border-2 border-blue-200">
+                    <h2 class="text-2xl font-bold mb-4">Apply to this job</h2>
+                    
+                    <!-- Greenhouse原始链接 -->
+                    <a
+                        href="${job.url}"
+                        target="_blank"
+                        class="block w-full bg-green-600 hover:bg-green-700 text-white text-center font-bold py-4 px-6 rounded-lg mb-3 transition shadow-md"
+                    >
+                        ✅ Apply on ${job.company} Career Page
+                    </a>
+
+                    <!-- Indeed联盟链接（💰 $0.75/点击） -->
+                    <a
+                        href="${affiliateLinks.indeed}"
+                        target="_blank"
+                        onclick="trackClick('indeed', '${job.id}', '${job.company}')"
+                        class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-lg mb-3 transition shadow-md"
+                    >
+                        <div class="flex items-center justify-center">
+                            <span class="text-2xl mr-2">⭐</span>
+                            <div class="text-left">
+                                <div class="text-lg">Apply via Indeed</div>
+                                <div class="text-sm font-normal opacity-90">
+                                    💰 Browse 1,000+ similar ${job.title} jobs
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <!-- ZipRecruiter联盟链接（💰 $10/注册） -->
+                    <a
+                        href="${affiliateLinks.ziprecruiter}"
+                        target="_blank"
+                        onclick="trackClick('ziprecruiter', '${job.id}', '${job.company}')"
+                        class="block w-full border-2 border-blue-600 hover:bg-blue-50 text-blue-600 font-bold py-4 px-6 rounded-lg transition"
+                    >
+                        <div class="text-lg">Apply via ZipRecruiter</div>
+                        <div class="text-sm font-normal">
+                            💰 One-click apply to multiple jobs
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Job Info Card -->
+                <div class="bg-white rounded-lg shadow p-6 mb-8">
+                    <h2 class="text-2xl font-bold mb-4">About this Position</h2>
+                    
+                    <div class="space-y-3 mb-6">
+                        <div class="flex items-center">
+                            <span class="text-gray-600 w-32">Company:</span>
+                            <span class="font-semibold">${job.company}</span>
+                        </div>
+                        <div class="flex items-center">
+                            <span class="text-gray-600 w-32">Location:</span>
+                            <span class="font-semibold">${job.location}</span>
+                        </div>
+                        <div class="flex items-center">
+                            <span class="text-gray-600 w-32">Type:</span>
+                            <span class="inline-block bg-blue-100 text-blue-800 text-sm px-3 py-1 rounded">Full-time</span>
+                        </div>
+                        ${job.location.toLowerCase().includes('remote') ? `
+                        <div class="flex items-center">
+                            <span class="text-gray-600 w-32">Work Mode:</span>
+                            <span class="inline-block bg-green-100 text-green-800 text-sm px-3 py-1 rounded">Remote</span>
+                        </div>
+                        ` : ''}
+                    </div>
+                    
+                    <!-- 查看完整描述的CTA -->
+                    <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+                        <div class="flex items-start">
+                            <div class="text-3xl mr-3">📄</div>
+                            <div class="flex-1">
+                                <h4 class="font-bold mb-1">Full Job Description</h4>
+                                <p class="text-sm text-gray-700 mb-3">
+                                    View the complete job requirements, responsibilities, and benefits
+                                </p>
+                                <a
+                                    href="${job.url}"
+                                    target="_blank"
+                                    class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition text-sm"
+                                >
+                                    View Full Details on ${job.company} →
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Company Insights - Glassdoor联盟（💰 $1.50/点击） -->
+                <div class="gradient-purple text-white rounded-lg shadow-lg p-6 mb-8">
+                    <h3 class="text-2xl font-bold mb-4">
+                        💡 Before you apply, learn more about ${job.company}
+                    </h3>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">⭐</div>
+                            <div class="font-bold text-lg">Employee Reviews</div>
+                            <div class="text-sm opacity-90">See what employees say</div>
+                        </div>
+
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">💰</div>
+                            <div class="font-bold text-lg">Salary Data</div>
+                            <div class="text-sm opacity-90">Know your worth</div>
+                        </div>
+
+                        <div class="bg-white bg-opacity-20 rounded-lg p-4">
+                            <div class="text-4xl mb-2">💼</div>
+                            <div class="font-bold text-lg">Interview Tips</div>
+                            <div class="text-sm opacity-90">Real interview questions</div>
+                        </div>
+                    </div>
+
+                    <a
+                        href="${affiliateLinks.glassdoor}"
+                        target="_blank"
+                        onclick="trackClick('glassdoor', '${job.id}', '${job.company}')"
+                        class="block w-full bg-white text-purple-600 text-center font-bold py-4 px-6 rounded-lg hover:bg-gray-100 transition shadow-lg"
+                    >
+                        💰 View ${job.company} on Glassdoor →
+                    </a>
+                </div>
+
+                <!-- Disclosure -->
+                <p class="text-xs text-gray-500 text-center">
+                    <strong>Disclosure:</strong> Some links are affiliate links. 
+                    We may earn a commission if you apply through Indeed, ZipRecruiter, or Glassdoor.
+                </p>
+            `;
+        }
+
+        function showError(message) {
+            document.getElementById('jobContent').innerHTML = `
+                <div class="text-center py-12">
+                    <div class="text-5xl mb-4">❌</div>
+                    <h2 class="text-2xl font-bold mb-2">${message}</h2>
+                    <a href="search-real.html" class="text-blue-600 hover:underline">
+                        Back to Search
+                    </a>
+                </div>
+            `;
+        }
+
+        function generateIndeedLink(job) {
+            const query = encodeURIComponent(`${job.title} ${job.company}`);
+            const location = encodeURIComponent(job.location);
+            return `https://www.indeed.com/jobs?q=${query}&l=${location}&from=${INDEED_PUBLISHER_ID}`;
+        }
+
+        function generateZipRecruiterLink(job) {
+            const search = encodeURIComponent(job.title);
+            const location = encodeURIComponent(job.location);
+            return `https://www.ziprecruiter.com/candidate/search?search=${search}&location=${location}&aid=${ZIPRECRUITER_AID}`;
+        }
+
+        function generateGlassdoorLink(job) {
+            const companySlug = job.company.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+            const targetUrl = `https://www.glassdoor.com/Overview/Working-at-${companySlug}.htm`;
+            return `https://www.anrdoezrs.net/links/${CJ_AFFILIATE_ID}/type/dlg/${encodeURIComponent(targetUrl)}`;
+        }
+
+        function trackClick(platform, jobId, company) {
+            console.log('💰 Affiliate click tracked:', {
+                platform,
+                jobId,
+                company,
+                timestamp: new Date().toISOString()
+            });
+            
+            // 显示收入提示
+            let revenue = '';
+            if (platform === 'indeed') revenue = '💰 You earn $0.75!';
+            else if (platform === 'ziprecruiter') revenue = '💰 You earn $10 if user registers!';
+            else if (platform === 'glassdoor') revenue = '💰 You earn $1.50!';
+            
+            // 在控制台显示，不打断用户
+            console.log(`%c${revenue}`, 'color: green; font-size: 16px; font-weight: bold');
+        }
+
+        loadJobDetails();
+    </script>
+</body>
+</html>
+
