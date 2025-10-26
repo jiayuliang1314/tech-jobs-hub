@@ -141,7 +141,7 @@
                 
                 <div class="space-y-4">
                     ${jobs.map(job => `
-                        <a href="job-clean.html?id=${encodeURIComponent(job.id)}" 
+                        <a href="job-clean.html?id=${encodeURIComponent(job.id)}&company=${encodeURIComponent(job.company)}" 
                            class="block bg-white rounded-lg shadow hover:shadow-lg transition p-6">
                             <h3 class="text-xl font-bold mb-2 text-gray-900 hover:text-blue-600">
                                 ${highlightText(job.title, document.getElementById('searchQuery').value)}

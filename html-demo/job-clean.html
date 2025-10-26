@@ -77,6 +77,7 @@
         async function loadJobDetails() {
             const urlParams = new URLSearchParams(window.location.search);
             const jobId = urlParams.get('id');
+            companyName = urlParams.get('company');
             
             if (!jobId) {
                 showError('Job ID not found');
@@ -94,7 +95,9 @@
                     return;
                 }
                 
-                companyName = job.company;
+                if (!companyName) {
+                    companyName = job.company;
+                }
                 
                 // 立即显示基本信息和联盟按钮
                 renderBasicInfo(job);
