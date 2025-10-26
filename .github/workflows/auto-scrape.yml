@@ -68,33 +68,37 @@ jobs:
       - name: Update statistics
         run: |
           echo "📊 Generating statistics..."
-          python3 -c "
-import json
-from pathlib import Path
-
-total_jobs = 0
-total_companies = 0
-
-for f in Path('data').glob('*.json'):
-    if f.name.startswith('_'):
-        continue
-    with open(f) as file:
-        data = json.load(file)
-        total_jobs += data.get('job_count', 0)
-        total_companies += 1
-
-stats = {
-    'total_jobs': total_jobs,
-    'total_companies': total_companies,
-    'last_updated': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
-    'next_update': 'Daily at 3:00 UTC'
-}
-
-with open('stats.json', 'w') as f:
-    json.dump(stats, f, indent=2)
-
-print(f'✅ Total: {total_jobs} jobs from {total_companies} companies')
-          "
+          python3 << 'PYSCRIPT'
+          import json
+          from pathlib import Path
+          from datetime import datetime
+          
+          total_jobs = 0
+          total_companies = 0
+          
+          for f in Path('data').glob('*.json'):
+              if f.name.startswith('_'):
+                  continue
+              try:
+                  with open(f) as file:
+                      data = json.load(file)
+                      total_jobs += data.get('job_count', 0)
+                      total_companies += 1
+              except:
+                  pass
+          
+          stats = {
+              'total_jobs': total_jobs,
+              'total_companies': total_companies,
+              'last_updated': datetime.utcnow().isoformat() + 'Z',
+              'next_update': 'Daily at 3:00 UTC'
+          }
+          
+          with open('stats.json', 'w') as f:
+              json.dump(stats, f, indent=2)
+          
+          print(f'✅ Total: {total_jobs} jobs from {total_companies} companies')
+          PYSCRIPT
       
       - name: Commit and push updates
         run: |
