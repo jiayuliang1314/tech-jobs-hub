@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Debug</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 p-8">
+    <h1 class="text-3xl font-bold mb-4">Search Debug Tool</h1>
+    
+    <div class="bg-white rounded-lg shadow p-6 mb-4">
+        <h2 class="text-xl font-bold mb-2">Quick Tests</h2>
+        <button onclick="testAndroidSearch()" class="bg-blue-600 text-white px-4 py-2 rounded mr-2">Test "Android"</button>
+        <button onclick="testEngineerSearch()" class="bg-green-600 text-white px-4 py-2 rounded mr-2">Test "Engineer"</button>
+        <button onclick="checkIndexFile()" class="bg-purple-600 text-white px-4 py-2 rounded">Check Index File</button>
+    </div>
+    
+    <div class="bg-white rounded-lg shadow p-6 mb-4">
+        <input id="searchInput" type="text" placeholder="Enter search term..." 
+               class="border px-4 py-2 rounded w-full mb-2"
+               onkeypress="if(event.key==='Enter') performDebugSearch()">
+        <button onclick="performDebugSearch()" class="bg-blue-600 text-white px-4 py-2 rounded w-full">
+            Search
+        </button>
+    </div>
+    
+    <pre id="output" class="bg-gray-100 p-4 rounded overflow-auto max-h-96"></pre>
+
+    <script>
+        let searchIndex = null;
+        
+        async function loadIndex() {
+            if (searchIndex) return searchIndex;
+            
+            try {
+                const response = await fetch('search-index.json?_=' + Date.now()); // 避免缓存
+                searchIndex = await response.json();
+                return searchIndex;
+            } catch (e) {
+                log('❌ Error loading index: ' + e.message);
+                return null;
+            }
+        }
+        
+        function log(message) {
+            const output = document.getElementById('output');
+            output.textContent += message + '\n';
+        }
+        
+        function clear() {
+            document.getElementById('output').textContent = '';
+        }
+        
+        async function checkIndexFile() {
+            clear();
+            log('🔍 Checking search index file...\n');
+            
+            const index = await loadIndex();
+            if (!index) return;
+            
+            log(`✅ Index loaded successfully`);
+            log(`📊 Total jobs: ${index.total}`);
+            log(`📁 Jobs array length: ${index.jobs.length}`);
+            log(`📅 Generated at: ${index.generated_at}\n`);
+            
+            // 检查是否有 Android 职位
+            const androidJobs = index.jobs.filter(j => j._k && j._k.includes('android'));
+            log(`🔎 Jobs with "android" in keywords: ${androidJobs.length}\n`);
+            
+            if (androidJobs.length > 0) {
+                log('Sample Android jobs:');
+                androidJobs.slice(0, 3).forEach((job, i) => {
+                    log(`  ${i+1}. ${job.title} at ${job.company}`);
+                    log(`     ID: ${job.id}, Keywords: ${job._k.substring(0, 60)}...`);
+                });
+            }
+        }
+        
+        async function testAndroidSearch() {
+            clear();
+            log('🧪 Testing "Android" search...\n');
+            await performSearch('android');
+        }
+        
+        async function testEngineerSearch() {
+            clear();
+            log('🧪 Testing "Engineer" search...\n');
+            await performSearch('engineer');
+        }
+        
+        async function performDebugSearch() {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) return;
+            
+            clear();
+            log(`🔍 Searching for: "${query}"\n`);
+            await performSearch(query.toLowerCase());
+        }
+        
+        async function performSearch(query) {
+            const startTime = performance.now();
+            
+            const index = await loadIndex();
+            if (!index) return;
+            
+            log(`Query: "${query}"`);
+            log(`Total jobs in index: ${index.jobs.length}\n`);
+            
+            // 执行搜索
+            const results = index.jobs.filter(job => {
+                if (!job._k) {
+                    log(`⚠️  Job ${job.id} has no _k field!`);
+                    return false;
+                }
+                return job._k.includes(query);
+            });
+            
+            const endTime = performance.now();
+            const searchTime = (endTime - startTime).toFixed(2);
+            
+            log(`✅ Search completed in ${searchTime}ms`);
+            log(`📊 Found ${results.length} results\n`);
+            
+            if (results.length > 0) {
+                log('Results:');
+                results.slice(0, 10).forEach((job, i) => {
+                    log(`\n${i+1}. ${job.title}`);
+                    log(`   Company: ${job.company}`);
+                    log(`   Location: ${job.location}`);
+                    log(`   ID: ${job.id}`);
+                    log(`   URL: job-clean.html?id=${job.id}&company=${encodeURIComponent(job.company)}`);
+                    log(`   Direct: ${job.url}`);
+                });
+                
+                if (results.length > 10) {
+                    log(`\n... and ${results.length - 10} more results`);
+                }
+            } else {
+                log('❌ No results found!');
+                log('\nDebug info:');
+                log(`- Index has ${index.jobs.length} total jobs`);
+                log(`- Query: "${query}"`);
+                log('- Sample _k fields:');
+                index.jobs.slice(0, 3).forEach(j => {
+                    log(`  "${j._k.substring(0, 80)}..."`);
+                });
+            }
+        }
+        
+        // 自动加载索引
+        loadIndex().then(() => {
+            log('✅ Index preloaded. Ready to search!');
+        });
+    </script>
+</body>
+</html>
+
