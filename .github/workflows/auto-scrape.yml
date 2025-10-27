@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch number (0=1-1000, 1=1001-2000, 2=2001-2754)'
+        required: false
+        default: 'auto'
+      max_companies:
+        description: 'Max companies to scrape (0=all)'
+        required: false
+        default: '50'
 
 jobs:
   scrape:
@@ -22,9 +31,16 @@ jobs:
         run: |
           echo "Starting scrape..."
           
-          # 计算批次（每天1000家，3天循环）
-          DAY=$(date +%j)
-          BATCH=$((DAY % 3))
+          # 计算批次
+          if [ "${{ github.event.inputs.batch }}" = "auto" ] || [ -z "${{ github.event.inputs.batch }}" ]; then
+            # 自动模式：每天1000家，3天循环
+            DAY=$(date +%j)
+            BATCH=$((DAY % 3))
+          else
+            # 手动指定批次
+            BATCH=${{ github.event.inputs.batch }}
+          fi
+          
           START=$((BATCH * 1000 + 1))
           END=$((START + 999))
           
@@ -32,6 +48,16 @@ jobs:
           
           # 提取公司列表
           sed -n "${START},${END}p" companies_tokens_only.txt > batch.txt
+          
+          # 限制抓取数量（手动触发时）
+          MAX_COMPANIES=${{ github.event.inputs.max_companies }}
+          if [ ! -z "$MAX_COMPANIES" ] && [ "$MAX_COMPANIES" != "0" ]; then
+            head -n $MAX_COMPANIES batch.txt > batch_limited.txt
+            mv batch_limited.txt batch.txt
+            echo "Limited to first $MAX_COMPANIES companies"
+          fi
+          
+          wc -l batch.txt
           
           # 抓取
           python3 fetch_greenhouse_jobs.py --companies batch.txt --output data --delay 1.5
@@ -55,5 +81,10 @@ jobs:
           git config user.name "Bot"
           git config user.email "bot@github.com"
           git add data/ *.json indexes/ || true
-          git diff --staged --quiet || git commit -m "Update $(date +%Y-%m-%d)"
-          git push || true
+          if git diff --staged --quiet; then
+            echo "✅ No changes detected"
+          else
+            git commit -m "Update jobs data $(date +%Y-%m-%d)"
+            git push
+            echo "✅ Changes committed and pushed"
+          fi
