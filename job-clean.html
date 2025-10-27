@@ -85,8 +85,8 @@
             }
 
             try {
-                // 从search-index.json获取基本信息
-                const indexResponse = await fetch('search-index.json');
+                // 从search-index.json获取基本信息（添加时间戳避免缓存）
+                const indexResponse = await fetch('search-index.json?_=' + Date.now());
                 const index = await indexResponse.json();
                 job = index.jobs.find(j => String(j.id) === String(jobId));
                 

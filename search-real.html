@@ -63,7 +63,8 @@
 
         async function loadSearchIndex() {
             try {
-                const response = await fetch('search-index.json');
+                // 添加时间戳避免缓存问题
+                const response = await fetch('search-index.json?_=' + Date.now());
                 searchIndex = await response.json();
                 
                 // 将职位存储到Map中，方便后续根据ID查找

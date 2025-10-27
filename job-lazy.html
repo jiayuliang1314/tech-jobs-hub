@@ -58,8 +58,8 @@
                 }
                 
                 if (!job) {
-                    // 从search-index.json加载
-                    const response = await fetch('search-index.json');
+                    // 从search-index.json加载（添加时间戳避免缓存）
+                    const response = await fetch('search-index.json?_=' + Date.now());
                     const index = await response.json();
                     job = index.jobs.find(j => String(j.id) === String(jobId));
                 }
