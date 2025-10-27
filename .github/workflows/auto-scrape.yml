@@ -39,8 +39,6 @@ jobs:
       - name: Build index
         run: |
           python3 build_search_index.py --data data --output .
-          cp search-index.json search-meta.json companies-list.json locations-list.json ./
-          test -d indexes && cp -r indexes ./ || echo "No indexes dir"
       
       - name: Create stats
         run: |
