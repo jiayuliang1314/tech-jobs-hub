@@ -59,7 +59,7 @@ jobs:
           
           wc -l batch.txt
           
-          # 抓取
+          # 抓取（不获取详情，使用懒加载）
           python3 fetch_greenhouse_jobs.py --companies batch.txt --output data --delay 1.5
       
       - name: Build index

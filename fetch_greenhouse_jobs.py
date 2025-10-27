@@ -100,8 +100,14 @@ class GreenHouseScraper:
         
         return None
     
-    def save_jobs(self, board_token, jobs):
-        """保存职位到JSON文件（获取完整描述）"""
+    def save_jobs(self, board_token, jobs, fetch_details=False):
+        """保存职位到JSON文件
+        
+        Args:
+            board_token: 公司标识
+            jobs: 职位列表
+            fetch_details: 是否获取详情（默认False，懒加载）
+        """
         if not jobs:
             return
         
@@ -109,29 +115,35 @@ class GreenHouseScraper:
         full_jobs = []
         total = len(jobs)
         
-        for i, job in enumerate(jobs):
-            job_id = job.get('id')
-            
-            # 先检查是否已有content
-            if job.get('content'):
-                # 已经有完整数据
-                full_jobs.append(job)
-            else:
-                # 需要获取完整数据
-                print(f"      Fetching details for job {i+1}/{total}... ", end='', flush=True)
-                full_job = self.fetch_job_details(board_token, job_id)
+        if not fetch_details:
+            # 快速模式：只保存基本信息（懒加载）
+            print(f"      💨 Fast mode: saving {total} jobs (details will be lazy-loaded)")
+            full_jobs = jobs
+        else:
+            # 完整模式：获取所有详情
+            for i, job in enumerate(jobs):
+                job_id = job.get('id')
                 
-                if full_job:
-                    full_jobs.append(full_job)
-                    print("✓")
-                else:
-                    # 失败则保存基本信息
+                # 先检查是否已有content
+                if job.get('content'):
+                    # 已经有完整数据
                     full_jobs.append(job)
-                    print("✗")
-                
-                # 避免请求过快
-                if i < total - 1:
-                    time.sleep(0.5)
+                else:
+                    # 需要获取完整数据
+                    print(f"      Fetching details for job {i+1}/{total}... ", end='', flush=True)
+                    full_job = self.fetch_job_details(board_token, job_id)
+                    
+                    if full_job:
+                        full_jobs.append(full_job)
+                        print("✓")
+                    else:
+                        # 失败则保存基本信息
+                        full_jobs.append(job)
+                        print("✗")
+                    
+                    # 避免请求过快
+                    if i < total - 1:
+                        time.sleep(0.5)
         
         # 按公司保存到单独文件
         company_file = self.output_dir / f"{board_token}.json"
@@ -143,8 +155,16 @@ class GreenHouseScraper:
                 'jobs': full_jobs
             }, f, ensure_ascii=False, indent=2)
     
-    def scrape_batch(self, companies, start_idx=0, batch_size=100, delay=1.5):
-        """批量抓取（支持断点续传）"""
+    def scrape_batch(self, companies, start_idx=0, batch_size=100, delay=1.5, fetch_details=False):
+        """批量抓取（支持断点续传）
+        
+        Args:
+            companies: 公司列表
+            start_idx: 开始索引
+            batch_size: 批次大小（未使用）
+            delay: 请求延迟
+            fetch_details: 是否获取详情（默认False）
+        """
         total = len(companies)
         
         for i in range(start_idx, total):
@@ -156,7 +176,7 @@ class GreenHouseScraper:
             
             jobs = self.fetch_company_jobs(company)
             if jobs is not None:  # None表示404或错误
-                self.save_jobs(company, jobs)
+                self.save_jobs(company, jobs, fetch_details=fetch_details)
             
             # 避免被限流：每个请求间隔1.5秒
             if i < total - 1:
@@ -232,6 +252,8 @@ def main():
                        help='Start index (for resume)')
     parser.add_argument('--delay', type=float, default=1.5,
                        help='Delay between requests (seconds)')
+    parser.add_argument('--fetch-details', action='store_true',
+                       help='Fetch full job details (slow, use for complete data)')
     parser.add_argument('--merge', action='store_true',
                        help='Merge all jobs into single file')
     
@@ -256,7 +278,8 @@ def main():
     print(f"⏱️  Delay: {args.delay}s between requests\n")
     
     scraper = GreenHouseScraper(output_dir=args.output)
-    scraper.scrape_batch(companies, start_idx=args.start, delay=args.delay)
+    scraper.scrape_batch(companies, start_idx=args.start, delay=args.delay, 
+                        fetch_details=args.fetch_details)
     
     if args.merge:
         scraper.merge_all_jobs()
