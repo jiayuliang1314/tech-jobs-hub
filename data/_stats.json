@@ -1,40 +1,328 @@
 {
-  "success": 11,
-  "failed": 8,
-  "total_jobs": 1828,
+  "success": 15,
+  "failed": 80,
+  "total_jobs": 71,
   "errors": [
     {
-      "company": "shopee",
+      "company": "splash",
       "error": "404"
     },
     {
-      "company": "novetta",
+      "company": "navis",
       "error": "404"
     },
     {
-      "company": "wework",
+      "company": "a.bdesigngroup",
       "error": "404"
     },
     {
-      "company": "better.com",
+      "company": "a.perryhomes",
       "error": "404"
     },
     {
-      "company": "keeptruckin",
+      "company": "a.esteban&company",
       "error": "404"
     },
     {
-      "company": "tusimple",
+      "company": "a.adonuidahosa",
       "error": "404"
     },
     {
-      "company": "njoy",
+      "company": "scalyr",
       "error": "404"
     },
     {
-      "company": "medmen",
+      "company": "a.gkitchen",
+      "error": "404"
+    },
+    {
+      "company": "a.jlawnservices",
+      "error": "404"
+    },
+    {
+      "company": "a.frefrigeraci\u00f3n",
+      "error": "'ascii' codec can't encode character '\\xf3' in position 29: ordinal not in range(128)"
+    },
+    {
+      "company": "convey",
+      "error": "404"
+    },
+    {
+      "company": "dwelo",
+      "error": "404"
+    },
+    {
+      "company": "ttglobal",
+      "error": "404"
+    },
+    {
+      "company": "siemplify",
+      "error": "404"
+    },
+    {
+      "company": "a.messesupply",
+      "error": "404"
+    },
+    {
+      "company": "callisto",
+      "error": "404"
+    },
+    {
+      "company": "a.davidlawncare",
+      "error": "404"
+    },
+    {
+      "company": "selectfunding",
+      "error": "404"
+    },
+    {
+      "company": "a.randallcamacho",
+      "error": "404"
+    },
+    {
+      "company": "a.lure",
+      "error": "404"
+    },
+    {
+      "company": "libertylending",
+      "error": "404"
+    },
+    {
+      "company": "pressable",
+      "error": "404"
+    },
+    {
+      "company": "booknook",
+      "error": "404"
+    },
+    {
+      "company": "a.favoritedesign",
+      "error": "404"
+    },
+    {
+      "company": "a.taghi",
+      "error": "404"
+    },
+    {
+      "company": "cameraiq",
+      "error": "404"
+    },
+    {
+      "company": "a.macchionebrothers",
+      "error": "404"
+    },
+    {
+      "company": "a.mullenconsultinggroup",
+      "error": "404"
+    },
+    {
+      "company": "a.marshallfamilyfoods",
+      "error": "404"
+    },
+    {
+      "company": "a.molly",
+      "error": "404"
+    },
+    {
+      "company": "generation",
+      "error": "404"
+    },
+    {
+      "company": "omniex",
+      "error": "404"
+    },
+    {
+      "company": "stacksports",
+      "error": "404"
+    },
+    {
+      "company": "janetechnologies",
+      "error": "404"
+    },
+    {
+      "company": "a.travelshoppe",
+      "error": "404"
+    },
+    {
+      "company": "a.harrymooreschool",
+      "error": "404"
+    },
+    {
+      "company": "a.fassano&company",
+      "error": "404"
+    },
+    {
+      "company": "gaspedal",
+      "error": "404"
+    },
+    {
+      "company": "crunchtime",
+      "error": "404"
+    },
+    {
+      "company": "civitas",
+      "error": "404"
+    },
+    {
+      "company": "edgile",
+      "error": "404"
+    },
+    {
+      "company": "simx",
+      "error": "404"
+    },
+    {
+      "company": "rho",
+      "error": "404"
+    },
+    {
+      "company": "procom",
+      "error": "404"
+    },
+    {
+      "company": "alpha",
+      "error": "404"
+    },
+    {
+      "company": "productive",
+      "error": "404"
+    },
+    {
+      "company": "juvo",
+      "error": "404"
+    },
+    {
+      "company": "makerbot",
+      "error": "404"
+    },
+    {
+      "company": "sidearmsports",
+      "error": "404"
+    },
+    {
+      "company": "goldenfrog",
+      "error": "404"
+    },
+    {
+      "company": "500px",
+      "error": "404"
+    },
+    {
+      "company": "datafoundry",
+      "error": "404"
+    },
+    {
+      "company": "crestwoodbehavioralhealth",
+      "error": "404"
+    },
+    {
+      "company": "thededhamgroup",
+      "error": "404"
+    },
+    {
+      "company": "compeat",
+      "error": "404"
+    },
+    {
+      "company": "shippingeasy",
+      "error": "404"
+    },
+    {
+      "company": "drumroll",
+      "error": "404"
+    },
+    {
+      "company": "magnetic",
+      "error": "404"
+    },
+    {
+      "company": "expa",
+      "error": "404"
+    },
+    {
+      "company": "cleardata",
+      "error": "404"
+    },
+    {
+      "company": "bitsight",
+      "error": "404"
+    },
+    {
+      "company": "whistlesports",
+      "error": "404"
+    },
+    {
+      "company": "piktochart",
+      "error": "404"
+    },
+    {
+      "company": "thezebra",
+      "error": "404"
+    },
+    {
+      "company": "create",
+      "error": "404"
+    },
+    {
+      "company": "iimjobs.com",
+      "error": "404"
+    },
+    {
+      "company": "create",
+      "error": "404"
+    },
+    {
+      "company": "stride",
+      "error": "404"
+    },
+    {
+      "company": "ongig",
+      "error": "404"
+    },
+    {
+      "company": "cybergrx",
+      "error": "404"
+    },
+    {
+      "company": "greenroads",
+      "error": "404"
+    },
+    {
+      "company": "refer.com",
+      "error": "404"
+    },
+    {
+      "company": "alpha",
+      "error": "404"
+    },
+    {
+      "company": "ecorp",
+      "error": "404"
+    },
+    {
+      "company": "deloitte",
+      "error": "404"
+    },
+    {
+      "company": "softbank",
+      "error": "404"
+    },
+    {
+      "company": "anchorfree",
+      "error": "404"
+    },
+    {
+      "company": "umbrellacorporation",
+      "error": "404"
+    },
+    {
+      "company": "mc.net",
+      "error": "404"
+    },
+    {
+      "company": "ideaentity",
       "error": "404"
     }
   ],
-  "timestamp": "2025-10-26T18:53:02.031593"
+  "timestamp": "2025-10-27T12:50:34.572845"
 }
