@@ -28,7 +28,7 @@
                 Find Your Dream Tech Job
             </h1>
             <p class="text-xl md:text-2xl mb-8 text-center opacity-90">
-                100,000+ jobs from 3,000+ companies • Updated Daily
+                <span id="jobStats">Loading...</span> • Updated Daily
             </p>
 
             <!-- Search Form -->
@@ -66,7 +66,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="text-center p-6">
                 <div class="text-6xl mb-4">🚀</div>
-                <h3 class="text-2xl font-bold mb-2">3,000+ Companies</h3>
+                <h3 class="text-2xl font-bold mb-2"><span id="companyCount">Loading...</span> Companies</h3>
                 <p class="text-gray-600">
                     From startups to Fortune 500, all in one place
                 </p>
@@ -139,49 +139,43 @@
     </footer>
 
     <script>
-        // 模拟职位数据
-        const sampleJobs = [
-            {
-                id: 1,
-                title: 'Senior Software Engineer - Backend',
-                company: 'Airbnb',
-                location: 'San Francisco, CA',
-                greenhouseUrl: 'https://careers.airbnb.com/positions/7353690',
-                updated: '2 days ago'
-            },
-            {
-                id: 2,
-                title: 'Frontend Engineer',
-                company: 'Stripe',
-                location: 'Remote',
-                greenhouseUrl: 'https://stripe.com/jobs/listing/frontend-engineer',
-                updated: '1 day ago'
-            },
-            {
-                id: 3,
-                title: 'Product Designer',
-                company: 'Notion',
-                location: 'New York, NY',
-                greenhouseUrl: 'https://notion.so/jobs/product-designer',
-                updated: '3 days ago'
-            },
-            {
-                id: 4,
-                title: 'Data Scientist',
-                company: 'Coupang',
-                location: 'Seoul, Korea',
-                greenhouseUrl: 'https://www.coupang.jobs/en/jobs/data-scientist',
-                updated: '5 days ago'
-            },
-            {
-                id: 5,
-                title: 'Engineering Manager',
-                company: 'Databricks',
-                location: 'San Francisco, CA',
-                greenhouseUrl: 'https://databricks.com/company/careers',
-                updated: '1 week ago'
+        let searchIndex = null;
+        let jobsMap = new Map();
+
+        // 加载真实数据
+        async function loadRealData() {
+            try {
+                // 加载搜索元数据
+                const metaResponse = await fetch('search-meta.json?_=' + Date.now());
+                const meta = await metaResponse.json();
+                
+                // 更新统计数据
+                document.getElementById('jobStats').textContent = 
+                    `${meta.total_jobs.toLocaleString()}+ jobs from ${meta.total_companies}+ companies`;
+                document.getElementById('companyCount').textContent = meta.total_companies.toLocaleString();
+                
+                // 加载搜索索引
+                const indexResponse = await fetch('search-index.json?_=' + Date.now());
+                searchIndex = await indexResponse.json();
+                
+                // 将职位存储到Map中
+                searchIndex.jobs.forEach(job => {
+                    jobsMap.set(job.id, job);
+                });
+                
+                console.log('✅ Loaded', searchIndex.total, 'real jobs');
+                
+                // 显示最新的职位（前5个）
+                displayLatestJobs(searchIndex.jobs.slice(0, 5));
+                
+            } catch (error) {
+                console.error('❌ Failed to load real data:', error);
+                // 如果加载失败，显示默认数据
+                document.getElementById('jobStats').textContent = '2,684+ jobs from 23+ companies';
+                document.getElementById('companyCount').textContent = '23+';
+                displayDefaultJobs();
             }
-        ];
+        }
 
         function searchJobs() {
             const query = document.getElementById('searchInput').value;
@@ -201,11 +195,12 @@
             window.location.href = url;
         }
 
-        function renderJobs() {
+        function displayLatestJobs(jobs) {
             const container = document.getElementById('jobsContainer');
             
-            container.innerHTML = sampleJobs.map(job => `
-                <a href="job-detail.html?id=${job.id}" class="block bg-white rounded-lg shadow hover:shadow-xl transition p-6 card-hover">
+            container.innerHTML = jobs.map(job => `
+                <a href="job-clean.html?id=${encodeURIComponent(job.id)}&company=${encodeURIComponent(job.company)}" 
+                   class="block bg-white rounded-lg shadow hover:shadow-xl transition p-6 card-hover">
                     <h3 class="text-2xl font-bold mb-2 text-gray-900 hover:text-blue-600">
                         ${job.title}
                     </h3>
@@ -224,15 +219,25 @@
                                 : ''}
                         </div>
                         <span class="text-sm text-gray-500">
-                            Updated ${job.updated}
+                            Real Job
                         </span>
                     </div>
                 </a>
             `).join('');
         }
 
-        // 页面加载时渲染职位
-        renderJobs();
+        function displayDefaultJobs() {
+            const container = document.getElementById('jobsContainer');
+            container.innerHTML = `
+                <div class="text-center py-8 text-gray-500">
+                    <div class="text-4xl mb-4">🔍</div>
+                    <p>Click "Search Jobs" to explore real positions</p>
+                </div>
+            `;
+        }
+
+        // 页面加载时加载真实数据
+        loadRealData();
     </script>
 </body>
 </html>
