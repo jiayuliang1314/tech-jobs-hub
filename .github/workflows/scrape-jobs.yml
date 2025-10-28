@@ -58,12 +58,12 @@ jobs:
             echo "## Scraping Summary" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             python3 -c "
-import json
-with open('data/_stats.json') as f:
-    stats = json.load(f)
-print(f\"✅ **Success**: {stats['success']}\")
-print(f\"❌ **Failed**: {stats['failed']}\")
-print(f\"📊 **Total Jobs**: {stats['total_jobs']}\")
+            import json
+            with open('data/_stats.json') as f:
+                stats = json.load(f)
+            print(f\"✅ **Success**: {stats['success']}\")
+            print(f\"❌ **Failed**: {stats['failed']}\")
+            print(f\"📊 **Total Jobs**: {stats['total_jobs']}\")
             " >> $GITHUB_STEP_SUMMARY
           fi
 
