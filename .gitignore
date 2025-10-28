@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Test data
+test_data/
+test_companies.txt
+
+# Sensitive
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep the main data folder but ignore large merged files
+data/all_jobs.json
+data/*_raw.json
+
+# But keep the structure
+!data/.gitkeep
+

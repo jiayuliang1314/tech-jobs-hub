@@ -40,12 +40,14 @@
                             type="text"
                             placeholder="Job title, keyword..."
                             class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-900"
+                            onkeypress="if(event.key==='Enter') searchJobs()"
                         />
                         <input
                             id="locationInput"
                             type="text"
                             placeholder="Location..."
                             class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-900"
+                            onkeypress="if(event.key==='Enter') searchJobs()"
                         />
                         <button
                             onclick="searchJobs()"
@@ -185,10 +187,18 @@
             const query = document.getElementById('searchInput').value;
             const location = document.getElementById('locationInput').value;
             
-            // 跳转到job-detail.html查看详情
-            if (query || location) {
-                alert(`Searching for: ${query} in ${location}\n\nClick on any job below to see the full affiliate monetization demo!`);
+            // 跳转到真实搜索页面
+            let url = 'search-real.html';
+            const params = new URLSearchParams();
+            
+            if (query) params.append('q', query);
+            if (location) params.append('loc', location);
+            
+            if (params.toString()) {
+                url += '?' + params.toString();
             }
+            
+            window.location.href = url;
         }
 
         function renderJobs() {

@@ -63,8 +63,7 @@
 
         async function loadSearchIndex() {
             try {
-                // 添加时间戳避免缓存问题
-                const response = await fetch('search-index.json?_=' + Date.now());
+                const response = await fetch('search-index.json?v=1761568078');
                 searchIndex = await response.json();
                 
                 // 将职位存储到Map中，方便后续根据ID查找
@@ -78,27 +77,10 @@
                 document.getElementById('totalJobs').textContent = searchIndex.total.toLocaleString();
                 document.getElementById('searchStats').textContent = `Ready to search ${searchIndex.total.toLocaleString()} jobs`;
                 
+                // 默认显示所有职位（前50个）
+                displayResults(searchIndex.jobs.slice(0, 50), searchIndex.total);
+                
                 console.log('✅ Loaded', searchIndex.total, 'real jobs');
-                
-                // 检查URL参数，如果有则自动搜索
-                const urlParams = new URLSearchParams(window.location.search);
-                const queryParam = urlParams.get('q');
-                const locationParam = urlParams.get('loc');
-                
-                if (queryParam) {
-                    document.getElementById('searchQuery').value = queryParam;
-                }
-                if (locationParam) {
-                    document.getElementById('searchLocation').value = locationParam;
-                }
-                
-                // 如果有搜索参数，立即执行搜索
-                if (queryParam || locationParam) {
-                    performSearch();
-                } else {
-                    // 默认显示所有职位（前50个）
-                    displayResults(searchIndex.jobs.slice(0, 50), searchIndex.total);
-                }
                 
             } catch (error) {
                 console.error('❌ Failed to load search index:', error);

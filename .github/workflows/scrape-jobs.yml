@@ -1,0 +1,69 @@
+name: Scrape Greenhouse Jobs (Free)
+
+on:
+  # 每天凌晨3点UTC自动运行
+  schedule:
+    - cron: '0 3 * * *'
+  
+  # 支持手动触发
+  workflow_dispatch:
+    inputs:
+      start_index:
+        description: 'Start index (for resume)'
+        required: false
+        default: '0'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Run scraper
+        run: |
+          python fetch_greenhouse_jobs.py \
+            --companies companies.txt \
+            --output data \
+            --start ${{ github.event.inputs.start_index || '0' }} \
+            --delay 2
+      
+      # 方案1：提交回GitHub仓库（免费无限空间）
+      - name: Commit and push data
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update jobs data $(date +'%Y-%m-%d %H:%M')"
+          git push
+      
+      # 方案2：上传为Artifact（保留90天，免费）
+      - name: Upload jobs as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: greenhouse-jobs-${{ github.run_number }}
+          path: data/
+          retention-days: 90
+      
+      # 可选：生成统计报告
+      - name: Generate summary
+        run: |
+          if [ -f data/_stats.json ]; then
+            echo "## Scraping Summary" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            python3 -c "
+import json
+with open('data/_stats.json') as f:
+    stats = json.load(f)
+print(f\"✅ **Success**: {stats['success']}\")
+print(f\"❌ **Failed**: {stats['failed']}\")
+print(f\"📊 **Total Jobs**: {stats['total_jobs']}\")
+            " >> $GITHUB_STEP_SUMMARY
+          fi
+
