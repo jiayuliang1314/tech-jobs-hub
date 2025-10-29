@@ -1,0 +1,47 @@
+{
+  "company": "delete",
+  "fetched_at": "2025-10-29T03:49:19.614741",
+  "job_count": 1,
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/delete/jobs/665859",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 436270,
+      "location": {
+        "name": "new york"
+      },
+      "metadata": [
+        {
+          "id": 48153,
+          "name": "Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 119351,
+          "name": "Currency",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 665859,
+      "updated_at": "2025-09-30T09:18:06-04:00",
+      "requisition_id": null,
+      "title": "test",
+      "company_name": "Delete This",
+      "first_published": null
+    }
+  ]
+}
