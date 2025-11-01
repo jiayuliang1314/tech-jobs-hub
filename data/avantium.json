@@ -1,8 +1,41 @@
 {
   "company": "avantium",
-  "fetched_at": "2025-10-29T03:45:56.653799",
+  "fetched_at": "2025-11-01T03:41:13.150147",
   "job_count": 3,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/avantium/jobs/8236691002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 6264312002,
+      "location": {
+        "name": "Brussel"
+      },
+      "metadata": [
+        {
+          "id": 23536380002,
+          "name": "Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8236691002,
+      "updated_at": "2025-10-31T12:23:13-04:00",
+      "requisition_id": "343",
+      "title": "Advisor Public Affairs",
+      "company_name": "Avantium",
+      "first_published": "2025-10-31T12:06:43-04:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/avantium/jobs/4290116002",
       "data_compliance": [
@@ -33,7 +66,8 @@
       "requisition_id": null,
       "title": "I want to join your talent pool!",
       "company_name": "Avantium",
-      "first_published": "2019-05-16T07:59:20-04:00"
+      "first_published": "2019-05-16T07:59:20-04:00",
+      "language": "en"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/avantium/jobs/6126166002",
@@ -66,40 +100,8 @@
       "requisition_id": "71",
       "title": "Process Operator - Flagship Plant",
       "company_name": "Avantium",
-      "first_published": "2022-05-10T03:52:25-04:00"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/avantium/jobs/6771783002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5564537002,
-      "location": {
-        "name": "Delfzijl"
-      },
-      "metadata": [
-        {
-          "id": 23536380002,
-          "name": "Location",
-          "value": [
-            "Delfzijl"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 6771783002,
-      "updated_at": "2025-05-14T08:54:22-04:00",
-      "requisition_id": "188",
-      "title": "Senior Process Operator - Flagship Plant",
-      "company_name": "Avantium",
-      "first_published": "2023-06-07T12:02:27-04:00"
+      "first_published": "2022-05-10T03:52:25-04:00",
+      "language": "nl"
     }
   ]
 }
