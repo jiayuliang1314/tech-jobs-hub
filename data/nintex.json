@@ -1,7 +1,7 @@
 {
   "company": "nintex",
-  "fetched_at": "2025-11-08T03:41:21.624123",
-  "job_count": 35,
+  "fetched_at": "2025-11-11T03:51:27.454008",
+  "job_count": 34,
   "jobs": [
     {
       "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=6923754",
@@ -80,6 +80,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7363301",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3268178,
+      "location": {
+        "name": "Oklahoma City, Oklahoma, United States"
+      },
+      "metadata": [
+        {
+          "id": 4590081,
+          "name": "Remote Worker",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 26636,
+          "name": "Employee Type",
+          "value": "Core",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7363301,
+      "updated_at": "2025-11-05T00:26:56-05:00",
+      "requisition_id": "101018",
+      "title": "Account Manager",
+      "company_name": "Nintex",
+      "first_published": "2025-10-29T12:07:47-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7361575",
       "data_compliance": [
         {
@@ -118,20 +156,20 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7363301",
+      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7296761",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": false,
+          "requires_consent": true,
           "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
+          "requires_retention_consent": true,
+          "retention_period": 730,
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3268178,
+      "internal_job_id": 3264095,
       "location": {
-        "name": "Oklahoma City, Oklahoma, United States"
+        "name": "Johannesburg, South Africa"
       },
       "metadata": [
         {
@@ -147,12 +185,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7363301,
-      "updated_at": "2025-11-05T00:26:56-05:00",
-      "requisition_id": "101018",
-      "title": "Account Manager",
+      "id": 7296761,
+      "updated_at": "2025-11-10T01:35:06-05:00",
+      "requisition_id": "101014",
+      "title": "Associate Engineer",
       "company_name": "Nintex",
-      "first_published": "2025-10-29T12:07:47-04:00",
+      "first_published": "2025-10-08T07:49:59-04:00",
       "language": "en"
     },
     {
@@ -308,44 +346,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7142303",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3212987,
-      "location": {
-        "name": "Kuala Lumpur, Malaysia"
-      },
-      "metadata": [
-        {
-          "id": 4590081,
-          "name": "Remote Worker",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 26636,
-          "name": "Employee Type",
-          "value": "Core",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7142303,
-      "updated_at": "2025-09-09T22:09:12-04:00",
-      "requisition_id": "100942",
-      "title": "Engineering Manager - Malaysia",
-      "company_name": "Nintex",
-      "first_published": "2025-08-18T03:04:14-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7095207",
       "data_compliance": [
         {
@@ -381,6 +381,44 @@
       "title": "Engineering Manager - Malaysia",
       "company_name": "Nintex",
       "first_published": "2025-08-05T19:44:38-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7142303",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3212987,
+      "location": {
+        "name": "Kuala Lumpur, Malaysia"
+      },
+      "metadata": [
+        {
+          "id": 4590081,
+          "name": "Remote Worker",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 26636,
+          "name": "Employee Type",
+          "value": "Core",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7142303,
+      "updated_at": "2025-09-09T22:09:12-04:00",
+      "requisition_id": "100942",
+      "title": "Engineering Manager - Malaysia",
+      "company_name": "Nintex",
+      "first_published": "2025-08-18T03:04:14-04:00",
       "language": "en"
     },
     {
@@ -457,44 +495,6 @@
       "title": "FinOps Engineer ",
       "company_name": "Nintex",
       "first_published": "2025-09-15T12:13:29-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7058329",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3188956,
-      "location": {
-        "name": "Kuala Lumpur, Malaysia"
-      },
-      "metadata": [
-        {
-          "id": 4590081,
-          "name": "Remote Worker",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 26636,
-          "name": "Employee Type",
-          "value": "Core",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7058329,
-      "updated_at": "2025-11-05T10:03:23-05:00",
-      "requisition_id": "100917",
-      "title": "Full Stack Developer",
-      "company_name": "Nintex",
-      "first_published": "2025-07-21T22:11:17-04:00",
       "language": "en"
     },
     {
@@ -1220,7 +1220,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7296631",
+      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7311149",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1231,9 +1231,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3264052,
+      "internal_job_id": 3253080,
       "location": {
-        "name": "Dubai, United Arab Emirates"
+        "name": "Oklahoma City, OK, United States"
       },
       "metadata": [
         {
@@ -1249,12 +1249,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7296631,
-      "updated_at": "2025-10-22T07:17:14-04:00",
-      "requisition_id": "101013",
-      "title": "Strategic Partner Account Manager",
+      "id": 7311149,
+      "updated_at": "2025-10-09T13:57:08-04:00",
+      "requisition_id": "101006",
+      "title": "Technical Program Manager",
       "company_name": "Nintex",
-      "first_published": "2025-10-09T06:13:43-04:00",
+      "first_published": "2025-10-09T13:57:08-04:00",
       "language": "en"
     },
     {
@@ -1293,44 +1293,6 @@
       "title": "Technical Program Manager",
       "company_name": "Nintex",
       "first_published": "2025-10-09T12:51:29-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.nintex.com/careers/jobs/?gh_jid=7311149",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3253080,
-      "location": {
-        "name": "Oklahoma City, OK, United States"
-      },
-      "metadata": [
-        {
-          "id": 4590081,
-          "name": "Remote Worker",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 26636,
-          "name": "Employee Type",
-          "value": "Core",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7311149,
-      "updated_at": "2025-10-09T13:57:08-04:00",
-      "requisition_id": "101006",
-      "title": "Technical Program Manager",
-      "company_name": "Nintex",
-      "first_published": "2025-10-09T13:57:08-04:00",
       "language": "en"
     }
   ]
