@@ -1,7 +1,7 @@
 {
   "company": "godaddy",
-  "fetched_at": "2025-11-12T03:53:34.150589",
-  "job_count": 89,
+  "fetched_at": "2025-11-15T03:48:59.204901",
+  "job_count": 100,
   "jobs": [
     {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=6541486003",
@@ -220,6 +220,645 @@
       "title": "Accounting Analyst",
       "company_name": "GoDaddy",
       "first_published": "2025-04-24T18:35:12-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7488075003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5662245003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Non-Engineering Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7488075003,
+      "updated_at": "2025-11-13T11:32:20-05:00",
+      "requisition_id": "R022535",
+      "title": "AI Implementation Specialist",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-13T11:32:20-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7488073003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5662244003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Non-Engineering Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7488073003,
+      "updated_at": "2025-11-12T04:59:27-05:00",
+      "requisition_id": "R022536",
+      "title": "AI  Solutions Manager",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-12T04:59:27-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6684096003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5254918003,
+      "location": {
+        "name": "Pune, Maharashtra, India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Pune,Maharashtra,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 6684096003,
+      "updated_at": "2025-11-12T05:01:27-05:00",
+      "requisition_id": "R022399",
+      "title": "Android Software Engineer",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-12T05:01:27-05:00",
       "language": "en"
     },
     {
@@ -649,7 +1288,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7501921003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7508346003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -661,9 +1300,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5667996003,
+      "internal_job_id": 5670455003,
       "location": {
-        "name": "United States"
+        "name": "Gurugram, Haryana, India"
       },
       "metadata": [
         {
@@ -681,13 +1320,13 @@
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "United States of America",
+          "value": "India",
           "value_type": "single_select"
         },
         {
           "id": 4081785003,
           "name": "Remote Job",
-          "value": true,
+          "value": false,
           "value_type": "yes_no"
         },
         {
@@ -699,7 +1338,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Remote - United States,,United States of America",
+          "value": "Gurugram,Haryana,India",
           "value_type": "short_text"
         },
         {
@@ -712,8 +1351,8 @@
           "id": 13343439003,
           "name": "GeoA Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "124400.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -721,8 +1360,8 @@
           "id": 13343468003,
           "name": "GeoA Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "186600.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -730,8 +1369,8 @@
           "id": 8824535003,
           "name": "GeoB Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "117000.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -739,8 +1378,8 @@
           "id": 8824550003,
           "name": "GeoB Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "175000.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -748,8 +1387,8 @@
           "id": 13343469003,
           "name": "GeoC Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "104500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -757,8 +1396,8 @@
           "id": 13343484003,
           "name": "GeoC Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "156500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -766,8 +1405,8 @@
           "id": 8824461003,
           "name": "GeoE Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "135500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -775,8 +1414,8 @@
           "id": 8824491003,
           "name": "GeoE Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "203500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -853,12 +1492,12 @@
           "value_type": "number"
         }
       ],
-      "id": 7501921003,
+      "id": 7508346003,
       "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R022799",
-      "title": "Corporate Counsel - Compliance",
+      "requisition_id": "R022833",
+      "title": "Corporate Counsel - Employment",
       "company_name": "GoDaddy",
-      "first_published": "2025-10-27T19:55:05-04:00",
+      "first_published": "2025-10-30T15:49:36-04:00",
       "language": "en"
     },
     {
@@ -1072,219 +1711,6 @@
       "title": "Corporate Counsel - Employment",
       "company_name": "GoDaddy",
       "first_published": "2025-10-30T15:48:54-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7508346003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5670455003,
-      "location": {
-        "name": "Gurugram, Haryana, India"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": "Corporate",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": "Legal",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "India",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": "Gurugram,Haryana,India",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 7508346003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R022833",
-      "title": "Corporate Counsel - Employment",
-      "company_name": "GoDaddy",
-      "first_published": "2025-10-30T15:49:36-04:00",
       "language": "en"
     },
     {
@@ -2403,7 +2829,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Remote - United States,,United States of America",
+          "value": "Remote,Georgia,United States of America",
           "value_type": "short_text"
         },
         {
@@ -2558,7 +2984,7 @@
         }
       ],
       "id": 6621692003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
+      "updated_at": "2025-11-12T13:46:19-05:00",
       "requisition_id": "R022130",
       "title": "Director Global Tax Operations",
       "company_name": "GoDaddy",
@@ -4496,6 +4922,219 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7500788003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5667501003,
+      "location": {
+        "name": "Pune, Maharashtra, India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "People Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "Gurugram",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Pune,Maharashtra,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "Gurugram,Haryana,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": "3+ years in GLOBAL employer branding, recruitment or digital marketing in a global organization with hands-on experience running paid social/digital marketing campaigns and end-to-end event management experience (in-person & virtual)\nStrong project management Notion, Asana, Monday.com). Proficiency in Canva for visual content creation\nCopywriting and content creation skills with examples of published work or campaign assets \nSocial media channel management LinkedIn, Facebook, Instagram, TikTok, etc.) \nData Analytics campaign data interpretation and insights application",
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": "3.0",
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": "6.0",
+          "value_type": "number"
+        }
+      ],
+      "id": 7500788003,
+      "updated_at": "2025-11-13T05:31:28-05:00",
+      "requisition_id": "R022795",
+      "title": "Global Employment Brand Strategist",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-12T13:53:07-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=7514686003",
       "data_compliance": [
         {
@@ -4919,6 +5558,219 @@
       "title": "Lead Android Software Engineer",
       "company_name": "GoDaddy",
       "first_published": "2025-07-15T04:28:10-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7242465003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5530683003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Non-Engineering Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7242465003,
+      "updated_at": "2025-11-12T02:44:25-05:00",
+      "requisition_id": "R022497",
+      "title": "Lead UX Designer",
+      "company_name": "GoDaddy",
+      "first_published": "2025-10-01T02:42:31-04:00",
       "language": "en"
     },
     {
@@ -6973,6 +7825,219 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7487368003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5661896003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7487368003,
+      "updated_at": "2025-11-13T08:38:48-05:00",
+      "requisition_id": "R022612",
+      "title": "SaaS Platform Developer",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-13T08:38:48-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=6672642003",
       "data_compliance": [
         {
@@ -7159,6 +8224,384 @@
       "title": "Sales Development Representative",
       "company_name": "GoDaddy",
       "first_published": "2025-08-13T05:32:12-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7504772003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5669116003,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Customer Care & Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Aftermarket & Domain Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "United States of America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Tempe,Arizona,United States of America",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7504772003,
+      "updated_at": "2025-11-13T06:47:32-05:00",
+      "requisition_id": "R022794",
+      "title": "Sales Development Representative",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-13T06:47:32-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7514690003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5673063003,
+      "location": {
+        "name": "Bulgaria"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "Bulgaria",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,Bulgaria",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7514690003,
+      "updated_at": "2025-11-14T04:17:59-05:00",
+      "requisition_id": "R022827",
+      "title": "Salesforce Systems Administrator",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-14T04:17:59-05:00",
       "language": "en"
     },
     {
@@ -7807,219 +9250,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7242434003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5530667003,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "India",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": "Remote,,India",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 7242434003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R022506",
-      "title": "Senior AI Engineer - Security",
-      "company_name": "GoDaddy",
-      "first_published": "2025-10-13T02:27:56-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=6806530003",
       "data_compliance": [
         {
@@ -8443,213 +9673,6 @@
       "title": "Senior Business Analyst",
       "company_name": "GoDaddy",
       "first_published": "2025-11-05T23:28:57-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6690965003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5258424003,
-      "location": {
-        "name": "Canada"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": "Non-Engineering Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": "IT Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "Canada",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": ",Nova Scotia,Canada",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": {
-            "unit": "USD",
-            "amount": "128500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": {
-            "unit": "USD",
-            "amount": "192500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 6690965003,
-      "updated_at": "2025-11-05T18:16:24-05:00",
-      "requisition_id": "R022437",
-      "title": "Senior Ceph Storage Engineer ",
-      "company_name": "GoDaddy",
-      "first_published": "2025-09-25T13:57:53-04:00",
       "language": "en"
     },
     {
@@ -9284,7 +10307,7 @@
         }
       ],
       "id": 7525476003,
-      "updated_at": "2025-11-11T17:12:25-05:00",
+      "updated_at": "2025-11-13T13:25:28-05:00",
       "requisition_id": "R022882",
       "title": "Senior Director Human Resources Business Partner (India - Remote)",
       "company_name": "GoDaddy",
@@ -9497,7 +10520,7 @@
         }
       ],
       "id": 7525513003,
-      "updated_at": "2025-11-11T17:13:05-05:00",
+      "updated_at": "2025-11-13T13:58:52-05:00",
       "requisition_id": "R022882",
       "title": "Senior Director Human Resources Business Partner (Ontario - Remote)",
       "company_name": "GoDaddy",
@@ -9710,7 +10733,7 @@
         }
       ],
       "id": 7525500003,
-      "updated_at": "2025-11-11T17:13:40-05:00",
+      "updated_at": "2025-11-13T13:25:14-05:00",
       "requisition_id": "R022882",
       "title": "Senior Director Human Resources Business Partner (United Kingdom - Remote)",
       "company_name": "GoDaddy",
@@ -9923,11 +10946,224 @@
         }
       ],
       "id": 7523096003,
-      "updated_at": "2025-11-11T17:16:46-05:00",
+      "updated_at": "2025-11-13T18:05:38-05:00",
       "requisition_id": "R022882",
       "title": "Senior Director Human Resources Business Partner (United States - Remote)",
       "company_name": "GoDaddy",
       "first_published": "2025-11-11T09:24:45-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7488085003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5662250003,
+      "location": {
+        "name": "Pune, Maharashtra, India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Product & Design",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "User Experience",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "India - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Pune,Maharashtra,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "India - Remote,,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7488085003,
+      "updated_at": "2025-11-12T07:12:34-05:00",
+      "requisition_id": "R022682",
+      "title": "Senior Finance Analyst",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-12T07:12:34-05:00",
       "language": "en"
     },
     {
@@ -10357,6 +11593,858 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7525954003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5676304003,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "People Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "United States of America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "United Kingdom - Remote; India - Remote; Ontario - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - United States,,United States of America",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "India - Remote,,India; Ontario - Remote,Ontario,Canada; United Kingdom - Remote,,United Kingdom",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "131200.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "196800.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "123500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "185500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "110500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "165500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "143500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "215500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7525954003,
+      "updated_at": "2025-11-13T13:19:26-05:00",
+      "requisition_id": "R022883",
+      "title": "Senior Human Resources Business Partner (Canada)",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-11T18:51:34-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7525944003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5676304003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "People Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "United States of America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "United Kingdom - Remote; India - Remote; Ontario - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - United States,,United States of America",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "India - Remote,,India; Ontario - Remote,Ontario,Canada; United Kingdom - Remote,,United Kingdom",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "131200.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "196800.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "123500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "185500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "110500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "165500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "143500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "215500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7525944003,
+      "updated_at": "2025-11-13T13:22:36-05:00",
+      "requisition_id": "R022883",
+      "title": "Senior Human Resources Business Partner (India)",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-11T18:51:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7525943003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5676304003,
+      "location": {
+        "name": "United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "People Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "United States of America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "United Kingdom - Remote; India - Remote; Ontario - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - United States,,United States of America",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "India - Remote,,India; Ontario - Remote,Ontario,Canada; United Kingdom - Remote,,United Kingdom",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "131200.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "196800.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "123500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "185500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "110500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "165500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "143500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "215500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7525943003,
+      "updated_at": "2025-11-13T13:21:48-05:00",
+      "requisition_id": "R022883",
+      "title": "Senior Human Resources Business Partner (United Kingdom)",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-11T18:51:39-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7523094003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5676304003,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "People Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "United States of America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "United Kingdom - Remote; India - Remote; Ontario - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - United States,,United States of America",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "India - Remote,,India; Ontario - Remote,Ontario,Canada; United Kingdom - Remote,,United Kingdom",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "131200.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "196800.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "123500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "185500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "110500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "165500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "143500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "215500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7523094003,
+      "updated_at": "2025-11-13T13:23:21-05:00",
+      "requisition_id": "R022883",
+      "title": "Senior Human Resources Business Partner (United States)",
+      "company_name": "GoDaddy",
+      "first_published": "2025-11-11T09:33:37-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=6588865003",
       "data_compliance": [
         {
@@ -10555,6 +12643,207 @@
       "title": "Senior Lead UX Designer",
       "company_name": "GoDaddy",
       "first_published": "2025-08-01T17:09:28-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6588859003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5219094003,
+      "location": {
+        "name": "Bulgaria"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "Bulgaria",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote,,Bulgaria",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 6588859003,
+      "updated_at": "2025-10-31T15:59:58-04:00",
+      "requisition_id": "R021903",
+      "title": "Senior Machine Learning Engineer",
+      "company_name": "GoDaddy",
+      "first_published": "2025-07-15T13:08:46-04:00",
       "language": "en"
     },
     {
@@ -10768,207 +13057,6 @@
       "title": "Senior Machine Learning Engineer",
       "company_name": "GoDaddy",
       "first_published": "2025-10-15T00:01:12-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6588859003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5219094003,
-      "location": {
-        "name": "Bulgaria"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "Bulgaria",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": "Remote,,Bulgaria",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 6588859003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R021903",
-      "title": "Senior Machine Learning Engineer",
-      "company_name": "GoDaddy",
-      "first_published": "2025-07-15T13:08:46-04:00",
       "language": "en"
     },
     {
@@ -11398,195 +13486,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6322879003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5100289003,
-      "location": {
-        "name": "London, England, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "United Kingdom",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": "Netherlands - Remote; United Kingdom - Remote; Germany - Remote",
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": "London,,United Kingdom",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": "Germany - Remote,,Germany; Remote - Netherlands,,Netherlands; United Kingdom - Remote,,United Kingdom",
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 6322879003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R021025",
-      "title": "Senior Machine Learning Scientist",
-      "company_name": "GoDaddy",
-      "first_published": "2025-02-18T13:44:13-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=7489159003",
       "data_compliance": [
         {
@@ -11792,7 +13691,7 @@
         }
       ],
       "id": 7489159003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
+      "updated_at": "2025-11-13T14:31:21-05:00",
       "requisition_id": "R022712",
       "title": "Senior Manager AI ML",
       "company_name": "GoDaddy",
@@ -12415,7 +14314,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7142017003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7514692003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12427,33 +14326,33 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5481887003,
+      "internal_job_id": 5673064003,
       "location": {
-        "name": "United States"
+        "name": "Pune, Maharashtra, India"
       },
       "metadata": [
         {
           "id": 4178754003,
           "name": "Job Posting Department",
-          "value": "Product & Design",
+          "value": "Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4178755003,
           "name": "Job Posting Team/Specialty",
-          "value": "Product Management",
+          "value": "Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "United States of America",
+          "value": "India",
           "value_type": "single_select"
         },
         {
           "id": 4081785003,
           "name": "Remote Job",
-          "value": true,
+          "value": false,
           "value_type": "yes_no"
         },
         {
@@ -12465,7 +14364,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Remote,Arizona,United States of America",
+          "value": "Pune,Maharashtra,India",
           "value_type": "short_text"
         },
         {
@@ -12478,8 +14377,8 @@
           "id": 13343439003,
           "name": "GeoA Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "124400.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12487,8 +14386,8 @@
           "id": 13343468003,
           "name": "GeoA Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "186600.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12496,8 +14395,8 @@
           "id": 8824535003,
           "name": "GeoB Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "117000.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12505,8 +14404,8 @@
           "id": 8824550003,
           "name": "GeoB Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "175000.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12514,8 +14413,8 @@
           "id": 13343469003,
           "name": "GeoC Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "104500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12523,8 +14422,8 @@
           "id": 13343484003,
           "name": "GeoC Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "156500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12532,8 +14431,8 @@
           "id": 8824461003,
           "name": "GeoE Range Lower",
           "value": {
-            "unit": "USD",
-            "amount": "135500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12541,8 +14440,8 @@
           "id": 8824491003,
           "name": "GeoE Range Upper",
           "value": {
-            "unit": "USD",
-            "amount": "203500.0"
+            "unit": null,
+            "amount": "0.0"
           },
           "value_type": "currency"
         },
@@ -12619,12 +14518,12 @@
           "value_type": "number"
         }
       ],
-      "id": 7142017003,
-      "updated_at": "2025-11-04T10:27:46-05:00",
-      "requisition_id": "R022512",
-      "title": "Senior Product Manager - Commerce Growth",
+      "id": 7514692003,
+      "updated_at": "2025-11-13T03:31:49-05:00",
+      "requisition_id": "R022845",
+      "title": "Senior Ruby Developer",
       "company_name": "GoDaddy",
-      "first_published": "2025-09-17T12:30:02-04:00",
+      "first_published": "2025-11-12T00:03:38-05:00",
       "language": "en"
     },
     {
@@ -12841,219 +14740,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6653933003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5241778003,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 4178754003,
-          "name": "Job Posting Department",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4178755003,
-          "name": "Job Posting Team/Specialty",
-          "value": "Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4043771003,
-          "name": "Country",
-          "value": "India",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4081785003,
-          "name": "Remote Job",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 4183987003,
-          "name": "Additional Job Posting Locations",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 4169134003,
-          "name": "Primary Posting Location",
-          "value": "Remote - Hyderabad,Telangana,India",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4169135003,
-          "name": "Additional Posting Locations",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 13343439003,
-          "name": "GeoA Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343468003,
-          "name": "GeoA Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824535003,
-          "name": "GeoB Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824550003,
-          "name": "GeoB Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343469003,
-          "name": "GeoC Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 13343484003,
-          "name": "GeoC Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824461003,
-          "name": "GeoE Range Lower",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 8824491003,
-          "name": "GeoE Range Upper",
-          "value": {
-            "unit": null,
-            "amount": "0.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 22719917003,
-          "name": "GeoA Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719982003,
-          "name": "GeoA Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719983003,
-          "name": "GeoB Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22719984003,
-          "name": "GeoB Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720000003,
-          "name": "GeoC Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720015003,
-          "name": "GeoC Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720017003,
-          "name": "GeoE Range Lower Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 22720018003,
-          "name": "GeoE Range Upper Hourly",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 17958670003,
-          "name": "Is this a US PERM/Immigration requisition?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24574593003,
-          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 24790415003,
-          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        },
-        {
-          "id": 24833529003,
-          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
-          "value": null,
-          "value_type": "number"
-        }
-      ],
-      "id": 6653933003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R022231",
-      "title": "Senior Security Engineer",
-      "company_name": "GoDaddy",
-      "first_published": "2025-09-10T13:26:30-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=7487406003",
       "data_compliance": [
         {
@@ -13264,6 +14950,219 @@
       "title": "Senior Security Engineer",
       "company_name": "GoDaddy",
       "first_published": "2025-10-24T03:27:51-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6653933003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5241778003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - Hyderabad,Telangana,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 6653933003,
+      "updated_at": "2025-10-31T15:59:58-04:00",
+      "requisition_id": "R022231",
+      "title": "Senior Security Engineer",
+      "company_name": "GoDaddy",
+      "first_published": "2025-09-10T13:26:30-04:00",
       "language": "en"
     },
     {
@@ -13906,7 +15805,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6684071003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7514698003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13917,27 +15816,28 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5254906003,
+      "education": "education_optional",
+      "internal_job_id": 5673067003,
       "location": {
-        "name": "Romania"
+        "name": "United Kingdom"
       },
       "metadata": [
         {
           "id": 4178754003,
           "name": "Job Posting Department",
-          "value": "Non-Engineering Tech",
+          "value": "Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4178755003,
           "name": "Job Posting Team/Specialty",
-          "value": "IT Operations",
+          "value": "Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "Romania",
+          "value": "United Kingdom",
           "value_type": "single_select"
         },
         {
@@ -13949,19 +15849,19 @@
         {
           "id": 4183987003,
           "name": "Additional Job Posting Locations",
-          "value": "Bulgaria - Remote; United Kingdom - Remote",
+          "value": null,
           "value_type": "long_text"
         },
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Remote,,Romania",
+          "value": "Remote,,United Kingdom",
           "value_type": "short_text"
         },
         {
           "id": 4169135003,
           "name": "Additional Posting Locations",
-          "value": "Bulgaria - Remote,,Bulgaria; United Kingdom - Remote,,United Kingdom",
+          "value": null,
           "value_type": "short_text"
         },
         {
@@ -14085,12 +15985,12 @@
           "value_type": "number"
         }
       ],
-      "id": 6684071003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R022394",
-      "title": "Senior Site Reliability Engineer",
+      "id": 7514698003,
+      "updated_at": "2025-11-13T15:34:53-05:00",
+      "requisition_id": "R022843",
+      "title": "Senior Software Engineer",
       "company_name": "GoDaddy",
-      "first_published": "2025-09-03T12:10:50-04:00",
+      "first_published": "2025-11-13T15:34:53-05:00",
       "language": "en"
     },
     {
@@ -14725,7 +16625,7 @@
         }
       ],
       "id": 7508299003,
-      "updated_at": "2025-11-11T10:17:13-05:00",
+      "updated_at": "2025-11-14T14:56:50-05:00",
       "requisition_id": "R022684",
       "title": "Senior Software Engineer - Backend",
       "company_name": "GoDaddy",
@@ -15173,7 +17073,7 @@
         {
           "id": 4081785003,
           "name": "Remote Job",
-          "value": false,
+          "value": true,
           "value_type": "yes_no"
         },
         {
@@ -15185,7 +17085,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Tempe,Arizona,United States of America",
+          "value": "Remote,Colorado,United States of America",
           "value_type": "short_text"
         },
         {
@@ -15340,7 +17240,7 @@
         }
       ],
       "id": 7242456003,
-      "updated_at": "2025-11-04T16:09:23-05:00",
+      "updated_at": "2025-11-14T09:46:23-05:00",
       "requisition_id": "R022282",
       "title": "Senior Technical Program Manager",
       "company_name": "GoDaddy",
@@ -15348,7 +17248,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7479534003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6690967003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15360,33 +17260,33 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5658295003,
+      "internal_job_id": 5258425003,
       "location": {
-        "name": "Serbia"
+        "name": "Pune, Maharashtra, India"
       },
       "metadata": [
         {
           "id": 4178754003,
           "name": "Job Posting Department",
-          "value": "Product & Design",
+          "value": "Non-Engineering Tech",
           "value_type": "single_select"
         },
         {
           "id": 4178755003,
           "name": "Job Posting Team/Specialty",
-          "value": "User Experience",
+          "value": "IT Operations",
           "value_type": "single_select"
         },
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "Serbia",
+          "value": "India",
           "value_type": "single_select"
         },
         {
           "id": 4081785003,
           "name": "Remote Job",
-          "value": true,
+          "value": false,
           "value_type": "yes_no"
         },
         {
@@ -15398,7 +17298,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Remote - Serbia,,Serbia",
+          "value": "Pune,Maharashtra,India",
           "value_type": "short_text"
         },
         {
@@ -15410,49 +17310,73 @@
         {
           "id": 13343439003,
           "name": "GeoA Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343468003,
           "name": "GeoA Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824535003,
           "name": "GeoB Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824550003,
           "name": "GeoB Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343469003,
           "name": "GeoC Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343484003,
           "name": "GeoC Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824461003,
           "name": "GeoE Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824491003,
           "name": "GeoE Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
@@ -15528,12 +17452,225 @@
           "value_type": "number"
         }
       ],
-      "id": 7479534003,
-      "updated_at": "2025-11-11T10:24:12-05:00",
-      "requisition_id": "R022599",
+      "id": 6690967003,
+      "updated_at": "2025-11-14T09:44:38-05:00",
+      "requisition_id": "R022436",
+      "title": "Senior Technical Program Manager",
+      "company_name": "GoDaddy",
+      "first_published": "2025-09-03T05:59:09-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6588867003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5219098003,
+      "location": {
+        "name": "Gurugram, Haryana, India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Non-Engineering Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Gurugram,Haryana,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 6588867003,
+      "updated_at": "2025-11-12T02:44:21-05:00",
+      "requisition_id": "R021904",
       "title": "Senior UX Designer",
       "company_name": "GoDaddy",
-      "first_published": "2025-10-07T21:24:50-04:00",
+      "first_published": "2025-06-26T08:43:36-04:00",
       "language": "en"
     },
     {
@@ -16128,21 +18265,21 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7242497003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6556144003",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5530699003,
+      "internal_job_id": 5206603003,
       "location": {
-        "name": "Romania"
+        "name": "Pune, Maharashtra, India"
       },
       "metadata": [
         {
@@ -16160,7 +18297,7 @@
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "Romania",
+          "value": "India",
           "value_type": "single_select"
         },
         {
@@ -16172,67 +18309,91 @@
         {
           "id": 4183987003,
           "name": "Additional Job Posting Locations",
-          "value": "Romania - Remote",
+          "value": null,
           "value_type": "long_text"
         },
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Iasi,,Romania",
+          "value": "Pune,Maharashtra,India",
           "value_type": "short_text"
         },
         {
           "id": 4169135003,
           "name": "Additional Posting Locations",
-          "value": "Romania - Remote,,Romania",
+          "value": null,
           "value_type": "short_text"
         },
         {
           "id": 13343439003,
           "name": "GeoA Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343468003,
           "name": "GeoA Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824535003,
           "name": "GeoB Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824550003,
           "name": "GeoB Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343469003,
           "name": "GeoC Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 13343484003,
           "name": "GeoC Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824461003,
           "name": "GeoE Range Lower",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 8824491003,
           "name": "GeoE Range Upper",
-          "value": null,
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
           "value_type": "currency"
         },
         {
@@ -16308,12 +18469,12 @@
           "value_type": "number"
         }
       ],
-      "id": 7242497003,
-      "updated_at": "2025-11-07T09:05:02-05:00",
-      "requisition_id": "R022515",
-      "title": "Software Development Engineer",
+      "id": 6556144003,
+      "updated_at": "2025-11-12T05:49:13-05:00",
+      "requisition_id": "R021695",
+      "title": "Software Data Engineer",
       "company_name": "GoDaddy",
-      "first_published": "2025-09-18T04:03:25-04:00",
+      "first_published": "2025-10-24T03:28:16-04:00",
       "language": "en"
     },
     {
@@ -18155,7 +20316,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6486451003",
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7520574003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -18167,33 +20328,33 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5177894003,
+      "internal_job_id": 5675476003,
       "location": {
-        "name": "United States"
+        "name": "Serbia"
       },
       "metadata": [
         {
           "id": 4178754003,
           "name": "Job Posting Department",
-          "value": "Engineering",
+          "value": "Customer Care & Services",
           "value_type": "single_select"
         },
         {
           "id": 4178755003,
           "name": "Job Posting Team/Specialty",
-          "value": "Engineering",
+          "value": "Customer Care",
           "value_type": "single_select"
         },
         {
           "id": 4043771003,
           "name": "Country",
-          "value": "United States of America",
+          "value": "Serbia",
           "value_type": "single_select"
         },
         {
           "id": 4081785003,
           "name": "Remote Job",
-          "value": false,
+          "value": true,
           "value_type": "yes_no"
         },
         {
@@ -18205,7 +20366,7 @@
         {
           "id": 4169134003,
           "name": "Primary Posting Location",
-          "value": "Kirkland,Washington,United States of America",
+          "value": "Remote - Serbia,,Serbia",
           "value_type": "short_text"
         },
         {
@@ -18335,12 +20496,225 @@
           "value_type": "number"
         }
       ],
-      "id": 6486451003,
-      "updated_at": "2025-10-31T15:59:58-04:00",
-      "requisition_id": "R021506",
-      "title": "Vice President Global Production Engineering",
+      "id": 7520574003,
+      "updated_at": "2025-11-13T11:41:11-05:00",
+      "requisition_id": "R022775",
+      "title": "WordPress Advanced Support Guide ",
       "company_name": "GoDaddy",
-      "first_published": "2025-03-06T04:12:51-05:00",
+      "first_published": "2025-11-13T11:41:11-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=6646404003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5238778003,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Non-Engineering Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "IT Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": "Remote - India (Non-Metro),,India",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 6646404003,
+      "updated_at": "2025-11-14T06:47:29-05:00",
+      "requisition_id": "R022202",
+      "title": "Workforce Data Analyst",
+      "company_name": "GoDaddy",
+      "first_published": "2025-09-24T10:16:56-04:00",
       "language": "en"
     }
   ]

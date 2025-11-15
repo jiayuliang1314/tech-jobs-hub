@@ -1,17 +1,17 @@
 {
   "company": "wayneenterprises",
-  "fetched_at": "2025-11-12T04:01:06.760416",
-  "job_count": 11,
+  "fetched_at": "2025-11-15T03:56:19.252382",
+  "job_count": 12,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/6335367",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -28,11 +28,44 @@
         }
       ],
       "id": 6335367,
-      "updated_at": "2025-11-04T17:06:27-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "26",
-      "title": "Account Manager",
+      "title": "Account Manager Post 1",
       "company_name": "Wayne Enterprises",
       "first_published": "2025-08-21T13:06:26-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/134058",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "employment": "employment_optional",
+      "internal_job_id": 148920,
+      "location": {
+        "name": "Dallas, TX"
+      },
+      "metadata": [
+        {
+          "id": 984382,
+          "name": "Career Site Department",
+          "value": "Marketing",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 134058,
+      "updated_at": "2025-11-14T20:09:02-05:00",
+      "requisition_id": "26",
+      "title": "Account Manager Post 2",
+      "company_name": "Wayne Enterprises",
+      "first_published": "2019-07-02T14:36:13-04:00",
       "language": "en"
     },
     {
@@ -40,10 +73,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -61,7 +94,7 @@
         }
       ],
       "id": 4910749,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": null,
       "title": "External Account Manager",
       "company_name": "Wayne Enterprises",
@@ -73,10 +106,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -94,7 +127,7 @@
         }
       ],
       "id": 2119327,
-      "updated_at": "2025-11-04T17:06:27-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": null,
       "title": "Marketing Template",
       "company_name": "Wayne Enterprises",
@@ -102,21 +135,54 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/1576892",
+      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/7398816",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
       "education": "education_optional",
       "internal_job_id": 999606,
       "location": {
-        "name": "Dallas, TX"
+        "name": "Los Angeles, CA"
+      },
+      "metadata": [
+        {
+          "id": 984382,
+          "name": "Career Site Department",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7398816,
+      "updated_at": "2025-11-14T20:09:02-05:00",
+      "requisition_id": "45",
+      "title": "Senior Backend Engineer Job Post B",
+      "company_name": "Wayne Enterprises",
+      "first_published": "2025-11-14T20:04:48-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/1576892",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 999606,
+      "location": {
+        "name": "Los Angeles, CA"
       },
       "metadata": [
         {
@@ -127,55 +193,22 @@
         }
       ],
       "id": 1576892,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "45",
       "title": "Senior Backend Engineer (Ruby)",
       "company_name": "Wayne Enterprises",
       "first_published": "2019-07-02T14:36:18-04:00",
-      "language": "fr"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/5093753",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 2559941,
-      "location": {
-        "name": "Dallas, TX"
-      },
-      "metadata": [
-        {
-          "id": 984382,
-          "name": "Career Site Department",
-          "value": "Sales",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5093753,
-      "updated_at": "2025-11-04T17:06:28-05:00",
-      "requisition_id": null,
-      "title": "Senior Backend Engineer (Ruby)",
-      "company_name": "Wayne Enterprises",
-      "first_published": "2024-01-23T15:19:47-05:00",
-      "language": "fr"
+      "language": "en"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/137036",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -192,7 +225,7 @@
         }
       ],
       "id": 137036,
-      "updated_at": "2025-11-04T17:06:27-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "55",
       "title": "S.H.I.E.L.D. Director",
       "company_name": "Wayne Enterprises",
@@ -204,10 +237,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -225,7 +258,7 @@
         }
       ],
       "id": 1526240,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "R501",
       "title": "Software Developer ",
       "company_name": "Wayne Enterprises",
@@ -237,10 +270,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -258,7 +291,7 @@
         }
       ],
       "id": 2143733,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "R501",
       "title": "Software Developer ",
       "company_name": "Wayne Enterprises",
@@ -270,10 +303,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -290,7 +323,7 @@
         }
       ],
       "id": 2099372,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "51",
       "title": "VP, Customer Success",
       "company_name": "Wayne Enterprises",
@@ -302,10 +335,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -322,7 +355,7 @@
         }
       ],
       "id": 4830178,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "43",
       "title": "VP of Engineering",
       "company_name": "Wayne Enterprises",
@@ -334,10 +367,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 1,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": true
         }
       ],
@@ -354,7 +387,7 @@
         }
       ],
       "id": 1546413,
-      "updated_at": "2025-11-04T17:06:28-05:00",
+      "updated_at": "2025-11-14T20:09:02-05:00",
       "requisition_id": "43",
       "title": "VP of Engineering",
       "company_name": "Wayne Enterprises",
