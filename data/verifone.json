@@ -1,7 +1,7 @@
 {
   "company": "verifone",
-  "fetched_at": "2025-11-26T03:52:52.546693",
-  "job_count": 81,
+  "fetched_at": "2025-11-29T03:48:31.562363",
+  "job_count": 78,
   "jobs": [
     {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6271808003?gh_jid=6271808003",
@@ -118,6 +118,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7480030003?gh_jid=7480030003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5658480003,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7480030003,
+      "updated_at": "2025-11-27T09:38:03-05:00",
+      "requisition_id": "R-51966",
+      "title": "Android Developer",
+      "company_name": "Verifone",
+      "first_published": "2025-11-27T09:38:03-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6591282003?gh_jid=6591282003",
       "data_compliance": [
         {
@@ -191,44 +229,6 @@
       "title": "Business Analyst",
       "company_name": "Verifone",
       "first_published": "2025-11-04T12:42:11-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6670021003?gh_jid=6670021003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5248847003,
-      "location": {
-        "name": "Warszawa, Masovian Voivodeship, Poland"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6670021003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-51765",
-      "title": "CM Accountant",
-      "company_name": "Verifone",
-      "first_published": "2025-08-06T05:00:39-04:00",
       "language": "en"
     },
     {
@@ -802,44 +802,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034532003?gh_jid=6034532003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4974820003,
-      "location": {
-        "name": "München, Bavaria, Germany"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6034532003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-49124",
-      "title": "Director, Enterprise Risk",
-      "company_name": "Verifone",
-      "first_published": "2025-08-22T09:02:51-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034533003?gh_jid=6034533003",
       "data_compliance": [
         {
@@ -875,6 +837,44 @@
       "title": "Director, Enterprise Risk",
       "company_name": "Verifone",
       "first_published": "2025-08-22T09:03:40-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034532003?gh_jid=6034532003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4974820003,
+      "location": {
+        "name": "München, Bavaria, Germany"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6034532003,
+      "updated_at": "2025-11-19T01:48:29-05:00",
+      "requisition_id": "R-49124",
+      "title": "Director, Enterprise Risk",
+      "company_name": "Verifone",
+      "first_published": "2025-08-22T09:02:51-04:00",
       "language": "en"
     },
     {
@@ -992,44 +992,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6693099003?gh_jid=6693099003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5259348003,
-      "location": {
-        "name": "München, Bavaria, Germany"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6693099003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-51785",
-      "title": "Enterprise Risk Manager Finance",
-      "company_name": "Verifone",
-      "first_published": "2025-10-13T11:39:09-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6690210003?gh_jid=6690210003",
       "data_compliance": [
         {
@@ -1103,44 +1065,6 @@
       "title": "FP&A Manager",
       "company_name": "Verifone",
       "first_published": "2025-11-25T12:43:56-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7483053003?gh_jid=7483053003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5659936003,
-      "location": {
-        "name": "臺北市, Taipei, Taiwan"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7483053003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-52026",
-      "title": "Hardware Integration Lead",
-      "company_name": "Verifone",
-      "first_published": "2025-10-13T00:57:18-04:00",
       "language": "en"
     },
     {
@@ -1296,44 +1220,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7413843003?gh_jid=7413843003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5615415003,
-      "location": {
-        "name": "Stockholm, Stockholm, Sweden"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7413843003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-51981",
-      "title": "Inside Sales Representative",
-      "company_name": "Verifone",
-      "first_published": "2025-09-19T16:42:27-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6690195003?gh_jid=6690195003",
       "data_compliance": [
         {
@@ -1364,11 +1250,49 @@
         }
       ],
       "id": 6690195003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
+      "updated_at": "2025-11-28T05:02:20-05:00",
       "requisition_id": "R-51818",
       "title": "Inside Sales Representative",
       "company_name": "Verifone",
       "first_published": "2025-10-08T04:59:37-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7413834003?gh_jid=7413834003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5615413003,
+      "location": {
+        "name": "Stockholm, Stockholm, Sweden"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7413834003,
+      "updated_at": "2025-11-26T11:11:25-05:00",
+      "requisition_id": "R-51983",
+      "title": "Inside Sales Representative",
+      "company_name": "Verifone",
+      "first_published": "2025-11-26T11:11:25-05:00",
       "language": "en"
     },
     {
@@ -1858,7 +1782,7 @@
         }
       ],
       "id": 7524083003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
+      "updated_at": "2025-11-27T09:46:25-05:00",
       "requisition_id": "R-52313",
       "title": "Regional Payroll Manager - EMEA ",
       "company_name": "Verifone",
@@ -2322,7 +2246,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7504696003?gh_jid=7504696003",
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7537310003?gh_jid=7537310003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2333,9 +2257,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5669070003,
+      "internal_job_id": 5682261003,
       "location": {
-        "name": "Bucharest, Bucharest, Romania"
+        "name": "Bengaluru, Karnataka, India"
       },
       "metadata": [
         {
@@ -2351,12 +2275,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7504696003,
-      "updated_at": "2025-11-25T07:46:28-05:00",
-      "requisition_id": "R-52266",
-      "title": "Senior Technical Recruiter, EMEA",
+      "id": 7537310003,
+      "updated_at": "2025-11-27T00:46:25-05:00",
+      "requisition_id": "R-52396",
+      "title": "Senior Salesforce Developer",
       "company_name": "Verifone",
-      "first_published": "2025-10-22T10:16:45-04:00",
+      "first_published": "2025-11-27T00:46:25-05:00",
       "language": "en"
     },
     {
@@ -2664,44 +2588,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7485545003?gh_jid=7485545003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5661201003,
-      "location": {
-        "name": "Manila, Manila, Philippines"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7485545003,
-      "updated_at": "2025-11-19T17:31:30-05:00",
-      "requisition_id": "R-51905",
-      "title": "Supervisor, Technical Support – Petro",
-      "company_name": "Verifone",
-      "first_published": "2025-10-08T03:37:36-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7525157003?gh_jid=7525157003",
       "data_compliance": [
         {
@@ -2737,44 +2623,6 @@
       "title": "Systems Integration Engineer",
       "company_name": "Verifone",
       "first_published": "2025-11-25T13:35:37-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7513904003?gh_jid=7513904003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5672821003,
-      "location": {
-        "name": "Johannesburg, Gauteng, South Africa"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7513904003,
-      "updated_at": "2025-11-19T01:48:29-05:00",
-      "requisition_id": "R-52301",
-      "title": "Technical Project Manager",
-      "company_name": "Verifone",
-      "first_published": "2025-11-17T11:52:13-05:00",
       "language": "en"
     },
     {
@@ -2816,7 +2664,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7485515003?gh_jid=7485515003",
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7513904003?gh_jid=7513904003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2824,12 +2672,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5661194003,
+      "internal_job_id": 5672821003,
       "location": {
-        "name": "Manila, Manila, Philippines"
+        "name": "Johannesburg, Gauteng, South Africa"
       },
       "metadata": [
         {
@@ -2845,12 +2693,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7485515003,
-      "updated_at": "2025-11-19T17:31:20-05:00",
-      "requisition_id": "R-51845",
-      "title": "Technical Support Representative",
+      "id": 7513904003,
+      "updated_at": "2025-11-19T01:48:29-05:00",
+      "requisition_id": "R-52301",
+      "title": "Technical Project Manager",
       "company_name": "Verifone",
-      "first_published": "2025-10-08T04:04:02-04:00",
+      "first_published": "2025-11-17T11:52:13-05:00",
       "language": "en"
     },
     {
@@ -2927,6 +2775,44 @@
       "title": "Telecommunications Engineer",
       "company_name": "Verifone",
       "first_published": "2025-06-26T02:10:17-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7480034003?gh_jid=7480034003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5658481003,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7480034003,
+      "updated_at": "2025-11-28T03:23:18-05:00",
+      "requisition_id": "R-51953",
+      "title": "Test Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-11-28T03:23:18-05:00",
       "language": "en"
     },
     {
