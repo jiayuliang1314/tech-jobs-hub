@@ -1,7 +1,7 @@
 {
   "company": "criticalmass",
-  "fetched_at": "2025-11-30T04:08:27.928898",
-  "job_count": 115,
+  "fetched_at": "2025-12-03T04:01:10.481372",
+  "job_count": 110,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7277363",
@@ -726,44 +726,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7296805",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3264114,
-      "location": {
-        "name": "San Jose"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Technology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Content Authoring",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7296805,
-      "updated_at": "2025-10-20T15:07:48-04:00",
-      "requisition_id": "6859",
-      "title": "Content Author Lead",
-      "company_name": "Critical Mass",
-      "first_published": "2025-10-14T16:22:34-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7296809",
       "data_compliance": [
         {
@@ -802,7 +764,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7235400",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7296805",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -813,30 +775,30 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3241218,
+      "internal_job_id": 3264114,
       "location": {
-        "name": "New York"
+        "name": "San Jose"
       },
       "metadata": [
         {
           "id": 170647,
           "name": "External Department",
-          "value": "Business Development And Marketing",
+          "value": "Technology",
           "value_type": "single_select"
         },
         {
           "id": 170691,
           "name": "External Sub Group",
-          "value": "Business Development",
+          "value": "Content Authoring",
           "value_type": "single_select"
         }
       ],
-      "id": 7235400,
-      "updated_at": "2025-09-17T17:33:29-04:00",
-      "requisition_id": "6749",
-      "title": "Copy Director, Business Development",
+      "id": 7296805,
+      "updated_at": "2025-10-20T15:07:48-04:00",
+      "requisition_id": "6859",
+      "title": "Content Author Lead",
       "company_name": "Critical Mass",
-      "first_published": "2025-09-17T17:33:29-04:00",
+      "first_published": "2025-10-14T16:22:34-04:00",
       "language": "en"
     },
     {
@@ -908,49 +870,11 @@
         }
       ],
       "id": 7371391,
-      "updated_at": "2025-11-14T12:13:15-05:00",
+      "updated_at": "2025-12-02T15:12:12-05:00",
       "requisition_id": "7000",
       "title": "Creative Analyst",
       "company_name": "Critical Mass",
       "first_published": "2025-11-14T12:11:19-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7354800",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3277096,
-      "location": {
-        "name": "Toronto"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Art Direction",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7354800,
-      "updated_at": "2025-10-24T10:12:25-04:00",
-      "requisition_id": "6932",
-      "title": "Creative Director, Copy",
-      "company_name": "Critical Mass",
-      "first_published": "2025-10-23T17:11:19-04:00",
       "language": "en"
     },
     {
@@ -989,6 +913,44 @@
       "title": "Creative Director, Copy",
       "company_name": "Critical Mass",
       "first_published": "2025-10-23T17:11:20-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7354800",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3277096,
+      "location": {
+        "name": "Toronto"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Creative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Art Direction",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7354800,
+      "updated_at": "2025-10-24T10:12:25-04:00",
+      "requisition_id": "6932",
+      "title": "Creative Director, Copy",
+      "company_name": "Critical Mass",
+      "first_published": "2025-10-23T17:11:19-04:00",
       "language": "en"
     },
     {
@@ -1068,44 +1030,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7355010",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3280521,
-      "location": {
-        "name": "Calgary"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Art Direction",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7355010,
-      "updated_at": "2025-10-28T13:21:38-04:00",
-      "requisition_id": "6963",
-      "title": "Design Director",
-      "company_name": "Critical Mass",
-      "first_published": "2025-10-28T13:21:38-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7362879",
       "data_compliance": [
         {
@@ -1141,6 +1065,44 @@
       "title": "Design Director",
       "company_name": "Critical Mass",
       "first_published": "2025-10-28T13:21:39-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7355010",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3280521,
+      "location": {
+        "name": "Calgary"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Creative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Art Direction",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7355010,
+      "updated_at": "2025-10-28T13:21:38-04:00",
+      "requisition_id": "6963",
+      "title": "Design Director",
+      "company_name": "Critical Mass",
+      "first_published": "2025-10-28T13:21:38-04:00",
       "language": "en"
     },
     {
@@ -1182,44 +1144,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7340566",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3275490,
-      "location": {
-        "name": "San Jose"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Visual Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7340566,
-      "updated_at": "2025-10-24T17:42:16-04:00",
-      "requisition_id": "6912",
-      "title": "Designer",
-      "company_name": "Critical Mass",
-      "first_published": "2025-10-24T17:26:36-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395161",
       "data_compliance": [
         {
@@ -1255,6 +1179,44 @@
       "title": "Designer",
       "company_name": "Critical Mass",
       "first_published": "2025-11-14T12:39:28-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7340566",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3275490,
+      "location": {
+        "name": "San Jose"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Creative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Visual Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7340566,
+      "updated_at": "2025-10-24T17:42:16-04:00",
+      "requisition_id": "6912",
+      "title": "Designer",
+      "company_name": "Critical Mass",
+      "first_published": "2025-10-24T17:26:36-04:00",
       "language": "en"
     },
     {
@@ -1334,44 +1296,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7392333",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3282866,
-      "location": {
-        "name": "Toronto"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Strategy",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "SEO And Search Marketing Strategy",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7392333,
-      "updated_at": "2025-11-12T14:41:38-05:00",
-      "requisition_id": "6976",
-      "title": "Director of SEO",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-12T14:41:38-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7392335",
       "data_compliance": [
         {
@@ -1407,6 +1331,44 @@
       "title": "Director of SEO",
       "company_name": "Critical Mass",
       "first_published": "2025-11-12T14:42:09-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7392333",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3282866,
+      "location": {
+        "name": "Toronto"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Strategy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "SEO And Search Marketing Strategy",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7392333,
+      "updated_at": "2025-11-12T14:41:38-05:00",
+      "requisition_id": "6976",
+      "title": "Director of SEO",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-12T14:41:38-05:00",
       "language": "en"
     },
     {
@@ -1448,44 +1410,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7398393",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3296927,
-      "location": {
-        "name": "Toronto"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Experience Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7398393,
-      "updated_at": "2025-11-19T14:27:36-05:00",
-      "requisition_id": "7048",
-      "title": "Director of User Experience",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-18T21:17:25-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7379209",
       "data_compliance": [
         {
@@ -1524,7 +1448,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7398362",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7398393",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1535,9 +1459,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3296910,
+      "internal_job_id": 3296927,
       "location": {
-        "name": "Vancouver"
+        "name": "Toronto"
       },
       "metadata": [
         {
@@ -1553,12 +1477,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7398362,
-      "updated_at": "2025-11-20T12:24:42-05:00",
-      "requisition_id": "7045",
-      "title": "Director of User Experience, Contract",
+      "id": 7398393,
+      "updated_at": "2025-11-19T14:27:36-05:00",
+      "requisition_id": "7048",
+      "title": "Director of User Experience",
       "company_name": "Critical Mass",
-      "first_published": "2025-11-18T21:15:51-05:00",
+      "first_published": "2025-11-18T21:17:25-05:00",
       "language": "en"
     },
     {
@@ -1597,6 +1521,44 @@
       "title": "Director of User Experience, Contract",
       "company_name": "Critical Mass",
       "first_published": "2025-11-18T21:15:53-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7398362",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3296910,
+      "location": {
+        "name": "Vancouver"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Creative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Experience Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7398362,
+      "updated_at": "2025-11-20T12:24:42-05:00",
+      "requisition_id": "7045",
+      "title": "Director of User Experience, Contract",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-18T21:15:51-05:00",
       "language": "en"
     },
     {
@@ -2056,6 +2018,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7383310",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3291168,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Marketing Science",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Analytics",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7383310,
+      "updated_at": "2025-11-21T14:24:25-05:00",
+      "requisition_id": "7020",
+      "title": "Marketing Science Analyst",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-10T14:15:20-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7187706",
       "data_compliance": [
         {
@@ -2132,82 +2132,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7383310",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3291168,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Marketing Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Analytics",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7383310,
-      "updated_at": "2025-11-21T14:24:25-05:00",
-      "requisition_id": "7020",
-      "title": "Marketing Science Analyst",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-10T14:15:20-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7354905",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3280498,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Marketing Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Analytics",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7354905,
-      "updated_at": "2025-11-25T15:22:46-05:00",
-      "requisition_id": "6958",
-      "title": "Marketing Science Associate Analyst",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-05T14:14:01-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7342165",
       "data_compliance": [
         {
@@ -2243,44 +2167,6 @@
       "title": "Marketing Science Lead",
       "company_name": "Critical Mass",
       "first_published": "2025-10-22T13:26:21-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7344375",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3276879,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Marketing Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Analytics",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7344375,
-      "updated_at": "2025-10-28T11:20:24-04:00",
-      "requisition_id": "6917",
-      "title": "Marketing Science Senior Analyst",
-      "company_name": "Critical Mass",
-      "first_published": "2025-10-28T11:20:24-04:00",
       "language": "en"
     },
     {
@@ -2322,7 +2208,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7374473",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7344375",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2333,7 +2219,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3287896,
+      "internal_job_id": 3276879,
       "location": {
         "name": "Chicago"
       },
@@ -2341,22 +2227,22 @@
         {
           "id": 170647,
           "name": "External Department",
-          "value": "Media",
+          "value": "Marketing Science",
           "value_type": "single_select"
         },
         {
           "id": 170691,
           "name": "External Sub Group",
-          "value": "Media And Channel Planning",
+          "value": "Analytics",
           "value_type": "single_select"
         }
       ],
-      "id": 7374473,
-      "updated_at": "2025-11-17T15:52:04-05:00",
-      "requisition_id": "7005",
-      "title": "Media Associate",
+      "id": 7344375,
+      "updated_at": "2025-10-28T11:20:24-04:00",
+      "requisition_id": "6917",
+      "title": "Marketing Science Senior Analyst",
       "company_name": "Critical Mass",
-      "first_published": "2025-11-17T14:18:05-05:00",
+      "first_published": "2025-10-28T11:20:24-04:00",
       "language": "en"
     },
     {
@@ -2395,6 +2281,44 @@
       "title": "Media Associate",
       "company_name": "Critical Mass",
       "first_published": "2025-11-17T14:23:22-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7374473",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3287896,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Media",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Media And Channel Planning",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7374473,
+      "updated_at": "2025-11-17T15:52:04-05:00",
+      "requisition_id": "7005",
+      "title": "Media Associate",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-17T14:18:05-05:00",
       "language": "en"
     },
     {
@@ -2474,44 +2398,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7344443",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3276903,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Media",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Media And Channel Planning",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7344443,
-      "updated_at": "2025-11-06T15:25:20-05:00",
-      "requisition_id": "6923",
-      "title": "Media Planner",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-06T15:25:20-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/6892290",
       "data_compliance": [
         {
@@ -2588,44 +2474,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395152",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3295822,
-      "location": {
-        "name": "San Jose, Costa Rica"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Project Delivery",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Project Management",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7395152,
-      "updated_at": "2025-11-17T21:59:34-05:00",
-      "requisition_id": "7041",
-      "title": "Project Manager",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-17T12:11:18-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7413107",
       "data_compliance": [
         {
@@ -2661,6 +2509,44 @@
       "title": "Project Manager",
       "company_name": "Critical Mass",
       "first_published": "2025-11-26T15:05:39-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395152",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3295822,
+      "location": {
+        "name": "San Jose, Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Project Delivery",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Project Management",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7395152,
+      "updated_at": "2025-11-17T21:59:34-05:00",
+      "requisition_id": "7041",
+      "title": "Project Manager",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-17T12:11:18-05:00",
       "language": "en"
     },
     {
@@ -2702,7 +2588,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/5874231",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7413164",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2713,30 +2599,30 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 2581185,
+      "internal_job_id": 3302772,
       "location": {
-        "name": "San Jose, Costa Rica"
+        "name": "Toronto"
       },
       "metadata": [
         {
           "id": 170647,
           "name": "External Department",
-          "value": "Future Opportunities",
+          "value": "Project Delivery",
           "value_type": "single_select"
         },
         {
           "id": 170691,
           "name": "External Sub Group",
-          "value": "Development",
+          "value": "Project Management",
           "value_type": "single_select"
         }
       ],
-      "id": 5874231,
-      "updated_at": "2025-05-15T15:52:19-04:00",
-      "requisition_id": "3395",
-      "title": "QA Specialist",
+      "id": 7413164,
+      "updated_at": "2025-12-02T16:38:25-05:00",
+      "requisition_id": "7082",
+      "title": "Project Manager, Media",
       "company_name": "Critical Mass",
-      "first_published": "2024-04-03T13:25:20-04:00",
+      "first_published": "2025-12-02T16:38:25-05:00",
       "language": "en"
     },
     {
@@ -2775,6 +2661,44 @@
       "title": "QA Specialist",
       "company_name": "Critical Mass",
       "first_published": "2024-04-03T13:26:59-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/5874231",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2581185,
+      "location": {
+        "name": "San Jose, Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Future Opportunities",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Development",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 5874231,
+      "updated_at": "2025-05-15T15:52:19-04:00",
+      "requisition_id": "3395",
+      "title": "QA Specialist",
+      "company_name": "Critical Mass",
+      "first_published": "2024-04-03T13:25:20-04:00",
       "language": "en"
     },
     {
@@ -3082,7 +3006,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395157",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7432689",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3093,7 +3017,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3295825,
+      "internal_job_id": 3306818,
       "location": {
         "name": "San Jose, Costa Rica"
       },
@@ -3111,126 +3035,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7395157,
-      "updated_at": "2025-11-17T16:09:13-05:00",
-      "requisition_id": "7042",
+      "id": 7432689,
+      "updated_at": "2025-12-02T12:48:25-05:00",
+      "requisition_id": "7109",
       "title": "Senior Designer",
       "company_name": "Critical Mass",
-      "first_published": "2025-11-16T09:53:04-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7361240",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3282848,
-      "location": {
-        "name": "Calgary"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Visual Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7361240,
-      "updated_at": "2025-11-10T11:10:52-05:00",
-      "requisition_id": "6975",
-      "title": "Senior Designer",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-04T16:04:15-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7388997",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3282848,
-      "location": {
-        "name": "Toronto"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Visual Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7388997,
-      "updated_at": "2025-11-11T12:28:58-05:00",
-      "requisition_id": "6975",
-      "title": "Senior Designer",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-11T12:28:58-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7389000",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3282848,
-      "location": {
-        "name": "Vancouver"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Creative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Visual Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7389000,
-      "updated_at": "2025-11-11T12:28:59-05:00",
-      "requisition_id": "6975",
-      "title": "Senior Designer",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-11T12:28:59-05:00",
+      "first_published": "2025-12-02T12:48:25-05:00",
       "language": "en"
     },
     {
@@ -3272,6 +3082,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395157",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3295825,
+      "location": {
+        "name": "San Jose, Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Creative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Visual Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7395157,
+      "updated_at": "2025-11-17T16:09:13-05:00",
+      "requisition_id": "7042",
+      "title": "Senior Designer",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-16T09:53:04-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7354896",
       "data_compliance": [
         {
@@ -3307,6 +3155,44 @@
       "title": "Senior Media Associate (Linear & Connected TV)",
       "company_name": "Critical Mass",
       "first_published": "2025-11-06T13:41:10-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7348217",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3277173,
+      "location": {
+        "name": "Toronto"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Media",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Media And Channel Planning",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7348217,
+      "updated_at": "2025-10-23T15:49:40-04:00",
+      "requisition_id": "6934",
+      "title": "Senior Paid Search Strategist (E-commerce & Retail)",
+      "company_name": "Critical Mass",
+      "first_published": "2025-10-21T18:23:12-04:00",
       "language": "en"
     },
     {
@@ -3386,7 +3272,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7348217",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395306",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3397,30 +3283,30 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3277173,
+      "internal_job_id": 3274887,
       "location": {
-        "name": "Toronto"
+        "name": "Vancouver"
       },
       "metadata": [
         {
           "id": 170647,
           "name": "External Department",
-          "value": "Media",
+          "value": "Technology",
           "value_type": "single_select"
         },
         {
           "id": 170691,
           "name": "External Sub Group",
-          "value": "Media And Channel Planning",
+          "value": "Art Direction",
           "value_type": "single_select"
         }
       ],
-      "id": 7348217,
-      "updated_at": "2025-10-23T15:49:40-04:00",
-      "requisition_id": "6934",
-      "title": "Senior Paid Search Strategist (E-commerce & Retail)",
+      "id": 7395306,
+      "updated_at": "2025-11-13T14:46:12-05:00",
+      "requisition_id": "6908",
+      "title": "Senior Product Engineer - 3D Unreal Engine, Contract",
       "company_name": "Critical Mass",
-      "first_published": "2025-10-21T18:23:12-04:00",
+      "first_published": "2025-11-13T14:46:12-05:00",
       "language": "en"
     },
     {
@@ -3497,82 +3383,6 @@
       "title": "Senior Product Engineer - 3D Unreal Engine, Contract",
       "company_name": "Critical Mass",
       "first_published": "2025-11-13T14:46:13-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395306",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274887,
-      "location": {
-        "name": "Vancouver"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Technology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Art Direction",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7395306,
-      "updated_at": "2025-11-13T14:46:12-05:00",
-      "requisition_id": "6908",
-      "title": "Senior Product Engineer - 3D Unreal Engine, Contract",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-13T14:46:12-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7413110",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3302753,
-      "location": {
-        "name": "San Jose, Costa Rica"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Project Delivery",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Project Management",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7413110,
-      "updated_at": "2025-11-28T17:53:53-05:00",
-      "requisition_id": "7079",
-      "title": "Senior Project Manager",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-26T15:06:57-05:00",
       "language": "en"
     },
     {
@@ -3728,6 +3538,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7413110",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3302753,
+      "location": {
+        "name": "San Jose, Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Project Delivery",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "Project Management",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7413110,
+      "updated_at": "2025-11-28T17:53:53-05:00",
+      "requisition_id": "7079",
+      "title": "Senior Project Manager",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-26T15:06:57-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7395140",
       "data_compliance": [
         {
@@ -3763,44 +3611,6 @@
       "title": "Senior Quality Control Specialist ",
       "company_name": "Critical Mass",
       "first_published": "2025-11-17T17:33:28-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7362623",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3283434,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Strategy",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "SEO And Search Marketing Strategy",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7362623,
-      "updated_at": "2025-11-05T18:12:06-05:00",
-      "requisition_id": "6987",
-      "title": "Senior SEO Strategist",
-      "company_name": "Critical Mass",
-      "first_published": "2025-11-05T18:12:06-05:00",
       "language": "en"
     },
     {
@@ -3877,6 +3687,44 @@
       "title": "Senior SEO Strategist",
       "company_name": "Critical Mass",
       "first_published": "2025-11-25T13:55:49-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7362623",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3283434,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 170647,
+          "name": "External Department",
+          "value": "Strategy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 170691,
+          "name": "External Sub Group",
+          "value": "SEO And Search Marketing Strategy",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7362623,
+      "updated_at": "2025-11-05T18:12:06-05:00",
+      "requisition_id": "6987",
+      "title": "Senior SEO Strategist",
+      "company_name": "Critical Mass",
+      "first_published": "2025-11-05T18:12:06-05:00",
       "language": "en"
     },
     {
@@ -3991,44 +3839,6 @@
       "title": "Strategy Director, DCO - Future Opportunities ",
       "company_name": "Critical Mass",
       "first_published": "2024-08-19T21:40:12-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7235387",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3241214,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 170647,
-          "name": "External Department",
-          "value": "Business Development And Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 170691,
-          "name": "External Sub Group",
-          "value": "Business Development",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7235387,
-      "updated_at": "2025-09-11T16:24:12-04:00",
-      "requisition_id": "6747",
-      "title": "Vice President, Business Development",
-      "company_name": "Critical Mass",
-      "first_published": "2025-09-09T13:41:13-04:00",
       "language": "en"
     },
     {
@@ -4222,7 +4032,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7120591",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7309350",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4235,7 +4045,7 @@
       ],
       "internal_job_id": 3142876,
       "location": {
-        "name": "Cincinnati"
+        "name": "New York"
       },
       "metadata": [
         {
@@ -4251,12 +4061,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7120591,
-      "updated_at": "2025-07-30T10:37:18-04:00",
+      "id": 7309350,
+      "updated_at": "2025-10-08T17:39:54-04:00",
       "requisition_id": "6161",
       "title": "VP, Media",
       "company_name": "Critical Mass",
-      "first_published": "2025-07-30T10:37:18-04:00",
+      "first_published": "2025-10-08T17:39:54-04:00",
       "language": "en"
     },
     {
@@ -4298,7 +4108,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7309350",
+      "absolute_url": "https://job-boards.greenhouse.io/criticalmass/jobs/7120591",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4311,7 +4121,7 @@
       ],
       "internal_job_id": 3142876,
       "location": {
-        "name": "New York"
+        "name": "Cincinnati"
       },
       "metadata": [
         {
@@ -4327,12 +4137,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7309350,
-      "updated_at": "2025-10-08T17:39:54-04:00",
+      "id": 7120591,
+      "updated_at": "2025-07-30T10:37:18-04:00",
       "requisition_id": "6161",
       "title": "VP, Media",
       "company_name": "Critical Mass",
-      "first_published": "2025-10-08T17:39:54-04:00",
+      "first_published": "2025-07-30T10:37:18-04:00",
       "language": "en"
     },
     {
