@@ -1,8 +1,65 @@
 {
   "company": "clarksoneyecare",
-  "fetched_at": "2025-12-14T04:08:15.945022",
-  "job_count": 90,
+  "fetched_at": "2025-12-17T04:02:02.657657",
+  "job_count": 96,
   "jobs": [
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8341994002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6331620002,
+      "location": {
+        "name": "Hilliard, OH"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Assistant Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8341994002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20279",
+      "title": "Assistant Office Manager",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-16T11:36:32-05:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8283621002",
       "data_compliance": [
@@ -53,68 +110,11 @@
         }
       ],
       "id": 8283621002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20054",
       "title": "Assistant Office Manager",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-10T14:17:27-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8318863002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6321937002,
-      "location": {
-        "name": "Louisville, KY"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Assistant Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Kentucky",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kentucky",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Office Manager/Assistant Manager (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8318863002,
-      "updated_at": "2025-12-02T18:35:27-05:00",
-      "requisition_id": "20198",
-      "title": "Assistant Office Manager",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-02T18:35:27-05:00",
       "language": "en"
     },
     {
@@ -167,11 +167,125 @@
         }
       ],
       "id": 8227287002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19937",
       "title": "Assistant Office Manager",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-10-24T16:59:57-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8318863002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6321937002,
+      "location": {
+        "name": "Louisville, KY"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Assistant Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Kentucky",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kentucky",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8318863002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20198",
+      "title": "Assistant Office Manager",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-02T18:35:27-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8341987002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6331618002,
+      "location": {
+        "name": "Dublin, OH"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Assistant Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8341987002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20278",
+      "title": "Assistant Office Manager",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-16T11:34:01-05:00",
       "language": "en"
     },
     {
@@ -224,7 +338,7 @@
         }
       ],
       "id": 8305805002,
-      "updated_at": "2025-11-24T13:09:57-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20158",
       "title": "Doctors Assistant - Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -281,7 +395,7 @@
         }
       ],
       "id": 8308344002,
-      "updated_at": "2025-11-25T16:46:25-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19966",
       "title": "Doctors Assistant - Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -338,11 +452,125 @@
         }
       ],
       "id": 8292491002,
-      "updated_at": "2025-11-14T11:05:21-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19896",
       "title": "Dr Assistant- Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-14T11:05:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8341884002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6331564002,
+      "location": {
+        "name": "Cincinnati, OH"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8341884002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20275",
+      "title": "Dr. Assistant- Training Provided!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-16T10:54:37-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8341121002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6331198002,
+      "location": {
+        "name": "Ballwin, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8341121002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20272",
+      "title": "Dr. Assistant- Training Provided!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-15T17:35:18-05:00",
       "language": "en"
     },
     {
@@ -395,7 +623,7 @@
         }
       ],
       "id": 8182368002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19676",
       "title": "Dr. Assistant- Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -452,7 +680,7 @@
         }
       ],
       "id": 8304293002,
-      "updated_at": "2025-12-01T17:48:37-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19961",
       "title": "Eyewear Sales Specialist",
       "company_name": "Clarkson Eyecare",
@@ -509,7 +737,7 @@
         }
       ],
       "id": 8307507002,
-      "updated_at": "2025-11-25T10:42:52-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20161",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -566,7 +794,7 @@
         }
       ],
       "id": 8071704002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19068",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -623,7 +851,7 @@
         }
       ],
       "id": 8126587002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19395",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -680,7 +908,7 @@
         }
       ],
       "id": 8338803002,
-      "updated_at": "2025-12-12T16:47:15-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20262",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -737,7 +965,7 @@
         }
       ],
       "id": 8314323002,
-      "updated_at": "2025-11-28T11:27:37-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20177",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -794,7 +1022,7 @@
         }
       ],
       "id": 8314277002,
-      "updated_at": "2025-11-28T10:59:38-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20174",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -851,7 +1079,7 @@
         }
       ],
       "id": 8307520002,
-      "updated_at": "2025-12-08T13:27:32-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20163",
       "title": "Front Office Specialist ",
       "company_name": "Clarkson Eyecare",
@@ -908,7 +1136,7 @@
         }
       ],
       "id": 8044787002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "18916",
       "title": "Front Office Specialist - Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -965,68 +1193,11 @@
         }
       ],
       "id": 8332003002,
-      "updated_at": "2025-12-10T12:29:11-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20242",
       "title": "Front Office Specialist - Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T12:29:11-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8201709002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6152248002,
-      "location": {
-        "name": "Cleveland, OH"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Ohio",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Ohio",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8201709002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "18433",
-      "title": "Full-time Medical Optometrist",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-10-07T11:43:42-04:00",
       "language": "en"
     },
     {
@@ -1079,11 +1250,68 @@
         }
       ],
       "id": 8318532002,
-      "updated_at": "2025-12-02T15:36:37-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "14314",
       "title": "Full-time Medical Optometrist",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-02T15:36:37-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8201709002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6152248002,
+      "location": {
+        "name": "Cleveland, OH"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8201709002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "18433",
+      "title": "Full-time Medical Optometrist",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-10-07T11:43:42-04:00",
       "language": "en"
     },
     {
@@ -1136,7 +1364,7 @@
         }
       ],
       "id": 8318513002,
-      "updated_at": "2025-12-02T15:31:35-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "14051",
       "title": "Full-time or Part-time Optometrist- Mansfield, OH",
       "company_name": "Clarkson Eyecare",
@@ -1193,68 +1421,11 @@
         }
       ],
       "id": 7929813002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "18217",
       "title": "Licensed Optician",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-03-26T12:34:08-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8304324002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6315058002,
-      "location": {
-        "name": "Krugerville, TX"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Front Office Specialist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Ohio",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Texas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Front Desk (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8304324002,
-      "updated_at": "2025-11-21T16:11:09-05:00",
-      "requisition_id": "20148",
-      "title": "Medical Receptionist",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-11-21T16:11:09-05:00",
       "language": "en"
     },
     {
@@ -1307,11 +1478,68 @@
         }
       ],
       "id": 8304315002,
-      "updated_at": "2025-12-12T15:00:16-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20147",
       "title": "Medical Receptionist",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-21T16:09:08-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8304324002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6315058002,
+      "location": {
+        "name": "Krugerville, TX"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Front Office Specialist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Ohio",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Texas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Front Desk (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8304324002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20148",
+      "title": "Medical Receptionist",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-11-21T16:11:09-05:00",
       "language": "en"
     },
     {
@@ -1364,125 +1592,11 @@
         }
       ],
       "id": 8214169002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19857",
       "title": "Medical Receptionist- Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-10-15T19:02:10-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=7766699002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6057637002,
-      "location": {
-        "name": "Hazlet, NJ"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Office Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Office Manager/Assistant Manager (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7766699002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "17376",
-      "title": "Office Manager",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2024-12-10T18:59:00-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332069002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6327386002,
-      "location": {
-        "name": "Haslett, MI"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Office Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Michigan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Michigan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Office Manager/Assistant Manager (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8332069002,
-      "updated_at": "2025-12-10T12:41:25-05:00",
-      "requisition_id": "20245",
-      "title": "Office Manager",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-10T12:41:25-05:00",
       "language": "en"
     },
     {
@@ -1535,11 +1649,68 @@
         }
       ],
       "id": 8235791002,
-      "updated_at": "2025-11-25T12:10:25-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19991",
       "title": "Office Manager",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-25T12:10:25-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=7766699002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6057637002,
+      "location": {
+        "name": "Hazlet, NJ"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Office Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7766699002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "17376",
+      "title": "Office Manager",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2024-12-10T18:59:00-05:00",
       "language": "en"
     },
     {
@@ -1592,11 +1763,68 @@
         }
       ],
       "id": 8324769002,
-      "updated_at": "2025-12-04T17:46:40-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19936",
       "title": "Office Manager",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-04T17:46:40-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332069002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6327386002,
+      "location": {
+        "name": "Haslett, MI"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Office Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Michigan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Michigan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8332069002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20245",
+      "title": "Office Manager",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-10T12:41:25-05:00",
       "language": "en"
     },
     {
@@ -1649,7 +1877,7 @@
         }
       ],
       "id": 8288238002,
-      "updated_at": "2025-11-12T16:45:31-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20073",
       "title": "Office Manager- Retail experience a plus!",
       "company_name": "Clarkson Eyecare",
@@ -1706,7 +1934,7 @@
         }
       ],
       "id": 8307762002,
-      "updated_at": "2025-11-25T12:12:59-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19991",
       "title": "Optical Office Manager",
       "company_name": "Clarkson Eyecare",
@@ -1763,7 +1991,7 @@
         }
       ],
       "id": 8304298002,
-      "updated_at": "2025-12-01T17:50:43-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19961",
       "title": "Optical Retail Consultant",
       "company_name": "Clarkson Eyecare",
@@ -1820,68 +2048,11 @@
         }
       ],
       "id": 8331464002,
-      "updated_at": "2025-12-10T11:02:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20229",
       "title": "Optical Sales - 4 day work week!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T11:02:56-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8331331002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6320324002,
-      "location": {
-        "name": "Toms River, NJ"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8331331002,
-      "updated_at": "2025-12-10T10:21:12-05:00",
-      "requisition_id": "20171",
-      "title": "Optical Sales Associate - training provided",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-10T10:21:12-05:00",
       "language": "en"
     },
     {
@@ -1934,7 +2105,7 @@
         }
       ],
       "id": 8328080002,
-      "updated_at": "2025-12-08T13:29:37-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20171",
       "title": "Optical Sales Associate - training provided",
       "company_name": "Clarkson Eyecare",
@@ -1991,11 +2162,68 @@
         }
       ],
       "id": 8331328002,
-      "updated_at": "2025-12-10T10:20:31-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20171",
       "title": "Optical Sales Associate - training provided",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T10:20:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8331331002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6320324002,
+      "location": {
+        "name": "Toms River, NJ"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8331331002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20171",
+      "title": "Optical Sales Associate - training provided",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-10T10:21:12-05:00",
       "language": "en"
     },
     {
@@ -2048,125 +2276,11 @@
         }
       ],
       "id": 8304301002,
-      "updated_at": "2025-11-21T16:02:37-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19740",
       "title": "Optical Sales Stylist",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-21T16:02:37-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8196108002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6248373002,
-      "location": {
-        "name": "Bloomington, MN"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Minnesota",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8196108002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "19754",
-      "title": "Optical Sales Technician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-10-02T14:11:09-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8297360002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6209535002,
-      "location": {
-        "name": "Clayton, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8297360002,
-      "updated_at": "2025-11-18T12:43:58-05:00",
-      "requisition_id": "19259",
-      "title": "Optical Sales Technician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-11-18T12:43:58-05:00",
       "language": "en"
     },
     {
@@ -2219,7 +2333,7 @@
         }
       ],
       "id": 8283110002,
-      "updated_at": "2025-12-01T17:50:57-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19961",
       "title": "Optical Sales Technician",
       "company_name": "Clarkson Eyecare",
@@ -2276,7 +2390,7 @@
         }
       ],
       "id": 8283122002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19740",
       "title": "Optical Sales Technician",
       "company_name": "Clarkson Eyecare",
@@ -2284,7 +2398,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8338027002",
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8297360002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2296,9 +2410,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6329865002,
+      "internal_job_id": 6209535002,
       "location": {
-        "name": "Chesterfield, MO"
+        "name": "Clayton, MO"
       },
       "metadata": [
         {
@@ -2332,12 +2446,69 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8338027002,
-      "updated_at": "2025-12-12T14:39:04-05:00",
-      "requisition_id": "20259",
-      "title": "Optical Sales Technician - Training Provided!",
+      "id": 8297360002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19259",
+      "title": "Optical Sales Technician",
       "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-12T14:39:04-05:00",
+      "first_published": "2025-11-18T12:43:58-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8196108002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6248373002,
+      "location": {
+        "name": "Bloomington, MN"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Minnesota",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8196108002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19754",
+      "title": "Optical Sales Technician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-10-02T14:11:09-04:00",
       "language": "en"
     },
     {
@@ -2390,7 +2561,7 @@
         }
       ],
       "id": 8307779002,
-      "updated_at": "2025-12-01T15:00:13-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20165",
       "title": "Optical Sales Technician - Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -2447,7 +2618,7 @@
         }
       ],
       "id": 8318635002,
-      "updated_at": "2025-12-02T16:19:07-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20196",
       "title": "Optical Team Member- Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -2504,125 +2675,11 @@
         }
       ],
       "id": 8230647002,
-      "updated_at": "2025-12-01T17:51:14-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19961",
       "title": "Optical Technician / Optical Sales",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-10-28T11:45:46-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8244140002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6268249002,
-      "location": {
-        "name": "Sterling, VA"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Virginia",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Virginia",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8244140002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "20026",
-      "title": "Optical Technician / Optician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-11-05T10:18:03-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8314221002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6320324002,
-      "location": {
-        "name": "Brick Township, NJ"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "New Jersey",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8314221002,
-      "updated_at": "2025-12-08T13:28:17-05:00",
-      "requisition_id": "20171",
-      "title": "Optical Technician / Optician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-11-28T10:13:04-05:00",
       "language": "en"
     },
     {
@@ -2675,11 +2732,182 @@
         }
       ],
       "id": 8314316002,
-      "updated_at": "2025-11-28T11:22:26-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20176",
       "title": "Optical Technician / Optician",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-28T11:22:26-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8314221002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6320324002,
+      "location": {
+        "name": "Brick Township, NJ"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "New Jersey",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8314221002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20171",
+      "title": "Optical Technician / Optician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-11-28T10:13:04-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8244140002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6268249002,
+      "location": {
+        "name": "Sterling, VA"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Virginia",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Virginia",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8244140002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20026",
+      "title": "Optical Technician / Optician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-11-05T10:18:03-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8330277002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6326553002,
+      "location": {
+        "name": "Miramar Beach, FL "
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Florida",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Florida",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8330277002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20229",
+      "title": "Optical Technician / Optician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-09T16:09:13-05:00",
       "language": "en"
     },
     {
@@ -2732,7 +2960,7 @@
         }
       ],
       "id": 8331364002,
-      "updated_at": "2025-12-10T10:33:30-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20236",
       "title": "Optical Technician / Optician",
       "company_name": "Clarkson Eyecare",
@@ -2789,68 +3017,11 @@
         }
       ],
       "id": 8192936002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19740",
       "title": "Optical Technician / Optician",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-10-01T09:52:54-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8330277002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6326553002,
-      "location": {
-        "name": "Miramar Beach, FL "
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Florida",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Florida",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8330277002,
-      "updated_at": "2025-12-09T16:09:13-05:00",
-      "requisition_id": "20229",
-      "title": "Optical Technician / Optician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-09T16:09:13-05:00",
       "language": "en"
     },
     {
@@ -2903,7 +3074,7 @@
         }
       ],
       "id": 8332026002,
-      "updated_at": "2025-12-12T15:01:12-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20243",
       "title": "Optician/ Sales Associate",
       "company_name": "Clarkson Eyecare",
@@ -2911,7 +3082,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8231015002",
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8342570002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2923,33 +3094,33 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6262181002,
+      "internal_job_id": 6331830002,
       "location": {
-        "name": "Elk River, MN"
+        "name": "Ann Arbor, MI"
       },
       "metadata": [
         {
           "id": 4122753002,
           "name": "Title",
-          "value": "Optometric Technician",
+          "value": "Optical Technician",
           "value_type": "single_select"
         },
         {
           "id": 4122752002,
           "name": "Brand",
-          "value": "Clarkson Eyecare Minnesota",
+          "value": "Clarkson Eyecare Michigan",
           "value_type": "single_select"
         },
         {
           "id": 4233969002,
           "name": "State",
-          "value": "Minnesota",
+          "value": "Michigan",
           "value_type": "single_select"
         },
         {
           "id": 10823239002,
           "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
+          "value": "Optical Technician (OPT)",
           "value_type": "single_select"
         },
         {
@@ -2959,69 +3130,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8231015002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "19966",
-      "title": "Optometric Technician",
+      "id": 8342570002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20285",
+      "title": "Optician/ Sales Associate- Training Provided!",
       "company_name": "Clarkson Eyecare",
-      "first_published": "2025-10-28T14:59:12-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8305798002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6315962002,
-      "location": {
-        "name": "St. Louis, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8305798002,
-      "updated_at": "2025-11-24T13:09:07-05:00",
-      "requisition_id": "20158",
-      "title": "Optometric Technician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-11-24T13:09:07-05:00",
+      "first_published": "2025-12-16T16:09:07-05:00",
       "language": "en"
     },
     {
@@ -3074,7 +3188,7 @@
         }
       ],
       "id": 8315493002,
-      "updated_at": "2025-12-01T11:26:25-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20183",
       "title": "Optometric Technician",
       "company_name": "Clarkson Eyecare",
@@ -3131,68 +3245,11 @@
         }
       ],
       "id": 8297272002,
-      "updated_at": "2025-11-18T12:10:53-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19636",
       "title": "Optometric Technician",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-11-18T12:10:53-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8315485002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6320963002,
-      "location": {
-        "name": "Lutz, FL"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare Florida",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Florida",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8315485002,
-      "updated_at": "2025-12-01T11:25:21-05:00",
-      "requisition_id": "20183",
-      "title": "Optometric Technician",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-01T11:25:21-05:00",
       "language": "en"
     },
     {
@@ -3245,11 +3302,182 @@
         }
       ],
       "id": 8219817002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19896",
       "title": "Optometric Technician",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-10-20T17:03:15-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8231015002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6262181002,
+      "location": {
+        "name": "Elk River, MN"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Minnesota",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Minnesota",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8231015002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19966",
+      "title": "Optometric Technician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-10-28T14:59:12-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8305798002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6315962002,
+      "location": {
+        "name": "St. Louis, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8305798002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20158",
+      "title": "Optometric Technician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-11-24T13:09:07-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8315485002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6320963002,
+      "location": {
+        "name": "Lutz, FL"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare Florida",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Florida",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8315485002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20183",
+      "title": "Optometric Technician",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-01T11:25:21-05:00",
       "language": "en"
     },
     {
@@ -3302,68 +3530,11 @@
         }
       ],
       "id": 8332052002,
-      "updated_at": "2025-12-12T15:02:19-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20244",
       "title": "Optometric Technician- Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T12:36:32-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332607002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6236969002,
-      "location": {
-        "name": "Union, MO "
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8332607002,
-      "updated_at": "2025-12-10T16:47:30-05:00",
-      "requisition_id": "19591",
-      "title": "Optometrist",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-10T16:47:30-05:00",
       "language": "en"
     },
     {
@@ -3416,11 +3587,68 @@
         }
       ],
       "id": 8332593002,
-      "updated_at": "2025-12-10T16:42:38-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19422",
       "title": "Optometrist",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T16:42:38-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332607002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6236969002,
+      "location": {
+        "name": "Union, MO "
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8332607002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19591",
+      "title": "Optometrist",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-10T16:47:30-05:00",
       "language": "en"
     },
     {
@@ -3473,7 +3701,7 @@
         }
       ],
       "id": 8318604002,
-      "updated_at": "2025-12-02T15:57:54-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "16959",
       "title": "Optometrist - Clarksville, IN",
       "company_name": "Clarkson Eyecare",
@@ -3530,7 +3758,7 @@
         }
       ],
       "id": 8322163002,
-      "updated_at": "2025-12-03T15:40:55-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "3573",
       "title": "Optometrist - Fort Walton Beach, Florida",
       "company_name": "Clarkson Eyecare",
@@ -3587,11 +3815,68 @@
         }
       ],
       "id": 8332587002,
-      "updated_at": "2025-12-11T12:13:47-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19113",
       "title": "Optometrist - Full Time",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T16:40:45-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332536002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5716886002,
+      "location": {
+        "name": "Farmington, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8332536002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "14538",
+      "title": "Optometrist - Full-Time",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-10T16:23:59-05:00",
       "language": "en"
     },
     {
@@ -3644,7 +3929,7 @@
         }
       ],
       "id": 8332485002,
-      "updated_at": "2025-12-10T15:46:44-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "14044",
       "title": "Optometrist - Full-Time",
       "company_name": "Clarkson Eyecare",
@@ -3701,68 +3986,11 @@
         }
       ],
       "id": 8332553002,
-      "updated_at": "2025-12-10T16:24:00-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "14538",
       "title": "Optometrist - Full-Time",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T16:24:00-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332536002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5716886002,
-      "location": {
-        "name": "Farmington, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8332536002,
-      "updated_at": "2025-12-10T16:23:59-05:00",
-      "requisition_id": "14538",
-      "title": "Optometrist - Full-Time",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-10T16:23:59-05:00",
       "language": "en"
     },
     {
@@ -3815,7 +4043,7 @@
         }
       ],
       "id": 8332585002,
-      "updated_at": "2025-12-11T11:40:06-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20188",
       "title": "Optometrist - Full Time or Part-time",
       "company_name": "Clarkson Eyecare",
@@ -3872,7 +4100,7 @@
         }
       ],
       "id": 8318549002,
-      "updated_at": "2025-12-02T15:44:27-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "18027",
       "title": "Optometrist - Lake Ridge &  Alexandria, VA locations",
       "company_name": "Clarkson Eyecare",
@@ -3929,7 +4157,7 @@
         }
       ],
       "id": 8318672002,
-      "updated_at": "2025-12-02T16:24:00-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20149",
       "title": "Optometrist, Medical - Kettering, OH",
       "company_name": "Clarkson Eyecare",
@@ -3986,7 +4214,7 @@
         }
       ],
       "id": 8332649002,
-      "updated_at": "2025-12-10T17:14:28-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "17380",
       "title": "Optometrist - Medically Focused - Edwardsville, IL - Part-Time",
       "company_name": "Clarkson Eyecare",
@@ -4043,7 +4271,7 @@
         }
       ],
       "id": 8332388002,
-      "updated_at": "2025-12-10T15:10:52-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "10126",
       "title": "Optometrist - Medically Focused (Part-time)",
       "company_name": "Clarkson Eyecare",
@@ -4100,7 +4328,7 @@
         }
       ],
       "id": 8285556002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19020",
       "title": "Optometrist - Medically Focused - Shiloh, Illinois",
       "company_name": "Clarkson Eyecare",
@@ -4157,7 +4385,7 @@
         }
       ],
       "id": 8318614002,
-      "updated_at": "2025-12-02T16:07:04-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "16960",
       "title": "Optometrist, Medical - West Chester, OH",
       "company_name": "Clarkson Eyecare",
@@ -4214,7 +4442,7 @@
         }
       ],
       "id": 8210044002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19831",
       "title": "Optometrist - Milton, Florida",
       "company_name": "Clarkson Eyecare",
@@ -4271,68 +4499,11 @@
         }
       ],
       "id": 8322185002,
-      "updated_at": "2025-12-03T15:49:27-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "6839",
       "title": "Optometrist - Miramar Beach, Florida",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-03T15:49:27-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332561002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6174703002,
-      "location": {
-        "name": "Arnold, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8332561002,
-      "updated_at": "2025-12-10T16:28:43-05:00",
-      "requisition_id": "18746",
-      "title": "Optometrist - Part-time",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-10T16:28:43-05:00",
       "language": "en"
     },
     {
@@ -4385,11 +4556,68 @@
         }
       ],
       "id": 8332633002,
-      "updated_at": "2025-12-10T17:02:19-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20062",
       "title": "Optometrist - Part-time",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-10T17:02:19-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8332561002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6174703002,
+      "location": {
+        "name": "Arnold, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8332561002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "18746",
+      "title": "Optometrist - Part-time",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-10T16:28:43-05:00",
       "language": "en"
     },
     {
@@ -4442,7 +4670,7 @@
         }
       ],
       "id": 8332393002,
-      "updated_at": "2025-12-10T15:12:30-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "10982",
       "title": "Optometrist - Part time or PRN ",
       "company_name": "Clarkson Eyecare",
@@ -4499,7 +4727,7 @@
         }
       ],
       "id": 8332495002,
-      "updated_at": "2025-12-10T15:54:52-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "17897",
       "title": "Optometrist - Swansea",
       "company_name": "Clarkson Eyecare",
@@ -4556,7 +4784,7 @@
         }
       ],
       "id": 8318618002,
-      "updated_at": "2025-12-02T16:09:14-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19419",
       "title": "Part-time Medical Optometrist",
       "company_name": "Clarkson Eyecare",
@@ -4613,7 +4841,7 @@
         }
       ],
       "id": 8322380002,
-      "updated_at": "2025-12-03T17:08:17-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "19512",
       "title": "Part-Time or Full-Time Optometrist - Lakeland, Florida",
       "company_name": "Clarkson Eyecare",
@@ -4670,125 +4898,11 @@
         }
       ],
       "id": 8318682002,
-      "updated_at": "2025-12-02T16:25:56-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "18477",
       "title": "PT or FT Optometrist -  Fredericksburg, VA",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-02T16:25:56-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8128320002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6209535002,
-      "location": {
-        "name": "Clayton, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8128320002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "19259",
-      "title": "Sales Associate - Training Provided!",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-10-09T10:50:19-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8196122002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6248373002,
-      "location": {
-        "name": "Bloomington, MN"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Minnesota",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8196122002,
-      "updated_at": "2025-11-11T12:33:56-05:00",
-      "requisition_id": "19754",
-      "title": "Sales Associate - Training Provided!",
-      "company_name": "Clarkson Eyecare",
-      "first_published": "2025-10-02T14:13:05-04:00",
       "language": "en"
     },
     {
@@ -4841,7 +4955,7 @@
         }
       ],
       "id": 8315866002,
-      "updated_at": "2025-12-01T15:07:44-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20165",
       "title": "Sales Associate - Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -4849,7 +4963,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8324752002",
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8196122002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4861,9 +4975,66 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6321504002,
+      "internal_job_id": 6248373002,
       "location": {
-        "name": "Clarkson Valley, MO"
+        "name": "Bloomington, MN"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Minnesota",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8196122002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19754",
+      "title": "Sales Associate - Training Provided!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-10-02T14:13:05-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8128320002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6209535002,
+      "location": {
+        "name": "Clayton, MO"
       },
       "metadata": [
         {
@@ -4897,12 +5068,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8324752002,
-      "updated_at": "2025-12-04T17:36:22-05:00",
-      "requisition_id": "20195",
-      "title": "Sales Associate- Training Provided!",
+      "id": 8128320002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "19259",
+      "title": "Sales Associate - Training Provided!",
       "company_name": "Clarkson Eyecare",
-      "first_published": "2025-12-04T17:36:02-05:00",
+      "first_published": "2025-10-09T10:50:19-04:00",
       "language": "en"
     },
     {
@@ -4955,7 +5126,7 @@
         }
       ],
       "id": 8331990002,
-      "updated_at": "2025-12-10T12:25:26-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20241",
       "title": "Sales Associate- Training Provided!",
       "company_name": "Clarkson Eyecare",
@@ -5012,11 +5183,68 @@
         }
       ],
       "id": 8315692002,
-      "updated_at": "2025-12-01T13:09:39-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20187",
       "title": "Sales Associate- Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-01T13:09:39-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8324752002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6321504002,
+      "location": {
+        "name": "Clarkson Valley, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8324752002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20195",
+      "title": "Sales Associate- Training Provided!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-04T17:36:02-05:00",
       "language": "en"
     },
     {
@@ -5069,11 +5297,125 @@
         }
       ],
       "id": 8317719002,
-      "updated_at": "2025-12-04T17:34:39-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20195",
       "title": "Sales Associate- Training Provided!",
       "company_name": "Clarkson Eyecare",
       "first_published": "2025-12-02T09:32:06-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8342139002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6331675002,
+      "location": {
+        "name": "St. Charles, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8342139002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20280",
+      "title": "Sales Associate- Training Provided!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-16T12:54:22-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.clarksoneyecare.com/careers/?gh_jid=8338027002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6329865002,
+      "location": {
+        "name": "Chesterfield, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8338027002,
+      "updated_at": "2025-12-16T16:22:46-05:00",
+      "requisition_id": "20259",
+      "title": "Team Member- Entry level into Medical Field!!",
+      "company_name": "Clarkson Eyecare",
+      "first_published": "2025-12-12T14:39:04-05:00",
       "language": "en"
     },
     {
@@ -5126,7 +5468,7 @@
         }
       ],
       "id": 8318854002,
-      "updated_at": "2025-12-11T13:08:18-05:00",
+      "updated_at": "2025-12-16T16:22:46-05:00",
       "requisition_id": "20197",
       "title": "Team Member- Entry Level into Medical Field- Training Provided!",
       "company_name": "Clarkson Eyecare",

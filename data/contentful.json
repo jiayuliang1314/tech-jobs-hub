@@ -1,70 +1,8 @@
 {
   "company": "contentful",
-  "fetched_at": "2025-12-14T04:19:28.437044",
-  "job_count": 90,
+  "fetched_at": "2025-12-17T04:13:35.079989",
+  "job_count": 89,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7356837",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3281206,
-      "location": {
-        "name": "Denver, Colorado, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "5250 Business Systems",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1EsPrM772HwPVkJ6awY2nbZCqFIoKalqI44p9riSh97Y/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Denver Metro Area",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7356837,
-      "updated_at": "2025-11-20T10:34:11-05:00",
-      "requisition_id": "R25_000471",
-      "title": "AI Solutions Partner",
-      "company_name": "Contentful",
-      "first_published": "2025-10-24T17:37:35-04:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7387121",
       "data_compliance": [
@@ -90,7 +28,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -107,12 +45,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, Australia",
@@ -120,7 +52,7 @@
         }
       ],
       "id": 7387121,
-      "updated_at": "2025-12-04T17:46:03-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000493",
       "title": "Area Sales Director",
       "company_name": "Contentful",
@@ -152,7 +84,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -169,12 +101,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, Australia\n\nComp is OTE with a 70/30% split",
@@ -182,11 +108,70 @@
         }
       ],
       "id": 7390105,
-      "updated_at": "2025-11-20T10:34:40-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000510",
       "title": "Associate Partner Account Manager",
       "company_name": "Contentful",
       "first_published": "2025-11-12T21:54:13-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7459803",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3315054,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "GBP",
+            "amount": "55000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "5113 People Partnership",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1zai8_nfoYNzbt0ibylKa6Sd45w2S_69UICYunHOdePE/edit?tab=t.0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "London / Hybrid",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7459803,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000537",
+      "title": "Associate People Business Partner (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2025-12-15T03:40:57-05:00",
       "language": "en"
     },
     {
@@ -214,7 +199,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -231,14 +216,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#sdr"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -246,7 +223,7 @@
         }
       ],
       "id": 5852946,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "460",
       "title": "Business Development Representative, Commercial- Dutch speaking (f/m/d)",
       "company_name": "Contentful",
@@ -278,7 +255,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -295,14 +272,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#sdr"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -310,7 +279,7 @@
         }
       ],
       "id": 6137574,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "460",
       "title": "Business Development Representative, Commercial- French speaking (f/m/d)",
       "company_name": "Contentful",
@@ -342,7 +311,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -359,12 +328,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -372,7 +335,7 @@
         }
       ],
       "id": 7249197,
-      "updated_at": "2025-12-12T14:46:54-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000465",
       "title": "Business Development Representative, Enterprise- DACH (f/m/d)",
       "company_name": "Contentful",
@@ -404,7 +367,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -421,14 +384,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#sdr"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -436,7 +391,7 @@
         }
       ],
       "id": 5853004,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "460",
       "title": "Business Development Representative, Enterprise - French speaking (f/m/d)",
       "company_name": "Contentful",
@@ -468,7 +423,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -485,12 +440,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -498,7 +447,7 @@
         }
       ],
       "id": 7267939,
-      "updated_at": "2025-12-12T14:46:54-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000465",
       "title": "Business Development Representative, Enterprise- German speaking (f/m/d)",
       "company_name": "Contentful",
@@ -530,7 +479,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -547,14 +496,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#sdr"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -562,7 +503,7 @@
         }
       ],
       "id": 6137572,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "460",
       "title": "Business Development Representative, Enterprise- UKI (f/m/d)",
       "company_name": "Contentful",
@@ -594,7 +535,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -611,14 +552,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#ae"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London only",
@@ -626,135 +559,11 @@
         }
       ],
       "id": 7177651,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "461",
       "title": "Commercial Account Executive - UKI (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-08-19T06:30:33-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7368134",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3285471,
-      "location": {
-        "name": "Denver, Colorado, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2601 Customer Success Growth",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "xxxx",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7368134,
-      "updated_at": "2025-12-10T13:31:08-05:00",
-      "requisition_id": "R25_000524",
-      "title": "Customer Success Manager, Dedicated",
-      "company_name": "Contentful",
-      "first_published": "2025-10-30T16:09:07-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7368301",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3285471,
-      "location": {
-        "name": "New York City, New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2601 Customer Success Growth",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "xxxx",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7368301,
-      "updated_at": "2025-12-01T18:55:55-05:00",
-      "requisition_id": "R25_000524",
-      "title": "Customer Success Manager, Dedicated",
-      "company_name": "Contentful",
-      "first_published": "2025-10-30T16:09:08-04:00",
       "language": "en"
     },
     {
@@ -782,8 +591,11 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
+          "name": "Range MAX",
+          "value": {
+            "unit": "GBP",
+            "amount": "121000.0"
+          },
           "value_type": "currency"
         },
         {
@@ -799,12 +611,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -812,7 +618,7 @@
         }
       ],
       "id": 7132410,
-      "updated_at": "2025-12-12T14:46:48-05:00",
+      "updated_at": "2025-12-16T19:15:53-05:00",
       "requisition_id": "R25_000371",
       "title": "Demo Engineer (f/m/d)",
       "company_name": "Contentful",
@@ -844,7 +650,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -861,12 +667,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -874,75 +674,11 @@
         }
       ],
       "id": 7303901,
-      "updated_at": "2025-11-20T10:33:47-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000436",
       "title": "Director, Customer Success (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-10-07T05:35:26-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7431433",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3248168,
-      "location": {
-        "name": "London, England, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4110 Engineering Management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1idaIBQDn2_jSSk3-LBFpSqlRiyM-IwwRcPqnkXQ9DBM/edit?tab=t.0#heading=h.ljtuc6equ0io",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "London & Dublin",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7431433,
-      "updated_at": "2025-11-28T06:05:42-05:00",
-      "requisition_id": "R25_000415",
-      "title": "Engineering Manager - AI Business Services (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2025-11-28T06:05:42-05:00",
       "language": "en"
     },
     {
@@ -970,7 +706,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -987,14 +723,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London & Dublin",
@@ -1002,7 +730,7 @@
         }
       ],
       "id": 7431434,
-      "updated_at": "2025-11-28T06:05:43-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000415",
       "title": "Engineering Manager - AI Business Services (f/m/d)",
       "company_name": "Contentful",
@@ -1010,7 +738,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7259676",
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7431433",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1023,7 +751,7 @@
       ],
       "internal_job_id": 3248168,
       "location": {
-        "name": "Dublin, Dublin, Ireland"
+        "name": "London, England, United Kingdom"
       },
       "metadata": [
         {
@@ -1034,7 +762,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1051,26 +779,18 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London & Dublin",
           "value_type": "long_text"
         }
       ],
-      "id": 7259676,
-      "updated_at": "2025-11-20T10:33:40-05:00",
+      "id": 7431433,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000415",
-      "title": "Engineering Manager - Business Services (f/m/d)",
+      "title": "Engineering Manager - AI Business Services (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-09-18T10:27:29-04:00",
+      "first_published": "2025-11-28T06:05:42-05:00",
       "language": "en"
     },
     {
@@ -1098,7 +818,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1115,12 +835,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "London & Dublin",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7254758,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000415",
+      "title": "Engineering Manager - Business Services (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2025-09-18T10:27:31-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7259676",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3248168,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4110 Engineering Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1idaIBQDn2_jSSk3-LBFpSqlRiyM-IwwRcPqnkXQ9DBM/edit?tab=t.0#heading=h.ljtuc6equ0io",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -1129,12 +897,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7254758,
-      "updated_at": "2025-11-20T10:33:40-05:00",
+      "id": 7259676,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000415",
       "title": "Engineering Manager - Business Services (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-09-18T10:27:31-04:00",
+      "first_published": "2025-09-18T10:27:29-04:00",
       "language": "en"
     },
     {
@@ -1162,7 +930,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1179,12 +947,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "UK Ireland",
@@ -1192,7 +954,7 @@
         }
       ],
       "id": 7337789,
-      "updated_at": "2025-11-20T10:33:57-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000446",
       "title": "Engineering Manager - CMS & Experience Team (f/m/d)",
       "company_name": "Contentful",
@@ -1224,7 +986,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1241,12 +1003,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "UK Ireland",
@@ -1254,7 +1010,7 @@
         }
       ],
       "id": 7309290,
-      "updated_at": "2025-11-20T10:33:57-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000446",
       "title": "Engineering Manager - CMS & Experience Team (f/m/d)",
       "company_name": "Contentful",
@@ -1286,7 +1042,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1303,12 +1059,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "UK Ireland",
@@ -1316,7 +1066,7 @@
         }
       ],
       "id": 7349330,
-      "updated_at": "2025-11-20T10:33:56-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000445",
       "title": "Engineering Manager - Content API (f/m/d)",
       "company_name": "Contentful",
@@ -1348,7 +1098,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1365,12 +1115,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "UK Ireland",
@@ -1378,7 +1122,7 @@
         }
       ],
       "id": 7309287,
-      "updated_at": "2025-11-20T10:33:56-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000445",
       "title": "Engineering Manager - Content API (f/m/d)",
       "company_name": "Contentful",
@@ -1410,7 +1154,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1427,12 +1171,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -1440,259 +1178,11 @@
         }
       ],
       "id": 7371019,
-      "updated_at": "2025-11-20T10:34:13-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000480",
       "title": "Engineering Manager - Personalization (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-11-07T11:28:44-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7395481",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3293871,
-      "location": {
-        "name": "Seattle, Washington, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1LpCyIviKtwmGZaiXqDDflY3Zt6kHWEjdLm4I2hzA5rU/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "San Francisco\nSeattle",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7395481,
-      "updated_at": "2025-11-20T10:34:44-05:00",
-      "requisition_id": "R25_000502",
-      "title": "Enterprise Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-11-13T15:39:15-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7302762",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3266258,
-      "location": {
-        "name": "Boston, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7302762,
-      "updated_at": "2025-11-20T10:33:54-05:00",
-      "requisition_id": "R25_000441",
-      "title": "Enterprise Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-11-14T20:42:56-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7390117",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3293872,
-      "location": {
-        "name": "Chicago, Illinois, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1LpCyIviKtwmGZaiXqDDflY3Zt6kHWEjdLm4I2hzA5rU/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Chicago",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7390117,
-      "updated_at": "2025-11-20T10:34:45-05:00",
-      "requisition_id": "R25_000501",
-      "title": "Enterprise Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-11-13T15:33:01-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7390119",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3293873,
-      "location": {
-        "name": "San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Standard Enterprise AE job description",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7390119,
-      "updated_at": "2025-11-20T10:34:47-05:00",
-      "requisition_id": "R25_000500",
-      "title": "Enterprise Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-11-13T17:40:22-05:00",
       "language": "en"
     },
     {
@@ -1720,7 +1210,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1737,10 +1227,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "San Francisco\nSeattle",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7390115,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000502",
+      "title": "Enterprise Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-11-13T15:39:14-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7395481",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3293871,
+      "location": {
+        "name": "Seattle, Washington, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1LpCyIviKtwmGZaiXqDDflY3Zt6kHWEjdLm4I2hzA5rU/edit?tab=t.0",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -1749,12 +1289,180 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7390115,
-      "updated_at": "2025-11-20T10:34:44-05:00",
+      "id": 7395481,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000502",
       "title": "Enterprise Account Executive",
       "company_name": "Contentful",
-      "first_published": "2025-11-13T15:39:14-05:00",
+      "first_published": "2025-11-13T15:39:15-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7390119",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3293873,
+      "location": {
+        "name": "San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Standard Enterprise AE job description",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7390119,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000500",
+      "title": "Enterprise Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-11-13T17:40:22-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7390117",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3293872,
+      "location": {
+        "name": "Chicago, Illinois, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1LpCyIviKtwmGZaiXqDDflY3Zt6kHWEjdLm4I2hzA5rU/edit?tab=t.0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Chicago",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7390117,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000501",
+      "title": "Enterprise Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-11-13T15:33:01-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7302762",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3266258,
+      "location": {
+        "name": "Boston, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7302762,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000441",
+      "title": "Enterprise Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-11-14T20:42:56-05:00",
       "language": "en"
     },
     {
@@ -1782,7 +1490,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1799,12 +1507,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -1812,7 +1514,7 @@
         }
       ],
       "id": 7390121,
-      "updated_at": "2025-12-01T08:17:09-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000498",
       "title": "Enterprise Account Executive (f/m/d)",
       "company_name": "Contentful",
@@ -1844,7 +1546,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1861,12 +1563,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney",
@@ -1874,7 +1570,7 @@
         }
       ],
       "id": 7360350,
-      "updated_at": "2025-12-12T14:46:55-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000473",
       "title": "Enterprise Business Development Representative",
       "company_name": "Contentful",
@@ -1906,7 +1602,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1923,12 +1619,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Denver Colorado Salary Range: $82,000 OTE (70/30 split)",
@@ -1936,7 +1626,7 @@
         }
       ],
       "id": 7390099,
-      "updated_at": "2025-12-12T14:47:00-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000503",
       "title": "Enterprise Business Development Representative",
       "company_name": "Contentful",
@@ -1968,7 +1658,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -1985,12 +1675,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -1998,7 +1682,7 @@
         }
       ],
       "id": 7393020,
-      "updated_at": "2025-12-12T14:47:06-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000513",
       "title": "Enterprise Business Development Representative (f/m/d)",
       "company_name": "Contentful",
@@ -2030,7 +1714,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2047,12 +1731,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -2060,7 +1738,7 @@
         }
       ],
       "id": 7360352,
-      "updated_at": "2025-12-12T14:46:57-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000472",
       "title": "Enterprise Business Development Representative (f/m/d)",
       "company_name": "Contentful",
@@ -2092,7 +1770,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "200000.0"
@@ -2112,12 +1790,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -2125,7 +1797,7 @@
         }
       ],
       "id": 7438725,
-      "updated_at": "2025-12-11T11:16:21-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000530",
       "title": "Executive Assistant",
       "company_name": "Contentful",
@@ -2157,7 +1829,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "200000.0"
@@ -2177,12 +1849,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -2190,7 +1856,7 @@
         }
       ],
       "id": 7395107,
-      "updated_at": "2025-12-11T11:16:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000530",
       "title": "Executive Assistant",
       "company_name": "Contentful",
@@ -2222,7 +1888,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "136000.0"
@@ -2242,12 +1908,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Denver",
@@ -2255,73 +1915,11 @@
         }
       ],
       "id": 7435459,
-      "updated_at": "2025-12-10T18:28:36-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000527",
       "title": "Financial Analyst",
       "company_name": "Contentful",
       "first_published": "2025-12-09T13:54:55-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7131717",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3210044,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4210 Product Management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1kcTNWkPN6Jubg0CeecZvuSAKOyYs1_VcgBr86IO1i48/edit?tab=t.0#heading=h.z7hewu7wu7lx",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Berlin",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7131717,
-      "updated_at": "2025-11-20T10:33:16-05:00",
-      "requisition_id": "R25_000363",
-      "title": "Group Product Manager (Customer Experience) (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2025-08-04T12:32:53-04:00",
       "language": "en"
     },
     {
@@ -2349,7 +1947,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2366,10 +1964,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Berlin",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7309921,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000363",
+      "title": "Group Product Manager (Customer Experience) (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2025-10-09T04:56:14-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7131717",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3210044,
+      "location": {
+        "name": "Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4210 Product Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1kcTNWkPN6Jubg0CeecZvuSAKOyYs1_VcgBr86IO1i48/edit?tab=t.0#heading=h.z7hewu7wu7lx",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -2378,12 +2026,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7309921,
-      "updated_at": "2025-11-20T10:33:16-05:00",
+      "id": 7131717,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000363",
       "title": "Group Product Manager (Customer Experience) (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-10-09T04:56:14-04:00",
+      "first_published": "2025-08-04T12:32:53-04:00",
       "language": "en"
     },
     {
@@ -2411,7 +2059,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2428,12 +2076,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Berlin",
@@ -2441,11 +2083,129 @@
         }
       ],
       "id": 7309919,
-      "updated_at": "2025-11-20T10:33:16-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000363",
       "title": "Group Product Manager (Customer Experience) (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-10-09T04:56:15-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7467219",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3316878,
+      "location": {
+        "name": "Los Angeles, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "USD",
+            "amount": "247000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1gKQpqpwZvxNEZoErBKu542DJUiD2EugYjkbPUAYLPsk/edit?tab=t.0#heading=h.lrh9ex9x0a3y",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "San Francisco\nLos Angeles",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7467219,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "notreqyet",
+      "title": "Mid Market Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-12-15T12:43:06-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7472552",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3316878,
+      "location": {
+        "name": "San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "USD",
+            "amount": "247000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1gKQpqpwZvxNEZoErBKu542DJUiD2EugYjkbPUAYLPsk/edit?tab=t.0#heading=h.lrh9ex9x0a3y",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "San Francisco\nLos Angeles",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7472552,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "notreqyet",
+      "title": "Mid Market Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-12-15T12:43:07-05:00",
       "language": "en"
     },
     {
@@ -2473,7 +2233,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2490,12 +2250,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, Australia",
@@ -2503,7 +2257,7 @@
         }
       ],
       "id": 7387607,
-      "updated_at": "2025-11-24T16:28:06-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000495",
       "title": "Mid-Market Account Executive",
       "company_name": "Contentful",
@@ -2535,7 +2289,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2552,12 +2306,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "AUZ-Zone 1",
@@ -2565,7 +2313,7 @@
         }
       ],
       "id": 7390103,
-      "updated_at": "2025-12-12T14:47:02-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000499",
       "title": "Mid-Market Business Development Representative",
       "company_name": "Contentful",
@@ -2597,7 +2345,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2614,12 +2362,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -2627,7 +2369,7 @@
         }
       ],
       "id": 7309367,
-      "updated_at": "2025-11-28T11:53:52-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000444",
       "title": "Revenue  Enablement Program Manager (f/m/d)",
       "company_name": "Contentful",
@@ -2659,7 +2401,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2676,12 +2418,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -2689,7 +2425,7 @@
         }
       ],
       "id": 7267995,
-      "updated_at": "2025-12-12T14:46:54-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000465",
       "title": "Sales Development Representative, Enterprise- DACH (f/m/d)",
       "company_name": "Contentful",
@@ -2721,7 +2457,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2738,12 +2474,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -2751,7 +2481,7 @@
         }
       ],
       "id": 7267998,
-      "updated_at": "2025-12-12T14:46:54-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000465",
       "title": "Sales Development Representative, Enterprise- German speaking (f/m/d)",
       "company_name": "Contentful",
@@ -2783,7 +2513,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2800,12 +2530,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -2813,7 +2537,7 @@
         }
       ],
       "id": 7277633,
-      "updated_at": "2025-11-20T10:33:51-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000437",
       "title": "Senior Applied AI Engineer (f/m/d)",
       "company_name": "Contentful",
@@ -2845,7 +2569,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2862,12 +2586,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -2875,7 +2593,7 @@
         }
       ],
       "id": 7294509,
-      "updated_at": "2025-11-20T10:33:51-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000437",
       "title": "Senior Applied AI Engineer (f/m/d)",
       "company_name": "Contentful",
@@ -2907,7 +2625,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -2922,14 +2640,6 @@
           "name": "Job Description Link",
           "value": "https://docs.google.com/document/d/1p9niBlxhR3xw1f5Wh-TtF4EHMcHE36W3XqNR54uPfEs/edit?tab=t.0",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#data"
-          ],
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
@@ -2939,75 +2649,11 @@
         }
       ],
       "id": 7372771,
-      "updated_at": "2025-11-20T10:34:17-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000478",
       "title": "Senior Data Analyst (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-11-03T09:37:38-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7366032",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3284628,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4300 Product Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1p9niBlxhR3xw1f5Wh-TtF4EHMcHE36W3XqNR54uPfEs/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#data"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Berlin, London, Dublin",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7366032,
-      "updated_at": "2025-11-20T10:34:17-05:00",
-      "requisition_id": "R25_000478",
-      "title": "Senior Data Analyst (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2025-11-03T09:37:36-05:00",
       "language": "en"
     },
     {
@@ -3035,7 +2681,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3052,14 +2698,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#data"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Berlin, London, Dublin",
@@ -3067,7 +2705,7 @@
         }
       ],
       "id": 7372774,
-      "updated_at": "2025-11-20T10:34:17-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000478",
       "title": "Senior Data Analyst (f/m/d)",
       "company_name": "Contentful",
@@ -3075,7 +2713,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7259735",
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7366032",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3086,9 +2724,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3248134,
+      "internal_job_id": 3284628,
       "location": {
-        "name": "Dublin, Dublin, Ireland"
+        "name": "Berlin, Berlin, Germany"
       },
       "metadata": [
         {
@@ -3099,43 +2737,35 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
         {
           "id": 2430211,
           "name": "Team (cost center)",
-          "value": "4110 Engineering Management",
+          "value": "4300 Product Ops",
           "value_type": "single_select"
         },
         {
           "id": 14571614,
           "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1F32xkvDiYGh5qxkD-nLk7qDKa40tUCHZAjAobOy9-lA/edit?tab=t.0#heading=h.57co5lf0e443",
+          "value": "https://docs.google.com/document/d/1p9niBlxhR3xw1f5Wh-TtF4EHMcHE36W3XqNR54uPfEs/edit?tab=t.0",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
           "name": "Job posting locations/Entities",
-          "value": "London & Dublin",
+          "value": "Berlin, London, Dublin",
           "value_type": "long_text"
         }
       ],
-      "id": 7259735,
-      "updated_at": "2025-11-20T10:33:39-05:00",
-      "requisition_id": "R25_000414",
-      "title": "Senior Engineering Manager - AI Platform (f/m/d)",
+      "id": 7366032,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000478",
+      "title": "Senior Data Analyst (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-09-18T10:27:16-04:00",
+      "first_published": "2025-11-03T09:37:36-05:00",
       "language": "en"
     },
     {
@@ -3163,7 +2793,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3180,14 +2810,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [
-            "#em"
-          ],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London & Dublin",
@@ -3195,7 +2817,7 @@
         }
       ],
       "id": 7254676,
-      "updated_at": "2025-11-20T10:33:39-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000414",
       "title": "Senior Engineering Manager - AI Platform (f/m/d)",
       "company_name": "Contentful",
@@ -3203,7 +2825,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7345095",
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7259735",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3214,9 +2836,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3274765,
+      "internal_job_id": 3248134,
       "location": {
-        "name": "Denver, Colorado, United States"
+        "name": "Dublin, Dublin, Ireland"
       },
       "metadata": [
         {
@@ -3227,41 +2849,35 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
         {
           "id": 2430211,
           "name": "Team (cost center)",
-          "value": "3401 Content Marketing",
+          "value": "4110 Engineering Management",
           "value_type": "single_select"
         },
         {
           "id": 14571614,
           "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1hutFB-XSMAzJbeib2jaCnObsbMlyhfg0hcMkGDxWzKM/edit?tab=t.0#heading=h.2wubrplsdc08",
+          "value": "https://docs.google.com/document/d/1F32xkvDiYGh5qxkD-nLk7qDKa40tUCHZAjAobOy9-lA/edit?tab=t.0#heading=h.57co5lf0e443",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
           "name": "Job posting locations/Entities",
-          "value": "New York City and Denver",
+          "value": "London & Dublin",
           "value_type": "long_text"
         }
       ],
-      "id": 7345095,
-      "updated_at": "2025-12-02T09:33:25-05:00",
-      "requisition_id": "R25_000457",
-      "title": "Senior Manager, Content Marketing (BoFu)",
+      "id": 7259735,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000414",
+      "title": "Senior Engineering Manager - AI Platform (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-10-20T17:57:16-04:00",
+      "first_published": "2025-09-18T10:27:16-04:00",
       "language": "en"
     },
     {
@@ -3289,7 +2905,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3306,20 +2922,14 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
-          "value": "New York City and Denver",
+          "value": "New York City",
           "value_type": "long_text"
         }
       ],
       "id": 7338812,
-      "updated_at": "2025-12-02T09:33:25-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000457",
       "title": "Senior Manager, Content Marketing (BoFu)",
       "company_name": "Contentful",
@@ -3327,7 +2937,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7336285",
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7345095",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3338,131 +2948,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3271344,
-      "location": {
-        "name": "San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "5112 People Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7336285,
-      "updated_at": "2025-11-20T10:33:59-05:00",
-      "requisition_id": "R25_000451",
-      "title": "Senior Manager, Global Benefits",
-      "company_name": "Contentful",
-      "first_published": "2025-10-15T18:24:33-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7336290",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3271344,
-      "location": {
-        "name": "New York City, New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "5112 People Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7336290,
-      "updated_at": "2025-11-20T10:33:59-05:00",
-      "requisition_id": "R25_000451",
-      "title": "Senior Manager, Global Benefits",
-      "company_name": "Contentful",
-      "first_published": "2025-10-15T18:24:34-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7318153",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3271344,
+      "internal_job_id": 3274765,
       "location": {
         "name": "Denver, Colorado, United States"
       },
@@ -3470,46 +2956,99 @@
         {
           "id": 9206164,
           "name": "Is this role part of our Hire Champion Initiative?",
-          "value": null,
+          "value": true,
           "value_type": "yes_no"
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
         {
           "id": 2430211,
           "name": "Team (cost center)",
-          "value": "5112 People Operations",
+          "value": "3401 Content Marketing",
           "value_type": "single_select"
         },
         {
           "id": 14571614,
           "name": "Job Description Link",
-          "value": null,
+          "value": "https://docs.google.com/document/d/1hutFB-XSMAzJbeib2jaCnObsbMlyhfg0hcMkGDxWzKM/edit?tab=t.0#heading=h.2wubrplsdc08",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
           "name": "Job posting locations/Entities",
-          "value": null,
+          "value": "New York City",
           "value_type": "long_text"
         }
       ],
-      "id": 7318153,
-      "updated_at": "2025-11-20T10:33:59-05:00",
-      "requisition_id": "R25_000451",
-      "title": "Senior Manager, Global Benefits",
+      "id": 7345095,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000457",
+      "title": "Senior Manager, Content Marketing (BoFu)",
       "company_name": "Contentful",
-      "first_published": "2025-10-15T18:24:32-04:00",
+      "first_published": "2025-10-20T17:57:16-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7477804",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3319451,
+      "location": {
+        "name": "Sydney, New South Wales, Australia"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "AUD",
+            "amount": "265000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "3201 Field Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1l2R3hFhKBQhWsKIKLW7v0ZF_37-dfjQMutRxm-jwBPU/edit?tab=t.0#heading=h.6ywqcal254nu",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "AUS",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7477804,
+      "updated_at": "2025-12-16T19:44:06-05:00",
+      "requisition_id": "R25_000554",
+      "title": "Senior Manager, Field Marketing",
+      "company_name": "Contentful",
+      "first_published": "2025-12-16T19:43:09-05:00",
       "language": "en"
     },
     {
@@ -3537,7 +3076,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "178000.0"
@@ -3557,12 +3096,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "NYC and London, UK",
@@ -3570,7 +3103,7 @@
         }
       ],
       "id": 7463676,
-      "updated_at": "2025-12-11T17:45:02-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000540",
       "title": "Senior Partner Marketing Manager",
       "company_name": "Contentful",
@@ -3578,7 +3111,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7460438",
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7460570",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3589,7 +3122,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3315257,
+      "internal_job_id": 3315314,
       "location": {
         "name": "London, England, United Kingdom"
       },
@@ -3602,10 +3135,10 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
-            "unit": "USD",
-            "amount": "178000.0"
+            "unit": "GBP",
+            "amount": "99000.0"
           },
           "value_type": "currency"
         },
@@ -3622,86 +3155,18 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
-          "value": "NYC and London, UK",
+          "value": "UK, London",
           "value_type": "long_text"
         }
       ],
-      "id": 7460438,
-      "updated_at": "2025-12-11T17:45:03-05:00",
-      "requisition_id": "R25_000540",
+      "id": 7460570,
+      "updated_at": "2025-12-16T11:51:04-05:00",
+      "requisition_id": "sameasUsrole",
       "title": "Senior Partner Marketing Manager (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-12-11T17:45:03-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7398325",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3291531,
-      "location": {
-        "name": "New York City, New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "5113 People Partnership",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1N3gENReRzVVaeNpWtD2y3FB2Kzl7ib5CYYdoPuVllJw/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Denver, CO and NYC Metro",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7398325,
-      "updated_at": "2025-12-10T13:31:16-05:00",
-      "requisition_id": "R25_000491",
-      "title": "Senior People Business Partner",
-      "company_name": "Contentful",
-      "first_published": "2025-11-14T16:21:28-05:00",
+      "first_published": "2025-12-16T11:51:04-05:00",
       "language": "en"
     },
     {
@@ -3729,7 +3194,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3746,10 +3211,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Denver, CO and NYC Metro",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7384246,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000491",
+      "title": "Senior People Business Partner",
+      "company_name": "Contentful",
+      "first_published": "2025-11-12T21:49:49-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7398325",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3291531,
+      "location": {
+        "name": "New York City, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "5113 People Partnership",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1N3gENReRzVVaeNpWtD2y3FB2Kzl7ib5CYYdoPuVllJw/edit?tab=t.0",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -3758,136 +3273,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7384246,
-      "updated_at": "2025-12-10T13:31:16-05:00",
+      "id": 7398325,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000491",
       "title": "Senior People Business Partner",
       "company_name": "Contentful",
-      "first_published": "2025-11-12T21:49:49-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7455397",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3253454,
-      "location": {
-        "name": "Dublin, Dublin, Ireland"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4210 Product Management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7455397,
-      "updated_at": "2025-12-09T11:35:13-05:00",
-      "requisition_id": "R25_000423",
-      "title": "Senior Product Manager, Next-Gen Experience Creation",
-      "company_name": "Contentful",
-      "first_published": "2025-12-09T11:35:13-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7455402",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3253454,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4210 Product Management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7455402,
-      "updated_at": "2025-12-09T11:50:26-05:00",
-      "requisition_id": "R25_000423",
-      "title": "Senior Product Manager, Next-Gen Experience Creation",
-      "company_name": "Contentful",
-      "first_published": "2025-12-09T11:38:01-05:00",
+      "first_published": "2025-11-14T16:21:28-05:00",
       "language": "en"
     },
     {
@@ -3915,7 +3306,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3932,10 +3323,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7455375,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000423",
+      "title": "Senior Product Manager, Next-Gen Experience Creation",
+      "company_name": "Contentful",
+      "first_published": "2025-12-09T11:28:58-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7455402",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3253454,
+      "location": {
+        "name": "Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4210 Product Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": null,
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -3944,12 +3385,68 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7455375,
-      "updated_at": "2025-12-09T11:28:58-05:00",
+      "id": 7455402,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000423",
       "title": "Senior Product Manager, Next-Gen Experience Creation",
       "company_name": "Contentful",
-      "first_published": "2025-12-09T11:28:58-05:00",
+      "first_published": "2025-12-09T11:38:01-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7455397",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3253454,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4210 Product Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7455397,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000423",
+      "title": "Senior Product Manager, Next-Gen Experience Creation",
+      "company_name": "Contentful",
+      "first_published": "2025-12-09T11:35:13-05:00",
       "language": "en"
     },
     {
@@ -3977,7 +3474,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -3994,12 +3491,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Dublin, Berlin, London",
@@ -4007,7 +3498,7 @@
         }
       ],
       "id": 6884052,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000219",
       "title": "Senior Product Operations Manager (f/m/d)",
       "company_name": "Contentful",
@@ -4039,7 +3530,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4056,12 +3547,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Dublin, Berlin, London",
@@ -4069,7 +3554,7 @@
         }
       ],
       "id": 6882161,
-      "updated_at": "2025-11-19T11:08:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000219",
       "title": "Senior Product Operations Manager (f/m/d)",
       "company_name": "Contentful",
@@ -4101,7 +3586,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4118,12 +3603,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, Australia",
@@ -4131,7 +3610,7 @@
         }
       ],
       "id": 7390111,
-      "updated_at": "2025-12-05T16:46:02-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000507",
       "title": "Senior Sales Engineer",
       "company_name": "Contentful",
@@ -4163,7 +3642,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4180,12 +3659,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Denver Metro Area",
@@ -4193,7 +3666,7 @@
         }
       ],
       "id": 7028131,
-      "updated_at": "2025-11-20T10:32:43-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000304",
       "title": "Senior Security Engineer",
       "company_name": "Contentful",
@@ -4225,7 +3698,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4242,12 +3715,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, AU",
@@ -4255,73 +3722,11 @@
         }
       ],
       "id": 7376806,
-      "updated_at": "2025-11-20T10:34:20-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000487",
       "title": "Senior Solution Architect",
       "company_name": "Contentful",
       "first_published": "2025-11-13T11:44:22-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7293024",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3255982,
-      "location": {
-        "name": "San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2002 Professional Services",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1k91qjBCbWQsQIVeg83Je7zePFN7A5cAji--_HRrxYdI/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "Denver\n\nNote: For the compensation, can you please note that it is a total OTE with an 80/20% split.",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7293024,
-      "updated_at": "2025-11-20T10:33:48-05:00",
-      "requisition_id": "R25_000429",
-      "title": "Senior Solution Architect",
-      "company_name": "Contentful",
-      "first_published": "2025-10-01T17:07:07-04:00",
       "language": "en"
     },
     {
@@ -4349,7 +3754,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4366,10 +3771,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Denver\n\nNote: For the compensation, can you please note that it is a total OTE with an 80/20% split.",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7274588,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000429",
+      "title": "Senior Solution Architect",
+      "company_name": "Contentful",
+      "first_published": "2025-09-30T09:53:20-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7293024",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3255982,
+      "location": {
+        "name": "San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2002 Professional Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1k91qjBCbWQsQIVeg83Je7zePFN7A5cAji--_HRrxYdI/edit?tab=t.0",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -4378,12 +3833,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7274588,
-      "updated_at": "2025-11-20T10:33:48-05:00",
+      "id": 7293024,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000429",
       "title": "Senior Solution Architect",
       "company_name": "Contentful",
-      "first_published": "2025-09-30T09:53:20-04:00",
+      "first_published": "2025-10-01T17:07:07-04:00",
       "language": "en"
     },
     {
@@ -4411,7 +3866,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4428,12 +3883,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London, Dublin",
@@ -4441,7 +3890,7 @@
         }
       ],
       "id": 7228189,
-      "updated_at": "2025-12-02T04:14:51-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000382",
       "title": "Senior Solution Architect - DACH / France (f/m/d)",
       "company_name": "Contentful",
@@ -4473,7 +3922,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4488,12 +3937,6 @@
           "name": "Job Description Link",
           "value": "https://docs.google.com/document/d/13Xsb2BhO4o6kwgSHqW0qBp5FbMt8Y2_WE5T7-B_ENxs/edit?tab=t.0#heading=h.dnqe694fugwi",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
@@ -4503,73 +3946,11 @@
         }
       ],
       "id": 7228186,
-      "updated_at": "2025-12-02T04:14:34-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000382",
       "title": "Senior Solution Architect - DACH / France (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2025-09-04T09:48:59-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7177685",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3219667,
-      "location": {
-        "name": "Dublin, Dublin, Ireland"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2002 Professional Services",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/13Xsb2BhO4o6kwgSHqW0qBp5FbMt8Y2_WE5T7-B_ENxs/edit?tab=t.0#heading=h.dnqe694fugwi",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "London, Dublin",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7177685,
-      "updated_at": "2025-12-02T04:15:31-05:00",
-      "requisition_id": "R25_000382",
-      "title": "Senior Solution Architect- French or German Speaking (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2025-08-19T07:25:34-04:00",
       "language": "en"
     },
     {
@@ -4597,7 +3978,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -4614,10 +3995,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "London, Dublin",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7169268,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000382",
+      "title": "Senior Solution Architect- French or German Speaking (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2025-08-19T07:25:33-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7177685",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3219667,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
           "value": null,
-          "value_type": "multi_select"
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2002 Professional Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/13Xsb2BhO4o6kwgSHqW0qBp5FbMt8Y2_WE5T7-B_ENxs/edit?tab=t.0#heading=h.dnqe694fugwi",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -4626,12 +4057,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7169268,
-      "updated_at": "2025-12-02T04:15:11-05:00",
+      "id": 7177685,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000382",
       "title": "Senior Solution Architect- French or German Speaking (f/m/d)",
       "company_name": "Contentful",
-      "first_published": "2025-08-19T07:25:33-04:00",
+      "first_published": "2025-08-19T07:25:34-04:00",
       "language": "en"
     },
     {
@@ -4659,7 +4090,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "230000.0"
@@ -4679,12 +4110,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "San Francisco is priority but overall its REMOTE to other hubs and locations\nLevel: P4/ L06\nJob code: PS.TCSI.P4",
@@ -4692,7 +4117,7 @@
         }
       ],
       "id": 7390113,
-      "updated_at": "2025-12-12T14:47:08-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000506",
       "title": "Senior Solution Architect - Personalization Strategist",
       "company_name": "Contentful",
@@ -4724,7 +4149,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "GBP",
             "amount": "121000.0"
@@ -4744,12 +4169,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "London",
@@ -4757,7 +4176,7 @@
         }
       ],
       "id": 7393018,
-      "updated_at": "2025-12-12T14:47:05-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000511",
       "title": "Senior Solution Engineer, Personalization Strategist (f/m/d)",
       "company_name": "Contentful",
@@ -4789,7 +4208,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "AUD",
             "amount": "172997.0"
@@ -4809,12 +4228,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Sydney, Australia\nL06-P",
@@ -4822,197 +4235,11 @@
         }
       ],
       "id": 7435516,
-      "updated_at": "2025-12-03T10:39:21-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000525",
       "title": "Senior Technical Trainer",
       "company_name": "Contentful",
       "first_published": "2025-12-03T10:39:21-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354476",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3273063,
-      "location": {
-        "name": "Austin, Texas, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7354476,
-      "updated_at": "2025-11-20T10:34:03-05:00",
-      "requisition_id": "R25_000461",
-      "title": "Strategic Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:30-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7334400",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3273063,
-      "location": {
-        "name": "Denver, Colorado, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7334400,
-      "updated_at": "2025-11-20T10:34:03-05:00",
-      "requisition_id": "R25_000461",
-      "title": "Strategic Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:22-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354445",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3273063,
-      "location": {
-        "name": "Los Angeles, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7354445,
-      "updated_at": "2025-11-20T10:34:03-05:00",
-      "requisition_id": "R25_000461",
-      "title": "Strategic Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:24-04:00",
       "language": "en"
     },
     {
@@ -5040,7 +4267,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -5055,12 +4282,6 @@
           "name": "Job Description Link",
           "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
@@ -5070,135 +4291,11 @@
         }
       ],
       "id": 7354474,
-      "updated_at": "2025-11-20T10:34:03-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000461",
       "title": "Strategic Account Executive",
       "company_name": "Contentful",
       "first_published": "2025-10-23T15:36:25-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354463",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3273063,
-      "location": {
-        "name": "Boston, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7354463,
-      "updated_at": "2025-11-20T10:34:03-05:00",
-      "requisition_id": "R25_000461",
-      "title": "Strategic Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:26-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354459",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3273063,
-      "location": {
-        "name": "Chicago, Illinois, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2300 Account Executives",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7354459,
-      "updated_at": "2025-11-20T10:34:03-05:00",
-      "requisition_id": "R25_000461",
-      "title": "Strategic Account Executive",
-      "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:27-04:00",
       "language": "en"
     },
     {
@@ -5226,7 +4323,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -5243,10 +4340,60 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7354443,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000461",
+      "title": "Strategic Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-10-23T15:36:23-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354445",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273063,
+      "location": {
+        "name": "Los Angeles, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
         },
         {
           "id": 22674273,
@@ -5255,12 +4402,295 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7354443,
-      "updated_at": "2025-11-20T10:34:03-05:00",
+      "id": 7354445,
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000461",
       "title": "Strategic Account Executive",
       "company_name": "Contentful",
-      "first_published": "2025-10-23T15:36:23-04:00",
+      "first_published": "2025-10-23T15:36:24-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7334400",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273063,
+      "location": {
+        "name": "Denver, Colorado, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7334400,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000461",
+      "title": "Strategic Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-10-23T15:36:22-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354476",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273063,
+      "location": {
+        "name": "Austin, Texas, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7354476,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000461",
+      "title": "Strategic Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-10-23T15:36:30-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354459",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273063,
+      "location": {
+        "name": "Chicago, Illinois, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7354459,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000461",
+      "title": "Strategic Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-10-23T15:36:27-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7354463",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273063,
+      "location": {
+        "name": "Boston, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2300 Account Executives",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "https://docs.google.com/document/d/1vOGD1SSyfxBtN0lEWllMcUzZ4hXL2YfauDCmLxKMBWw/edit?tab=t.0#heading=h.cfkp7ty38vz0",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7354463,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000461",
+      "title": "Strategic Account Executive",
+      "company_name": "Contentful",
+      "first_published": "2025-10-23T15:36:26-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7426472",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3305297,
+      "location": {
+        "name": "Denver, Colorado, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "USD",
+            "amount": "224000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2600 Customer Success Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "tbd",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7426472,
+      "updated_at": "2025-12-15T13:08:58-05:00",
+      "requisition_id": "R25_000535",
+      "title": "Strategic Customer Success Manager",
+      "company_name": "Contentful",
+      "first_published": "2025-11-25T17:59:31-05:00",
       "language": "en"
     },
     {
@@ -5288,7 +4718,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "224000.0"
@@ -5308,12 +4738,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": null,
@@ -5321,7 +4745,7 @@
         }
       ],
       "id": 7426609,
-      "updated_at": "2025-12-08T18:41:40-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000535",
       "title": "Strategic Customer Success Manager",
       "company_name": "Contentful",
@@ -5353,7 +4777,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": {
             "unit": "USD",
             "amount": "224000.0"
@@ -5371,12 +4795,6 @@
           "name": "Job Description Link",
           "value": "tbd",
           "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
         },
         {
           "id": 22674273,
@@ -5386,76 +4804,11 @@
         }
       ],
       "id": 7426608,
-      "updated_at": "2025-12-08T18:41:40-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000535",
       "title": "Strategic Customer Success Manager",
       "company_name": "Contentful",
       "first_published": "2025-11-25T18:01:05-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7426472",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3305297,
-      "location": {
-        "name": "Denver, Colorado, United States"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54393571,
-          "name": "Range Max (NewField)",
-          "value": {
-            "unit": "USD",
-            "amount": "224000.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "2600 Customer Success Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "tbd",
-          "value_type": "long_text"
-        },
-        {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7426472,
-      "updated_at": "2025-12-08T18:41:40-05:00",
-      "requisition_id": "R25_000535",
-      "title": "Strategic Customer Success Manager",
-      "company_name": "Contentful",
-      "first_published": "2025-11-25T17:59:31-05:00",
       "language": "en"
     },
     {
@@ -5483,7 +4836,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -5500,12 +4853,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "NYC",
@@ -5513,7 +4860,7 @@
         }
       ],
       "id": 7354139,
-      "updated_at": "2025-11-20T10:34:09-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000462",
       "title": "Systems & Data Operations Analyst",
       "company_name": "Contentful",
@@ -5545,7 +4892,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -5562,12 +4909,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Denver, CO",
@@ -5575,7 +4916,7 @@
         }
       ],
       "id": 7396032,
-      "updated_at": "2025-12-09T19:28:28-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000492",
       "title": "Technical Product Marketing Manager - Demos",
       "company_name": "Contentful",
@@ -5607,7 +4948,7 @@
         },
         {
           "id": 54393571,
-          "name": "Range Max (NewField)",
+          "name": "Range MAX",
           "value": null,
           "value_type": "currency"
         },
@@ -5624,12 +4965,6 @@
           "value_type": "long_text"
         },
         {
-          "id": 6229849,
-          "name": "Job Tags",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
           "id": 22674273,
           "name": "Job posting locations/Entities",
           "value": "Denver, CO",
@@ -5637,11 +4972,70 @@
         }
       ],
       "id": 7384047,
-      "updated_at": "2025-12-09T19:28:28-05:00",
+      "updated_at": "2025-12-15T13:08:58-05:00",
       "requisition_id": "R25_000492",
       "title": "Technical Product Marketing Manager - Demos",
       "company_name": "Contentful",
       "first_published": "2025-11-11T10:11:17-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7473976",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3318428,
+      "location": {
+        "name": "New York City, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54393571,
+          "name": "Range MAX",
+          "value": {
+            "unit": "USD",
+            "amount": "136000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "2002 Professional Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1EJkbRhVV9TlMLPHVAeIMTL9KBkeGFMZKTKbOd7oZ2n8/edit?tab=t.0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "Denver",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7473976,
+      "updated_at": "2025-12-16T18:39:41-05:00",
+      "requisition_id": "R25_000551",
+      "title": "Technical Project Manager",
+      "company_name": "Contentful",
+      "first_published": "2025-12-15T23:45:39-05:00",
       "language": "en"
     }
   ]
