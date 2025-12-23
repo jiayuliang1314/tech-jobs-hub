@@ -1,7 +1,7 @@
 {
   "company": "verifone",
-  "fetched_at": "2025-12-20T03:52:21.093401",
-  "job_count": 82,
+  "fetched_at": "2025-12-23T04:04:49.092432",
+  "job_count": 87,
   "jobs": [
     {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6271808003?gh_jid=6271808003",
@@ -80,44 +80,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7453364003?gh_jid=7453364003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5634455003,
-      "location": {
-        "name": "Johannesburg, Gauteng, South Africa"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7453364003,
-      "updated_at": "2025-12-05T03:04:32-05:00",
-      "requisition_id": "R-52103",
-      "title": "Administrative Assistant",
-      "company_name": "Verifone",
-      "first_published": "2025-10-13T11:56:17-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7511729003?gh_jid=7511729003",
       "data_compliance": [
         {
@@ -156,7 +118,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6712639003?gh_jid=6712639003",
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7453364003?gh_jid=7453364003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -164,12 +126,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5269076003,
+      "internal_job_id": 5634455003,
       "location": {
-        "name": "São Paulo, São Paulo, Brazil"
+        "name": "Johannesburg, Gauteng, South Africa"
       },
       "metadata": [
         {
@@ -185,50 +147,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 6712639003,
-      "updated_at": "2025-12-05T03:02:28-05:00",
-      "requisition_id": "R-51927",
-      "title": "Administrative Support Intern",
+      "id": 7453364003,
+      "updated_at": "2025-12-05T03:04:32-05:00",
+      "requisition_id": "R-52103",
+      "title": "Administrative Assistant",
       "company_name": "Verifone",
-      "first_published": "2025-09-04T12:50:58-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7480030003?gh_jid=7480030003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5658480003,
-      "location": {
-        "name": "Dublin, Dublin, Ireland"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7480030003,
-      "updated_at": "2025-11-27T09:38:03-05:00",
-      "requisition_id": "R-51966",
-      "title": "Android Developer",
-      "company_name": "Verifone",
-      "first_published": "2025-11-27T09:38:03-05:00",
+      "first_published": "2025-10-13T11:56:17-04:00",
       "language": "en"
     },
     {
@@ -267,6 +191,44 @@
       "title": "Android Developer",
       "company_name": "Verifone",
       "first_published": "2025-06-10T13:07:38-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7480030003?gh_jid=7480030003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5658480003,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7480030003,
+      "updated_at": "2025-11-27T09:38:03-05:00",
+      "requisition_id": "R-51966",
+      "title": "Android Developer",
+      "company_name": "Verifone",
+      "first_published": "2025-11-27T09:38:03-05:00",
       "language": "en"
     },
     {
@@ -495,44 +457,6 @@
       "title": "Credit Risk Manager",
       "company_name": "Verifone",
       "first_published": "2025-05-14T02:48:07-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7546966003?gh_jid=7546966003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5685977003,
-      "location": {
-        "name": "Stockholm, Stockholm, Sweden"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7546966003,
-      "updated_at": "2025-12-16T09:31:47-05:00",
-      "requisition_id": "R-52169",
-      "title": "Customer Service Representative",
-      "company_name": "Verifone",
-      "first_published": "2025-12-04T11:58:11-05:00",
       "language": "en"
     },
     {
@@ -878,44 +802,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034530003?gh_jid=6034530003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4974820003,
-      "location": {
-        "name": "Helsinki, Uusimaa, Finland"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6034530003,
-      "updated_at": "2025-12-05T02:59:21-05:00",
-      "requisition_id": "R-49124",
-      "title": "Director, Enterprise Risk",
-      "company_name": "Verifone",
-      "first_published": "2024-06-25T03:53:24-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034533003?gh_jid=6034533003",
       "data_compliance": [
         {
@@ -989,6 +875,44 @@
       "title": "Director, Enterprise Risk",
       "company_name": "Verifone",
       "first_published": "2025-08-22T09:02:51-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6034530003?gh_jid=6034530003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4974820003,
+      "location": {
+        "name": "Helsinki, Uusimaa, Finland"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6034530003,
+      "updated_at": "2025-12-05T02:59:21-05:00",
+      "requisition_id": "R-49124",
+      "title": "Director, Enterprise Risk",
+      "company_name": "Verifone",
+      "first_published": "2024-06-25T03:53:24-04:00",
       "language": "en"
     },
     {
@@ -1103,6 +1027,44 @@
       "title": "FP&A Manager",
       "company_name": "Verifone",
       "first_published": "2025-11-25T12:43:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7544029003?gh_jid=7544029003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5684740003,
+      "location": {
+        "name": "Mexico City, Mexico City, Mexico"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7544029003,
+      "updated_at": "2025-12-22T11:05:15-05:00",
+      "requisition_id": "R-52419",
+      "title": "Gateway & AIO Service Analyst",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T11:05:15-05:00",
       "language": "en"
     },
     {
@@ -1790,6 +1752,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7544034003?gh_jid=7544034003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5684741003,
+      "location": {
+        "name": "Miami, Florida, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7544034003,
+      "updated_at": "2025-12-03T15:34:54-05:00",
+      "requisition_id": "R-52358",
+      "title": "Sales Representative",
+      "company_name": "Verifone",
+      "first_published": "2025-12-03T15:34:54-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7563053003?gh_jid=7563053003",
       "data_compliance": [
         {
@@ -1828,7 +1828,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7544034003?gh_jid=7544034003",
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7563486003?gh_jid=7563486003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1836,12 +1836,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5684741003,
+      "internal_job_id": 5690430003,
       "location": {
-        "name": "Miami, Florida, United States"
+        "name": "Helsinki, Uusimaa, Finland"
       },
       "metadata": [
         {
@@ -1857,12 +1857,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7544034003,
-      "updated_at": "2025-12-03T15:34:54-05:00",
-      "requisition_id": "R-52358",
-      "title": "Sales Representative",
+      "id": 7563486003,
+      "updated_at": "2025-12-17T04:33:08-05:00",
+      "requisition_id": "R-52429",
+      "title": "Scheme Compliance Officer",
       "company_name": "Verifone",
-      "first_published": "2025-12-03T15:34:54-05:00",
+      "first_published": "2025-12-17T04:32:30-05:00",
       "language": "en"
     },
     {
@@ -1904,44 +1904,6 @@
       "language": "de"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7563486003?gh_jid=7563486003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5690430003,
-      "location": {
-        "name": "Helsinki, Uusimaa, Finland"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7563486003,
-      "updated_at": "2025-12-17T04:33:08-05:00",
-      "requisition_id": "R-52429",
-      "title": "Scheme Compliance Officer",
-      "company_name": "Verifone",
-      "first_published": "2025-12-17T04:32:30-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6592573003?gh_jid=6592573003",
       "data_compliance": [
         {
@@ -1972,7 +1934,7 @@
         }
       ],
       "id": 6592573003,
-      "updated_at": "2025-12-16T14:46:05-05:00",
+      "updated_at": "2025-12-22T04:46:17-05:00",
       "requisition_id": "R-51374",
       "title": "Senior Android Developer",
       "company_name": "Verifone",
@@ -2094,44 +2056,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6657505003?gh_jid=6657505003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5243769003,
-      "location": {
-        "name": "Americas"
-      },
-      "metadata": [
-        {
-          "id": 20168612003,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20168642003,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6657505003,
-      "updated_at": "2025-12-19T11:46:11-05:00",
-      "requisition_id": "R-51718",
-      "title": "Senior HR Technology Analyst",
-      "company_name": "Verifone",
-      "first_published": "2025-07-25T08:27:05-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6657508003?gh_jid=6657508003",
       "data_compliance": [
         {
@@ -2162,7 +2086,7 @@
         }
       ],
       "id": 6657508003,
-      "updated_at": "2025-12-19T11:46:11-05:00",
+      "updated_at": "2025-12-22T11:31:22-05:00",
       "requisition_id": "R-51718",
       "title": "Senior HR Technology Analyst",
       "company_name": "Verifone",
@@ -2200,11 +2124,49 @@
         }
       ],
       "id": 7565302003,
-      "updated_at": "2025-12-19T11:46:11-05:00",
+      "updated_at": "2025-12-22T11:31:22-05:00",
       "requisition_id": "R-51718",
       "title": "Senior HR Technology Analyst",
       "company_name": "Verifone",
       "first_published": "2025-12-16T16:36:59-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/6657505003?gh_jid=6657505003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5243769003,
+      "location": {
+        "name": "Americas"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6657505003,
+      "updated_at": "2025-12-22T11:31:22-05:00",
+      "requisition_id": "R-51718",
+      "title": "Senior HR Technology Analyst",
+      "company_name": "Verifone",
+      "first_published": "2025-07-25T08:27:05-04:00",
       "language": "en"
     },
     {
@@ -2428,7 +2390,7 @@
         }
       ],
       "id": 7525573003,
-      "updated_at": "2025-12-19T17:31:23-05:00",
+      "updated_at": "2025-12-20T19:45:55-05:00",
       "requisition_id": "R-52282",
       "title": "Senior Software Engineer (Cross-Platform)",
       "company_name": "Verifone",
@@ -2699,6 +2661,234 @@
       "title": "Sr. Electrical Design Engineer ",
       "company_name": "Verifone",
       "first_published": "2025-09-10T06:29:04-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7570268003?gh_jid=7570268003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5693252003,
+      "location": {
+        "name": "Atlanta, Georgia, United States; New York, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570268003,
+      "updated_at": "2025-12-22T17:27:58-05:00",
+      "requisition_id": "R-52455",
+      "title": "Sr. Software Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T17:22:02-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7570276003?gh_jid=7570276003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5693254003,
+      "location": {
+        "name": "Atlanta, Georgia, United States; New York, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570276003,
+      "updated_at": "2025-12-22T17:04:47-05:00",
+      "requisition_id": "R-52456",
+      "title": "Sr. Software Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T16:52:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7570260003?gh_jid=7570260003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5693250003,
+      "location": {
+        "name": "Atlanta, Georgia, United States; New York, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570260003,
+      "updated_at": "2025-12-22T18:17:52-05:00",
+      "requisition_id": "R-52452",
+      "title": "Staff Software Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T18:17:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7570272003?gh_jid=7570272003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5693253003,
+      "location": {
+        "name": "Atlanta, Georgia, United States; New York, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570272003,
+      "updated_at": "2025-12-22T17:14:23-05:00",
+      "requisition_id": "R-52453",
+      "title": "Staff Software Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T17:14:23-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7570264003?gh_jid=7570264003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5693251003,
+      "location": {
+        "name": "Atlanta, Georgia, United States; New York, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570264003,
+      "updated_at": "2025-12-22T17:40:03-05:00",
+      "requisition_id": "R-52454",
+      "title": "Staff Software Engineer",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T17:39:26-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v2/verifone/post/7566823003?gh_jid=7566823003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5691751003,
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "metadata": [
+        {
+          "id": 20168612003,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20168642003,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7566823003,
+      "updated_at": "2025-12-22T13:09:19-05:00",
+      "requisition_id": "R-52517",
+      "title": "Staff Software Engineer (Backend / Platform)",
+      "company_name": "Verifone",
+      "first_published": "2025-12-22T13:09:19-05:00",
       "language": "en"
     },
     {
