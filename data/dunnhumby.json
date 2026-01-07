@@ -1,65 +1,8 @@
 {
   "company": "dunnhumby",
-  "fetched_at": "2026-01-04T04:25:45.311372",
-  "job_count": 76,
+  "fetched_at": "2026-01-07T04:18:31.217151",
+  "job_count": 74,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7479813003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_optional",
-      "internal_job_id": 5658396003,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Toby Holland",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7479813003,
-      "updated_at": "2025-10-08T06:55:52-04:00",
-      "requisition_id": "DA2.203-2025-09-26",
-      "title": "Applied Data Scientist",
-      "company_name": "dunnhumby",
-      "first_published": "2025-10-02T05:28:33-04:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7505715003",
       "data_compliance": [
@@ -110,7 +53,7 @@
         }
       ],
       "id": 7505715003,
-      "updated_at": "2025-11-20T17:43:37-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA2.208-2025-10-22",
       "title": "Applied Data Scientist",
       "company_name": "dunnhumby",
@@ -118,7 +61,7 @@
       "language": "fr"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7498708003",
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7479813003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -130,9 +73,9 @@
         }
       ],
       "employment": "employment_optional",
-      "internal_job_id": 5666625003,
+      "internal_job_id": 5658396003,
       "location": {
-        "name": "Budapest"
+        "name": "London"
       },
       "metadata": [
         {
@@ -162,16 +105,16 @@
         {
           "id": 4574849003,
           "name": "Hiring Manager",
-          "value": "Barbora Demovicova",
+          "value": "Toby Holland",
           "value_type": "short_text"
         }
       ],
-      "id": 7498708003,
-      "updated_at": "2025-10-22T09:53:06-04:00",
-      "requisition_id": "DA2.100-2025-10-15",
+      "id": 7479813003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "DA2.203-2025-09-26",
       "title": "Applied Data Scientist",
       "company_name": "dunnhumby",
-      "first_published": "2025-10-22T09:50:30-04:00",
+      "first_published": "2025-10-02T05:28:33-04:00",
       "language": "en"
     },
     {
@@ -224,11 +167,68 @@
         }
       ],
       "id": 7484943003,
-      "updated_at": "2025-10-17T08:03:12-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA2.207-2025-10-01",
       "title": "Applied Data Scientist",
       "company_name": "dunnhumby",
       "first_published": "2025-10-17T08:03:12-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7498708003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "employment": "employment_optional",
+      "internal_job_id": 5666625003,
+      "location": {
+        "name": "Budapest"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Data Science",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Barbora Demovicova",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7498708003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "DA2.100-2025-10-15",
+      "title": "Applied Data Scientist",
+      "company_name": "dunnhumby",
+      "first_published": "2025-10-22T09:50:30-04:00",
       "language": "en"
     },
     {
@@ -280,67 +280,11 @@
         }
       ],
       "id": 7575599003,
-      "updated_at": "2026-01-02T01:16:23-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI1.58-2025-10-21",
       "title": "Associate Security Analyst",
       "company_name": "dunnhumby",
       "first_published": "2025-12-31T03:45:10-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7541952003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5683940003,
-      "location": {
-        "name": "Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": "Software Engineering - Software Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Srishti Khanna",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7541952003,
-      "updated_at": "2025-12-11T00:45:53-05:00",
-      "requisition_id": "TI2.199-2025-11-27",
-      "title": "Big Data Engineer",
-      "company_name": "dunnhumby",
-      "first_published": "2025-12-11T00:45:53-05:00",
       "language": "en"
     },
     {
@@ -392,11 +336,67 @@
         }
       ],
       "id": 7535030003,
-      "updated_at": "2025-12-09T12:41:25-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "ME1.10-2025-11-20",
       "title": "Campaign Management Associate",
       "company_name": "dunnhumby",
       "first_published": "2025-12-09T12:38:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6641250003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5236681003,
+      "location": {
+        "name": "Dubai"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "General",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Ashmeet Monga",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 6641250003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CL2.221-2025-07-07",
+      "title": "Category Management Client Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2025-07-14T23:51:19-04:00",
       "language": "en"
     },
     {
@@ -448,68 +448,11 @@
         }
       ],
       "id": 7510419003,
-      "updated_at": "2025-10-28T04:54:56-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL2.201MAT-2025-09-25",
       "title": "Category Management Client Lead (FTC) ",
       "company_name": "dunnhumby",
       "first_published": "2025-10-28T04:54:56-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7528084003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_required",
-      "internal_job_id": 5678479003,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Client",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Charlie Cantor",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7528084003,
-      "updated_at": "2025-11-19T05:01:15-05:00",
-      "requisition_id": "CA3.28-2025-11-13",
-      "title": "Category Management Senior Client Lead",
-      "company_name": "dunnhumby",
-      "first_published": "2025-11-19T05:00:06-05:00",
       "language": "en"
     },
     {
@@ -562,11 +505,68 @@
         }
       ],
       "id": 7524503003,
-      "updated_at": "2025-11-18T11:36:35-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA3.69-2025-11-10",
       "title": "Category Management Senior Client Lead",
       "company_name": "dunnhumby",
       "first_published": "2025-11-18T11:36:35-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7528084003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "employment": "employment_required",
+      "internal_job_id": 5678479003,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Client",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Charlie Cantor",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7528084003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CA3.28-2025-11-13",
+      "title": "Category Management Senior Client Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2025-11-19T05:00:06-05:00",
       "language": "en"
     },
     {
@@ -619,68 +619,11 @@
         }
       ],
       "id": 6296256003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "92",
       "title": "Category Management Specialist",
       "company_name": "dunnhumby",
       "first_published": "2025-01-30T17:19:44-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7566594003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_optional",
-      "internal_job_id": 5691667003,
-      "location": {
-        "name": "Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Ramesh Kumar",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7566594003,
-      "updated_at": "2025-12-19T04:11:10-05:00",
-      "requisition_id": "DA2.121-2025-12-17",
-      "title": "Data Science / AI Engineer",
-      "company_name": "dunnhumby",
-      "first_published": "2025-12-19T04:11:10-05:00",
       "language": "en"
     },
     {
@@ -732,7 +675,7 @@
         }
       ],
       "id": 7538610003,
-      "updated_at": "2025-11-25T05:38:39-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA2.181-2025-11-18",
       "title": "Data Science Engineer",
       "company_name": "dunnhumby",
@@ -740,7 +683,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6646624003",
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7570504003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -751,7 +694,8 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5238871003,
+      "employment": "employment_optional",
+      "internal_job_id": 5693344003,
       "location": {
         "name": "Gurgaon"
       },
@@ -771,28 +715,28 @@
         {
           "id": 4411408003,
           "name": "Careers Pages Web-Hook",
-          "value": "Software Engineering",
+          "value": "Data Science",
           "value_type": "single_select"
         },
         {
           "id": 4423094003,
           "name": "Careers Pages Filter - Web-Hook",
-          "value": "Software Engineering - Software Engineering",
+          "value": null,
           "value_type": "single_select"
         },
         {
           "id": 4574849003,
           "name": "Hiring Manager",
-          "value": "Chhavi Sinha",
+          "value": "Ramesh Kumar",
           "value_type": "short_text"
         }
       ],
-      "id": 6646624003,
-      "updated_at": "2025-12-23T06:19:21-05:00",
-      "requisition_id": "TI2.116-2025-07-11",
-      "title": "Engineer",
+      "id": 7570504003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "DA2.123-2025-12-22",
+      "title": "Data Science Engineer/ Full Stack Engineer",
       "company_name": "dunnhumby",
-      "first_published": "2025-11-18T04:27:58-05:00",
+      "first_published": "2026-01-05T23:16:16-05:00",
       "language": "en"
     },
     {
@@ -844,7 +788,7 @@
         }
       ],
       "id": 7562185003,
-      "updated_at": "2025-12-24T07:41:46-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.215-2024-12-13",
       "title": "Engineering Manager - Fullstack",
       "company_name": "dunnhumby",
@@ -900,7 +844,7 @@
         }
       ],
       "id": 6642735003,
-      "updated_at": "2025-12-22T00:54:28-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.67-2025-07-08",
       "title": "Engineering Manager - Full Stack",
       "company_name": "dunnhumby",
@@ -956,7 +900,7 @@
         }
       ],
       "id": 6560487003,
-      "updated_at": "2025-11-11T06:14:37-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.191-2025-01-08",
       "title": "Engineering Manager -MLOps",
       "company_name": "dunnhumby",
@@ -1012,7 +956,7 @@
         }
       ],
       "id": 7496407003,
-      "updated_at": "2025-12-08T04:27:10-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL4.106-2025-10-13",
       "title": "Group Account Manager",
       "company_name": "dunnhumby",
@@ -1068,7 +1012,7 @@
         }
       ],
       "id": 7545414003,
-      "updated_at": "2025-12-11T08:45:30-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CO6.17-2025-12-02",
       "title": "Head of Business Change",
       "company_name": "dunnhumby",
@@ -1125,7 +1069,7 @@
         }
       ],
       "id": 7561622003,
-      "updated_at": "2025-12-16T09:53:09-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL1.26-2025-12-12",
       "title": "Insights Client Success Associate",
       "company_name": "dunnhumby",
@@ -1182,11 +1126,67 @@
         }
       ],
       "id": 7549177003,
-      "updated_at": "2025-12-09T09:31:20-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL2.117-2025-12-05",
       "title": "Insights Client Success Executive",
       "company_name": "dunnhumby",
       "first_published": "2025-12-09T09:31:20-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6584060003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5208720003,
+      "location": {
+        "name": "Tokyo"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Client",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Alex Shabelnikov",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 6584060003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CL3.169-2025-04-30",
+      "title": "Insights Client Success Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2025-05-21T05:14:24-04:00",
       "language": "en"
     },
     {
@@ -1239,67 +1239,11 @@
         }
       ],
       "id": 6561369003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL3.169-2025-04-30",
       "title": "Insights Client Success Lead",
       "company_name": "dunnhumby",
       "first_published": "2025-05-21T05:09:17-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6584060003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5208720003,
-      "location": {
-        "name": "Tokyo"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Client",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Alex Shabelnikov",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 6584060003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
-      "requisition_id": "CL3.169-2025-04-30",
-      "title": "Insights Client Success Lead",
-      "company_name": "dunnhumby",
-      "first_published": "2025-05-21T05:14:24-04:00",
       "language": "en"
     },
     {
@@ -1352,7 +1296,7 @@
         }
       ],
       "id": 7549178003,
-      "updated_at": "2025-12-10T10:56:23-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "SA3.37-2025-12-05",
       "title": "Insights Sales Lead",
       "company_name": "dunnhumby",
@@ -1408,7 +1352,7 @@
         }
       ],
       "id": 6046860003,
-      "updated_at": "2025-11-10T12:40:09-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "88",
       "title": "Key Account Manager - Tesco Retail Media",
       "company_name": "dunnhumby",
@@ -1464,7 +1408,7 @@
         }
       ],
       "id": 7572089003,
-      "updated_at": "2025-12-24T06:52:55-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "110",
       "title": "L&D Associate / Instructional designer",
       "company_name": "dunnhumby",
@@ -1520,7 +1464,7 @@
         }
       ],
       "id": 7551761003,
-      "updated_at": "2025-12-09T08:31:11-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.229-2025-05-06",
       "title": "Lead Engineer",
       "company_name": "dunnhumby",
@@ -1576,7 +1520,7 @@
         }
       ],
       "id": 6567377003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.229-2025-05-06",
       "title": "Lead Engineer",
       "company_name": "dunnhumby",
@@ -1632,123 +1576,11 @@
         }
       ],
       "id": 7493764003,
-      "updated_at": "2025-11-27T03:11:56-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.202-2025-10-09",
       "title": "Lead Engineer(Architect)",
       "company_name": "dunnhumby",
       "first_published": "2025-10-14T08:29:49-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6675256003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5251047003,
-      "location": {
-        "name": "Prague"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Media",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Renata Bouskova",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 6675256003,
-      "updated_at": "2025-10-03T07:01:11-04:00",
-      "requisition_id": "CM2.68-2025-08-07",
-      "title": "Media Planner",
-      "company_name": "dunnhumby",
-      "first_published": "2025-10-03T07:01:11-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7567809003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5689271003,
-      "location": {
-        "name": "Bentonville"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Media",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Catalina Isaza",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7567809003,
-      "updated_at": "2025-12-18T14:25:19-05:00",
-      "requisition_id": "CM2.79-2025-12-11",
-      "title": "Media Planner",
-      "company_name": "dunnhumby",
-      "first_published": "2025-12-18T14:25:19-05:00",
       "language": "en"
     },
     {
@@ -1800,7 +1632,7 @@
         }
       ],
       "id": 7542402003,
-      "updated_at": "2025-12-04T12:05:57-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CM2.56-2024-11-27",
       "title": "Media Planner",
       "company_name": "dunnhumby",
@@ -1808,7 +1640,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6758398003",
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7567809003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1819,15 +1651,15 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5291830003,
+      "internal_job_id": 5689271003,
       "location": {
-        "name": "London"
+        "name": "Bentonville"
       },
       "metadata": [
         {
           "id": 4211885003,
           "name": "Grade",
-          "value": "3",
+          "value": "2",
           "value_type": "single_select"
         },
         {
@@ -1839,28 +1671,84 @@
         {
           "id": 4411408003,
           "name": "Careers Pages Web-Hook",
-          "value": "Media Solutions",
+          "value": "Media",
           "value_type": "single_select"
         },
         {
           "id": 4423094003,
           "name": "Careers Pages Filter - Web-Hook",
-          "value": "General - Media Solutions",
+          "value": null,
           "value_type": "single_select"
         },
         {
           "id": 4574849003,
           "name": "Hiring Manager",
-          "value": "Louise Rushton",
+          "value": "Catalina Isaza",
           "value_type": "short_text"
         }
       ],
-      "id": 6758398003,
-      "updated_at": "2025-12-01T07:46:39-05:00",
-      "requisition_id": "ME3.5-2025-08-27",
-      "title": "Media Senior Consulting Lead",
+      "id": 7567809003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CM2.79-2025-12-11",
+      "title": "Media Planner",
       "company_name": "dunnhumby",
-      "first_published": "2025-12-01T07:46:39-05:00",
+      "first_published": "2025-12-18T14:25:19-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6675256003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5251047003,
+      "location": {
+        "name": "Prague"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Media",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Renata Bouskova",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 6675256003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CM2.68-2025-08-07",
+      "title": "Media Planner",
+      "company_name": "dunnhumby",
+      "first_published": "2025-10-03T07:01:11-04:00",
       "language": "en"
     },
     {
@@ -1912,67 +1800,11 @@
         }
       ],
       "id": 7532690003,
-      "updated_at": "2025-11-26T07:24:31-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "OP4.34FTC-2025-11-18",
       "title": "Media Transformation Manager",
       "company_name": "dunnhumby",
       "first_published": "2025-11-26T07:24:31-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7559979003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5687376003,
-      "location": {
-        "name": "Sao Paulo"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "4",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Media Solutions",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": "General - Media Solutions",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Jorge Romero Garcia",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7559979003,
-      "updated_at": "2025-12-11T12:20:47-05:00",
-      "requisition_id": "CA4.59-2025-12-04",
-      "title": "Price and Promotion Consulting and Implementation Manager",
-      "company_name": "dunnhumby",
-      "first_published": "2025-12-11T12:20:47-05:00",
       "language": "en"
     },
     {
@@ -2024,7 +1856,7 @@
         }
       ],
       "id": 6893989003,
-      "updated_at": "2026-01-02T01:17:53-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA2.19-2025-07-07",
       "title": "Price and Promotions Client Lead",
       "company_name": "dunnhumby",
@@ -2080,7 +1912,7 @@
         }
       ],
       "id": 7545410003,
-      "updated_at": "2025-12-02T17:01:17-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA3.32-2025-12-02",
       "title": "Price & Promotion Implementation Lead",
       "company_name": "dunnhumby",
@@ -2136,7 +1968,7 @@
         }
       ],
       "id": 7476180003,
-      "updated_at": "2025-10-22T09:07:28-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA3.82FTC-2025-09-22",
       "title": "Price & Promotion Senior Consulting Lead (FTC)",
       "company_name": "dunnhumby",
@@ -2192,7 +2024,7 @@
         }
       ],
       "id": 7528082003,
-      "updated_at": "2025-11-24T05:26:22-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "PD4.12-2025-11-13",
       "title": "Product Design Manager",
       "company_name": "dunnhumby",
@@ -2248,68 +2080,11 @@
         }
       ],
       "id": 7525087003,
-      "updated_at": "2025-11-26T01:54:32-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "PD3.38-2025-11-06",
       "title": "Product Manager",
       "company_name": "dunnhumby",
       "first_published": "2025-11-11T03:04:21-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7532693003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_optional",
-      "internal_job_id": 5680403003,
-      "location": {
-        "name": "Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Abhinav Arya",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7532693003,
-      "updated_at": "2026-01-02T04:57:04-05:00",
-      "requisition_id": "DA2.219-2025-11-18",
-      "title": "Research Data Scientist",
-      "company_name": "dunnhumby",
-      "first_published": "2025-11-20T01:07:04-05:00",
       "language": "en"
     },
     {
@@ -2361,7 +2136,7 @@
         }
       ],
       "id": 7541055003,
-      "updated_at": "2025-12-01T06:52:24-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL1.56-2025-11-26",
       "title": "Retail Client Associate",
       "company_name": "dunnhumby",
@@ -2417,7 +2192,7 @@
         }
       ],
       "id": 7547673003,
-      "updated_at": "2025-12-12T11:14:03-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL2.124-2025-12-04",
       "title": "Retail Client Lead",
       "company_name": "dunnhumby",
@@ -2473,7 +2248,7 @@
         }
       ],
       "id": 7552446003,
-      "updated_at": "2025-12-11T08:35:16-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA4.61-2025-12-09",
       "title": "Retail Services Manager",
       "company_name": "dunnhumby",
@@ -2530,68 +2305,11 @@
         }
       ],
       "id": 6616795003,
-      "updated_at": "2025-11-24T05:14:22-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA3.103-2025-06-20",
       "title": "Senior Applied Data Scientist",
       "company_name": "dunnhumby",
       "first_published": "2025-11-24T05:13:30-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7496413003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_optional",
-      "internal_job_id": 5665571003,
-      "location": {
-        "name": "Toronto"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Antoine Cudorge",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7496413003,
-      "updated_at": "2025-10-15T16:00:18-04:00",
-      "requisition_id": "DA3.119-2025-10-13",
-      "title": "Senior Applied Data Scientist",
-      "company_name": "dunnhumby",
-      "first_published": "2025-10-15T12:30:50-04:00",
       "language": "en"
     },
     {
@@ -2644,7 +2362,7 @@
         }
       ],
       "id": 7550966003,
-      "updated_at": "2025-12-15T03:19:06-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA3.56-2025-12-08",
       "title": "Senior Applied Data Scientist",
       "company_name": "dunnhumby",
@@ -2701,11 +2419,68 @@
         }
       ],
       "id": 7561624003,
-      "updated_at": "2025-12-19T10:50:41-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA3.273-2025-12-12",
       "title": "Senior Applied Data Scientist",
       "company_name": "dunnhumby",
       "first_published": "2025-12-19T10:50:41-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7496413003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "employment": "employment_optional",
+      "internal_job_id": 5665571003,
+      "location": {
+        "name": "Toronto"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Data Science",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Antoine Cudorge",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7496413003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "DA3.119-2025-10-13",
+      "title": "Senior Applied Data Scientist",
+      "company_name": "dunnhumby",
+      "first_published": "2025-10-15T12:30:50-04:00",
       "language": "en"
     },
     {
@@ -2757,7 +2532,7 @@
         }
       ],
       "id": 6548627003,
-      "updated_at": "2025-11-28T01:48:04-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI3.329-2025-04-18",
       "title": "Senior Big Data Engineer - Architect",
       "company_name": "dunnhumby",
@@ -2813,7 +2588,7 @@
         }
       ],
       "id": 6513693003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "98",
       "title": "Senior Client Partner",
       "company_name": "dunnhumby",
@@ -2869,68 +2644,11 @@
         }
       ],
       "id": 7534288003,
-      "updated_at": "2026-01-02T03:53:27-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI3.106-2025-11-14",
       "title": "Senior Data Engineer",
       "company_name": "dunnhumby",
       "first_published": "2025-11-20T00:16:35-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7496409003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_optional",
-      "internal_job_id": 5665567003,
-      "location": {
-        "name": "Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Ramesh Kumar",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7496409003,
-      "updated_at": "2025-12-19T04:46:00-05:00",
-      "requisition_id": "DA3.137-2025-10-13",
-      "title": "Senior Data Science /Full Stack Engineer",
-      "company_name": "dunnhumby",
-      "first_published": "2025-11-03T06:51:55-05:00",
       "language": "en"
     },
     {
@@ -2982,11 +2700,67 @@
         }
       ],
       "id": 7533654003,
-      "updated_at": "2025-11-26T10:32:42-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "108",
       "title": "Senior Director of Category & Brand Growth",
       "company_name": "dunnhumby",
       "first_published": "2025-11-19T12:08:19-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7562184003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5690052003,
+      "location": {
+        "name": "Gurgaon"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": "Software Engineering - Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Anurag Kumar Sharma",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7562184003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "TI3.375-2024-12-13",
+      "title": "Senior Engineer",
+      "company_name": "dunnhumby",
+      "first_published": "2026-01-05T05:57:01-05:00",
       "language": "en"
     },
     {
@@ -3038,7 +2812,7 @@
         }
       ],
       "id": 7549173003,
-      "updated_at": "2025-12-08T10:47:57-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "LE4.15-2025-12-05",
       "title": "Senior Legal Counsel (Media)",
       "company_name": "dunnhumby",
@@ -3094,7 +2868,7 @@
         }
       ],
       "id": 6675250003,
-      "updated_at": "2025-11-17T10:17:26-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "LE4.15-2025-08-07",
       "title": "Senior Legal Counsel –Technology, AI & Procurement ",
       "company_name": "dunnhumby",
@@ -3150,7 +2924,7 @@
         }
       ],
       "id": 7513480003,
-      "updated_at": "2025-11-20T19:47:14-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "ME4.29-2025-10-30",
       "title": "Senior Media Client Services Manager – CRM & Content",
       "company_name": "dunnhumby",
@@ -3206,7 +2980,7 @@
         }
       ],
       "id": 7181666003,
-      "updated_at": "2025-12-17T05:52:08-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CA3.81-2025-09-10",
       "title": "Senior Propositions Lead",
       "company_name": "dunnhumby",
@@ -3262,7 +3036,7 @@
         }
       ],
       "id": 7538609003,
-      "updated_at": "2025-11-25T05:35:25-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA3.209-2025-11-05",
       "title": "Senior Research Data Scientist",
       "company_name": "dunnhumby",
@@ -3318,67 +3092,11 @@
         }
       ],
       "id": 7550475003,
-      "updated_at": "2025-12-08T09:54:54-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "DA3.169-2025-11-28",
       "title": "Senior Research Lead",
       "company_name": "dunnhumby",
       "first_published": "2025-12-08T09:54:54-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7569207003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5692187003,
-      "location": {
-        "name": "Bogota"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Corporate",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": "Corporate - Human Resources",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Craig Spafford",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7569207003,
-      "updated_at": "2025-12-19T18:29:59-05:00",
-      "requisition_id": "HR3.21-2025-12-18",
-      "title": "Senior Reward Analyst",
-      "company_name": "dunnhumby",
-      "first_published": "2025-12-19T18:29:59-05:00",
       "language": "en"
     },
     {
@@ -3430,7 +3148,7 @@
         }
       ],
       "id": 7569202003,
-      "updated_at": "2025-12-19T18:29:20-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "HR3.21-2025-12-18",
       "title": "Senior Reward Analyst",
       "company_name": "dunnhumby",
@@ -3486,11 +3204,67 @@
         }
       ],
       "id": 7567852003,
-      "updated_at": "2025-12-23T16:26:49-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "HR3.21-2025-12-18",
       "title": "Senior Reward Analyst",
       "company_name": "dunnhumby",
       "first_published": "2025-12-19T18:11:37-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7569207003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5692187003,
+      "location": {
+        "name": "Bogota"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": "Corporate - Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Craig Spafford",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7569207003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "HR3.21-2025-12-18",
+      "title": "Senior Reward Analyst",
+      "company_name": "dunnhumby",
+      "first_published": "2025-12-19T18:29:59-05:00",
       "language": "en"
     },
     {
@@ -3542,7 +3316,7 @@
         }
       ],
       "id": 6319734003,
-      "updated_at": "2025-11-05T03:53:36-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI3.368-2025-01-08",
       "title": "Senior Software Engineer - Backend",
       "company_name": "dunnhumby",
@@ -3598,11 +3372,67 @@
         }
       ],
       "id": 6612187003,
-      "updated_at": "2025-09-29T04:41:29-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "OP3.12-2025-06-16",
       "title": "Senior Technical Applications Analyst- Fusion Technical Consultant",
       "company_name": "dunnhumby",
       "first_published": "2025-06-24T00:22:27-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7567844003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5692179003,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Media Solutions",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": "General - Media Solutions",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Hélène Dolberg",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7567844003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "PD3.29-2025-12-18",
+      "title": "Senior User Researcher",
+      "company_name": "dunnhumby",
+      "first_published": "2026-01-05T10:18:22-05:00",
       "language": "en"
     },
     {
@@ -3654,7 +3484,7 @@
         }
       ],
       "id": 7493766003,
-      "updated_at": "2025-10-24T10:31:43-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "PD4.68-2025-10-09",
       "title": "Service Design Principal",
       "company_name": "dunnhumby",
@@ -3711,7 +3541,7 @@
         }
       ],
       "id": 6076669003,
-      "updated_at": "2025-09-26T16:01:37-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "3",
       "title": "Shopper Insight Client Lead",
       "company_name": "dunnhumby",
@@ -3768,7 +3598,7 @@
         }
       ],
       "id": 6591823003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "3",
       "title": "Shopper Insight Client Lead",
       "company_name": "dunnhumby",
@@ -3825,7 +3655,7 @@
         }
       ],
       "id": 7541053003,
-      "updated_at": "2025-12-02T06:11:26-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL1.47-2025-11-26",
       "title": "Shopper Insights Client Associate",
       "company_name": "dunnhumby",
@@ -3882,7 +3712,7 @@
         }
       ],
       "id": 7561618003,
-      "updated_at": "2025-12-18T16:58:34-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL1.28-2025-12-11",
       "title": "Shopper Insights Client Associate",
       "company_name": "dunnhumby",
@@ -3939,7 +3769,7 @@
         }
       ],
       "id": 6296252003,
-      "updated_at": "2025-12-16T18:28:35-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "91",
       "title": "Shopper Insights Client Associate ",
       "company_name": "dunnhumby",
@@ -3996,7 +3826,7 @@
         }
       ],
       "id": 6532947003,
-      "updated_at": "2025-09-04T08:17:35-04:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "100",
       "title": "Shopper Insights Client Lead",
       "company_name": "dunnhumby",
@@ -4053,11 +3883,67 @@
         }
       ],
       "id": 7541054003,
-      "updated_at": "2025-12-05T05:26:54-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CL2.237MAT-2025-11-26",
       "title": "Shopper Insights Client Lead - 12 Month FTC",
       "company_name": "dunnhumby",
       "first_published": "2025-12-02T06:19:19-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6646624003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5238871003,
+      "location": {
+        "name": "Gurgaon"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": "Software Engineering - Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Chhavi Sinha",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 6646624003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "TI2.116-2025-07-11",
+      "title": "Software Engineer",
+      "company_name": "dunnhumby",
+      "first_published": "2025-11-18T04:27:58-05:00",
       "language": "en"
     },
     {
@@ -4109,67 +3995,11 @@
         }
       ],
       "id": 7525741003,
-      "updated_at": "2025-11-28T05:11:25-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI2.92-2025-11-11",
       "title": "Software Engineer",
       "company_name": "dunnhumby",
       "first_published": "2025-11-28T05:11:25-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7526869003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5677915003,
-      "location": {
-        "name": "Bogota"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "1",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Corporate",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4423094003,
-          "name": "Careers Pages Filter - Web-Hook",
-          "value": "Corporate - Procurement",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Leo Nagdas",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7526869003,
-      "updated_at": "2025-11-13T11:12:12-05:00",
-      "requisition_id": "CO1.12-2025-11-12",
-      "title": "Strategy Operations Associate",
-      "company_name": "dunnhumby",
-      "first_published": "2025-11-13T11:12:12-05:00",
       "language": "en"
     },
     {
@@ -4221,11 +4051,67 @@
         }
       ],
       "id": 7527674003,
-      "updated_at": "2025-11-13T11:25:31-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "CO1.12-2025-11-12",
       "title": "Strategy Operations Associate",
       "company_name": "dunnhumby",
       "first_published": "2025-11-13T11:25:31-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7526869003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5677915003,
+      "location": {
+        "name": "Bogota"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "1",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4423094003,
+          "name": "Careers Pages Filter - Web-Hook",
+          "value": "Corporate - Procurement",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Leo Nagdas",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7526869003,
+      "updated_at": "2026-01-06T09:00:12-05:00",
+      "requisition_id": "CO1.12-2025-11-12",
+      "title": "Strategy Operations Associate",
+      "company_name": "dunnhumby",
+      "first_published": "2025-11-13T11:12:12-05:00",
       "language": "en"
     },
     {
@@ -4277,7 +4163,7 @@
         }
       ],
       "id": 6938528003,
-      "updated_at": "2025-11-19T05:15:22-05:00",
+      "updated_at": "2026-01-06T09:00:12-05:00",
       "requisition_id": "TI4.210-2025-09-02",
       "title": "System Reliability Manager",
       "company_name": "dunnhumby",
