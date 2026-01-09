@@ -1,7 +1,7 @@
 {
   "company": "wizeline",
-  "fetched_at": "2026-01-08T04:15:53.949443",
-  "job_count": 119,
+  "fetched_at": "2026-01-09T04:15:45.321718",
+  "job_count": 122,
   "jobs": [
     {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7027885",
@@ -246,7 +246,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7505431",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7522185",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -257,7 +257,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3326919,
+      "education": "education_required",
+      "employment": "employment_required",
+      "internal_job_id": 3332494,
       "location": {
         "name": "Colombia"
       },
@@ -307,7 +309,7 @@
         {
           "id": 33108680,
           "name": "Account",
-          "value": "Capital Group",
+          "value": null,
           "value_type": "short_text"
         },
         {
@@ -317,12 +319,94 @@
           "value_type": "short_text"
         }
       ],
-      "id": 7505431,
-      "updated_at": "2025-12-29T17:10:51-05:00",
+      "id": 7522185,
+      "updated_at": "2026-01-07T23:34:59-05:00",
       "requisition_id": null,
-      "title": "Channel Marketing Specialist l2",
+      "title": "Channel Marketing Specialist",
       "company_name": "WIZELINE",
-      "first_published": "2025-12-29T17:10:51-05:00",
+      "first_published": "2026-01-07T23:34:59-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7521924",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "employment": "employment_required",
+      "internal_job_id": 3332494,
+      "location": {
+        "name": "Mexico"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7521924,
+      "updated_at": "2026-01-07T23:34:57-05:00",
+      "requisition_id": null,
+      "title": "Channel Marketing Specialist",
+      "company_name": "WIZELINE",
+      "first_published": "2026-01-07T23:34:57-05:00",
       "language": "en"
     },
     {
@@ -403,6 +487,86 @@
       "title": "Channel Marketing Specialist l2",
       "company_name": "WIZELINE",
       "first_published": "2025-12-29T17:16:43-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7505431",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3326919,
+      "location": {
+        "name": "Colombia"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": "Capital Group",
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7505431,
+      "updated_at": "2025-12-29T17:10:51-05:00",
+      "requisition_id": null,
+      "title": "Channel Marketing Specialist l2",
+      "company_name": "WIZELINE",
+      "first_published": "2025-12-29T17:10:51-05:00",
       "language": "en"
     },
     {
@@ -808,86 +972,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7463445",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3118082,
-      "location": {
-        "name": "Colombia"
-      },
-      "metadata": [
-        {
-          "id": 14080,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 153265,
-          "name": "description",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 1016526,
-          "name": "Interviewing guide",
-          "value": null,
-          "value_type": "url"
-        },
-        {
-          "id": 2115833,
-          "name": "Internal Level",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 2454257,
-          "name": "RR Resource Request",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 2454260,
-          "name": "Project Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 11674367,
-          "name": "High Demand Job",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 33108680,
-          "name": "Account",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 33108697,
-          "name": "Region",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7463445,
-      "updated_at": "2025-12-17T14:32:58-05:00",
-      "requisition_id": null,
-      "title": "Data Scientist- ML Engineering",
-      "company_name": "WIZELINE",
-      "first_published": "2025-12-11T16:24:07-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7467500",
       "data_compliance": [
         {
@@ -965,6 +1049,86 @@
       "title": "Data Scientist- ML Engineering",
       "company_name": "WIZELINE",
       "first_published": "2025-12-12T14:52:58-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7463445",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3118082,
+      "location": {
+        "name": "Colombia"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7463445,
+      "updated_at": "2025-12-17T14:32:58-05:00",
+      "requisition_id": null,
+      "title": "Data Scientist- ML Engineering",
+      "company_name": "WIZELINE",
+      "first_published": "2025-12-11T16:24:07-05:00",
       "language": "en"
     },
     {
@@ -1289,86 +1453,6 @@
       "title": "Editorial Specialist (Finance & Compliance)",
       "company_name": "WIZELINE",
       "first_published": "2025-11-19T17:11:18-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=6812460",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 1558093,
-      "location": {
-        "name": "Mexico City"
-      },
-      "metadata": [
-        {
-          "id": 14080,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 153265,
-          "name": "description",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 1016526,
-          "name": "Interviewing guide",
-          "value": null,
-          "value_type": "url"
-        },
-        {
-          "id": 2115833,
-          "name": "Internal Level",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 2454257,
-          "name": "RR Resource Request",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 2454260,
-          "name": "Project Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 11674367,
-          "name": "High Demand Job",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 33108680,
-          "name": "Account",
-          "value": "Citibanamex",
-          "value_type": "short_text"
-        },
-        {
-          "id": 33108697,
-          "name": "Region",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 6812460,
-      "updated_at": "2025-11-24T14:54:15-05:00",
-      "requisition_id": null,
-      "title": "Experience Designer",
-      "company_name": "WIZELINE",
-      "first_published": "2025-04-16T11:42:24-04:00",
       "language": "en"
     },
     {
@@ -2340,6 +2424,86 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7524009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3122412,
+      "location": {
+        "name": "Mexico Remote"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": "Capital Group",
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7524009,
+      "updated_at": "2026-01-08T13:52:05-05:00",
+      "requisition_id": null,
+      "title": "Marketing Delivery Lead - Digital Campaigns",
+      "company_name": "WIZELINE",
+      "first_published": "2026-01-08T13:52:05-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=6805035",
       "data_compliance": [
         {
@@ -3062,6 +3226,86 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7523742",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 1782504,
+      "location": {
+        "name": "Colombia"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7523742,
+      "updated_at": "2026-01-08T13:50:31-05:00",
+      "requisition_id": null,
+      "title": "Mobile Engineer (AWS / Kotlin)",
+      "company_name": "WIZELINE",
+      "first_published": "2026-01-08T13:05:23-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7379405",
       "data_compliance": [
         {
@@ -3139,86 +3383,6 @@
       "title": "Mobile Engineer (Kotlin)",
       "company_name": "WIZELINE",
       "first_published": "2025-11-06T01:06:04-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7411436",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3302112,
-      "location": {
-        "name": "Romania based Remote"
-      },
-      "metadata": [
-        {
-          "id": 14080,
-          "name": "Employment Type",
-          "value": "Contractor",
-          "value_type": "single_select"
-        },
-        {
-          "id": 153265,
-          "name": "description",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 1016526,
-          "name": "Interviewing guide",
-          "value": null,
-          "value_type": "url"
-        },
-        {
-          "id": 2115833,
-          "name": "Internal Level",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 2454257,
-          "name": "RR Resource Request",
-          "value": "RR-0053612",
-          "value_type": "short_text"
-        },
-        {
-          "id": 2454260,
-          "name": "Project Name",
-          "value": "Clearbank",
-          "value_type": "short_text"
-        },
-        {
-          "id": 11674367,
-          "name": "High Demand Job",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 33108680,
-          "name": "Account",
-          "value": "Clearbank",
-          "value_type": "short_text"
-        },
-        {
-          "id": 33108697,
-          "name": "Region",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7411436,
-      "updated_at": "2025-12-05T10:35:59-05:00",
-      "requisition_id": null,
-      "title": "MS Dynamics 365",
-      "company_name": "WIZELINE",
-      "first_published": "2025-11-20T16:20:49-05:00",
       "language": "en"
     },
     {
@@ -3302,6 +3466,86 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7411436",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3302112,
+      "location": {
+        "name": "Romania based Remote"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Contractor",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": "RR-0053612",
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": "Clearbank",
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": "Clearbank",
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7411436,
+      "updated_at": "2025-12-05T10:35:59-05:00",
+      "requisition_id": null,
+      "title": "MS Dynamics 365",
+      "company_name": "WIZELINE",
+      "first_published": "2025-11-20T16:20:49-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7488230",
       "data_compliance": [
         {
@@ -3382,7 +3626,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=5912994",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7336669",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3393,11 +3637,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "education": "education_required",
-      "employment": "employment_required",
-      "internal_job_id": 2860152,
+      "internal_job_id": 1740237,
       "location": {
-        "name": "Colombia"
+        "name": "Spain"
       },
       "metadata": [
         {
@@ -3455,12 +3697,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 5912994,
-      "updated_at": "2025-12-10T18:46:06-05:00",
+      "id": 7336669,
+      "updated_at": "2025-11-24T14:54:16-05:00",
       "requisition_id": null,
       "title": ".NET Software Engineer",
       "company_name": "WIZELINE",
-      "first_published": "2024-04-17T12:59:36-04:00",
+      "first_published": "2025-11-14T18:16:26-05:00",
       "language": "en"
     },
     {
@@ -3544,7 +3786,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7336669",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=5912994",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3555,9 +3797,11 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 1740237,
+      "education": "education_required",
+      "employment": "employment_required",
+      "internal_job_id": 2860152,
       "location": {
-        "name": "Spain"
+        "name": "Colombia"
       },
       "metadata": [
         {
@@ -3615,12 +3859,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 7336669,
-      "updated_at": "2025-11-24T14:54:16-05:00",
+      "id": 5912994,
+      "updated_at": "2025-12-10T18:46:06-05:00",
       "requisition_id": null,
       "title": ".NET Software Engineer",
       "company_name": "WIZELINE",
-      "first_published": "2025-11-14T18:16:26-05:00",
+      "first_published": "2024-04-17T12:59:36-04:00",
       "language": "en"
     },
     {
@@ -4109,86 +4353,6 @@
       "title": "Principal UX Designer",
       "company_name": "WIZELINE",
       "first_published": "2025-12-10T18:55:42-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7406176",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3299724,
-      "location": {
-        "name": "Barcelona, Spain"
-      },
-      "metadata": [
-        {
-          "id": 14080,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 153265,
-          "name": "description",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 1016526,
-          "name": "Interviewing guide",
-          "value": null,
-          "value_type": "url"
-        },
-        {
-          "id": 2115833,
-          "name": "Internal Level",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 2454257,
-          "name": "RR Resource Request",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 2454260,
-          "name": "Project Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 11674367,
-          "name": "High Demand Job",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 33108680,
-          "name": "Account",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 33108697,
-          "name": "Region",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7406176,
-      "updated_at": "2025-11-24T14:54:34-05:00",
-      "requisition_id": null,
-      "title": "Product Designer (Hybrid Barcelona)",
-      "company_name": "WIZELINE",
-      "first_published": "2025-11-18T13:03:19-05:00",
       "language": "en"
     },
     {
@@ -5158,6 +5322,86 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7398638",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3262808,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": "RR-0057654",
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": "None",
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": "Realtor",
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7398638,
+      "updated_at": "2025-11-24T14:54:32-05:00",
+      "requisition_id": null,
+      "title": "Senior Android Developer",
+      "company_name": "WIZELINE",
+      "first_published": "2025-11-14T18:07:15-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7436718",
       "data_compliance": [
         {
@@ -5238,7 +5482,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7398638",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=3050515",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5249,9 +5493,11 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3262808,
+      "education": "education_required",
+      "employment": "employment_required",
+      "internal_job_id": 1782504,
       "location": {
-        "name": "Canada"
+        "name": "Colombia"
       },
       "metadata": [
         {
@@ -5281,13 +5527,13 @@
         {
           "id": 2454257,
           "name": "RR Resource Request",
-          "value": "RR-0057654",
+          "value": null,
           "value_type": "short_text"
         },
         {
           "id": 2454260,
           "name": "Project Name",
-          "value": "None",
+          "value": null,
           "value_type": "short_text"
         },
         {
@@ -5299,7 +5545,7 @@
         {
           "id": 33108680,
           "name": "Account",
-          "value": "Realtor",
+          "value": null,
           "value_type": "short_text"
         },
         {
@@ -5309,12 +5555,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 7398638,
-      "updated_at": "2025-11-24T14:54:32-05:00",
+      "id": 3050515,
+      "updated_at": "2026-01-08T14:04:18-05:00",
       "requisition_id": null,
-      "title": "Senior Android Developer",
+      "title": "Senior Android Engineer",
       "company_name": "WIZELINE",
-      "first_published": "2025-11-14T18:07:15-05:00",
+      "first_published": "2021-07-14T19:06:53-04:00",
       "language": "en"
     },
     {
@@ -5472,7 +5718,7 @@
         }
       ],
       "id": 7368798,
-      "updated_at": "2025-11-24T14:54:27-05:00",
+      "updated_at": "2026-01-08T04:24:27-05:00",
       "requisition_id": null,
       "title": "Senior Data Analyst ",
       "company_name": "WIZELINE",
@@ -7249,6 +7495,88 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7524148",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "employment": "employment_required",
+      "internal_job_id": 2127134,
+      "location": {
+        "name": "Colombia"
+      },
+      "metadata": [
+        {
+          "id": 14080,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 153265,
+          "name": "description",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 1016526,
+          "name": "Interviewing guide",
+          "value": null,
+          "value_type": "url"
+        },
+        {
+          "id": 2115833,
+          "name": "Internal Level",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 2454257,
+          "name": "RR Resource Request",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 2454260,
+          "name": "Project Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 11674367,
+          "name": "High Demand Job",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 33108680,
+          "name": "Account",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 33108697,
+          "name": "Region",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7524148,
+      "updated_at": "2026-01-08T14:14:10-05:00",
+      "requisition_id": null,
+      "title": "Senior Python Software Engineer",
+      "company_name": "WIZELINE",
+      "first_published": "2026-01-08T14:14:10-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=4635490",
       "data_compliance": [
         {
@@ -7731,7 +8059,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7414315",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7414323",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7744,7 +8072,7 @@
       ],
       "education": "education_required",
       "employment": "employment_required",
-      "internal_job_id": 3302919,
+      "internal_job_id": 3302920,
       "location": {
         "name": "Romania based Remote"
       },
@@ -7804,12 +8132,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 7414315,
-      "updated_at": "2025-11-28T10:06:45-05:00",
+      "id": 7414323,
+      "updated_at": "2025-12-15T14:54:49-05:00",
       "requisition_id": null,
       "title": "Software Engineer (Microsoft Dynamics 365)",
       "company_name": "WIZELINE",
-      "first_published": "2025-11-28T10:06:45-05:00",
+      "first_published": "2025-11-25T08:36:50-05:00",
       "language": "en"
     },
     {
@@ -7895,7 +8223,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7414323",
+      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=7414315",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7908,7 +8236,7 @@
       ],
       "education": "education_required",
       "employment": "employment_required",
-      "internal_job_id": 3302920,
+      "internal_job_id": 3302919,
       "location": {
         "name": "Romania based Remote"
       },
@@ -7968,12 +8296,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 7414323,
-      "updated_at": "2025-12-15T14:54:49-05:00",
+      "id": 7414315,
+      "updated_at": "2025-11-28T10:06:45-05:00",
       "requisition_id": null,
       "title": "Software Engineer (Microsoft Dynamics 365)",
       "company_name": "WIZELINE",
-      "first_published": "2025-11-25T08:36:50-05:00",
+      "first_published": "2025-11-28T10:06:45-05:00",
       "language": "en"
     },
     {
@@ -8211,7 +8539,7 @@
         }
       ],
       "id": 7514059,
-      "updated_at": "2026-01-05T16:39:34-05:00",
+      "updated_at": "2026-01-08T08:28:23-05:00",
       "requisition_id": null,
       "title": "Staff Fullstack Software Engineer",
       "company_name": "WIZELINE",
@@ -8779,86 +9107,6 @@
       "title": "Staff Software Engineer (Cloud Architecture)",
       "company_name": "WIZELINE",
       "first_published": "2025-06-03T13:43:25-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.wizeline.ai/careers/job?gh_jid=5314772",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2657588,
-      "location": {
-        "name": "Colombia"
-      },
-      "metadata": [
-        {
-          "id": 14080,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 153265,
-          "name": "description",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 1016526,
-          "name": "Interviewing guide",
-          "value": null,
-          "value_type": "url"
-        },
-        {
-          "id": 2115833,
-          "name": "Internal Level",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 2454257,
-          "name": "RR Resource Request",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 2454260,
-          "name": "Project Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 11674367,
-          "name": "High Demand Job",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 33108680,
-          "name": "Account",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 33108697,
-          "name": "Region",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 5314772,
-      "updated_at": "2025-11-24T14:54:19-05:00",
-      "requisition_id": null,
-      "title": "Staff Software Engineer (NextJS)",
-      "company_name": "WIZELINE",
-      "first_published": "2024-04-08T17:49:03-04:00",
       "language": "en"
     },
     {
