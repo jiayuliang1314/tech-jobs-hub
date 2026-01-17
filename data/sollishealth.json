@@ -1,7 +1,7 @@
 {
   "company": "sollishealth",
-  "fetched_at": "2026-01-14T04:28:32.041239",
-  "job_count": 40,
+  "fetched_at": "2026-01-17T04:16:11.479301",
+  "job_count": 41,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7535137003",
@@ -904,96 +904,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7567509003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5692039003,
-      "location": {
-        "name": "555 Middlefield Rd, Palo Alto, CA 94301"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "555 Middlefield Road Palo Alto 94301",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Administrative Support",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Part Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Day",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "M-F 7A-3p, 3P-11P , Sat/Sun 9A-5P",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "16.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "No PTO",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7567509003,
-      "updated_at": "2025-12-18T12:34:18-05:00",
-      "requisition_id": "1905",
-      "title": "Front Desk Coordinator",
-      "company_name": "Sollis Health",
-      "first_published": "2025-12-18T12:34:18-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7526704003",
       "data_compliance": [
         {
@@ -1084,7 +994,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7512077003",
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7585160003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1095,9 +1005,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5672082003,
+      "internal_job_id": 5699324003,
       "location": {
-        "name": "324 Royal Palm Way Suite 229, Palm Beach, FL 33480"
+        "name": "155 N San Vicente Blvd, Beverly Hills, CA 90211"
       },
       "metadata": [
         {
@@ -1109,7 +1019,7 @@
         {
           "id": 6319083003,
           "name": "Job Location Address",
-          "value": "2333 Ponce de Leon STE 302Coral Gables, FL 33134",
+          "value": "155 N San Vicente Blvd, Beverly Hills, CA 90211",
           "value_type": "short_text"
         },
         {
@@ -1121,7 +1031,277 @@
         {
           "id": 4260663003,
           "name": "Employment Type",
-          "value": "Per Diem W2",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "30.0",
+            "min_value": "25.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "10am-6pm",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "32.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7585160003,
+      "updated_at": "2026-01-14T09:40:56-05:00",
+      "requisition_id": "1919",
+      "title": "Front Desk Coordinator",
+      "company_name": "Sollis Health",
+      "first_published": "2026-01-14T09:40:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7585150003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5699320003,
+      "location": {
+        "name": "155 N San Vicente Blvd, Beverly Hills, CA 90211"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "155 N San Vicente Blvd, Beverly Hills, CA 90211",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Administrative Support",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "30.0",
+            "min_value": "25.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7-3p or 3p-11p",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "16.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7585150003,
+      "updated_at": "2026-01-14T09:36:48-05:00",
+      "requisition_id": "1917",
+      "title": "Front Desk Coordinator",
+      "company_name": "Sollis Health",
+      "first_published": "2026-01-14T09:36:48-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7585111003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5699315003,
+      "location": {
+        "name": "255 Greenwich St 5th floor, New York, NY 10007"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "170 E 77th St, New York, NY 10075",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Administrative Support",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "30.0",
+            "min_value": "26.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7:30a-7:30p 2x days per week (Tues/Wed) and rotating every other weekend",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "36.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7585111003,
+      "updated_at": "2026-01-14T09:36:16-05:00",
+      "requisition_id": "1915",
+      "title": "Front Desk Coordinator",
+      "company_name": "Sollis Health",
+      "first_published": "2026-01-14T09:36:16-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7567509003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5692039003,
+      "location": {
+        "name": "555 Middlefield Rd, Palo Alto, CA 94301"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "555 Middlefield Road Palo Alto 94301",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Administrative Support",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Part Time",
           "value_type": "single_select"
         },
         {
@@ -1143,13 +1323,13 @@
         {
           "id": 6318465003,
           "name": "Shift Time",
-          "value": "Various",
+          "value": "M-F 7A-3p, 3P-11P , Sat/Sun 9A-5P",
           "value_type": "short_text"
         },
         {
           "id": 6471226003,
           "name": "Hours Per Week",
-          "value": "0.0",
+          "value": "16.0",
           "value_type": "number"
         },
         {
@@ -1165,12 +1345,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7512077003,
-      "updated_at": "2025-12-16T13:05:39-05:00",
-      "requisition_id": "1872",
+      "id": 7567509003,
+      "updated_at": "2025-12-18T12:34:18-05:00",
+      "requisition_id": "1905",
       "title": "Front Desk Coordinator",
       "company_name": "Sollis Health",
-      "first_published": "2025-10-29T12:07:51-04:00",
+      "first_published": "2025-12-18T12:34:18-05:00",
       "language": "en"
     },
     {
@@ -2074,96 +2254,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7574251003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5694793003,
-      "location": {
-        "name": "324 Royal Palm Way #100, Palm Beach, FL 33480"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "324 Royal Palm Way Suite 229, Palm Beach, FL 33480",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Advanced Practice",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Overnight",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "11p-7a",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "32.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "Accrued",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7574251003,
-      "updated_at": "2025-12-30T11:05:09-05:00",
-      "requisition_id": "1909",
-      "title": "Physician Assistant or Nurse Practitioner - Emergency Medicine",
-      "company_name": "Sollis Health",
-      "first_published": "2025-12-30T11:05:09-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7545000003",
       "data_compliance": [
         {
@@ -2251,6 +2341,96 @@
       "title": "Physician Assistant or Nurse Practitioner - Emergency Medicine",
       "company_name": "Sollis Health",
       "first_published": "2025-12-02T10:50:46-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7574251003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5694793003,
+      "location": {
+        "name": "324 Royal Palm Way #100, Palm Beach, FL 33480"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "324 Royal Palm Way Suite 229, Palm Beach, FL 33480",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Advanced Practice",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Overnight",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "11p-7a",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "32.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7574251003,
+      "updated_at": "2025-12-30T11:05:09-05:00",
+      "requisition_id": "1909",
+      "title": "Physician Assistant or Nurse Practitioner - Emergency Medicine",
+      "company_name": "Sollis Health",
+      "first_published": "2025-12-30T11:05:09-05:00",
       "language": "en"
     },
     {
@@ -2614,96 +2794,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7493086003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5664230003,
-      "location": {
-        "name": "324 Royal Palm Way #100, Palm Beach, FL 33480"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "324 Royal Palm Way #100, Palm Beach, FL 33480",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Radiology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Per Diem W2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Day",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "7-7a but could also work 7a-7p if interested",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "0.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "No PTO",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7493086003,
-      "updated_at": "2025-12-16T13:05:39-05:00",
-      "requisition_id": "1851",
-      "title": "Radiology Technologist II ( CT Technologist & X Ray)",
-      "company_name": "Sollis Health",
-      "first_published": "2025-10-14T20:39:23-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7506213003",
       "data_compliance": [
         {
@@ -2791,6 +2881,96 @@
       "title": "Radiology Technologist II ( CT Technologist & X Ray)",
       "company_name": "Sollis Health",
       "first_published": "2025-10-27T11:19:29-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7493086003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5664230003,
+      "location": {
+        "name": "324 Royal Palm Way #100, Palm Beach, FL 33480"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "324 Royal Palm Way #100, Palm Beach, FL 33480",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Radiology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Per Diem W2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7-7a but could also work 7a-7p if interested",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7493086003,
+      "updated_at": "2025-12-16T13:05:39-05:00",
+      "requisition_id": "1851",
+      "title": "Radiology Technologist II ( CT Technologist & X Ray)",
+      "company_name": "Sollis Health",
+      "first_published": "2025-10-14T20:39:23-04:00",
       "language": "en"
     },
     {
@@ -3154,96 +3334,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/6689895003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5257948003,
-      "location": {
-        "name": "2333 Ponce de Leon Blvd, 3rd FL, Coral Gables, FL 33134"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "2333 Ponce de Leon Blvd, 3rd FL, Coral Gables, FL 33134",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Radiology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Per Diem W2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Day",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "7a-3p-3p-11p as needed",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "0.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "No PTO",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6689895003,
-      "updated_at": "2025-12-16T13:05:39-05:00",
-      "requisition_id": "1801",
-      "title": "Radiology Technologist I (X Ray Certified) - Per Diem & Pay Per Scan- Coral Gables",
-      "company_name": "Sollis Health",
-      "first_published": "2025-08-25T19:48:50-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7512273003",
       "data_compliance": [
         {
@@ -3416,7 +3506,7 @@
         }
       ],
       "id": 7552699003,
-      "updated_at": "2025-12-16T13:05:39-05:00",
+      "updated_at": "2026-01-14T12:58:31-05:00",
       "requisition_id": "1902",
       "title": "Regional Nurse Manager - Emergency Medicine ",
       "company_name": "Sollis Health",

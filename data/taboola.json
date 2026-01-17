@@ -1,8 +1,84 @@
 {
   "company": "taboola",
-  "fetched_at": "2026-01-14T04:15:40.716218",
+  "fetched_at": "2026-01-17T04:03:03.062335",
   "job_count": 93,
   "jobs": [
+    {
+      "absolute_url": "https://www.taboola.com/careers/job/7479218?gh_jid=7479218",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3319763,
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "metadata": [
+        {
+          "id": 34338560,
+          "name": "Job Level",
+          "value": "7",
+          "value_type": "single_select"
+        },
+        {
+          "id": 165305,
+          "name": "Career Site Main Categories",
+          "value": [
+            "Finance & Legal"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 27304127,
+          "name": "Full-Time or Part-Time",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306250,
+          "name": "Equity Grant?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306826,
+          "name": "Benefit Eligibility",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 42730603,
+          "name": "Employee Class",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 48776644,
+          "name": "Compensation Planner",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 49045088,
+          "name": "Sourcing System",
+          "value": "1 - Standard",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7479218,
+      "updated_at": "2026-01-15T03:48:55-05:00",
+      "requisition_id": "REQ_3487",
+      "title": "Accounting Administrator",
+      "company_name": "Taboola",
+      "first_published": "2026-01-15T03:48:55-05:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://www.taboola.com/careers/job/7393444?gh_jid=7393444",
       "data_compliance": [
@@ -156,7 +232,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.taboola.com/careers/job/7515929?gh_jid=7515929",
+      "absolute_url": "https://www.taboola.com/careers/job/6149793?gh_jid=6149793",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -164,18 +240,18 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3330711,
+      "internal_job_id": 2932783,
       "location": {
-        "name": "Warsaw, Poland"
+        "name": "Tokyo, Japan"
       },
       "metadata": [
         {
           "id": 34338560,
           "name": "Job Level",
-          "value": "7",
+          "value": "7 - Account Manager, Software Engineer, Individual Contributors (ICs)",
           "value_type": "single_select"
         },
         {
@@ -207,7 +283,7 @@
         {
           "id": 42730603,
           "name": "Employee Class",
-          "value": "Permanent",
+          "value": null,
           "value_type": "single_select"
         },
         {
@@ -219,16 +295,16 @@
         {
           "id": 49045088,
           "name": "Sourcing System",
-          "value": "3 - Hard-to-Fill",
+          "value": null,
           "value_type": "single_select"
         }
       ],
-      "id": 7515929,
-      "updated_at": "2026-01-12T05:35:56-05:00",
-      "requisition_id": "REQ_3683",
+      "id": 6149793,
+      "updated_at": "2025-11-27T22:10:53-05:00",
+      "requisition_id": "REQ_1177",
       "title": "Advertising Account Manager",
       "company_name": "Taboola",
-      "first_published": "2026-01-12T05:35:56-05:00",
+      "first_published": "2024-08-08T00:33:25-04:00",
       "language": "en"
     },
     {
@@ -308,7 +384,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.taboola.com/careers/job/6149793?gh_jid=6149793",
+      "absolute_url": "https://www.taboola.com/careers/job/7515929?gh_jid=7515929",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -316,18 +392,18 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 2932783,
+      "internal_job_id": 3330711,
       "location": {
-        "name": "Tokyo, Japan"
+        "name": "Warsaw, Poland"
       },
       "metadata": [
         {
           "id": 34338560,
           "name": "Job Level",
-          "value": "7 - Account Manager, Software Engineer, Individual Contributors (ICs)",
+          "value": "7",
           "value_type": "single_select"
         },
         {
@@ -359,7 +435,7 @@
         {
           "id": 42730603,
           "name": "Employee Class",
-          "value": null,
+          "value": "Permanent",
           "value_type": "single_select"
         },
         {
@@ -371,16 +447,16 @@
         {
           "id": 49045088,
           "name": "Sourcing System",
-          "value": null,
+          "value": "3 - Hard-to-Fill",
           "value_type": "single_select"
         }
       ],
-      "id": 6149793,
-      "updated_at": "2025-11-27T22:10:53-05:00",
-      "requisition_id": "REQ_1177",
+      "id": 7515929,
+      "updated_at": "2026-01-12T05:35:56-05:00",
+      "requisition_id": "REQ_3683",
       "title": "Advertising Account Manager",
       "company_name": "Taboola",
-      "first_published": "2024-08-08T00:33:25-04:00",
+      "first_published": "2026-01-12T05:35:56-05:00",
       "language": "en"
     },
     {
@@ -523,12 +599,12 @@
         {
           "id": 49045088,
           "name": "Sourcing System",
-          "value": null,
+          "value": "2 - Moderate",
           "value_type": "single_select"
         }
       ],
       "id": 7219717,
-      "updated_at": "2025-11-24T05:57:59-05:00",
+      "updated_at": "2026-01-15T10:59:25-05:00",
       "requisition_id": "REQ_2698",
       "title": "Advertising Account Manager, Israel (London based)",
       "company_name": "Taboola",
@@ -669,7 +745,7 @@
         {
           "id": 48776644,
           "name": "Compensation Planner",
-          "value": null,
+          "value": "Harel Uliel",
           "value_type": "short_text"
         },
         {
@@ -680,7 +756,7 @@
         }
       ],
       "id": 7530982,
-      "updated_at": "2026-01-12T12:32:27-05:00",
+      "updated_at": "2026-01-14T10:48:32-05:00",
       "requisition_id": "REQ_3037",
       "title": "Advertising Sales Manager ",
       "company_name": "Taboola",
@@ -913,82 +989,6 @@
       "title": "Advertising Sales Manager - Japan",
       "company_name": "Taboola",
       "first_published": "2025-10-09T21:47:05-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.taboola.com/careers/job/7217827?gh_jid=7217827",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3236876,
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "metadata": [
-        {
-          "id": 34338560,
-          "name": "Job Level",
-          "value": "6",
-          "value_type": "single_select"
-        },
-        {
-          "id": 165305,
-          "name": "Career Site Main Categories",
-          "value": [
-            "Sales & Account Management"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 27304127,
-          "name": "Full-Time or Part-Time",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306250,
-          "name": "Equity Grant?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306826,
-          "name": "Benefit Eligibility",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 42730603,
-          "name": "Employee Class",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 48776644,
-          "name": "Compensation Planner",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 49045088,
-          "name": "Sourcing System",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7217827,
-      "updated_at": "2025-11-28T06:07:09-05:00",
-      "requisition_id": "REQ_2681",
-      "title": "Advertising Sales - Team Lead",
-      "company_name": "Taboola",
-      "first_published": "2025-09-29T01:00:07-04:00",
       "language": "en"
     },
     {
@@ -1752,82 +1752,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.taboola.com/careers/job/7130105?gh_jid=7130105",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3209600,
-      "location": {
-        "name": "New York City (NYC), New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 34338560,
-          "name": "Job Level",
-          "value": "5",
-          "value_type": "single_select"
-        },
-        {
-          "id": 165305,
-          "name": "Career Site Main Categories",
-          "value": [
-            "People & Recruiting"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 27304127,
-          "name": "Full-Time or Part-Time",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306250,
-          "name": "Equity Grant?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306826,
-          "name": "Benefit Eligibility",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 42730603,
-          "name": "Employee Class",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 48776644,
-          "name": "Compensation Planner",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 49045088,
-          "name": "Sourcing System",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7130105,
-      "updated_at": "2025-11-11T13:21:31-05:00",
-      "requisition_id": "REQ_2466",
-      "title": "Director of HR, Global Sales",
-      "company_name": "Taboola",
-      "first_published": "2025-08-04T11:50:51-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.taboola.com/careers/job/7160758?gh_jid=7160758",
       "data_compliance": [
         {
@@ -2048,9 +1972,9 @@
         }
       ],
       "id": 7228943,
-      "updated_at": "2025-11-24T06:53:36-05:00",
+      "updated_at": "2026-01-15T12:01:35-05:00",
       "requisition_id": "REQ_2724",
-      "title": "Enterprise Advertising, Sales Manager (Nordics)",
+      "title": "Enterprise Advertising, Sales Manager (Netherlands & Nordics)",
       "company_name": "Taboola",
       "first_published": "2025-09-08T04:53:06-04:00",
       "language": "en"
@@ -2276,7 +2200,7 @@
         }
       ],
       "id": 7116045,
-      "updated_at": "2025-12-01T03:39:29-05:00",
+      "updated_at": "2026-01-15T08:58:22-05:00",
       "requisition_id": "20252",
       "title": "Experienced Backend Engineer",
       "company_name": "Taboola",
@@ -2740,82 +2664,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.taboola.com/careers/job/7504471?gh_jid=7504471",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3326559,
-      "location": {
-        "name": "London, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 34338560,
-          "name": "Job Level",
-          "value": "6",
-          "value_type": "single_select"
-        },
-        {
-          "id": 165305,
-          "name": "Career Site Main Categories",
-          "value": [
-            "People & Recruiting"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 27304127,
-          "name": "Full-Time or Part-Time",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306250,
-          "name": "Equity Grant?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306826,
-          "name": "Benefit Eligibility",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 42730603,
-          "name": "Employee Class",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 48776644,
-          "name": "Compensation Planner",
-          "value": "anjali Oldfield",
-          "value_type": "short_text"
-        },
-        {
-          "id": 49045088,
-          "name": "Sourcing System",
-          "value": "3 - Hard-to-Fill",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7504471,
-      "updated_at": "2025-12-30T07:57:37-05:00",
-      "requisition_id": "REQ_3686",
-      "title": "HR Director, EMEA Enterprise (London based)",
-      "company_name": "Taboola",
-      "first_published": "2025-12-30T07:57:37-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.taboola.com/careers/job/7408019?gh_jid=7408019",
       "data_compliance": [
         {
@@ -3044,6 +2892,82 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.taboola.com/careers/job/7529880?gh_jid=7529880",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3335055,
+      "location": {
+        "name": "Milan, Italy"
+      },
+      "metadata": [
+        {
+          "id": 34338560,
+          "name": "Job Level",
+          "value": "7",
+          "value_type": "single_select"
+        },
+        {
+          "id": 165305,
+          "name": "Career Site Main Categories",
+          "value": [
+            "Marketing & Growth"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 27304127,
+          "name": "Full-Time or Part-Time",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306250,
+          "name": "Equity Grant?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306826,
+          "name": "Benefit Eligibility",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 42730603,
+          "name": "Employee Class",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 48776644,
+          "name": "Compensation Planner",
+          "value": "Janina Wolfert",
+          "value_type": "short_text"
+        },
+        {
+          "id": 49045088,
+          "name": "Sourcing System",
+          "value": "2 - Moderate",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7529880,
+      "updated_at": "2026-01-15T06:55:32-05:00",
+      "requisition_id": "REQ_3723",
+      "title": "Marketing Manager, Italy and Turkey",
+      "company_name": "Taboola",
+      "first_published": "2026-01-15T06:55:32-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.taboola.com/careers/job/7011689?gh_jid=7011689",
       "data_compliance": [
         {
@@ -3112,7 +3036,7 @@
         }
       ],
       "id": 7011689,
-      "updated_at": "2025-12-17T05:59:59-05:00",
+      "updated_at": "2026-01-15T05:19:45-05:00",
       "requisition_id": "REQ_1855",
       "title": "Mobile Enablement Manager",
       "company_name": "Taboola",
@@ -3573,82 +3497,6 @@
       "title": "Publisher Account Manager",
       "company_name": "Taboola",
       "first_published": "2024-08-04T21:09:48-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.taboola.com/careers/job/7234463?gh_jid=7234463",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3240883,
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "metadata": [
-        {
-          "id": 34338560,
-          "name": "Job Level",
-          "value": "7",
-          "value_type": "single_select"
-        },
-        {
-          "id": 165305,
-          "name": "Career Site Main Categories",
-          "value": [
-            "Sales & Account Management"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 27304127,
-          "name": "Full-Time or Part-Time",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306250,
-          "name": "Equity Grant?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306826,
-          "name": "Benefit Eligibility",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 42730603,
-          "name": "Employee Class",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 48776644,
-          "name": "Compensation Planner",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 49045088,
-          "name": "Sourcing System",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7234463,
-      "updated_at": "2025-11-28T06:08:25-05:00",
-      "requisition_id": "REQ_2750",
-      "title": "Publisher Account Manager",
-      "company_name": "Taboola",
-      "first_published": "2025-09-22T11:33:22-04:00",
       "language": "en"
     },
     {
@@ -4252,7 +4100,7 @@
         }
       ],
       "id": 7504922,
-      "updated_at": "2026-01-12T12:39:21-05:00",
+      "updated_at": "2026-01-16T16:07:15-05:00",
       "requisition_id": "REQ_3706",
       "title": "Sales Development Representative, Growth Advertisers",
       "company_name": "Taboola",
@@ -4868,82 +4716,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.taboola.com/careers/job/7427822?gh_jid=7427822",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3300064,
-      "location": {
-        "name": "Tel Aviv, Israel"
-      },
-      "metadata": [
-        {
-          "id": 34338560,
-          "name": "Job Level",
-          "value": "7",
-          "value_type": "single_select"
-        },
-        {
-          "id": 165305,
-          "name": "Career Site Main Categories",
-          "value": [
-            "Sales & Account Management"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 27304127,
-          "name": "Full-Time or Part-Time",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306250,
-          "name": "Equity Grant?",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 27306826,
-          "name": "Benefit Eligibility",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 42730603,
-          "name": "Employee Class",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 48776644,
-          "name": "Compensation Planner",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 49045088,
-          "name": "Sourcing System",
-          "value": "1 - Standard",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7427822,
-      "updated_at": "2025-11-26T05:43:59-05:00",
-      "requisition_id": "REQ_3406",
-      "title": "Senior Global Account Manager, Dynamic Ads",
-      "company_name": "Taboola",
-      "first_published": "2025-11-26T05:43:59-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.taboola.com/careers/job/7242717?gh_jid=7242717",
       "data_compliance": [
         {
@@ -5248,6 +5020,82 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.taboola.com/careers/job/7516306?gh_jid=7516306",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3330832,
+      "location": {
+        "name": "Tel Aviv, Israel"
+      },
+      "metadata": [
+        {
+          "id": 34338560,
+          "name": "Job Level",
+          "value": "7",
+          "value_type": "single_select"
+        },
+        {
+          "id": 165305,
+          "name": "Career Site Main Categories",
+          "value": [
+            "Sales & Account Management"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 27304127,
+          "name": "Full-Time or Part-Time",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306250,
+          "name": "Equity Grant?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306826,
+          "name": "Benefit Eligibility",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 42730603,
+          "name": "Employee Class",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 48776644,
+          "name": "Compensation Planner",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 49045088,
+          "name": "Sourcing System",
+          "value": "1 - Standard",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7516306,
+      "updated_at": "2026-01-14T08:15:36-05:00",
+      "requisition_id": "REQ_3713",
+      "title": "Senior Programmatic Account Manager",
+      "company_name": "Taboola",
+      "first_published": "2026-01-14T08:15:36-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.taboola.com/careers/job/7084694?gh_jid=7084694",
       "data_compliance": [
         {
@@ -5311,13 +5159,13 @@
         {
           "id": 49045088,
           "name": "Sourcing System",
-          "value": null,
+          "value": "3 - Hard-to-Fill",
           "value_type": "single_select"
         }
       ],
       "id": 7084694,
-      "updated_at": "2025-11-11T13:21:25-05:00",
-      "requisition_id": "REQ_2336",
+      "updated_at": "2026-01-15T11:51:35-05:00",
+      "requisition_id": "REQ_2385",
       "title": "Senior Publisher Account Manager",
       "company_name": "Taboola",
       "first_published": "2025-07-28T12:21:34-04:00",
@@ -5397,6 +5245,82 @@
       "title": "Senior Release Engineer – Infrastructure",
       "company_name": "Taboola",
       "first_published": "2025-02-26T02:25:42-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.taboola.com/careers/job/6861154?gh_jid=6861154",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3138725,
+      "location": {
+        "name": "Tel Aviv, Israel"
+      },
+      "metadata": [
+        {
+          "id": 34338560,
+          "name": "Job Level",
+          "value": "7",
+          "value_type": "single_select"
+        },
+        {
+          "id": 165305,
+          "name": "Career Site Main Categories",
+          "value": [
+            "Engineering & Technology"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 27304127,
+          "name": "Full-Time or Part-Time",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306250,
+          "name": "Equity Grant?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306826,
+          "name": "Benefit Eligibility",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 42730603,
+          "name": "Employee Class",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 48776644,
+          "name": "Compensation Planner",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 49045088,
+          "name": "Sourcing System",
+          "value": "3 - Hard-to-Fill",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6861154,
+      "updated_at": "2026-01-15T08:04:58-05:00",
+      "requisition_id": "REQ_1752",
+      "title": "Senior Software Engineer",
+      "company_name": "Taboola",
+      "first_published": "2026-01-15T08:03:28-05:00",
       "language": "en"
     },
     {
@@ -6233,6 +6157,82 @@
       "title": "Solution Expert",
       "company_name": "Taboola",
       "first_published": "2025-10-28T15:48:04-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.taboola.com/careers/job/7539355?gh_jid=7539355",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3171823,
+      "location": {
+        "name": "Atlanta, Georgia, United States"
+      },
+      "metadata": [
+        {
+          "id": 34338560,
+          "name": "Job Level",
+          "value": "7",
+          "value_type": "single_select"
+        },
+        {
+          "id": 165305,
+          "name": "Career Site Main Categories",
+          "value": [
+            "Engineering & Technology"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 27304127,
+          "name": "Full-Time or Part-Time",
+          "value": "full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306250,
+          "name": "Equity Grant?",
+          "value": "Yes",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27306826,
+          "name": "Benefit Eligibility",
+          "value": "Benefit Eligible",
+          "value_type": "single_select"
+        },
+        {
+          "id": 42730603,
+          "name": "Employee Class",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 48776644,
+          "name": "Compensation Planner",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 49045088,
+          "name": "Sourcing System",
+          "value": "3 - Hard-to-Fill",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7539355,
+      "updated_at": "2026-01-14T13:57:57-05:00",
+      "requisition_id": "21757",
+      "title": "Solutions Engineer",
+      "company_name": "Taboola",
+      "first_published": "2026-01-14T13:57:57-05:00",
       "language": "en"
     },
     {

@@ -1,42 +1,8 @@
 {
   "company": "justworks",
-  "fetched_at": "2026-01-14T04:06:06.437575",
-  "job_count": 88,
+  "fetched_at": "2026-01-17T03:53:21.784542",
+  "job_count": 85,
   "jobs": [
-    {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7408771?gh_jid=7408771",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3295102,
-      "location": {
-        "name": "Remote - U.S.A."
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [
-            "Tampa, FL"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7408771,
-      "updated_at": "2026-01-06T14:43:43-05:00",
-      "requisition_id": "JR102569",
-      "title": "Account Development Executive",
-      "company_name": "Justworks",
-      "first_published": "2025-11-19T11:58:28-05:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7393205?gh_jid=7393205",
       "data_compliance": [
@@ -69,6 +35,40 @@
       "title": "Account Development Executive",
       "company_name": "Justworks",
       "first_published": "2025-11-13T13:23:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7408771?gh_jid=7408771",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3295102,
+      "location": {
+        "name": "Remote - U.S.A."
+      },
+      "metadata": [
+        {
+          "id": 6245185,
+          "name": "Additional Offices",
+          "value": [
+            "Tampa, FL"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7408771,
+      "updated_at": "2026-01-06T14:43:43-05:00",
+      "requisition_id": "JR102569",
+      "title": "Account Development Executive",
+      "company_name": "Justworks",
+      "first_published": "2025-11-19T11:58:28-05:00",
       "language": "en"
     },
     {
@@ -343,7 +343,7 @@
       ],
       "internal_job_id": 3286064,
       "location": {
-        "name": "New York, New York"
+        "name": "New York, New York; Tampa, Florida"
       },
       "metadata": [
         {
@@ -354,7 +354,7 @@
         }
       ],
       "id": 7369758,
-      "updated_at": "2026-01-09T13:09:31-05:00",
+      "updated_at": "2026-01-15T15:53:44-05:00",
       "requisition_id": "JR102514",
       "title": "Analyst, Quality Assurance Workers Compensation",
       "company_name": "Justworks",
@@ -754,40 +754,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7430359?gh_jid=7430359",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3306223,
-      "location": {
-        "name": "London, England ; Remote - International "
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [
-            "New York, NY"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7430359,
-      "updated_at": "2026-01-06T16:58:50-05:00",
-      "requisition_id": "JR102614",
-      "title": "Director, International Benefits",
-      "company_name": "Justworks",
-      "first_published": "2025-12-03T11:58:33-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7430362?gh_jid=7430362",
       "data_compliance": [
         {
@@ -819,6 +785,40 @@
       "title": "Director, International Benefits",
       "company_name": "Justworks",
       "first_published": "2025-12-03T11:58:35-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7430359?gh_jid=7430359",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3306223,
+      "location": {
+        "name": "London, England ; Remote - International "
+      },
+      "metadata": [
+        {
+          "id": 6245185,
+          "name": "Additional Offices",
+          "value": [
+            "New York, NY"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7430359,
+      "updated_at": "2026-01-06T16:58:50-05:00",
+      "requisition_id": "JR102614",
+      "title": "Director, International Benefits",
+      "company_name": "Justworks",
+      "first_published": "2025-12-03T11:58:33-05:00",
       "language": "en"
     },
     {
@@ -1150,6 +1150,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7516054?gh_jid=7516054",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3330746,
+      "location": {
+        "name": "New York, New York"
+      },
+      "metadata": [
+        {
+          "id": 6245185,
+          "name": "Additional Offices",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7516054,
+      "updated_at": "2026-01-16T16:58:54-05:00",
+      "requisition_id": "JR102682",
+      "title": "Front Desk Coordinator",
+      "company_name": "Justworks",
+      "first_published": "2026-01-15T15:26:22-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/justworks/jobs/6645122?gh_jid=6645122",
       "data_compliance": [
         {
@@ -1304,7 +1336,7 @@
         }
       ],
       "id": 7472895,
-      "updated_at": "2025-12-15T16:46:32-05:00",
+      "updated_at": "2026-01-15T15:45:59-05:00",
       "requisition_id": "2508",
       "title": "Head of Product Compliance",
       "company_name": "Justworks",
@@ -1464,7 +1496,7 @@
         }
       ],
       "id": 7453826,
-      "updated_at": "2025-12-10T09:51:18-05:00",
+      "updated_at": "2026-01-15T11:03:26-05:00",
       "requisition_id": "JR102626",
       "title": "International Operations Associate",
       "company_name": "Justworks",
@@ -1725,38 +1757,6 @@
       "title": "Manager, Sales (San Francisco)",
       "company_name": "Justworks",
       "first_published": "2025-11-19T13:33:42-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7466934?gh_jid=7466934",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3316846,
-      "location": {
-        "name": "New York, New York"
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7466934,
-      "updated_at": "2026-01-12T17:00:02-05:00",
-      "requisition_id": "JR102639",
-      "title": "Marketing Operations Specialist",
-      "company_name": "Justworks",
-      "first_published": "2025-12-16T10:04:05-05:00",
       "language": "en"
     },
     {
@@ -2538,38 +2538,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7162943?gh_jid=7162943",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3027698,
-      "location": {
-        "name": "New York, New York"
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7162943,
-      "updated_at": "2025-12-01T13:55:46-05:00",
-      "requisition_id": "SPM1",
-      "title": "Senior Product Manager, Foundations",
-      "company_name": "Justworks",
-      "first_published": "2025-08-12T20:49:15-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/justworks/jobs/6858917?gh_jid=6858917",
       "data_compliance": [
         {
@@ -2626,15 +2594,15 @@
         }
       ],
       "id": 6472981,
-      "updated_at": "2025-12-23T13:14:05-05:00",
+      "updated_at": "2026-01-16T15:59:06-05:00",
       "requisition_id": "SPM1",
-      "title": "Senior Product Manager, Payroll & Tax",
+      "title": "Senior Product Manager, Payroll Systems",
       "company_name": "Justworks",
       "first_published": "2024-12-13T16:41:59-05:00",
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/6864931?gh_jid=6864931",
+      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7294762?gh_jid=7294762",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2645,7 +2613,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3027698,
+      "internal_job_id": 3263364,
       "location": {
         "name": "New York, New York"
       },
@@ -2657,12 +2625,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 6864931,
-      "updated_at": "2025-11-13T10:17:37-05:00",
-      "requisition_id": "SPM1",
-      "title": "Senior Product Manager, Risk",
+      "id": 7294762,
+      "updated_at": "2026-01-14T13:09:25-05:00",
+      "requisition_id": "2500",
+      "title": "Senior Security Engineer ",
       "company_name": "Justworks",
-      "first_published": "2025-05-06T11:28:21-04:00",
+      "first_published": "2025-10-24T13:28:14-04:00",
       "language": "en"
     },
     {
@@ -2698,38 +2666,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/7294762?gh_jid=7294762",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3263364,
-      "location": {
-        "name": "New York, New York"
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7294762,
-      "updated_at": "2025-10-24T13:28:14-04:00",
-      "requisition_id": "2500",
-      "title": "Senior Security Engineer (Enterprise)",
-      "company_name": "Justworks",
-      "first_published": "2025-10-24T13:28:14-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/justworks/jobs/6688851?gh_jid=6688851",
       "data_compliance": [
         {
@@ -2761,40 +2697,6 @@
       "title": "Senior Software Engineer",
       "company_name": "Justworks",
       "first_published": "2025-03-19T11:29:02-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/justworks/jobs/6917404?gh_jid=6917404",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3155293,
-      "location": {
-        "name": "New York, New York"
-      },
-      "metadata": [
-        {
-          "id": 6245185,
-          "name": "Additional Offices",
-          "value": [
-            "New York, NY"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 6917404,
-      "updated_at": "2026-01-13T13:17:08-05:00",
-      "requisition_id": "SWE1",
-      "title": "Software Engineer",
-      "company_name": "Justworks",
-      "first_published": "2025-05-27T16:28:26-04:00",
       "language": "en"
     },
     {
