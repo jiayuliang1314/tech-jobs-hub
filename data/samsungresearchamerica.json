@@ -1,7 +1,7 @@
 {
   "company": "samsungresearchamerica",
-  "fetched_at": "2026-01-30T04:27:35.118419",
-  "job_count": 22,
+  "fetched_at": "2026-02-02T04:53:16.457256",
+  "job_count": 24,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8164652002",
@@ -534,6 +534,63 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8391986002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6350373002,
+      "location": {
+        "name": "665 Clyde Avenue, Mountain View,  CA, USA"
+      },
+      "metadata": [
+        {
+          "id": 4312150002,
+          "name": "Employment Type",
+          "value": "Full-Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 28053885002,
+          "name": "Job Category",
+          "value": [
+            "Digital Health"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4469628002,
+          "name": "Main Skills/Competencies",
+          "value": [
+            "Artificial Intelligence (AI)",
+            "Healthcare Industry Experience",
+            "Machine Learning",
+            "PyTorch"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 19183087002,
+          "name": "Remote Work Option",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8391986002,
+      "updated_at": "2026-01-30T17:40:19-05:00",
+      "requisition_id": "402811",
+      "title": "Senior GenAI Research Engineer (AI Agent), Digital Health",
+      "company_name": "Samsung Research America",
+      "first_published": "2026-01-30T17:40:19-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8355920002",
       "data_compliance": [
         {
@@ -1061,6 +1118,58 @@
       "title": "Staff Engineer, SoC Architect - Memory Subsystem",
       "company_name": "Samsung Research America",
       "first_published": "2025-02-13T19:04:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8393264002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6350944002,
+      "location": {
+        "name": "665 Clyde Avenue, Mountain View,  CA, USA"
+      },
+      "metadata": [
+        {
+          "id": 4312150002,
+          "name": "Employment Type",
+          "value": "Full-Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 28053885002,
+          "name": "Job Category",
+          "value": [
+            "Digital Health"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4469628002,
+          "name": "Main Skills/Competencies",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 19183087002,
+          "name": "Remote Work Option",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8393264002,
+      "updated_at": "2026-01-30T17:38:18-05:00",
+      "requisition_id": "402812",
+      "title": "Staff GenAI Research Engineer, Digital Health",
+      "company_name": "Samsung Research America",
+      "first_published": "2026-01-30T17:38:18-05:00",
       "language": "en"
     },
     {
