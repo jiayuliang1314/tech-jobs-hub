@@ -1,7 +1,7 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-02-05T04:59:05.044271",
-  "job_count": 24,
+  "fetched_at": "2026-02-07T04:40:18.745321",
+  "job_count": 25,
   "jobs": [
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8397982002",
@@ -412,6 +412,58 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8405654002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6355782002,
+      "location": {
+        "name": "Manchester"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "47500.0",
+            "min_value": "47500.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "GBP",
+            "amount": "75000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8405654002,
+      "updated_at": "2026-02-05T09:47:20-05:00",
+      "requisition_id": "1078",
+      "title": "Head of Account Management",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-02-05T09:47:20-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8380044002",
       "data_compliance": [
         {
@@ -670,7 +722,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8394284002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8397793002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -681,9 +733,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6140188002,
+      "internal_job_id": 5423263002,
       "location": {
-        "name": "Phoenix, Arizona"
+        "name": "Manchester"
       },
       "metadata": [
         {
@@ -696,9 +748,9 @@
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "USD",
-            "max_value": "45000.0",
-            "min_value": "40000.0"
+            "unit": "GBP",
+            "max_value": "30000.0",
+            "min_value": "28000.0"
           },
           "value_type": "currency_range"
         },
@@ -706,18 +758,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": "USD",
-            "amount": "80000.0"
+            "unit": null,
+            "amount": "100000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8394284002,
-      "updated_at": "2026-02-02T03:58:04-05:00",
-      "requisition_id": "1031",
+      "id": 8397793002,
+      "updated_at": "2026-02-04T12:37:06-05:00",
+      "requisition_id": "738",
       "title": "Sales Development Representative",
       "company_name": "PHMG Careers",
-      "first_published": "2026-01-28T09:48:45-05:00",
+      "first_published": "2026-01-30T04:29:25-05:00",
       "language": "en"
     },
     {
@@ -772,7 +824,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8397793002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8407537002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -783,9 +835,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5423263002,
+      "internal_job_id": 6140188002,
       "location": {
-        "name": "Manchester"
+        "name": "phoenix"
       },
       "metadata": [
         {
@@ -798,9 +850,9 @@
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "GBP",
-            "max_value": "30000.0",
-            "min_value": "28000.0"
+            "unit": "USD",
+            "max_value": "45000.0",
+            "min_value": "40000.0"
           },
           "value_type": "currency_range"
         },
@@ -808,18 +860,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": null,
-            "amount": "100000.0"
+            "unit": "USD",
+            "amount": "80000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8397793002,
-      "updated_at": "2026-02-04T12:37:06-05:00",
-      "requisition_id": "738",
+      "id": 8407537002,
+      "updated_at": "2026-02-05T17:18:34-05:00",
+      "requisition_id": "1031",
       "title": "Sales Development Representative",
       "company_name": "PHMG Careers",
-      "first_published": "2026-01-30T04:29:25-05:00",
+      "first_published": "2026-02-05T17:18:34-05:00",
       "language": "en"
     },
     {
@@ -874,57 +926,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8402214002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5842539002,
-      "location": {
-        "name": "Phoenix"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "45000.0",
-            "min_value": "45000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": "USD",
-            "amount": "75000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8402214002,
-      "updated_at": "2026-02-03T11:41:48-05:00",
-      "requisition_id": "923",
-      "title": "Sales Development Representative (Business to Business)",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-02-03T11:41:48-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8402225002",
       "data_compliance": [
         {
@@ -973,6 +974,57 @@
       "title": "Sales Development Representative (Business to Business)",
       "company_name": "PHMG Careers",
       "first_published": "2026-02-03T11:44:16-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8402214002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5842539002,
+      "location": {
+        "name": "Phoenix"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "45000.0",
+            "min_value": "45000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "75000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8402214002,
+      "updated_at": "2026-02-03T11:41:48-05:00",
+      "requisition_id": "923",
+      "title": "Sales Development Representative (Business to Business)",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-02-03T11:41:48-05:00",
       "language": "en"
     },
     {
