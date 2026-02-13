@@ -1,100 +1,8 @@
 {
   "company": "careem",
-  "fetched_at": "2026-02-10T04:58:34.764925",
-  "job_count": 82,
+  "fetched_at": "2026-02-13T04:49:13.357895",
+  "job_count": 80,
   "jobs": [
-    {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8395794002?gh_jid=8395794002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6351227002,
-      "location": {
-        "name": "Jordan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Platform & Verticals",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Food",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "Food Account Management - Jordan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "ehab.aldissi@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Sales & Account management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Jordan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8395794002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9604",
-      "title": "Account Manager I",
-      "company_name": "Careem",
-      "first_published": "2026-01-29T07:40:42-05:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8383039002?gh_jid=8383039002",
       "data_compliance": [
@@ -1293,7 +1201,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8374007002?gh_jid=8374007002",
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8374008002?gh_jid=8374008002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1306,7 +1214,7 @@
       ],
       "internal_job_id": 6329057002,
       "location": {
-        "name": "Lahore, Pakistan"
+        "name": "Cairo, Egypt"
       },
       "metadata": [
         {
@@ -1376,12 +1284,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8374007002,
+      "id": 8374008002,
       "updated_at": "2026-02-05T04:34:53-05:00",
       "requisition_id": "9516",
       "title": "ERP Integration Manager",
       "company_name": "Careem",
-      "first_published": "2026-01-14T06:25:34-05:00",
+      "first_published": "2026-01-14T06:26:27-05:00",
       "language": "en"
     },
     {
@@ -1477,6 +1385,98 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8374007002?gh_jid=8374007002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6329057002,
+      "location": {
+        "name": "Lahore, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Platform & Verticals",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "Product",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "Groceries Product",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "hadyle.elaich@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "ERP",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "vrt-groceries-fulfillment-mobile",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Groceries",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "groceries-fulfillment",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Jordan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8374007002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "9516",
+      "title": "ERP Integration Manager",
+      "company_name": "Careem",
+      "first_published": "2026-01-14T06:25:34-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8374009002?gh_jid=8374009002",
       "data_compliance": [
         {
@@ -1566,98 +1566,6 @@
       "title": "ERP Integration Manager",
       "company_name": "Careem",
       "first_published": "2026-01-14T06:27:14-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8374008002?gh_jid=8374008002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6329057002,
-      "location": {
-        "name": "Cairo, Egypt"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Platform & Verticals",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "Groceries Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "hadyle.elaich@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "ERP",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "vrt-groceries-fulfillment-mobile",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Groceries",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "groceries-fulfillment",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Jordan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8374008002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9516",
-      "title": "ERP Integration Manager",
-      "company_name": "Careem",
-      "first_published": "2026-01-14T06:26:27-05:00",
       "language": "en"
     },
     {
@@ -2489,98 +2397,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/7981245002?gh_jid=7981245002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6157014002,
-      "location": {
-        "name": "Dubai, United Arab Emirates"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Platform & Verticals",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "Logistics Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "jean.kattikattuthayyil@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "plt-routing-and-eta",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Marketplace",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "marketplace-eta",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "United Arab Emirates",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7981245002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "8534",
-      "title": "Product Manager II - Marketplace",
-      "company_name": "Careem",
-      "first_published": "2025-05-02T09:10:12-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8331221002?gh_jid=8331221002",
       "data_compliance": [
         {
@@ -3409,98 +3225,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8075720002?gh_jid=8075720002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6197381002,
-      "location": {
-        "name": "Beirut, Lebanon"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Data & AI",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "DS - Verticals",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "hani.almousli@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Data science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Food",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "food-search-discovery-experience",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Kazakhstan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8075720002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "8905",
-      "title": "Senior Data Scientist I",
-      "company_name": "Careem",
-      "first_published": "2025-07-23T05:17:36-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8075718002?gh_jid=8075718002",
       "data_compliance": [
         {
@@ -3585,11 +3309,103 @@
         }
       ],
       "id": 8075718002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
+      "updated_at": "2026-02-10T00:20:33-05:00",
       "requisition_id": "8903",
       "title": "Senior Data Scientist I",
       "company_name": "Careem",
       "first_published": "2025-07-17T16:58:54-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8075720002?gh_jid=8075720002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6197381002,
+      "location": {
+        "name": "Beirut, Lebanon"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "Data & AI",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "DS - Verticals",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "hani.almousli@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Data science",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Food",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "food-search-discovery-experience",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Kazakhstan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8075720002,
+      "updated_at": "2026-02-10T00:21:09-05:00",
+      "requisition_id": "8905",
+      "title": "Senior Data Scientist I",
+      "company_name": "Careem",
+      "first_published": "2025-07-23T05:17:36-04:00",
       "language": "en"
     },
     {
@@ -3869,7 +3685,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8383077002?gh_jid=8383077002",
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8059619002?gh_jid=8059619002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3880,39 +3696,39 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6347108002,
+      "internal_job_id": 6190668002,
       "location": {
-        "name": "Amman, Jordan"
+        "name": "Dubai, United Arab Emirates"
       },
       "metadata": [
         {
           "id": 4471783002,
           "name": "Division",
-          "value": "Platform & Verticals",
+          "value": "Careem Pay",
           "value_type": "single_select"
         },
         {
           "id": 4221047002,
           "name": "Sub-Division",
-          "value": "Food",
+          "value": "Careem Pay",
           "value_type": "single_select"
         },
         {
           "id": 10033485002,
           "name": "Sub-Department",
-          "value": "Food Sales Incubation",
+          "value": "Pay Partnerships",
           "value_type": "single_select"
         },
         {
           "id": 22986410002,
           "name": "Hiring Manager",
-          "value": "muhammad.arsal1@careem.com",
+          "value": "sandeep.tilokani@careem.com",
           "value_type": "short_text"
         },
         {
           "id": 12565152002,
           "name": "Job Family",
-          "value": "Sales & Account management",
+          "value": "General Management",
           "value_type": "single_select"
         },
         {
@@ -3936,7 +3752,7 @@
         {
           "id": 24594952002,
           "name": "Country",
-          "value": "Jordan",
+          "value": "United Arab Emirates",
           "value_type": "single_select"
         },
         {
@@ -3952,12 +3768,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8383077002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9584",
-      "title": "Senior Incubation Executive",
+      "id": 8059619002,
+      "updated_at": "2026-02-11T02:00:30-05:00",
+      "requisition_id": "8850",
+      "title": "Senior Manager - Financial Partnerships",
       "company_name": "Careem",
-      "first_published": "2026-01-25T07:35:23-05:00",
+      "first_published": "2025-07-11T03:59:11-04:00",
       "language": "en"
     },
     {
@@ -4881,98 +4697,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8008298002?gh_jid=8008298002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6162986002,
-      "location": {
-        "name": "Karachi, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Architecture & Infrastructure",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "Infra Foundation",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "alaa.alkhdarat@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Site reliability engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "infra-finops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Infra",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "infra-finops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Egypt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8008298002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "8588",
-      "title": "Senior Site Reliability Engineer I ",
-      "company_name": "Careem",
-      "first_published": "2025-05-22T07:53:55-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8243707002?gh_jid=8243707002",
       "data_compliance": [
         {
@@ -5062,6 +4786,98 @@
       "title": "Senior Site Reliability Engineer I ",
       "company_name": "Careem",
       "first_published": "2025-11-05T05:29:22-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8008298002?gh_jid=8008298002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6162986002,
+      "location": {
+        "name": "Karachi, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "Architecture & Infrastructure",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "Infra Foundation",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "alaa.alkhdarat@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Site reliability engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "infra-finops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Infra",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "infra-finops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Egypt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8008298002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "8588",
+      "title": "Senior Site Reliability Engineer I ",
+      "company_name": "Careem",
+      "first_published": "2025-05-22T07:53:55-04:00",
       "language": "en"
     },
     {
@@ -5249,98 +5065,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8248379002?gh_jid=8248379002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6255434002,
-      "location": {
-        "name": "Lahore, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "EA Platform & New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "salah.alomari@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Software engineering - Android",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "vrt-micro-mobility",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "New Ventures",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "box-and-shops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Pakistan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8248379002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9318",
-      "title": "Senior Software Engineer I - Android",
-      "company_name": "Careem",
-      "first_published": "2025-11-07T05:35:44-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8214380002?gh_jid=8214380002",
       "data_compliance": [
         {
@@ -5430,6 +5154,98 @@
       "title": "Senior Software Engineer I - Android",
       "company_name": "Careem",
       "first_published": "2025-11-07T05:26:40-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8248379002?gh_jid=8248379002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6255434002,
+      "location": {
+        "name": "Lahore, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "EA Platform & New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "salah.alomari@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Software engineering - Android",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "vrt-micro-mobility",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "New Ventures",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "box-and-shops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Pakistan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8248379002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "9318",
+      "title": "Senior Software Engineer I - Android",
+      "company_name": "Careem",
+      "first_published": "2025-11-07T05:35:44-05:00",
       "language": "en"
     },
     {
@@ -5614,190 +5430,6 @@
       "title": "Senior Software Engineer I - Backend",
       "company_name": "Careem",
       "first_published": "2022-10-14T06:07:25-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8093633002?gh_jid=8093633002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6205984002,
-      "location": {
-        "name": "Lahore, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "EA Platform & New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "dharmesh.ruprela@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Software engineering - Full stack",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "vrt-micro-mobility",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Smart Mobility",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "smart-mobility-bike",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Pakistan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8093633002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "8962",
-      "title": "Senior Software Engineer I - Fullstack",
-      "company_name": "Careem",
-      "first_published": "2025-08-01T08:00:03-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8313591002?gh_jid=8313591002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6205984002,
-      "location": {
-        "name": "Karachi, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "EA Platform & New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "New Ventures Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "dharmesh.ruprela@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Software engineering - Full stack",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "vrt-micro-mobility",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Smart Mobility",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "smart-mobility-bike",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Pakistan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8313591002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "8962",
-      "title": "Senior Software Engineer I - Fullstack",
-      "company_name": "Careem",
-      "first_published": "2025-11-28T01:56:33-05:00",
       "language": "en"
     },
     {
@@ -6077,6 +5709,190 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8313591002?gh_jid=8313591002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6205984002,
+      "location": {
+        "name": "Karachi, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "EA Platform & New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "dharmesh.ruprela@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Software engineering - Full stack",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "vrt-micro-mobility",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Smart Mobility",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "smart-mobility-bike",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Pakistan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8313591002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "8962",
+      "title": "Senior Software Engineer I - Fullstack",
+      "company_name": "Careem",
+      "first_published": "2025-11-28T01:56:33-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8093633002?gh_jid=8093633002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6205984002,
+      "location": {
+        "name": "Lahore, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "EA Platform & New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "New Ventures Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "dharmesh.ruprela@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Software engineering - Full stack",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "vrt-micro-mobility",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Smart Mobility",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "smart-mobility-bike",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Pakistan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8093633002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "8962",
+      "title": "Senior Software Engineer I - Fullstack",
+      "company_name": "Careem",
+      "first_published": "2025-08-01T08:00:03-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8363086002?gh_jid=8363086002",
       "data_compliance": [
         {
@@ -6169,98 +5985,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8363085002?gh_jid=8363085002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6332751002,
-      "location": {
-        "name": "Lahore, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "Tech",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "Pay Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "Pay Platform Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "mohamed.alhoussainy@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "Software engineering - Backend",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": "pay-wallet-platform",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": "Pay",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": "pay-wallet-platform",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Pakistan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8363085002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9526",
-      "title": "Senior Software Engineer II",
-      "company_name": "Careem",
-      "first_published": "2026-01-07T05:05:04-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8244842002?gh_jid=8244842002",
       "data_compliance": [
         {
@@ -6350,6 +6074,98 @@
       "title": "Senior Software Engineer II",
       "company_name": "Careem",
       "first_published": "2026-01-06T02:32:07-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8363085002?gh_jid=8363085002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6332751002,
+      "location": {
+        "name": "Lahore, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "Tech",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "Pay Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "Pay Platform Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "mohamed.alhoussainy@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "Software engineering - Backend",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": "pay-wallet-platform",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": "Pay",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": "pay-wallet-platform",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Pakistan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8363085002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "9526",
+      "title": "Senior Software Engineer II",
+      "company_name": "Careem",
+      "first_published": "2026-01-07T05:05:04-05:00",
       "language": "en"
     },
     {
@@ -7274,98 +7090,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8185119002?gh_jid=8185119002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6243981002,
-      "location": {
-        "name": "Karachi, Pakistan"
-      },
-      "metadata": [
-        {
-          "id": 4471783002,
-          "name": "Division",
-          "value": "People",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4221047002,
-          "name": "Sub-Division",
-          "value": "People",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10033485002,
-          "name": "Sub-Department",
-          "value": "T&C - Tech & Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22986410002,
-          "name": "Hiring Manager",
-          "value": "darion.naylor@careem.com",
-          "value_type": "short_text"
-        },
-        {
-          "id": 12565152002,
-          "name": "Job Family",
-          "value": "People",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16153439002,
-          "name": "Functional Team",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653543002,
-          "name": "Tribe",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 15653550002,
-          "name": "Squad",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 24594952002,
-          "name": "Country",
-          "value": "Pakistan",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24436433002,
-          "name": "Evergreen Role (TA)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 22868282002,
-          "name": "SOURCER (TA)",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8185119002,
-      "updated_at": "2026-02-05T04:34:53-05:00",
-      "requisition_id": "9200",
-      "title": "Talent Acquisition Partner - (6 month contract)",
-      "company_name": "Careem",
-      "first_published": "2025-10-02T11:49:36-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/careem/jobs/8195810002?gh_jid=8195810002",
       "data_compliance": [
         {
@@ -7455,6 +7179,98 @@
       "title": "Talent Acquisition Partner - (6 month contract)",
       "company_name": "Careem",
       "first_published": "2025-10-02T11:51:06-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/careem/jobs/8185119002?gh_jid=8185119002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6243981002,
+      "location": {
+        "name": "Karachi, Pakistan"
+      },
+      "metadata": [
+        {
+          "id": 4471783002,
+          "name": "Division",
+          "value": "People",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4221047002,
+          "name": "Sub-Division",
+          "value": "People",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10033485002,
+          "name": "Sub-Department",
+          "value": "T&C - Tech & Product",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22986410002,
+          "name": "Hiring Manager",
+          "value": "darion.naylor@careem.com",
+          "value_type": "short_text"
+        },
+        {
+          "id": 12565152002,
+          "name": "Job Family",
+          "value": "People",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16153439002,
+          "name": "Functional Team",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653543002,
+          "name": "Tribe",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 15653550002,
+          "name": "Squad",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24594952002,
+          "name": "Country",
+          "value": "Pakistan",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24436433002,
+          "name": "Evergreen Role (TA)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 22868282002,
+          "name": "SOURCER (TA)",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8185119002,
+      "updated_at": "2026-02-05T04:34:53-05:00",
+      "requisition_id": "9200",
+      "title": "Talent Acquisition Partner - (6 month contract)",
+      "company_name": "Careem",
+      "first_published": "2025-10-02T11:49:36-04:00",
       "language": "en"
     },
     {
