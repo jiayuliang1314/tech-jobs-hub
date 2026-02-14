@@ -1,46 +1,8 @@
 {
   "company": "rubrik",
-  "fetched_at": "2026-02-11T05:09:10.222058",
-  "job_count": 220,
+  "fetched_at": "2026-02-14T04:39:21.097555",
+  "job_count": 219,
   "jobs": [
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7516255?gh_jid=7516255",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3330807,
-      "location": {
-        "name": "Toronto, Canada"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7516255,
-      "updated_at": "2026-02-04T15:05:36-05:00",
-      "requisition_id": "10387",
-      "title": "Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-04T09:57:49-05:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7563094?gh_jid=7563094",
       "data_compliance": [
@@ -80,7 +42,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7472889?gh_jid=7472889",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7516255?gh_jid=7516255",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -88,71 +50,33 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3318133,
+      "internal_job_id": 3330807,
       "location": {
-        "name": "Paris, France"
+        "name": "Toronto, Canada"
       },
       "metadata": [
         {
           "id": 943349,
           "name": "Geo",
-          "value": "EMEA",
+          "value": "AMER",
           "value_type": "single_select"
         },
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
-      "id": 7472889,
-      "updated_at": "2026-02-05T08:05:52-05:00",
-      "requisition_id": "10309",
-      "title": "Account Executive ",
+      "id": 7516255,
+      "updated_at": "2026-02-04T15:05:36-05:00",
+      "requisition_id": "10387",
+      "title": "Account Executive",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-13T14:14:31-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7310028?gh_jid=7310028",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3268570,
-      "location": {
-        "name": "Germany, Remote"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "EMEA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "05-01-26 FY27 Q2",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7310028,
-      "updated_at": "2026-02-04T15:05:27-05:00",
-      "requisition_id": "9780",
-      "title": "Account Executive ",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-29T10:30:47-04:00",
+      "first_published": "2026-02-04T09:57:49-05:00",
       "language": "en"
     },
     {
@@ -194,6 +118,82 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7310028?gh_jid=7310028",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3268570,
+      "location": {
+        "name": "Germany, Remote"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "EMEA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "05-01-26 FY27 Q2",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7310028,
+      "updated_at": "2026-02-04T15:05:27-05:00",
+      "requisition_id": "9780",
+      "title": "Account Executive ",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-29T10:30:47-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7472889?gh_jid=7472889",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3318133,
+      "location": {
+        "name": "Paris, France"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "EMEA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-01-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7472889,
+      "updated_at": "2026-02-05T08:05:52-05:00",
+      "requisition_id": "10309",
+      "title": "Account Executive ",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-01-13T14:14:31-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7511649?gh_jid=7511649",
       "data_compliance": [
         {
@@ -219,12 +219,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7511649,
-      "updated_at": "2026-02-04T15:05:36-05:00",
+      "updated_at": "2026-02-12T12:54:51-05:00",
       "requisition_id": "10382",
       "title": "Account Executive, Cloud Product Line Specialist (Wisconsin & Illinois)",
       "company_name": "Rubrik Job Board",
@@ -460,44 +460,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3317847,
-      "location": {
-        "name": "Chicago, IL"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7472096,
-      "updated_at": "2026-02-04T15:05:34-05:00",
-      "requisition_id": "10303",
-      "title": "AI Sales Engineer",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-27T12:27:30-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7472107?gh_jid=7472107",
       "data_compliance": [
         {
@@ -523,16 +485,54 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7472107,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:50:06-05:00",
       "requisition_id": "10305",
       "title": "AI Sales Engineer",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-27T12:29:31-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3317847,
+      "location": {
+        "name": "Chicago, IL"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7472096,
+      "updated_at": "2026-02-12T12:49:43-05:00",
+      "requisition_id": "10303",
+      "title": "AI Sales Engineer",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-01-27T12:27:30-05:00",
       "language": "en"
     },
     {
@@ -574,6 +574,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7411253?gh_jid=7411253",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3302019,
+      "location": {
+        "name": "Houston, TX"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7411253,
+      "updated_at": "2026-02-12T12:48:25-05:00",
+      "requisition_id": "10145",
+      "title": "Channel Development Manager",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-11-24T15:10:50-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7526425?gh_jid=7526425",
       "data_compliance": [
         {
@@ -609,82 +647,6 @@
       "title": "Channel Development Manager",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-12T17:19:43-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7411253?gh_jid=7411253",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3302019,
-      "location": {
-        "name": "Houston, TX"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7411253,
-      "updated_at": "2026-02-04T15:05:31-05:00",
-      "requisition_id": "10145",
-      "title": "Channel Development Manager",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-11-24T15:10:50-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7464388?gh_jid=7464388",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3316550,
-      "location": {
-        "name": "Paris, France"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "EMEA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7464388,
-      "updated_at": "2026-02-04T15:05:34-05:00",
-      "requisition_id": "10291",
-      "title": "Channel Development Manager",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-12-15T14:30:32-05:00",
       "language": "en"
     },
     {
@@ -789,12 +751,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7420180,
-      "updated_at": "2026-02-04T15:05:31-05:00",
+      "updated_at": "2026-02-12T12:47:54-05:00",
       "requisition_id": "10164",
       "title": "Contracts Administrator",
       "company_name": "Rubrik Job Board",
@@ -827,12 +789,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7362951,
-      "updated_at": "2026-02-09T02:00:17-05:00",
+      "updated_at": "2026-02-12T00:01:01-05:00",
       "requisition_id": "INCEM9961",
       "title": "Customer Experience Manager II",
       "company_name": "Rubrik Job Board",
@@ -1246,12 +1208,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7462194,
-      "updated_at": "2026-02-04T15:05:33-05:00",
+      "updated_at": "2026-02-12T12:48:16-05:00",
       "requisition_id": "10273",
       "title": "Director of Channel Strategy and Operations",
       "company_name": "Rubrik Job Board",
@@ -1474,12 +1436,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7057663,
-      "updated_at": "2026-02-04T15:05:26-05:00",
+      "updated_at": "2026-02-12T13:13:40-05:00",
       "requisition_id": "9360",
       "title": "Director, Technical Influencer- Cloud and AI",
       "company_name": "Rubrik Job Board",
@@ -1677,44 +1639,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7405996?gh_jid=7405996",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3299834,
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "India",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7405996,
-      "updated_at": "2026-02-04T15:05:30-05:00",
-      "requisition_id": "INSW10124",
-      "title": "Engineering Manager - Data threat analytics",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-12-11T15:42:12-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060",
       "data_compliance": [
         {
@@ -1791,272 +1715,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339188?gh_jid=7339188",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274909,
-      "location": {
-        "name": "Sydney, Australia"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "04-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7339188,
-      "updated_at": "2026-02-10T05:32:48-05:00",
-      "requisition_id": "9855",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-24T01:23:03-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7243447?gh_jid=7243447",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3243825,
-      "location": {
-        "name": "San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7243447,
-      "updated_at": "2026-02-08T15:44:03-05:00",
-      "requisition_id": "9642",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-11-25T12:06:30-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339086?gh_jid=7339086",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274879,
-      "location": {
-        "name": "Pune"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7339086,
-      "updated_at": "2026-02-04T15:05:28-05:00",
-      "requisition_id": "9850",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-24T00:52:56-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339135?gh_jid=7339135",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274891,
-      "location": {
-        "name": "Bangalore"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7339135,
-      "updated_at": "2026-02-04T15:05:28-05:00",
-      "requisition_id": "9853",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-24T01:05:18-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339168?gh_jid=7339168",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274902,
-      "location": {
-        "name": "Canberra, Australia "
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "04-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7339168,
-      "updated_at": "2026-02-04T15:05:28-05:00",
-      "requisition_id": "9854",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-24T01:17:33-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7337264?gh_jid=7337264",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3274244,
-      "location": {
-        "name": "Tokyo, Japan"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "05-15-26 FY27 Q2",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7337264,
-      "updated_at": "2026-02-04T15:05:28-05:00",
-      "requisition_id": "9844",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-24T01:25:07-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7270272?gh_jid=7270272",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3254420,
-      "location": {
-        "name": "Singapore"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "APJ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7270272,
-      "updated_at": "2026-02-09T03:08:57-05:00",
-      "requisition_id": "9689",
-      "title": "Enterprise Account Executive",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-09-30T01:52:01-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7247183?gh_jid=7247183",
       "data_compliance": [
         {
@@ -2087,7 +1745,7 @@
         }
       ],
       "id": 7247183,
-      "updated_at": "2026-02-10T05:32:34-05:00",
+      "updated_at": "2026-02-12T18:52:00-05:00",
       "requisition_id": "9644",
       "title": "Enterprise Account Executive",
       "company_name": "Rubrik Job Board",
@@ -2095,7 +1753,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7483643?gh_jid=7483643",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7584499?gh_jid=7584499",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2106,30 +1764,30 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3320979,
+      "internal_job_id": 3353004,
       "location": {
-        "name": "Amsterdam, Netherlands"
+        "name": "Tokyo, Japan"
       },
       "metadata": [
         {
           "id": 943349,
           "name": "Geo",
-          "value": "EMEA",
+          "value": "APJ",
           "value_type": "single_select"
         },
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "06-01-26 FY27 Q2",
           "value_type": "single_select"
         }
       ],
-      "id": 7483643,
-      "updated_at": "2026-02-09T07:42:24-05:00",
-      "requisition_id": "10335",
+      "id": 7584499,
+      "updated_at": "2026-02-11T23:33:28-05:00",
+      "requisition_id": "10569",
       "title": "Enterprise Account Executive",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-09T07:42:24-05:00",
+      "first_published": "2026-02-11T23:33:27-05:00",
       "language": "en"
     },
     {
@@ -2171,6 +1829,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7483643?gh_jid=7483643",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3320979,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "EMEA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-01-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7483643,
+      "updated_at": "2026-02-09T07:42:24-05:00",
+      "requisition_id": "10335",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-02-09T07:42:24-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7360308?gh_jid=7360308",
       "data_compliance": [
         {
@@ -2206,6 +1902,234 @@
       "title": "Enterprise Account Executive",
       "company_name": "Rubrik Job Board",
       "first_published": "2025-12-18T12:24:39-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7243447?gh_jid=7243447",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3243825,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7243447,
+      "updated_at": "2026-02-08T15:44:03-05:00",
+      "requisition_id": "9642",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-11-25T12:06:30-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7270272?gh_jid=7270272",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3254420,
+      "location": {
+        "name": "Singapore"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "APJ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-01-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7270272,
+      "updated_at": "2026-02-09T03:08:57-05:00",
+      "requisition_id": "9689",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-09-30T01:52:01-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7337264?gh_jid=7337264",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3274244,
+      "location": {
+        "name": "Tokyo, Japan"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "APJ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "05-15-26 FY27 Q2",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7337264,
+      "updated_at": "2026-02-04T15:05:28-05:00",
+      "requisition_id": "9844",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-24T01:25:07-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339086?gh_jid=7339086",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3274879,
+      "location": {
+        "name": "Pune"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "APJ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-01-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7339086,
+      "updated_at": "2026-02-04T15:05:28-05:00",
+      "requisition_id": "9850",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-24T00:52:56-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339188?gh_jid=7339188",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3274909,
+      "location": {
+        "name": "Sydney, Australia"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "APJ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7339188,
+      "updated_at": "2026-02-10T05:32:48-05:00",
+      "requisition_id": "9855",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-24T01:23:03-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339168?gh_jid=7339168",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3274902,
+      "location": {
+        "name": "Canberra, Australia "
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "APJ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7339168,
+      "updated_at": "2026-02-04T15:05:28-05:00",
+      "requisition_id": "9854",
+      "title": "Enterprise Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-24T01:17:33-04:00",
       "language": "en"
     },
     {
@@ -2576,12 +2500,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "03-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7570169,
-      "updated_at": "2026-02-04T15:05:43-05:00",
+      "updated_at": "2026-02-12T13:13:14-05:00",
       "requisition_id": "10534",
       "title": "Finance Manager, Topline Finance ",
       "company_name": "Rubrik Job Board",
@@ -2614,12 +2538,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7419403,
-      "updated_at": "2026-02-04T15:05:31-05:00",
+      "updated_at": "2026-02-12T12:49:19-05:00",
       "requisition_id": "10159",
       "title": "Global Partner Transformation Director",
       "company_name": "Rubrik Job Board",
@@ -2652,12 +2576,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7522217,
-      "updated_at": "2026-02-04T15:05:37-05:00",
+      "updated_at": "2026-02-12T22:58:31-05:00",
       "requisition_id": "10403",
       "title": "GSI Alliances, India",
       "company_name": "Rubrik Job Board",
@@ -2842,12 +2766,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7353519,
-      "updated_at": "2026-02-04T15:05:29-05:00",
+      "updated_at": "2026-02-12T12:48:42-05:00",
       "requisition_id": "9893",
       "title": "Healthcare Account Executive, Southwest",
       "company_name": "Rubrik Job Board",
@@ -2880,93 +2804,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7367348,
-      "updated_at": "2026-02-04T15:05:29-05:00",
+      "updated_at": "2026-02-12T12:49:00-05:00",
       "requisition_id": "9980",
       "title": "Healthcare Account Executive, TOLA",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-08T09:18:35-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7460617?gh_jid=7460617",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3315328,
-      "location": {
-        "name": "Palo Alto, California "
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7460617,
-      "updated_at": "2026-02-04T15:05:33-05:00",
-      "requisition_id": "10268",
-      "title": "HR Business Partner, GTM",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-12-15T15:59:59-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7350030?gh_jid=7350030",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3278973,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7350030,
-      "updated_at": "2026-02-10T17:00:11-05:00",
-      "requisition_id": "9880",
-      "title": "Identity Architect - Microsoft Identity Systems",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-22T17:05:38-04:00",
       "language": "en"
     },
     {
@@ -2995,16 +2842,54 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7477343,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:49:16-05:00",
       "requisition_id": "10321",
       "title": "Identity Resilience Sales Manager, Mid Market",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-14T11:49:51-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7564621?gh_jid=7564621",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3346229,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7564621,
+      "updated_at": "2026-02-12T20:57:02-05:00",
+      "requisition_id": "10521",
+      "title": "Identity Resilience Sales Manager, South Central",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-02-12T20:57:02-05:00",
       "language": "en"
     },
     {
@@ -3186,12 +3071,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7452523,
-      "updated_at": "2026-02-04T15:05:32-05:00",
+      "updated_at": "2026-02-12T12:58:14-05:00",
       "requisition_id": "10253",
       "title": "Inside Sales Engineer, SLED (Austin, TX)",
       "company_name": "Rubrik Job Board",
@@ -3681,12 +3566,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7510623,
-      "updated_at": "2026-02-04T15:05:36-05:00",
+      "updated_at": "2026-02-12T02:02:46-05:00",
       "requisition_id": "10378",
       "title": "Manager Sales Engineering",
       "company_name": "Rubrik Job Board",
@@ -3757,12 +3642,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7565305,
-      "updated_at": "2026-02-04T15:05:43-05:00",
+      "updated_at": "2026-02-12T12:49:22-05:00",
       "requisition_id": "10524",
       "title": "Marketing Campaign Specialist",
       "company_name": "Rubrik Job Board",
@@ -3809,6 +3694,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7488721?gh_jid=7488721",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3322583,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7488721,
+      "updated_at": "2026-02-12T13:00:10-05:00",
+      "requisition_id": "10354",
+      "title": "Mid Market SMB Account Executive",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-01-12T15:02:32-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7531258?gh_jid=7531258",
       "data_compliance": [
         {
@@ -3834,12 +3757,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7531258,
-      "updated_at": "2026-02-04T15:05:38-05:00",
+      "updated_at": "2026-02-12T12:58:35-05:00",
       "requisition_id": "10428",
       "title": "MM Regional Director (Austin, TX)",
       "company_name": "Rubrik Job Board",
@@ -3910,12 +3833,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7453313,
-      "updated_at": "2026-02-04T15:05:32-05:00",
+      "updated_at": "2026-02-12T12:45:30-05:00",
       "requisition_id": "10256",
       "title": "PLS Account Executive, Cloud",
       "company_name": "Rubrik Job Board",
@@ -4215,54 +4138,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7353394,
-      "updated_at": "2026-02-04T15:05:29-05:00",
+      "updated_at": "2026-02-12T12:49:42-05:00",
       "requisition_id": "9890",
       "title": "Regional Director, Great Plains Enterprise",
       "company_name": "Rubrik Job Board",
       "first_published": "2025-11-20T12:47:18-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7463229?gh_jid=7463229",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3316124,
-      "location": {
-        "name": "Columbus, OH"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7463229,
-      "updated_at": "2026-02-04T15:05:33-05:00",
-      "requisition_id": "10282",
-      "title": "Regional Director, Ohio Valley",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-20T18:37:41-05:00",
       "language": "en"
     },
     {
@@ -4405,12 +4290,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7438648,
-      "updated_at": "2026-02-04T15:05:32-05:00",
+      "updated_at": "2026-02-12T12:49:50-05:00",
       "requisition_id": "10217",
       "title": "Sales Development Manager",
       "company_name": "Rubrik Job Board",
@@ -4609,7 +4494,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7582320?gh_jid=7582320",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7582323?gh_jid=7582323",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4620,8 +4505,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "education": "education_optional",
-      "internal_job_id": 3329361,
+      "internal_job_id": 3333834,
       "location": {
         "name": "Germany, Remote "
       },
@@ -4639,12 +4523,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7582320,
-      "updated_at": "2026-02-04T15:05:36-05:00",
-      "requisition_id": "10381",
+      "id": 7582323,
+      "updated_at": "2026-02-04T15:05:37-05:00",
+      "requisition_id": "10413",
       "title": "Sales Engineer",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-02T04:18:47-05:00",
+      "first_published": "2026-02-02T04:20:13-05:00",
       "language": "en"
     },
     {
@@ -4686,7 +4570,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7582323?gh_jid=7582323",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7582320?gh_jid=7582320",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4697,7 +4581,8 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3333834,
+      "education": "education_optional",
+      "internal_job_id": 3329361,
       "location": {
         "name": "Germany, Remote "
       },
@@ -4715,12 +4600,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7582323,
-      "updated_at": "2026-02-04T15:05:37-05:00",
-      "requisition_id": "10413",
+      "id": 7582320,
+      "updated_at": "2026-02-04T15:05:36-05:00",
+      "requisition_id": "10381",
       "title": "Sales Engineer",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-02T04:20:13-05:00",
+      "first_published": "2026-02-02T04:18:47-05:00",
       "language": "en"
     },
     {
@@ -4749,54 +4634,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7405012,
-      "updated_at": "2026-02-04T15:05:30-05:00",
+      "updated_at": "2026-02-12T18:55:53-05:00",
       "requisition_id": "10112",
       "title": "Sales Engineer, Canberra",
       "company_name": "Rubrik Job Board",
       "first_published": "2025-11-19T04:27:45-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7462910?gh_jid=7462910",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3316020,
-      "location": {
-        "name": "California"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7462910,
-      "updated_at": "2026-02-06T15:22:36-05:00",
-      "requisition_id": "10281",
-      "title": "Sales Engineer, Cloud Product Line Specialist",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-12-18T13:14:09-05:00",
       "language": "en"
     },
     {
@@ -4838,6 +4685,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7462910?gh_jid=7462910",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3316020,
+      "location": {
+        "name": "California"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7462910,
+      "updated_at": "2026-02-06T15:22:36-05:00",
+      "requisition_id": "10281",
+      "title": "Sales Engineer, Cloud Product Line Specialist",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-12-18T13:14:09-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7123537?gh_jid=7123537",
       "data_compliance": [
         {
@@ -4863,54 +4748,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7123537,
-      "updated_at": "2026-02-04T15:05:26-05:00",
-      "requisition_id": "9511",
-      "title": "Sales Engineering Director - Central Strategic",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-08-02T17:03:19-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7527044?gh_jid=7527044",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3334136,
-      "location": {
-        "name": "Central US"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
           "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
-      "id": 7527044,
-      "updated_at": "2026-02-06T14:44:46-05:00",
-      "requisition_id": "10417",
-      "title": "Sales Engineer, NAS Product Line Specialist",
+      "id": 7123537,
+      "updated_at": "2026-02-12T12:48:16-05:00",
+      "requisition_id": "9511",
+      "title": "Sales Engineering Director - Central Strategic",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-09T14:25:16-05:00",
+      "first_published": "2025-08-02T17:03:19-04:00",
       "language": "en"
     },
     {
@@ -4952,7 +4799,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7471913?gh_jid=7471913",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7527044?gh_jid=7527044",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4963,9 +4810,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3317778,
+      "internal_job_id": 3334136,
       "location": {
-        "name": "Raleigh, NC"
+        "name": "Central US"
       },
       "metadata": [
         {
@@ -4977,16 +4824,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
-      "id": 7471913,
-      "updated_at": "2026-02-04T15:05:34-05:00",
-      "requisition_id": "10300",
-      "title": "Sales Engineer, PLS",
+      "id": 7527044,
+      "updated_at": "2026-02-06T14:44:46-05:00",
+      "requisition_id": "10417",
+      "title": "Sales Engineer, NAS Product Line Specialist",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-03T14:03:36-05:00",
+      "first_published": "2026-01-09T14:25:16-05:00",
       "language": "en"
     },
     {
@@ -5167,16 +5014,54 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7531036,
-      "updated_at": "2026-02-04T15:05:38-05:00",
+      "updated_at": "2026-02-12T12:51:41-05:00",
       "requisition_id": "10427",
       "title": "SDR Program Manager - Outbound Sales Play & Execution",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-14T12:13:31-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.6109448?gh_jid=6109448",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2920100,
+      "location": {
+        "name": "Tel Aviv, Israel"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "EMEA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "Evergreen",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6109448,
+      "updated_at": "2026-02-11T10:47:50-05:00",
+      "requisition_id": "7684PIPELINE",
+      "title": "Senior Backend Engineer",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2024-07-14T07:18:37-04:00",
       "language": "en"
     },
     {
@@ -5662,12 +5547,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7480507,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T23:00:13-05:00",
       "requisition_id": "10327",
       "title": "Senior Global Partner Program Manager",
       "company_name": "Rubrik Job Board",
@@ -5700,54 +5585,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7525995,
-      "updated_at": "2026-02-04T15:05:37-05:00",
+      "updated_at": "2026-02-12T12:53:10-05:00",
       "requisition_id": "10414",
       "title": "Senior GSI (Global System Integrators) Account Executive - North America",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-29T07:44:04-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7382676?gh_jid=7382676",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3290906,
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "India",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "Evergreen",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7382676,
-      "updated_at": "2026-02-04T15:05:30-05:00",
-      "requisition_id": "Evergreen",
-      "title": "Senior HR Business partner",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-11-07T01:56:23-05:00",
       "language": "en"
     },
     {
@@ -5814,12 +5661,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7516772,
-      "updated_at": "2026-02-06T12:33:30-05:00",
+      "updated_at": "2026-02-12T12:34:48-05:00",
       "requisition_id": "10391",
       "title": "Senior Manager, Alliances Marketing",
       "company_name": "Rubrik Job Board",
@@ -5929,12 +5776,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7481175,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:51:59-05:00",
       "requisition_id": "10328",
       "title": "Senior Manager, Sales Development",
       "company_name": "Rubrik Job Board",
@@ -6209,7 +6056,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7510615?gh_jid=7510615",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7509911?gh_jid=7509911",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6220,15 +6067,15 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3329178,
+      "internal_job_id": 3328871,
       "location": {
-        "name": "Bengaluru, India "
+        "name": "Bangalore"
       },
       "metadata": [
         {
           "id": 943349,
           "name": "Geo",
-          "value": "APJ",
+          "value": "India",
           "value_type": "single_select"
         },
         {
@@ -6238,12 +6085,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7510615,
-      "updated_at": "2026-02-04T15:05:36-05:00",
-      "requisition_id": "10376",
-      "title": "Senior Sales Engineer",
+      "id": 7509911,
+      "updated_at": "2026-02-13T00:07:58-05:00",
+      "requisition_id": "INROA10374",
+      "title": "Senior Renewals Operations Analyst ",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-06T05:06:30-05:00",
+      "first_published": "2026-01-20T00:15:17-05:00",
       "language": "en"
     },
     {
@@ -6272,12 +6119,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7387985,
-      "updated_at": "2026-02-04T15:05:30-05:00",
+      "updated_at": "2026-02-12T22:49:20-05:00",
       "requisition_id": "10065",
       "title": "Senior Sales Engineer",
       "company_name": "Rubrik Job Board",
@@ -6386,12 +6233,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7590064,
-      "updated_at": "2026-02-09T10:57:14-05:00",
+      "updated_at": "2026-02-12T12:52:19-05:00",
       "requisition_id": "10583",
       "title": "Senior Sales Operations Analyst",
       "company_name": "Rubrik Job Board",
@@ -6843,12 +6690,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7357043,
-      "updated_at": "2026-02-04T15:05:29-05:00",
+      "updated_at": "2026-02-12T12:59:08-05:00",
       "requisition_id": "9925",
       "title": "SLED Account Executive",
       "company_name": "Rubrik Job Board",
@@ -6881,12 +6728,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7497197,
-      "updated_at": "2026-02-04T15:05:36-05:00",
+      "updated_at": "2026-02-12T12:59:40-05:00",
       "requisition_id": "10365",
       "title": "SLED Account Executive, South Central",
       "company_name": "Rubrik Job Board",
@@ -6932,7 +6779,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7597626?gh_jid=7597626",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7430248?gh_jid=7430248",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6943,9 +6790,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3357308,
+      "internal_job_id": 3306178,
       "location": {
-        "name": "Bangalore"
+        "name": "Bangalore "
       },
       "metadata": [
         {
@@ -6961,16 +6808,16 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7597626,
-      "updated_at": "2026-02-10T08:40:30-05:00",
-      "requisition_id": "INSW10600",
-      "title": "Software Engineer - API",
+      "id": 7430248,
+      "updated_at": "2026-02-12T07:49:28-05:00",
+      "requisition_id": "INSW10201",
+      "title": "Software Engineer - Cloud Native Protection",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-02-10T08:40:30-05:00",
+      "first_published": "2026-02-12T07:49:28-05:00",
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7430263?gh_jid=7430263",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7590463?gh_jid=7590463",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6978,33 +6825,33 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3306184,
+      "internal_job_id": 3355307,
       "location": {
-        "name": "Bangalore "
+        "name": "Palo Alto, CA"
       },
       "metadata": [
         {
           "id": 943349,
           "name": "Geo",
-          "value": "India",
+          "value": "AMER",
           "value_type": "single_select"
         },
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "04-01-26 FY27 Q1",
+          "value": "04-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
-      "id": 7430263,
-      "updated_at": "2026-02-04T15:05:31-05:00",
-      "requisition_id": "INSW10202",
-      "title": "Software Engineer - Cloud Native Protection",
+      "id": 7590463,
+      "updated_at": "2026-02-12T11:56:45-05:00",
+      "requisition_id": "10585",
+      "title": "Software Engineer - Cloud Security",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-12T08:15:42-05:00",
+      "first_published": "2026-02-12T11:56:45-05:00",
       "language": "en"
     },
     {
@@ -7043,44 +6890,6 @@
       "title": "Software Engineer - Cloud Unstructured",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-02-02T15:11:59-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7339395?gh_jid=7339395",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3274984,
-      "location": {
-        "name": "Palo Alto, CA"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-15-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7339395,
-      "updated_at": "2026-02-04T15:05:28-05:00",
-      "requisition_id": "9859",
-      "title": "Software Engineer - Core Infra (FedRamp)",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-10-27T19:34:36-04:00",
       "language": "en"
     },
     {
@@ -7237,6 +7046,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7566284?gh_jid=7566284",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3346859,
+      "location": {
+        "name": "Bangalore "
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7566284,
+      "updated_at": "2026-02-11T03:34:49-05:00",
+      "requisition_id": "INSW10528",
+      "title": "Software Engineer- Hypervisor ",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-02-11T03:34:49-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7107852?gh_jid=7107852",
       "data_compliance": [
         {
@@ -7272,6 +7119,44 @@
       "title": "Software Engineer - Orchestrated Application Recovery ",
       "company_name": "Rubrik Job Board",
       "first_published": "2025-08-10T20:42:39-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7593563?gh_jid=7593563",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3356302,
+      "location": {
+        "name": "Palo Alto, CA"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7593563,
+      "updated_at": "2026-02-13T12:14:07-05:00",
+      "requisition_id": "10591",
+      "title": "Software Engineer, SaaS Protection",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-02-13T12:14:07-05:00",
       "language": "en"
     },
     {
@@ -7313,44 +7198,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7205906?gh_jid=7205906",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3232664,
-      "location": {
-        "name": "Palo Alto, CA"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7205906,
-      "updated_at": "2026-02-04T15:05:26-05:00",
-      "requisition_id": "9608",
-      "title": "Software Engineer - Systems Engineering ",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-08-29T12:05:43-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7438329?gh_jid=7438329",
       "data_compliance": [
         {
@@ -7376,12 +7223,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7438329,
-      "updated_at": "2026-02-04T15:05:37-05:00",
+      "updated_at": "2026-02-12T13:14:34-05:00",
       "requisition_id": "10216",
       "title": " Sr Accountant, Corporate Accounting ",
       "company_name": "Rubrik Job Board",
@@ -7452,12 +7299,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7561729,
-      "updated_at": "2026-02-04T15:05:42-05:00",
+      "updated_at": "2026-02-12T12:35:16-05:00",
       "requisition_id": "10516",
       "title": "Sr. Financial Analyst - GTM",
       "company_name": "Rubrik Job Board",
@@ -7490,16 +7337,92 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7405650,
-      "updated_at": "2026-02-04T15:05:31-05:00",
+      "updated_at": "2026-02-12T12:53:44-05:00",
       "requisition_id": "10116",
       "title": "Sr. GSI Global Solution Architect - Cognizant",
       "company_name": "Rubrik Job Board",
       "first_published": "2025-11-21T17:09:53-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7405671?gh_jid=7405671",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3299707,
+      "location": {
+        "name": "Remote"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7405671,
+      "updated_at": "2026-02-13T10:23:27-05:00",
+      "requisition_id": "10117",
+      "title": "Sr. GSI Global Solution Architect - Kyndryl / NTT Data",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-12-01T09:42:25-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7460617?gh_jid=7460617",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3315328,
+      "location": {
+        "name": "Palo Alto, California "
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7460617,
+      "updated_at": "2026-02-13T18:05:34-05:00",
+      "requisition_id": "10268",
+      "title": "Sr. HR Business Partner, GTM",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-12-15T15:59:59-05:00",
       "language": "en"
     },
     {
@@ -7533,7 +7456,7 @@
         }
       ],
       "id": 7575597,
-      "updated_at": "2026-02-04T15:05:43-05:00",
+      "updated_at": "2026-02-12T13:14:02-05:00",
       "requisition_id": "10551",
       "title": "Sr. Manager, Corporate Accounting",
       "company_name": "Rubrik Job Board",
@@ -7566,54 +7489,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7528035,
-      "updated_at": "2026-02-07T00:05:27-05:00",
+      "updated_at": "2026-02-12T13:08:49-05:00",
       "requisition_id": "10151",
       "title": "Sr. Manager, Finance- Topline FP&A",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-09T16:35:36-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7463640?gh_jid=7463640",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3316253,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7463640,
-      "updated_at": "2026-02-04T15:05:33-05:00",
-      "requisition_id": "10287",
-      "title": "Sr. Sales Engineer, Cloud Product Line Specialist",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2025-12-26T11:39:08-05:00",
       "language": "en"
     },
     {
@@ -7642,16 +7527,54 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7463652,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:55:55-05:00",
       "requisition_id": "10288",
       "title": "Sr. Sales Engineer, Cloud Product Line Specialist",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-01-12T17:49:45-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7463640?gh_jid=7463640",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3316253,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "03-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7463640,
+      "updated_at": "2026-02-12T12:55:24-05:00",
+      "requisition_id": "10287",
+      "title": "Sr. Sales Engineer, Cloud Product Line Specialist",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-12-26T11:39:08-05:00",
       "language": "en"
     },
     {
@@ -7680,12 +7603,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7463613,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:56:53-05:00",
       "requisition_id": "10286",
       "title": "Sr. Sales Engineer, Cloud Product Line Specialist ",
       "company_name": "Rubrik Job Board",
@@ -7756,12 +7679,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7481324,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:50:27-05:00",
       "requisition_id": "10329",
       "title": "Sr. Sales Engineer - North Central Enterprise",
       "company_name": "Rubrik Job Board",
@@ -7832,12 +7755,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7463442,
-      "updated_at": "2026-02-04T15:05:34-05:00",
+      "updated_at": "2026-02-12T12:56:25-05:00",
       "requisition_id": "10284",
       "title": "Sr. Sales Engineer, Product Line Specialist (Cloud) - Mountain",
       "company_name": "Rubrik Job Board",
@@ -7870,12 +7793,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "04-01-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7436682,
-      "updated_at": "2026-02-04T15:05:32-05:00",
+      "updated_at": "2026-02-12T12:50:46-05:00",
       "requisition_id": "10213",
       "title": "Sr. Sales Engineer - Southwest, Healthcare",
       "company_name": "Rubrik Job Board",
@@ -7913,11 +7836,49 @@
         }
       ],
       "id": 7586375,
-      "updated_at": "2026-02-05T09:41:52-05:00",
+      "updated_at": "2026-02-13T12:30:46-05:00",
       "requisition_id": "10578",
       "title": "Sr. Sales Engineer - Strategic, MN",
       "company_name": "Rubrik Job Board",
       "first_published": "2026-02-05T09:41:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7556096?gh_jid=7556096",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3343628,
+      "location": {
+        "name": "Bangalore "
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "India",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-15-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7556096,
+      "updated_at": "2026-02-12T07:46:56-05:00",
+      "requisition_id": "INSW10497",
+      "title": "Staff Engineer- Cloud Native Protection",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2026-02-12T07:46:56-05:00",
       "language": "en"
     },
     {
@@ -8074,6 +8035,45 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7350030?gh_jid=7350030",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3278973,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 943349,
+          "name": "Geo",
+          "value": "AMER",
+          "value_type": "single_select"
+        },
+        {
+          "id": 681454,
+          "name": "Projected Start Date (for FP&A)",
+          "value": "04-01-26 FY27 Q1",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7350030,
+      "updated_at": "2026-02-13T19:49:31-05:00",
+      "requisition_id": "9880",
+      "title": "Staff Product Manager, Identity Resilience",
+      "company_name": "Rubrik Job Board",
+      "first_published": "2025-10-22T17:05:38-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7439523?gh_jid=7439523",
       "data_compliance": [
         {
@@ -8150,44 +8150,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7386432?gh_jid=7386432",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3292388,
-      "location": {
-        "name": "Chicago, IL"
-      },
-      "metadata": [
-        {
-          "id": 943349,
-          "name": "Geo",
-          "value": "AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 681454,
-          "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7386432,
-      "updated_at": "2026-02-04T15:05:30-05:00",
-      "requisition_id": "10058",
-      "title": "Strategic Account Executive, Chicago",
-      "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-28T17:31:32-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7386475?gh_jid=7386475",
       "data_compliance": [
         {
@@ -8213,12 +8175,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7386475,
-      "updated_at": "2026-02-04T15:05:30-05:00",
+      "updated_at": "2026-02-12T12:51:31-05:00",
       "requisition_id": "10059",
       "title": "Strategic Account Executive, Cleveland",
       "company_name": "Rubrik Job Board",
@@ -8251,12 +8213,12 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "03-01-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
       "id": 7558881,
-      "updated_at": "2026-02-04T15:05:42-05:00",
+      "updated_at": "2026-02-12T13:07:40-05:00",
       "requisition_id": "10504",
       "title": "Strategic Events and Tradeshow Manager  ",
       "company_name": "Rubrik Job Board",
@@ -8264,7 +8226,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7541630?gh_jid=7541630",
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7508968?gh_jid=7508968",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -8275,9 +8237,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3338764,
+      "internal_job_id": 3328427,
       "location": {
-        "name": "Bangalore, India"
+        "name": "Bangalore"
       },
       "metadata": [
         {
@@ -8289,16 +8251,16 @@
         {
           "id": 681454,
           "name": "Projected Start Date (for FP&A)",
-          "value": "02-15-26 FY27 Q1",
+          "value": "03-15-26 FY27 Q1",
           "value_type": "single_select"
         }
       ],
-      "id": 7541630,
-      "updated_at": "2026-02-04T15:05:39-05:00",
-      "requisition_id": "10444",
-      "title": "Talent Ambassador (6 Month Contract)",
+      "id": 7508968,
+      "updated_at": "2026-02-12T02:32:49-05:00",
+      "requisition_id": "10370",
+      "title": "Technical Research Engineer",
       "company_name": "Rubrik Job Board",
-      "first_published": "2026-01-15T10:40:44-05:00",
+      "first_published": "2026-02-12T02:32:49-05:00",
       "language": "en"
     },
     {

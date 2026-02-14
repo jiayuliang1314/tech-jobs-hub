@@ -1,7 +1,7 @@
 {
   "company": "knab",
-  "fetched_at": "2026-02-11T05:18:43.140236",
-  "job_count": 3,
+  "fetched_at": "2026-02-14T04:48:52.598829",
+  "job_count": 4,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/knab/jobs/8317057002",
@@ -154,7 +154,7 @@
         }
       ],
       "id": 7818801002,
-      "updated_at": "2025-12-11T05:24:17-05:00",
+      "updated_at": "2026-02-12T10:50:48-05:00",
       "requisition_id": "586",
       "title": "Customer Service Expert",
       "company_name": "Knab",
@@ -238,6 +238,85 @@
       "title": "Fraude Analist Hypotheken",
       "company_name": "Knab",
       "first_published": "2026-01-28T09:06:05-05:00",
+      "language": "nl"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/knab/jobs/8413688002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6360816002,
+      "location": {
+        "name": "Amsterdam"
+      },
+      "metadata": [
+        {
+          "id": 4773889002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5427216002,
+          "name": "Education",
+          "value": "HBO",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5427300002,
+          "name": "Functional Area",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 5568650002,
+          "name": "User",
+          "value": {
+            "name": "Victoria Carvalho",
+            "email": "victoria.carvalho@knab.nl",
+            "user_id": 5376632002,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 5568651002,
+          "name": "Posting Date",
+          "value": "2026-02-09",
+          "value_type": "date"
+        },
+        {
+          "id": 9367017002,
+          "name": "Job Summary",
+          "value": "Ben jij degene die onze kwaliteitsstandaarden naar een hoger niveau tilt?",
+          "value_type": "short_text"
+        },
+        {
+          "id": 9367271002,
+          "name": "is_internal",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 9436477002,
+          "name": "English Summary",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8413688002,
+      "updated_at": "2026-02-12T10:23:48-05:00",
+      "requisition_id": "626",
+      "title": "Quality Assurance Specialist – Data & Automation (KYC & FEC) ",
+      "company_name": "Knab",
+      "first_published": "2026-02-09T11:07:15-05:00",
       "language": "nl"
     }
   ]
