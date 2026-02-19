@@ -1,10 +1,10 @@
 {
   "company": "landor",
-  "fetched_at": "2026-02-14T04:41:25.239870",
-  "job_count": 55,
+  "fetched_at": "2026-02-19T05:01:29.694970",
+  "job_count": 62,
   "jobs": [
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7334920",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7624078",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15,9 +15,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3273293,
+      "internal_job_id": 3364304,
       "location": {
-        "name": "Mumbai"
+        "name": "Cincinnati"
       },
       "metadata": [
         {
@@ -27,12 +27,44 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7334920,
-      "updated_at": "2026-02-10T03:57:03-05:00",
+      "id": 7624078,
+      "updated_at": "2026-02-17T15:41:35-05:00",
       "requisition_id": null,
-      "title": "Artworker",
+      "title": "3D Designer",
       "company_name": "Landor",
-      "first_published": "2025-10-15T07:41:56-04:00",
+      "first_published": "2026-02-17T15:41:28-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7624046",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3364298,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7624046,
+      "updated_at": "2026-02-18T08:56:11-05:00",
+      "requisition_id": null,
+      "title": "Brand Performance, Director ",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T08:55:02-05:00",
       "language": "en"
     },
     {
@@ -68,39 +100,7 @@
       "language": "fr"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7559826",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3344848,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Permanent",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7559826,
-      "updated_at": "2026-02-10T03:57:03-05:00",
-      "requisition_id": null,
-      "title": "Client Coordinator",
-      "company_name": "Landor",
-      "first_published": "2026-01-23T08:24:31-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/6198538",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/6688200",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -111,7 +111,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 2946974,
+      "internal_job_id": 3090323,
       "location": {
         "name": "Paris"
       },
@@ -119,17 +119,17 @@
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": null,
+          "value": "Intern",
           "value_type": "single_select"
         }
       ],
-      "id": 6198538,
-      "updated_at": "2026-02-10T03:57:03-05:00",
+      "id": 6688200,
+      "updated_at": "2026-02-17T10:02:57-05:00",
       "requisition_id": null,
-      "title": "Client Coordinator",
+      "title": "Chef de projet (stagiaire)",
       "company_name": "Landor",
-      "first_published": "2024-08-22T07:02:43-04:00",
-      "language": "en"
+      "first_published": "2025-03-06T09:21:32-05:00",
+      "language": "fr"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7393226",
@@ -164,7 +164,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/6688200",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7559826",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -172,28 +172,28 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3090323,
+      "internal_job_id": 3344848,
       "location": {
-        "name": "Paris"
+        "name": "London"
       },
       "metadata": [
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": "Intern",
+          "value": "Permanent",
           "value_type": "single_select"
         }
       ],
-      "id": 6688200,
+      "id": 7559826,
       "updated_at": "2026-02-10T03:57:03-05:00",
       "requisition_id": null,
-      "title": "Client Coordinator (Internship)",
+      "title": "Client Coordinator",
       "company_name": "Landor",
-      "first_published": "2025-03-06T09:21:32-05:00",
-      "language": "fr"
+      "first_published": "2026-01-23T08:24:31-05:00",
+      "language": "en"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7559819",
@@ -356,6 +356,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7629741",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3365536,
+      "location": {
+        "name": "Cincinnati"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Freelancer_LongTerm",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7629741,
+      "updated_at": "2026-02-18T15:03:56-05:00",
+      "requisition_id": null,
+      "title": "Designer",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T15:03:56-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7524333",
       "data_compliance": [
         {
@@ -452,38 +484,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/2968493",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 1745921,
-      "location": {
-        "name": "Shanghai"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Intern",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 2968493,
-      "updated_at": "2026-02-10T03:57:03-05:00",
-      "requisition_id": null,
-      "title": "Design Intern",
-      "company_name": "Landor",
-      "first_published": "2021-03-09T01:56:39-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7542815",
       "data_compliance": [
         {
@@ -513,6 +513,38 @@
       "title": "Design Intern",
       "company_name": "Landor",
       "first_published": "2026-01-15T14:29:23-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/2968493",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 1745921,
+      "location": {
+        "name": "Shanghai"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Intern",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 2968493,
+      "updated_at": "2026-02-10T03:57:03-05:00",
+      "requisition_id": null,
+      "title": "Design Intern",
+      "company_name": "Landor",
+      "first_published": "2021-03-09T01:56:39-05:00",
       "language": "en"
     },
     {
@@ -676,7 +708,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7483851",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7373903",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -687,24 +719,24 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3321053,
+      "internal_job_id": 3287699,
       "location": {
-        "name": "Cincinnati"
+        "name": "New York"
       },
       "metadata": [
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": "Freelancer",
+          "value": "Full Time",
           "value_type": "single_select"
         }
       ],
-      "id": 7483851,
+      "id": 7373903,
       "updated_at": "2026-02-10T03:57:03-05:00",
-      "requisition_id": null,
-      "title": "Freelance Design Director ",
+      "requisition_id": "445",
+      "title": "Growth Director",
       "company_name": "Landor",
-      "first_published": "2025-12-18T09:25:46-05:00",
+      "first_published": "2025-11-03T16:08:33-05:00",
       "language": "en"
     },
     {
@@ -737,38 +769,6 @@
       "title": "Growth Director",
       "company_name": "Landor",
       "first_published": "2026-01-07T16:37:53-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7373903",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3287699,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Full Time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7373903,
-      "updated_at": "2026-02-10T03:57:03-05:00",
-      "requisition_id": "445",
-      "title": "Growth Director",
-      "company_name": "Landor",
-      "first_published": "2025-11-03T16:08:33-05:00",
       "language": "en"
     },
     {
@@ -1084,9 +1084,9 @@
         }
       ],
       "id": 7180087,
-      "updated_at": "2026-02-10T03:57:03-05:00",
+      "updated_at": "2026-02-18T01:03:19-05:00",
       "requisition_id": null,
-      "title": "Retoucher",
+      "title": "Retoucher (Photoshop Artist)",
       "company_name": "Landor",
       "first_published": "2025-08-20T09:40:07-04:00",
       "language": "en"
@@ -1124,6 +1124,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7334920",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3273293,
+      "location": {
+        "name": "Mumbai"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7334920,
+      "updated_at": "2026-02-17T05:18:27-05:00",
+      "requisition_id": null,
+      "title": "Senior Artworker",
+      "company_name": "Landor",
+      "first_published": "2025-10-15T07:41:56-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7597528",
       "data_compliance": [
         {
@@ -1153,6 +1185,70 @@
       "title": "Senior Client Manager",
       "company_name": "Landor",
       "first_published": "2026-02-08T23:21:59-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7622133",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3363904,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Permanent",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7622133,
+      "updated_at": "2026-02-18T05:38:18-05:00",
+      "requisition_id": null,
+      "title": "Senior Client Manager",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T05:38:18-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7623442",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3364160,
+      "location": {
+        "name": "Cincinnati"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7623442,
+      "updated_at": "2026-02-17T13:56:06-05:00",
+      "requisition_id": null,
+      "title": "Senior Client Manager",
+      "company_name": "Landor",
+      "first_published": "2026-02-17T13:40:01-05:00",
       "language": "en"
     },
     {
@@ -1188,6 +1284,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7625829",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3364758,
+      "location": {
+        "name": "Delhi"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7625829,
+      "updated_at": "2026-02-18T00:44:56-05:00",
+      "requisition_id": null,
+      "title": "Senior Client Manager",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T00:39:02-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7175603",
       "data_compliance": [
         {
@@ -1220,38 +1348,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7412586",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3302531,
-      "location": {
-        "name": "Delhi"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Full Time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7412586,
-      "updated_at": "2026-02-10T03:57:03-05:00",
-      "requisition_id": null,
-      "title": "Senior Designer",
-      "company_name": "Landor",
-      "first_published": "2025-11-20T23:37:14-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/6358237",
       "data_compliance": [
         {
@@ -1281,6 +1377,38 @@
       "title": "Senior Designer",
       "company_name": "Landor",
       "first_published": "2024-10-29T01:57:42-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7412586",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3302531,
+      "location": {
+        "name": "Delhi"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7412586,
+      "updated_at": "2026-02-10T03:57:03-05:00",
+      "requisition_id": null,
+      "title": "Senior Designer",
+      "company_name": "Landor",
+      "first_published": "2025-11-20T23:37:14-05:00",
       "language": "en"
     },
     {
@@ -1345,6 +1473,38 @@
       "title": "Senior Designer (Branding & Packaging)",
       "company_name": "Landor",
       "first_published": "2026-01-21T04:09:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7625840",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3364763,
+      "location": {
+        "name": "Mumbai"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7625840,
+      "updated_at": "2026-02-18T00:58:46-05:00",
+      "requisition_id": null,
+      "title": "Senior Designer (Branding & Packaging)",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T00:53:01-05:00",
       "language": "en"
     },
     {
@@ -1665,6 +1825,70 @@
       "title": "Senior Production Designer",
       "company_name": "Landor",
       "first_published": "2026-01-06T14:43:00-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7575264",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3349585,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7575264,
+      "updated_at": "2026-02-17T14:52:03-05:00",
+      "requisition_id": "470",
+      "title": "Senior Strategist ",
+      "company_name": "Landor",
+      "first_published": "2026-02-17T14:51:40-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7629802",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3365553,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7629802,
+      "updated_at": "2026-02-18T15:45:28-05:00",
+      "requisition_id": "477",
+      "title": "Senior Strategist ",
+      "company_name": "Landor",
+      "first_published": "2026-02-18T15:34:58-05:00",
       "language": "en"
     },
     {
