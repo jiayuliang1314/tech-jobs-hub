@@ -1,7 +1,7 @@
 {
   "company": "oneacrefund",
-  "fetched_at": "2026-02-18T04:58:48.742720",
-  "job_count": 32,
+  "fetched_at": "2026-02-21T04:33:30.722118",
+  "job_count": 34,
   "jobs": [
     {
       "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7609932",
@@ -1168,7 +1168,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7552481",
+      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7590656",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1179,9 +1179,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3342472,
+      "internal_job_id": 3355394,
       "location": {
-        "name": "Nairobi- Kenya, Kigali-Rwanda"
+        "name": "Zomba, Malawi"
       },
       "metadata": [
         {
@@ -1205,7 +1205,7 @@
         {
           "id": 159978,
           "name": "Division",
-          "value": "Global - Tech",
+          "value": "Malawi Program",
           "value_type": "single_select"
         },
         {
@@ -1256,12 +1256,109 @@
           "value_type": "long_text"
         }
       ],
-      "id": 7552481,
-      "updated_at": "2026-02-17T01:51:48-05:00",
-      "requisition_id": "02304",
-      "title": "Junior Service Desk Technician - Internship",
+      "id": 7590656,
+      "updated_at": "2026-02-20T02:40:32-05:00",
+      "requisition_id": "02311",
+      "title": "Malawi Procurement Intern",
       "company_name": "One Acre Fund",
-      "first_published": "2026-01-21T05:11:05-05:00",
+      "first_published": "2026-02-05T13:04:02-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7590558",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3355352,
+      "location": {
+        "name": "Zomba, Malawi"
+      },
+      "metadata": [
+        {
+          "id": 159975,
+          "name": "Budget ID",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 159982,
+          "name": "New or Replacement?",
+          "value": "New",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23426,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159978,
+          "name": "Division",
+          "value": "Malawi Program",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159974,
+          "name": "Internal and/or External?",
+          "value": "External Only",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159979,
+          "name": "Expected Hire Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 159980,
+          "name": "Expected Manager (you can leave this blank)",
+          "value": {
+            "name": null,
+            "email": null,
+            "user_id": null,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 159986,
+          "name": "Replacement For?",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 67894,
+          "name": "Nationality Criteria",
+          "value": "Country Nationals Only",
+          "value_type": "single_select"
+        },
+        {
+          "id": 167173,
+          "name": "Plum?",
+          "value": "Yes",
+          "value_type": "single_select"
+        },
+        {
+          "id": 2445961,
+          "name": "Referral Cheat Sheet",
+          "value": "N/A",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7590558,
+      "updated_at": "2026-02-20T02:39:38-05:00",
+      "requisition_id": "02310",
+      "title": "Malawi Stores Intern",
+      "company_name": "One Acre Fund",
+      "first_published": "2026-02-05T13:05:03-05:00",
       "language": "en"
     },
     {
@@ -3105,6 +3202,103 @@
       "title": "Zambia Marketing & Adoption Specialist (Renewable)",
       "company_name": "One Acre Fund",
       "first_published": "2026-01-19T01:52:53-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7607033",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3360053,
+      "location": {
+        "name": "Kabwe, Zambia"
+      },
+      "metadata": [
+        {
+          "id": 159975,
+          "name": "Budget ID",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 159982,
+          "name": "New or Replacement?",
+          "value": "New",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23426,
+          "name": "Employment Type",
+          "value": "Fixed-term",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159978,
+          "name": "Division",
+          "value": "Zambia Program",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159974,
+          "name": "Internal and/or External?",
+          "value": "Internal and External",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159979,
+          "name": "Expected Hire Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 159980,
+          "name": "Expected Manager (you can leave this blank)",
+          "value": {
+            "name": null,
+            "email": null,
+            "user_id": null,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 159986,
+          "name": "Replacement For?",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 67894,
+          "name": "Nationality Criteria",
+          "value": "Citizens of Countries of Operation Preferred",
+          "value_type": "single_select"
+        },
+        {
+          "id": 167173,
+          "name": "Plum?",
+          "value": "Yes",
+          "value_type": "single_select"
+        },
+        {
+          "id": 2445961,
+          "name": "Referral Cheat Sheet",
+          "value": "Here is what to consider when thinking about who to refer:\nSeeking a project-focused agronomist to manage field trials and research in Zambia. Coordinate complex agricultural experiments, troubleshoot field challenges, and generate evidence-based recommendations to increase farmer yields and profitability.The hiring manager is prioritizing operational grit over theoretical knowledge. They explicitly state that Project Management is the top priority, while deep agronomy is a \"plus\" that can be trained if the candidate is sharp.",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7607033,
+      "updated_at": "2026-02-19T06:18:14-05:00",
+      "requisition_id": "02337",
+      "title": "Zambia Research Agronomist (Fixed-Term)",
+      "company_name": "One Acre Fund",
+      "first_published": "2026-02-12T16:29:40-05:00",
       "language": "en"
     }
   ]
