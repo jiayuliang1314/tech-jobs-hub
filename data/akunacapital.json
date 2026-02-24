@@ -1,7 +1,7 @@
 {
   "company": "akunacapital",
-  "fetched_at": "2026-02-21T04:36:06.849156",
-  "job_count": 33,
+  "fetched_at": "2026-02-24T04:59:49.793985",
+  "job_count": 35,
   "jobs": [
     {
       "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=7496423",
@@ -59,11 +59,71 @@
         }
       ],
       "id": 7496423,
-      "updated_at": "2026-01-07T10:35:13-05:00",
+      "updated_at": "2026-02-23T11:23:34-05:00",
       "requisition_id": "257",
       "title": "Broker Trader",
       "company_name": "Akuna Capital",
       "first_published": "2026-01-02T11:33:00-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=39363",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 41987,
+      "location": {
+        "name": "Shanghai"
+      },
+      "metadata": [
+        {
+          "id": 15984,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22806,
+          "name": "Careers Site Section",
+          "value": [
+            "Experienced"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169382,
+          "name": "Specialty",
+          "value": [
+            "C++"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169753,
+          "name": "Experience",
+          "value": "Experienced",
+          "value_type": "single_select"
+        },
+        {
+          "id": 250234,
+          "name": "Crossfilter",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 39363,
+      "updated_at": "2026-02-23T17:16:56-05:00",
+      "requisition_id": null,
+      "title": "C++ Developer",
+      "company_name": "Akuna Capital",
+      "first_published": "2020-06-02T21:57:10-04:00",
       "language": "en"
     },
     {
@@ -248,73 +308,11 @@
         }
       ],
       "id": 7496425,
-      "updated_at": "2026-01-07T10:38:23-05:00",
+      "updated_at": "2026-02-23T11:25:04-05:00",
       "requisition_id": "258",
       "title": "Experienced Options Trader",
       "company_name": "Akuna Capital",
       "first_published": "2026-01-02T11:33:27-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=7261931",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3250794,
-      "location": {
-        "name": "Singapore"
-      },
-      "metadata": [
-        {
-          "id": 15984,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 22806,
-          "name": "Careers Site Section",
-          "value": [
-            "Experienced"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 169382,
-          "name": "Specialty",
-          "value": [
-            "ACCOUNTING/ FINANCE"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 169753,
-          "name": "Experience",
-          "value": "Experienced",
-          "value_type": "single_select"
-        },
-        {
-          "id": 250234,
-          "name": "Crossfilter",
-          "value": [
-            "Business Operations"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7261931,
-      "updated_at": "2026-01-26T16:49:01-05:00",
-      "requisition_id": "242",
-      "title": "Financial Controller - APAC",
-      "company_name": "Akuna Capital",
-      "first_published": "2025-09-19T02:42:42-04:00",
       "language": "en"
     },
     {
@@ -380,6 +378,68 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=7261931",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3250794,
+      "location": {
+        "name": "Singapore"
+      },
+      "metadata": [
+        {
+          "id": 15984,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22806,
+          "name": "Careers Site Section",
+          "value": [
+            "Experienced"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169382,
+          "name": "Specialty",
+          "value": [
+            "ACCOUNTING/ FINANCE"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169753,
+          "name": "Experience",
+          "value": "Experienced",
+          "value_type": "single_select"
+        },
+        {
+          "id": 250234,
+          "name": "Crossfilter",
+          "value": [
+            "Business Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7261931,
+      "updated_at": "2026-01-26T16:49:01-05:00",
+      "requisition_id": "242",
+      "title": "Financial Controller - APAC",
+      "company_name": "Akuna Capital",
+      "first_published": "2025-09-19T02:42:42-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=7496427",
       "data_compliance": [
         {
@@ -433,7 +493,7 @@
         }
       ],
       "id": 7496427,
-      "updated_at": "2026-01-07T10:40:56-05:00",
+      "updated_at": "2026-02-23T11:26:24-05:00",
       "requisition_id": "259",
       "title": "Floor Trader- SPX",
       "company_name": "Akuna Capital",
@@ -505,6 +565,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=6690496",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3091062,
+      "location": {
+        "name": "Shanghai, China"
+      },
+      "metadata": [
+        {
+          "id": 15984,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22806,
+          "name": "Careers Site Section",
+          "value": [
+            "Experienced",
+            "Student - Full Time"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169382,
+          "name": "Specialty",
+          "value": [
+            "C++"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 169753,
+          "name": "Experience",
+          "value": "Junior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 250234,
+          "name": "Crossfilter",
+          "value": [
+            "Development"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 6690496,
+      "updated_at": "2026-02-23T17:16:50-05:00",
+      "requisition_id": "225",
+      "title": "Junior Developer - C++",
+      "company_name": "Akuna Capital",
+      "first_published": "2025-03-11T03:40:16-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
       "data_compliance": [
         {
@@ -560,7 +683,7 @@
         }
       ],
       "id": 7063563,
-      "updated_at": "2026-01-06T11:06:33-05:00",
+      "updated_at": "2026-02-23T11:12:37-05:00",
       "requisition_id": null,
       "title": "Junior Quantitative Developer & Strategist",
       "company_name": "Akuna Capital",
@@ -621,7 +744,7 @@
         }
       ],
       "id": 7051876,
-      "updated_at": "2025-12-05T14:04:42-05:00",
+      "updated_at": "2026-02-23T11:10:29-05:00",
       "requisition_id": null,
       "title": "Junior Trader",
       "company_name": "Akuna Capital",
@@ -809,7 +932,7 @@
         }
       ],
       "id": 7496414,
-      "updated_at": "2026-01-02T11:31:19-05:00",
+      "updated_at": "2026-02-23T11:27:23-05:00",
       "requisition_id": "255",
       "title": "Performance Engineer",
       "company_name": "Akuna Capital",
@@ -935,7 +1058,7 @@
         }
       ],
       "id": 7496416,
-      "updated_at": "2026-01-02T11:32:31-05:00",
+      "updated_at": "2026-02-23T11:30:38-05:00",
       "requisition_id": "256",
       "title": "Quantitative Researcher",
       "company_name": "Akuna Capital",
@@ -1185,7 +1308,7 @@
         }
       ],
       "id": 6812905,
-      "updated_at": "2025-12-05T14:06:41-05:00",
+      "updated_at": "2026-02-23T11:31:34-05:00",
       "requisition_id": "232",
       "title": "Quant Strategist",
       "company_name": "Akuna Capital",
@@ -1307,7 +1430,7 @@
         }
       ],
       "id": 7380445,
-      "updated_at": "2026-01-07T13:01:10-05:00",
+      "updated_at": "2026-02-23T11:32:58-05:00",
       "requisition_id": null,
       "title": "Senior Systems Engineer",
       "company_name": "Akuna Capital",
@@ -1370,7 +1493,7 @@
         }
       ],
       "id": 7496397,
-      "updated_at": "2026-01-02T11:22:39-05:00",
+      "updated_at": "2026-02-23T11:28:39-05:00",
       "requisition_id": "252",
       "title": "Software Engineer - C++",
       "company_name": "Akuna Capital",
@@ -1433,7 +1556,7 @@
         }
       ],
       "id": 7496408,
-      "updated_at": "2026-01-02T11:24:40-05:00",
+      "updated_at": "2026-02-23T11:37:11-05:00",
       "requisition_id": "253",
       "title": "Software Engineer - C++, Trading Strategies",
       "company_name": "Akuna Capital",
@@ -1498,7 +1621,7 @@
         }
       ],
       "id": 7496411,
-      "updated_at": "2026-01-02T11:26:14-05:00",
+      "updated_at": "2026-02-23T11:29:37-05:00",
       "requisition_id": "254",
       "title": "Software Engineer - Data Engineering",
       "company_name": "Akuna Capital",
@@ -1560,7 +1683,7 @@
         }
       ],
       "id": 6926191,
-      "updated_at": "2026-01-28T18:08:51-05:00",
+      "updated_at": "2026-02-23T10:49:06-05:00",
       "requisition_id": null,
       "title": "Software Engineer (Entry-Level) - C++",
       "company_name": "Akuna Capital",

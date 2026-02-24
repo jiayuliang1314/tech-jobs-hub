@@ -1,8 +1,58 @@
 {
   "company": "pivotbio",
-  "fetched_at": "2026-02-21T04:46:33.783502",
-  "job_count": 12,
+  "fetched_at": "2026-02-24T05:10:20.126614",
+  "job_count": 13,
   "jobs": [
+    {
+      "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8434530002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6369172002,
+      "location": {
+        "name": "St. Louis, MO"
+      },
+      "metadata": [
+        {
+          "id": 4022990002,
+          "name": "Employment Type",
+          "value": "Temporary",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24448360002,
+          "name": "Requisition ID for Template",
+          "value": "100905",
+          "value_type": "short_text"
+        },
+        {
+          "id": 94215241002,
+          "name": "Job Function",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 94215443002,
+          "name": "Industry Mapping",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8434530002,
+      "updated_at": "2026-02-23T23:51:23-05:00",
+      "requisition_id": "100905",
+      "title": "Application Development Lab Technician - Temp",
+      "company_name": "Pivot Bio",
+      "first_published": "2026-02-23T23:51:23-05:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8355585002",
       "data_compliance": [
@@ -104,56 +154,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8419925002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6362931002,
-      "location": {
-        "name": "St. Louis, MO"
-      },
-      "metadata": [
-        {
-          "id": 4022990002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24448360002,
-          "name": "Requisition ID for Template",
-          "value": "100899",
-          "value_type": "short_text"
-        },
-        {
-          "id": 94215241002,
-          "name": "Job Function",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 94215443002,
-          "name": "Industry Mapping",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8419925002,
-      "updated_at": "2026-02-20T16:34:25-05:00",
-      "requisition_id": "100899",
-      "title": "Director, Data Architect",
-      "company_name": "Pivot Bio",
-      "first_published": "2026-02-11T23:34:41-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8419914002",
       "data_compliance": [
         {
@@ -201,6 +201,56 @@
       "title": "Director, Data Architect",
       "company_name": "Pivot Bio",
       "first_published": "2026-02-11T23:31:38-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8419925002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6362931002,
+      "location": {
+        "name": "St. Louis, MO"
+      },
+      "metadata": [
+        {
+          "id": 4022990002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24448360002,
+          "name": "Requisition ID for Template",
+          "value": "100899",
+          "value_type": "short_text"
+        },
+        {
+          "id": 94215241002,
+          "name": "Job Function",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 94215443002,
+          "name": "Industry Mapping",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8419925002,
+      "updated_at": "2026-02-20T16:34:25-05:00",
+      "requisition_id": "100899",
+      "title": "Director, Data Architect",
+      "company_name": "Pivot Bio",
+      "first_published": "2026-02-11T23:34:41-05:00",
       "language": "en"
     },
     {
@@ -273,7 +323,7 @@
         {
           "id": 4022990002,
           "name": "Employment Type",
-          "value": "Full-time",
+          "value": "Temporary",
           "value_type": "single_select"
         },
         {
@@ -296,61 +346,11 @@
         }
       ],
       "id": 8402282002,
-      "updated_at": "2026-02-12T16:13:59-05:00",
+      "updated_at": "2026-02-23T23:53:41-05:00",
       "requisition_id": "100897",
       "title": "Lab Automation Specialist",
       "company_name": "Pivot Bio",
       "first_published": "2026-02-03T12:17:57-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8393080002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6350854002,
-      "location": {
-        "name": "Creve Coeur, MO"
-      },
-      "metadata": [
-        {
-          "id": 4022990002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 24448360002,
-          "name": "Requisition ID for Template",
-          "value": "100896",
-          "value_type": "short_text"
-        },
-        {
-          "id": 94215241002,
-          "name": "Job Function",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 94215443002,
-          "name": "Industry Mapping",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8393080002,
-      "updated_at": "2026-02-12T13:58:48-05:00",
-      "requisition_id": "100896",
-      "title": "Lab Services Coordinator",
-      "company_name": "Pivot Bio",
-      "first_published": "2026-01-27T14:01:17-05:00",
       "language": "en"
     },
     {
@@ -454,6 +454,56 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8434527002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6369171002,
+      "location": {
+        "name": "St. Louis, MO"
+      },
+      "metadata": [
+        {
+          "id": 4022990002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24448360002,
+          "name": "Requisition ID for Template",
+          "value": "100904",
+          "value_type": "short_text"
+        },
+        {
+          "id": 94215241002,
+          "name": "Job Function",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 94215443002,
+          "name": "Industry Mapping",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8434527002,
+      "updated_at": "2026-02-23T23:40:59-05:00",
+      "requisition_id": "100904",
+      "title": "Research Associate I – Plant Bioassays",
+      "company_name": "Pivot Bio",
+      "first_published": "2026-02-23T23:40:59-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://www.pivotbio.com/job-description?gh_jid=8385216002",
       "data_compliance": [
         {
@@ -523,7 +573,7 @@
         {
           "id": 4022990002,
           "name": "Employment Type",
-          "value": "Full-time",
+          "value": "Part-time",
           "value_type": "single_select"
         },
         {
@@ -546,7 +596,7 @@
         }
       ],
       "id": 8419964002,
-      "updated_at": "2026-02-20T16:26:48-05:00",
+      "updated_at": "2026-02-23T23:52:58-05:00",
       "requisition_id": "100903",
       "title": "Senior IT Support Technician",
       "company_name": "Pivot Bio",
