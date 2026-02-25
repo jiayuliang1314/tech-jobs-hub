@@ -1,6 +1,6 @@
 {
   "company": "wayneenterprises",
-  "fetched_at": "2026-02-22T05:03:41.636766",
+  "fetched_at": "2026-02-25T05:07:32.518434",
   "job_count": 12,
   "jobs": [
     {
@@ -77,7 +77,7 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
       "internal_job_id": 216151,
@@ -93,7 +93,7 @@
         }
       ],
       "id": 193911,
-      "updated_at": "2026-02-06T15:44:02-05:00",
+      "updated_at": "2026-02-24T15:34:36-05:00",
       "requisition_id": null,
       "title": "Business Development",
       "company_name": "Wayne Enterprises",
@@ -192,7 +192,7 @@
         }
       ],
       "id": 7398816,
-      "updated_at": "2026-02-03T12:57:55-05:00",
+      "updated_at": "2026-02-24T15:34:36-05:00",
       "requisition_id": "45",
       "title": "Senior Backend Engineer Job Post B",
       "company_name": "Wayne Enterprises",
@@ -225,7 +225,7 @@
         }
       ],
       "id": 1576892,
-      "updated_at": "2026-02-03T12:57:55-05:00",
+      "updated_at": "2026-02-24T15:34:36-05:00",
       "requisition_id": "45",
       "title": "Senior Backend Engineer (Ruby)",
       "company_name": "Wayne Enterprises",
@@ -258,7 +258,7 @@
         }
       ],
       "id": 1526240,
-      "updated_at": "2026-02-03T12:57:55-05:00",
+      "updated_at": "2026-02-24T15:34:36-05:00",
       "requisition_id": "R501",
       "title": "Software Developer ",
       "company_name": "Wayne Enterprises",
@@ -291,7 +291,7 @@
         }
       ],
       "id": 2143733,
-      "updated_at": "2026-02-03T12:57:55-05:00",
+      "updated_at": "2026-02-24T15:34:36-05:00",
       "requisition_id": "R501",
       "title": "Software Developer ",
       "company_name": "Wayne Enterprises",
@@ -331,38 +331,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/1546413",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 981046,
-      "location": {
-        "name": "New York, NY, United States"
-      },
-      "metadata": [
-        {
-          "id": 984382,
-          "name": "Internal Department",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 1546413,
-      "updated_at": "2026-02-03T12:57:55-05:00",
-      "requisition_id": "43",
-      "title": "VP of Engineering",
-      "company_name": "Wayne Enterprises",
-      "first_published": "2019-07-02T14:36:19-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/4830178",
       "data_compliance": [
         {
@@ -392,6 +360,38 @@
       "title": "VP of Engineering",
       "company_name": "Wayne Enterprises",
       "first_published": "2023-01-26T18:29:45-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/wayneenterprises/jobs/1546413",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 981046,
+      "location": {
+        "name": "New York, NY, United States"
+      },
+      "metadata": [
+        {
+          "id": 984382,
+          "name": "Internal Department",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 1546413,
+      "updated_at": "2026-02-03T12:57:55-05:00",
+      "requisition_id": "43",
+      "title": "VP of Engineering",
+      "company_name": "Wayne Enterprises",
+      "first_published": "2019-07-02T14:36:19-04:00",
       "language": "en"
     }
   ]
