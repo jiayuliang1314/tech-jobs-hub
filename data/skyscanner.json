@@ -1,7 +1,7 @@
 {
   "company": "skyscanner",
-  "fetched_at": "2026-02-23T05:01:38.014211",
-  "job_count": 47,
+  "fetched_at": "2026-02-26T04:54:51.069398",
+  "job_count": 44,
   "jobs": [
     {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7609510?gh_jid=7609510",
@@ -68,6 +68,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7649387?gh_jid=7649387",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3369631,
+      "location": {
+        "name": "Barcelona"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7649387,
+      "updated_at": "2026-02-24T06:35:53-05:00",
+      "requisition_id": "5566",
+      "title": "Data Engineer",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-24T06:32:15-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7410489?gh_jid=7410489",
       "data_compliance": [
         {
@@ -97,38 +129,6 @@
       "title": "Director of Corporate Communications",
       "company_name": "Skyscanner",
       "first_published": "2025-11-28T06:18:12-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7597724?gh_jid=7597724",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3357348,
-      "location": {
-        "name": "Edinburgh, Glasgow"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7597724,
-      "updated_at": "2026-02-10T09:20:50-05:00",
-      "requisition_id": "5553",
-      "title": "Engineering Manager, Full Stack ",
-      "company_name": "Skyscanner",
-      "first_published": "2026-02-10T09:20:50-05:00",
       "language": "en"
     },
     {
@@ -196,70 +196,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7614644?gh_jid=7614644",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3286494,
-      "location": {
-        "name": "Glasgow"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7614644,
-      "updated_at": "2026-02-16T06:08:12-05:00",
-      "requisition_id": "5472",
-      "title": "Principal AI Conversation Designer",
-      "company_name": "Skyscanner",
-      "first_published": "2026-02-13T10:48:44-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7614865?gh_jid=7614865",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3286494,
-      "location": {
-        "name": "Barcelona"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7614865,
-      "updated_at": "2026-02-16T06:08:42-05:00",
-      "requisition_id": "5472",
-      "title": "Principal AI Conversation Designer",
-      "company_name": "Skyscanner",
-      "first_published": "2026-02-16T06:08:42-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7370604?gh_jid=7370604",
       "data_compliance": [
         {
@@ -292,6 +228,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7614644?gh_jid=7614644",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3286494,
+      "location": {
+        "name": "Glasgow"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7614644,
+      "updated_at": "2026-02-16T06:08:12-05:00",
+      "requisition_id": "5472",
+      "title": "Principal AI Conversation Designer",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-13T10:48:44-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7614640?gh_jid=7614640",
       "data_compliance": [
         {
@@ -321,6 +289,38 @@
       "title": "Principal AI Conversation Designer",
       "company_name": "Skyscanner",
       "first_published": "2026-02-13T10:48:43-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7614865?gh_jid=7614865",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3286494,
+      "location": {
+        "name": "Barcelona"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7614865,
+      "updated_at": "2026-02-16T06:08:42-05:00",
+      "requisition_id": "5472",
+      "title": "Principal AI Conversation Designer",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-16T06:08:42-05:00",
       "language": "en"
     },
     {
@@ -388,38 +388,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7317044?gh_jid=7317044",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3265664,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7317044,
-      "updated_at": "2026-02-06T09:42:51-05:00",
-      "requisition_id": "5450",
-      "title": "Principal Product Manager, Advertising",
-      "company_name": "Skyscanner",
-      "first_published": "2025-10-13T04:21:42-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7317043?gh_jid=7317043",
       "data_compliance": [
         {
@@ -444,7 +412,7 @@
         }
       ],
       "id": 7317043,
-      "updated_at": "2026-02-06T09:42:22-05:00",
+      "updated_at": "2026-02-25T12:10:46-05:00",
       "requisition_id": "5450",
       "title": "Principal Product Manager, Advertising",
       "company_name": "Skyscanner",
@@ -476,7 +444,7 @@
         }
       ],
       "id": 7300916,
-      "updated_at": "2026-02-06T09:38:13-05:00",
+      "updated_at": "2026-02-25T12:10:32-05:00",
       "requisition_id": "5450",
       "title": "Principal Product Manager, Advertising",
       "company_name": "Skyscanner",
@@ -484,7 +452,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7411197?gh_jid=7411197",
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7317044?gh_jid=7317044",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -495,7 +463,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3302000,
+      "internal_job_id": 3265664,
       "location": {
         "name": "London"
       },
@@ -507,12 +475,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7411197,
-      "updated_at": "2025-11-21T09:34:11-05:00",
-      "requisition_id": "5493",
-      "title": "Principal Product Manager, AI Platform",
+      "id": 7317044,
+      "updated_at": "2026-02-25T12:11:01-05:00",
+      "requisition_id": "5450",
+      "title": "Principal Product Manager, Advertising",
       "company_name": "Skyscanner",
-      "first_published": "2025-11-21T09:30:09-05:00",
+      "first_published": "2025-10-13T04:21:42-04:00",
       "language": "en"
     },
     {
@@ -548,6 +516,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7411197?gh_jid=7411197",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3302000,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Product",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7411197,
+      "updated_at": "2025-11-21T09:34:11-05:00",
+      "requisition_id": "5493",
+      "title": "Principal Product Manager, AI Platform",
+      "company_name": "Skyscanner",
+      "first_published": "2025-11-21T09:30:09-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7573726?gh_jid=7573726",
       "data_compliance": [
         {
@@ -572,43 +572,11 @@
         }
       ],
       "id": 7573726,
-      "updated_at": "2026-02-16T13:42:23-05:00",
+      "updated_at": "2026-02-24T05:32:59-05:00",
       "requisition_id": "5549",
       "title": " Principal Product Manager - API Platform",
       "company_name": "Skyscanner",
       "first_published": "2026-02-13T06:01:36-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7619847?gh_jid=7619847",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3349127,
-      "location": {
-        "name": "Glasgow"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7619847,
-      "updated_at": "2026-02-16T13:45:12-05:00",
-      "requisition_id": "5549",
-      "title": "Principal Product Manager - API Platform",
-      "company_name": "Skyscanner",
-      "first_published": "2026-02-16T13:45:12-05:00",
       "language": "en"
     },
     {
@@ -636,11 +604,43 @@
         }
       ],
       "id": 7619849,
-      "updated_at": "2026-02-16T13:45:13-05:00",
+      "updated_at": "2026-02-24T05:33:01-05:00",
       "requisition_id": "5549",
       "title": "Principal Product Manager - API Platform",
       "company_name": "Skyscanner",
       "first_published": "2026-02-16T13:45:13-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7619847?gh_jid=7619847",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3349127,
+      "location": {
+        "name": "Glasgow"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Product",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7619847,
+      "updated_at": "2026-02-24T05:33:00-05:00",
+      "requisition_id": "5549",
+      "title": "Principal Product Manager - API Platform",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-16T13:45:12-05:00",
       "language": "en"
     },
     {
@@ -668,203 +668,11 @@
         }
       ],
       "id": 7619846,
-      "updated_at": "2026-02-16T13:45:11-05:00",
+      "updated_at": "2026-02-24T05:33:00-05:00",
       "requisition_id": "5549",
       "title": "Principal Product Manager - API Platform",
       "company_name": "Skyscanner",
       "first_published": "2026-02-16T13:45:11-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7515756?gh_jid=7515756",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3208653,
-      "location": {
-        "name": "Edinburgh "
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7515756,
-      "updated_at": "2026-01-06T06:56:17-05:00",
-      "requisition_id": "5402",
-      "title": "  Principal  Product Manager- Data ",
-      "company_name": "Skyscanner",
-      "first_published": "2026-01-06T06:56:17-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7126831?gh_jid=7126831",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3208653,
-      "location": {
-        "name": "London "
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7126831,
-      "updated_at": "2026-01-06T06:55:55-05:00",
-      "requisition_id": "5402",
-      "title": " Principal  Product Manager- Data ",
-      "company_name": "Skyscanner",
-      "first_published": "2025-08-01T05:48:43-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7401076?gh_jid=7401076",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3298062,
-      "location": {
-        "name": "Barcelona"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7401076,
-      "updated_at": "2026-02-06T04:45:35-05:00",
-      "requisition_id": "5486",
-      "title": "Principal Product Manager, MarTech",
-      "company_name": "Skyscanner",
-      "first_published": "2025-11-17T07:06:48-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7400760?gh_jid=7400760",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3298062,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7400760,
-      "updated_at": "2026-01-26T05:48:23-05:00",
-      "requisition_id": "5486",
-      "title": "Principal Product Manager, MarTech",
-      "company_name": "Skyscanner",
-      "first_published": "2025-11-17T07:06:46-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7343120?gh_jid=7343120",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3234868,
-      "location": {
-        "name": "Barcelona"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7343120,
-      "updated_at": "2026-02-11T04:59:30-05:00",
-      "requisition_id": "5423",
-      "title": "Senior Director of Product Design",
-      "company_name": "Skyscanner",
-      "first_published": "2025-10-20T04:11:42-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7213004?gh_jid=7213004",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3234868,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Design",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7213004,
-      "updated_at": "2026-02-11T04:59:16-05:00",
-      "requisition_id": "5423",
-      "title": "Senior Director of Product Design",
-      "company_name": "Skyscanner",
-      "first_published": "2025-10-20T04:11:41-04:00",
       "language": "en"
     },
     {
@@ -900,6 +708,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7343120?gh_jid=7343120",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3234868,
+      "location": {
+        "name": "Barcelona"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7343120,
+      "updated_at": "2026-02-11T04:59:30-05:00",
+      "requisition_id": "5423",
+      "title": "Senior Director of Product Design",
+      "company_name": "Skyscanner",
+      "first_published": "2025-10-20T04:11:42-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7213003?gh_jid=7213003",
       "data_compliance": [
         {
@@ -932,6 +772,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7213004?gh_jid=7213004",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3234868,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7213004,
+      "updated_at": "2026-02-11T04:59:16-05:00",
+      "requisition_id": "5423",
+      "title": "Senior Director of Product Design",
+      "company_name": "Skyscanner",
+      "first_published": "2025-10-20T04:11:41-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7571105?gh_jid=7571105",
       "data_compliance": [
         {
@@ -961,70 +833,6 @@
       "title": "Senior Finance Executive ( Accounts Payable ) 12 month FTC",
       "company_name": "Skyscanner",
       "first_published": "2026-01-28T09:14:46-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7364333?gh_jid=7364333",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3284055,
-      "location": {
-        "name": "Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Business",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7364333,
-      "updated_at": "2025-11-20T09:36:38-05:00",
-      "requisition_id": "5469",
-      "title": "Senior International Tax Manager",
-      "company_name": "Skyscanner",
-      "first_published": "2025-10-29T05:31:28-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7364345?gh_jid=7364345",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3284055,
-      "location": {
-        "name": "Glasgow"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Business",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7364345,
-      "updated_at": "2025-11-20T09:36:38-05:00",
-      "requisition_id": "5469",
-      "title": "Senior International Tax Manager",
-      "company_name": "Skyscanner",
-      "first_published": "2025-10-29T05:34:08-04:00",
       "language": "en"
     },
     {
@@ -1092,7 +900,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7491188?gh_jid=7491188",
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7649412?gh_jid=7649412",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1103,24 +911,88 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3323355,
+      "internal_job_id": 3369632,
       "location": {
-        "name": "Singapore"
+        "name": "Glasgow "
       },
       "metadata": [
         {
           "id": 92481,
           "name": "Business Area",
-          "value": "Business",
+          "value": "Marketing",
           "value_type": "single_select"
         }
       ],
-      "id": 7491188,
-      "updated_at": "2026-01-09T00:39:16-05:00",
-      "requisition_id": "5520",
-      "title": "Senior Product Analyst",
+      "id": 7649412,
+      "updated_at": "2026-02-24T06:42:00-05:00",
+      "requisition_id": "5567",
+      "title": " Senior Producer for APAC ",
       "company_name": "Skyscanner",
-      "first_published": "2025-12-22T07:05:36-05:00",
+      "first_published": "2026-02-24T06:40:31-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7649389?gh_jid=7649389",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3369632,
+      "location": {
+        "name": "Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Marketing",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7649389,
+      "updated_at": "2026-02-24T06:46:39-05:00",
+      "requisition_id": "5567",
+      "title": "Senior Producer for APAC ",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-24T06:46:18-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7649413?gh_jid=7649413",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3369632,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Marketing",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7649413,
+      "updated_at": "2026-02-24T06:46:20-05:00",
+      "requisition_id": "5567",
+      "title": "Senior Producer for APAC ",
+      "company_name": "Skyscanner",
+      "first_published": "2026-02-24T06:46:20-05:00",
       "language": "en"
     },
     {
@@ -1156,7 +1028,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7602108?gh_jid=7602108",
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7491188?gh_jid=7491188",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1167,28 +1039,28 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3343995,
+      "internal_job_id": 3323355,
       "location": {
-        "name": "Barcelona"
+        "name": "Singapore"
       },
       "metadata": [
         {
           "id": 92481,
           "name": "Business Area",
-          "value": "Product",
+          "value": "Business",
           "value_type": "single_select"
         }
       ],
-      "id": 7602108,
-      "updated_at": "2026-02-16T10:32:11-05:00",
-      "requisition_id": "5544",
-      "title": "Senior Product Manager, MarTech",
+      "id": 7491188,
+      "updated_at": "2026-01-09T00:39:16-05:00",
+      "requisition_id": "5520",
+      "title": "Senior Product Analyst",
       "company_name": "Skyscanner",
-      "first_published": "2026-02-10T09:58:31-05:00",
+      "first_published": "2025-12-22T07:05:36-05:00",
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7557450?gh_jid=7557450",
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7563098?gh_jid=7563098",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1199,28 +1071,28 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3343995,
+      "internal_job_id": 3345958,
       "location": {
-        "name": "London"
+        "name": "Barcelona, Spain"
       },
       "metadata": [
         {
           "id": 92481,
           "name": "Business Area",
-          "value": "Product",
+          "value": "Engineering",
           "value_type": "single_select"
         }
       ],
-      "id": 7557450,
-      "updated_at": "2026-02-16T10:32:11-05:00",
-      "requisition_id": "5544",
-      "title": "Senior Product Manager, MarTech",
+      "id": 7563098,
+      "updated_at": "2026-02-24T10:58:16-05:00",
+      "requisition_id": "5547",
+      "title": "Senior Software Engineer, Full Stack",
       "company_name": "Skyscanner",
-      "first_published": "2026-02-10T09:56:40-05:00",
+      "first_published": "2026-01-26T04:46:43-05:00",
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7405185?gh_jid=7405185",
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7597730?gh_jid=7597730",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1231,24 +1103,24 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3288989,
+      "internal_job_id": 3357351,
       "location": {
-        "name": "Barcelona"
+        "name": "Edinburgh, United Kingdom, Glasgow, United Kingdom"
       },
       "metadata": [
         {
           "id": 92481,
           "name": "Business Area",
-          "value": "Product",
+          "value": "Engineering",
           "value_type": "single_select"
         }
       ],
-      "id": 7405185,
-      "updated_at": "2025-11-20T09:36:38-05:00",
-      "requisition_id": "5475",
-      "title": "Senior User Research Manager – Metasearch (12-Month FTC)",
+      "id": 7597730,
+      "updated_at": "2026-02-24T10:58:43-05:00",
+      "requisition_id": "5554",
+      "title": "Senior Software Engineer, Full Stack",
       "company_name": "Skyscanner",
-      "first_published": "2025-11-18T05:37:25-05:00",
+      "first_published": "2026-02-10T09:20:55-05:00",
       "language": "en"
     },
     {
@@ -1284,6 +1156,38 @@
       "language": "en"
     },
     {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7405185?gh_jid=7405185",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3288989,
+      "location": {
+        "name": "Barcelona"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Product",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7405185,
+      "updated_at": "2025-11-20T09:36:38-05:00",
+      "requisition_id": "5475",
+      "title": "Senior User Research Manager – Metasearch (12-Month FTC)",
+      "company_name": "Skyscanner",
+      "first_published": "2025-11-18T05:37:25-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/6358288?gh_jid=6358288",
       "data_compliance": [
         {
@@ -1316,38 +1220,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "http://www.skyscanner.net/jobs/job/7496222?gh_jid=7496222",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3325355,
-      "location": {
-        "name": "Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 92481,
-          "name": "Business Area",
-          "value": "Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7496222,
-      "updated_at": "2026-01-05T10:10:04-05:00",
-      "requisition_id": "5522",
-      "title": "Software Engineering & Teaching Programme",
-      "company_name": "Skyscanner",
-      "first_published": "2026-01-05T10:10:04-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "http://www.skyscanner.net/jobs/job/7496224?gh_jid=7496224",
       "data_compliance": [
         {
@@ -1377,6 +1249,38 @@
       "title": "Software Engineering & Teaching Programme",
       "company_name": "Skyscanner",
       "first_published": "2026-01-05T10:10:03-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "http://www.skyscanner.net/jobs/job/7496222?gh_jid=7496222",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3325355,
+      "location": {
+        "name": "Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 92481,
+          "name": "Business Area",
+          "value": "Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7496222,
+      "updated_at": "2026-01-05T10:10:04-05:00",
+      "requisition_id": "5522",
+      "title": "Software Engineering & Teaching Programme",
+      "company_name": "Skyscanner",
+      "first_published": "2026-01-05T10:10:04-05:00",
       "language": "en"
     },
     {
