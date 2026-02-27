@@ -1,7 +1,7 @@
 {
   "company": "thetradedesk",
-  "fetched_at": "2026-02-24T05:02:06.514557",
-  "job_count": 125,
+  "fetched_at": "2026-02-27T04:46:08.954473",
+  "job_count": 127,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007",
@@ -361,7 +361,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4962243007",
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5063672007",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -369,12 +369,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 4546863007,
+      "internal_job_id": 4598057007,
       "location": {
-        "name": "Seattle"
+        "name": "Bellevue"
       },
       "metadata": [
         {
@@ -396,12 +396,56 @@
           "value_type": "long_text"
         }
       ],
-      "id": 4962243007,
-      "updated_at": "2026-02-12T10:08:32-05:00",
-      "requisition_id": "REQ-8459",
-      "title": "Applied Scientist  II",
+      "id": 5063672007,
+      "updated_at": "2026-02-26T08:06:39-05:00",
+      "requisition_id": "REQ-8741",
+      "title": " Applied Scientist II",
       "company_name": "The Trade Desk",
-      "first_published": "2025-10-29T12:40:31-04:00",
+      "first_published": "2026-02-26T08:06:38-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5063664007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4598057007,
+      "location": {
+        "name": "Irvine"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Data Science",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5063664007,
+      "updated_at": "2026-02-26T08:05:17-05:00",
+      "requisition_id": "REQ-8741",
+      "title": "Applied Scientist II",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-26T08:05:17-05:00",
       "language": "en"
     },
     {
@@ -449,50 +493,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5043528007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4588792007,
-      "location": {
-        "name": "Singapore"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Client Services",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5043528007,
-      "updated_at": "2026-02-19T01:25:16-05:00",
-      "requisition_id": null,
-      "title": "Associate Account Director",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-19T01:25:16-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5060323007",
       "data_compliance": [
         {
@@ -534,6 +534,94 @@
       "title": "Associate Account Director",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-23T23:13:11-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5043528007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4588792007,
+      "location": {
+        "name": "Singapore"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Client Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5043528007,
+      "updated_at": "2026-02-26T02:27:45-05:00",
+      "requisition_id": null,
+      "title": "Associate Account Director",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-19T01:25:16-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4844710007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4482698007,
+      "location": {
+        "name": "Los Angeles"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Finance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 4844710007,
+      "updated_at": "2026-02-25T14:05:37-05:00",
+      "requisition_id": "REQ-8303",
+      "title": "Associate Corporate Development Manager",
+      "company_name": "The Trade Desk",
+      "first_published": "2025-08-29T11:36:58-04:00",
       "language": "en"
     },
     {
@@ -842,6 +930,50 @@
       "title": "Business Intelligence Analyst II",
       "company_name": "The Trade Desk",
       "first_published": "2025-09-24T17:12:23-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5055448007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4594105007,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5055448007,
+      "updated_at": "2026-02-25T13:36:13-05:00",
+      "requisition_id": null,
+      "title": "Business Strategy and Activation Director",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T13:36:13-05:00",
       "language": "en"
     },
     {
@@ -1154,6 +1286,50 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4826385007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4473541007,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 4826385007,
+      "updated_at": "2026-02-26T10:14:46-05:00",
+      "requisition_id": "REQ-8238",
+      "title": "Full stack Engineer",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-05T11:10:08-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5032586007",
       "data_compliance": [
         {
@@ -1286,94 +1462,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5011497007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4573249007,
-      "location": {
-        "name": "Chicago; New York; San Francisco"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5011497007,
-      "updated_at": "2026-02-05T08:42:28-05:00",
-      "requisition_id": "REQ-8620",
-      "title": "General Manager, Revenue Operations (Growth)",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-01-07T18:29:54-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5011492007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4573248007,
-      "location": {
-        "name": "Chicago; New York; San Francisco"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5011492007,
-      "updated_at": "2026-02-03T14:31:25-05:00",
-      "requisition_id": "REQ-8619",
-      "title": "General Manager, Revenue Operations (NAMER)",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-01-09T17:58:49-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5043847007",
       "data_compliance": [
         {
@@ -1462,50 +1550,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5052512007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4592727007,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "IT",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5052512007,
-      "updated_at": "2026-02-23T09:53:14-05:00",
-      "requisition_id": "REQ-8712",
-      "title": "IT Support Analyst II",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-13T13:10:21-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5059230007",
       "data_compliance": [
         {
@@ -1547,50 +1591,6 @@
       "title": "Lead Associate Trading Director ",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-23T09:09:05-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5044014007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4589003007,
-      "location": {
-        "name": "Irvine"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Business Intelligence",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5044014007,
-      "updated_at": "2026-02-05T18:10:48-05:00",
-      "requisition_id": "REQ-8691",
-      "title": "Lead Staff Business Intelligence Analyst",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-05T18:10:48-05:00",
       "language": "en"
     },
     {
@@ -1806,7 +1806,7 @@
         }
       ],
       "id": 4926299007,
-      "updated_at": "2026-02-05T09:53:43-05:00",
+      "updated_at": "2026-02-25T08:00:56-05:00",
       "requisition_id": null,
       "title": "Lead Systems Reliability Engineer (Linux & Distributed Systems)",
       "company_name": "The Trade Desk",
@@ -1990,6 +1990,270 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062795007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "San Jose"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062795007,
+      "updated_at": "2026-02-25T11:49:41-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:41-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062314007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "San Francisco"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062314007,
+      "updated_at": "2026-02-25T11:49:37-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:37-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062797007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "Irvine"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062797007,
+      "updated_at": "2026-02-25T11:49:41-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:41-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062772007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "Ventura"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062772007,
+      "updated_at": "2026-02-25T11:49:38-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:38-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062775007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "Los Angeles"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062775007,
+      "updated_at": "2026-02-25T11:49:39-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:39-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5062778007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4597414007,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5062778007,
+      "updated_at": "2026-02-25T11:49:40-05:00",
+      "requisition_id": "REQ-8737",
+      "title": "People Product Technical Lead - Workday",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-25T11:49:40-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5000966007",
       "data_compliance": [
         {
@@ -2075,6 +2339,50 @@
       "title": "Principal Product Manager,  Inventory & Real Time Bidding",
       "company_name": "The Trade Desk",
       "first_published": "2025-12-02T15:58:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4368970007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4237064007,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Client Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 4368970007,
+      "updated_at": "2026-02-26T10:28:46-05:00",
+      "requisition_id": null,
+      "title": "Programmatic Trading Specialist",
+      "company_name": "The Trade Desk",
+      "first_published": "2024-05-13T21:08:00-04:00",
       "language": "en"
     },
     {
@@ -2202,7 +2510,7 @@
         }
       ],
       "id": 5020497007,
-      "updated_at": "2026-01-28T14:46:50-05:00",
+      "updated_at": "2026-02-24T16:45:33-05:00",
       "requisition_id": "REQ-8644",
       "title": "Senior Accountant",
       "company_name": "The Trade Desk",
@@ -2298,50 +2606,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5051936007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4592493007,
-      "location": {
-        "name": "Sydney"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Client Services",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5051936007,
-      "updated_at": "2026-02-12T22:53:50-05:00",
-      "requisition_id": null,
-      "title": "Senior Account Manager",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-12T22:51:42-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5060315007",
       "data_compliance": [
         {
@@ -2383,6 +2647,50 @@
       "title": "Senior Account Manager",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-23T22:49:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5051936007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4592493007,
+      "location": {
+        "name": "Sydney"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Client Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5051936007,
+      "updated_at": "2026-02-12T22:53:50-05:00",
+      "requisition_id": null,
+      "title": "Senior Account Manager",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-12T22:51:42-05:00",
       "language": "en"
     },
     {
@@ -2515,50 +2823,6 @@
       "title": "Senior Business Strategy and Activation Manager, EMEA",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-13T12:20:36-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4844710007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4482698007,
-      "location": {
-        "name": "Chicago; Los Angeles; New York"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 4844710007,
-      "updated_at": "2026-01-28T14:46:38-05:00",
-      "requisition_id": "REQ-8303",
-      "title": "Senior Corporate Development Manager",
-      "company_name": "The Trade Desk",
-      "first_published": "2025-08-29T11:36:58-04:00",
       "language": "en"
     },
     {
@@ -3090,50 +3354,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5057268007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4594966007,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5057268007,
-      "updated_at": "2026-02-20T16:28:11-05:00",
-      "requisition_id": null,
-      "title": "Senior Manager, Client Operations",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-19T16:22:51-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5011605007",
       "data_compliance": [
         {
@@ -3499,7 +3719,7 @@
       ],
       "internal_job_id": 4594831007,
       "location": {
-        "name": "NAMER"
+        "name": "Bellevue"
       },
       "metadata": [
         {
@@ -3522,7 +3742,7 @@
         }
       ],
       "id": 5056981007,
-      "updated_at": "2026-02-23T21:15:59-05:00",
+      "updated_at": "2026-02-24T13:28:32-05:00",
       "requisition_id": "REQ-8729",
       "title": "Senior Software Engineer - Data & Distributed Systems",
       "company_name": "The Trade Desk",
@@ -3631,7 +3851,7 @@
       ],
       "internal_job_id": 4569302007,
       "location": {
-        "name": "San Jose"
+        "name": "Bellevue; San Jose"
       },
       "metadata": [
         {
@@ -3654,7 +3874,7 @@
         }
       ],
       "id": 5003632007,
-      "updated_at": "2025-12-17T15:52:00-05:00",
+      "updated_at": "2026-02-25T16:23:02-05:00",
       "requisition_id": "REQ-8600",
       "title": "Senior Software Engineer - OpenPath",
       "company_name": "The Trade Desk",
@@ -3747,50 +3967,6 @@
       "title": "Senior Trading Specialist",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-23T22:47:18-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5015698007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4575263007,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5015698007,
-      "updated_at": "2026-01-13T10:32:01-05:00",
-      "requisition_id": "REQ-8631",
-      "title": "Senior Vice President, Business Development, Agency",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-01-06T12:51:53-05:00",
       "language": "en"
     },
     {
@@ -3970,7 +4146,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4826493007",
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3981,9 +4157,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 4473577007,
+      "internal_job_id": 4553316007,
       "location": {
-        "name": "Singapore"
+        "name": "Sydney"
       },
       "metadata": [
         {
@@ -4005,12 +4181,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 4826493007,
-      "updated_at": "2026-02-11T21:16:31-05:00",
-      "requisition_id": "REQ-8246",
+      "id": 4972481007,
+      "updated_at": "2026-02-16T00:39:10-05:00",
+      "requisition_id": "REQ-8486",
       "title": "Software Engineer II",
       "company_name": "The Trade Desk",
-      "first_published": "2026-01-20T02:48:36-05:00",
+      "first_published": "2025-11-11T22:48:05-05:00",
       "language": "en"
     },
     {
@@ -4058,7 +4234,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4826493007",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4069,9 +4245,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 4553316007,
+      "internal_job_id": 4473577007,
       "location": {
-        "name": "Sydney"
+        "name": "Singapore"
       },
       "metadata": [
         {
@@ -4093,12 +4269,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 4972481007,
-      "updated_at": "2026-02-16T00:39:10-05:00",
-      "requisition_id": "REQ-8486",
+      "id": 4826493007,
+      "updated_at": "2026-02-11T21:16:31-05:00",
+      "requisition_id": "REQ-8246",
       "title": "Software Engineer II",
       "company_name": "The Trade Desk",
-      "first_published": "2025-11-11T22:48:05-05:00",
+      "first_published": "2026-01-20T02:48:36-05:00",
       "language": "en"
     },
     {
@@ -4402,7 +4578,7 @@
         }
       ],
       "id": 5039323007,
-      "updated_at": "2026-02-09T23:46:31-05:00",
+      "updated_at": "2026-02-24T12:16:31-05:00",
       "requisition_id": "REQ-8680",
       "title": "Sr Commercial Finance Analyst",
       "company_name": "The Trade Desk",
@@ -4586,6 +4762,50 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4779743007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4449596007,
+      "location": {
+        "name": "San Francisco"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 4779743007,
+      "updated_at": "2026-01-06T19:25:35-05:00",
+      "requisition_id": "REQ-8118",
+      "title": "Sr Software Engineer - AI",
+      "company_name": "The Trade Desk",
+      "first_published": "2025-07-02T20:27:26-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5016314007",
       "data_compliance": [
         {
@@ -4674,7 +4894,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4779743007",
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5064169007",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4682,24 +4902,24 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 4449596007,
+      "internal_job_id": 4598248007,
       "location": {
-        "name": "San Francisco"
+        "name": "Seattle"
       },
       "metadata": [
         {
           "id": 4744161007,
           "name": "Careers Site Category",
-          "value": "Software Engineering",
+          "value": "Human Resources",
           "value_type": "single_select"
         },
         {
           "id": 4756220007,
           "name": "Time Type",
-          "value": "Full time",
+          "value": null,
           "value_type": "single_select"
         },
         {
@@ -4709,12 +4929,56 @@
           "value_type": "long_text"
         }
       ],
-      "id": 4779743007,
-      "updated_at": "2026-01-06T19:25:35-05:00",
-      "requisition_id": "REQ-8118",
-      "title": "Sr Software Engineer - AI",
+      "id": 5064169007,
+      "updated_at": "2026-02-26T14:10:47-05:00",
+      "requisition_id": null,
+      "title": "Sr. Talent Acquisition Operations Analyst",
       "company_name": "The Trade Desk",
-      "first_published": "2025-07-02T20:27:26-04:00",
+      "first_published": "2026-02-26T14:10:47-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5064174007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4598248007,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Human Resources",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5064174007,
+      "updated_at": "2026-02-26T14:10:48-05:00",
+      "requisition_id": null,
+      "title": "Sr. Talent Acquisition Operations Analyst",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-26T14:10:48-05:00",
       "language": "en"
     },
     {
@@ -4803,6 +5067,50 @@
       "title": "Staff Android Platform Engineer",
       "company_name": "The Trade Desk",
       "first_published": "2026-02-12T12:01:38-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5044014007",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 4589003007,
+      "location": {
+        "name": "Irvine"
+      },
+      "metadata": [
+        {
+          "id": 4744161007,
+          "name": "Careers Site Category",
+          "value": "Business Intelligence",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4756220007,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4870662007,
+          "name": "Job Description",
+          "value": null,
+          "value_type": "long_text"
+        }
+      ],
+      "id": 5044014007,
+      "updated_at": "2026-02-26T16:53:34-05:00",
+      "requisition_id": "REQ-8691",
+      "title": "Staff Business Intelligence Analyst",
+      "company_name": "The Trade Desk",
+      "first_published": "2026-02-05T18:10:48-05:00",
       "language": "en"
     },
     {
@@ -5026,7 +5334,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5031736007",
+      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5064321007",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5037,51 +5345,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 4583014007,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Data Science",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": "About the role: \n\nStaff Data Scientists serve both as technical individual contributors and people mentors. You will be responsible for owning a technical area as well as building and nurturing a team.  \n\nStaff Data Scientists are end-to-end owners. You will participate actively in all aspects of designing, researching, building, and delivering data-focused products for our clients.  \n\nStaff Data Scientists contribute to more than our product – they build up our team. Through a combination of mentoring, technical leadership, and direct people-management, they make others better and raise the bar for those around them. \n\n \nWho we are looking for: \n\nYou have a sustained track record of making significant, self-directed, and end-to-end contributions to large and impactful AI-based projects. You think beyond just the task at hand to deeply understand the 'why' behind what you are doing. \n\nYou are a driver. You will be driving technical projects and providing leadership in a ground-breaking and fast-paced environment. This includes task planning and conducting code reviews, as well as individual code contribution. \n\nYou have a strong sense of data intuition. At our scale, many off-the-shelf modeling techniques (open source and enterprise) simply don't work. You are able to work from first principles and intuition to develop solutions and adapt them to a unique environment. \n\nYou have a product-focused mindset. You have the passion and ability to contribute to the process of discovering what will delight our clients and push forward one of the world’s largest and most influential industries toward a vision of openness, transparency, and evidence-based decision-making.  You can pitch your ideas to different audiences at all levels.\n\nYou are accustomed to start-up culture.  You embrace risks, make smart investments, be agile when priorities shifted.\n\nYou work with confidence and without ego. Our research data scientists have deep knowledge and exercise a high degree of leadership in their daily work. You have strongly-held, defensible ideas, and advocate for what you believe is right. You are also adept at identifying and evaluating trade-offs, willing to be proven wrong, and quick to walk through fire to support your fellow teammates. \n\nYou value, seek out, and foster diversity. We are a global team from many diverse backgrounds, with different experiences and perspectives. To complement this team, you will welcome ideas that are different from your own and be skilled at finding and building from common ground. \n\nYou are a creative thinker, not bound by \"the way things have always been done.\" What you know is less important than how well you learn and innovate. We don't need research data scientists who know all the answers; we need research data scientists who can invent the answers no one has thought of yet, to the questions yet to be asked. \n\n \nWhat you bring to the AI Lab: \n\nYou are jack-of-all-trade and master of some in the field of AI.  Ideally, you have 5+ years of experience working with AI-related research and applications.  You may have an advanced degree in a CS/AI field, but it’s not a strict requirement. What and how you can contribute is what’s most important to us which is why our consideration is not limited by the level of education you have. \n\nYou have a track record of turning the latest AI publications into solutions for exotic real world problems or ideas for novel product creation. You are up to date regarding the latest advancements in AI.\n\nYou are you comfortable working on an agile, distributed team spanning multiple time zones and continents. \n\nYou are able to communicate effectively across both technical and non-technical audiences. \n\nYou have strong programming and big data processing skills, with experience of making machine learning or data mining algorithms work on massive amount of data.  Python, Scala and Spark are example languages we use for R&D, but we are not restricted to them.\n\nDeep expertise and extensive hands-on experiences in some of the following areas is a plus:\n\n- NLP/NLU and Conversational AI technologies (e.g., chatbots)\n- Deep Learning and Graph ML\n- Knowledge engineering and symbolic-based ML\n- Large scale data mining\n \n \n#LI-DP3",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5031736007,
-      "updated_at": "2026-02-23T05:27:08-05:00",
-      "requisition_id": null,
-      "title": "Staff Research Scientist, Agentic AI",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-23T05:27:08-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4952281007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4540910007,
+      "internal_job_id": 4598400007,
       "location": {
         "name": "New York"
       },
@@ -5089,7 +5353,7 @@
         {
           "id": 4744161007,
           "name": "Careers Site Category",
-          "value": "UX & UI Design",
+          "value": "Human Resources",
           "value_type": "single_select"
         },
         {
@@ -5105,56 +5369,12 @@
           "value_type": "long_text"
         }
       ],
-      "id": 4952281007,
-      "updated_at": "2026-02-12T17:01:43-05:00",
-      "requisition_id": "REQ-8431",
-      "title": "Staff UX Designer",
+      "id": 5064321007,
+      "updated_at": "2026-02-26T17:40:33-05:00",
+      "requisition_id": null,
+      "title": "Talent Management Director",
       "company_name": "The Trade Desk",
-      "first_published": "2025-10-21T14:24:07-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5017649007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4576192007,
-      "location": {
-        "name": "Los Angeles"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "IT",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5017649007,
-      "updated_at": "2026-01-08T15:55:26-05:00",
-      "requisition_id": "REQ-8637",
-      "title": "Technology Compliance Analyst",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-01-08T15:55:26-05:00",
+      "first_published": "2026-02-26T17:40:33-05:00",
       "language": "en"
     },
     {
@@ -5290,94 +5510,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5019313007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4573324007,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Executive",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": null,
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5019313007,
-      "updated_at": "2026-01-22T12:52:26-05:00",
-      "requisition_id": null,
-      "title": "Vice President, Business Development - Independent Agencies",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-01-08T23:42:48-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5041370007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 4587747007,
-      "location": {
-        "name": "Chicago; Los Angeles; New York; San Francisco"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": "Job Title: Director, Business Development\nLocation:  1114 6th Avenue, New York, NY 10110\n*Telecommuting permitted: work may be performed within normal commuting distance from The Trade Desk, Inc. office in New York, NY\n \nJob Duties: Be the primary contact for customers and be in regular communication with customers to assess customer satisfaction and react to any issues. Compile industry trend data and campaign and spend data from various platforms to assemble client facing materials for the purpose of selling through products. Collect and analyze data related to customers target demographics and users, advising them on best practices of reaching intended audience. Use various platforms to analyze spend and marketing activity data to present back to customers to illustrate successful use of product. Help companies form their marketing strategy as it relates to digital and programmatic channels. Forecast all potential activity for customers and analyze various trends in marketing spend for those partners helping them to optimize activity. Responsible for being expertly aware of customers competitors, helping them to create unique marketing strategies. Closely monitor industry trends and trade literature to expertly speak to customers about state of the industry and guide them to adapt strategies. Attend tradeconferences to meet with customers and prospective customers educating them on company software. Develop and implement various procedures for company teams to service customers.\n \nSalary: $117,042 - $179,400/year\n \nJob Requirements: Bachelor’s degree (U.S. or foreign equivalent) in Marketing, Marketing Management or related field and eight (8) years of experience in the job offered or related role. Must have three (3) years of sales experience working for an online publisher, ad network, ad exchange, ad server, or senior agency. Must have three (3) years of experience meetingcompany revenue goals, including developing strong client relationships at media agencies, pitching capabilities and customizing ad tech products and services to meet their programmaticneeds, and using Salesforce to track and report revenue. Must have three (3) years of communication experience, including speaking with C-level clients to pitch ad tech products and services within a large media agency. Must have three (3) years of negotiation experience including building commercial endeavors and rate cards for a media agency client. Must haveone (1) year of experience creating relationships with decision-makers at enterprise client level,including having directly sold media or ad tech services to programmatic teams and Strategic Investments teams. Domestic travel required up to 10% of the time to visit client sites.\n\n#LI-DNI",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5041370007,
-      "updated_at": "2026-02-05T13:48:21-05:00",
-      "requisition_id": "REQ-8685",
-      "title": "VP, Business Development, Growth",
-      "company_name": "The Trade Desk",
-      "first_published": "2026-02-05T13:48:21-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5006824007",
       "data_compliance": [
         {
@@ -5463,50 +5595,6 @@
       "title": "VP, Head of Strategic Initiatives",
       "company_name": "The Trade Desk",
       "first_published": "2025-03-31T20:47:05-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5000105007",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4567364007,
-      "location": {
-        "name": "Los Angeles; New York; San Francisco; Ventura"
-      },
-      "metadata": [
-        {
-          "id": 4744161007,
-          "name": "Careers Site Category",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4756220007,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 4870662007,
-          "name": "Job Description",
-          "value": "We are looking for a strategic yet hands-on VP of Procurement to partner with leaders across the organization. This person will report directly to our CFO and will be responsible for shaping and executing a global procurement strategy that drives efficiency, scalability, and innovation.\n\nWhat You’ll Do: \n\nProvide procurement and financial thought leadership, identifying and developing strategic opportunities to optimize spend and drive enterprise-wide efficiency \n\nPartner across Finance, Legal, IT, Product, and Operations to define and implement global procurement strategies that scale with business growth \n\nDistill data-driven insights from spend analytics and market trends to inform sourcing decisions and uncover recurring cost-saving opportunities \n\nLead negotiation and execution of enterprise-level vendor agreements, delivering measurable business outcomes with minimal oversight \n\nWork collectively with global Sales, Marketing, and Client Services teams to align procurement initiatives with revenue and growth objectives \n\nCollaborate closely with product and technology leaders to ensure procurement supports innovation and time-to-market goals \n\nBuild deep and lasting relationships internally across The Trade Desk departments and externally with strategic vendors \n\nOversee risk assessments and compliance processes to safeguard data privacy, security, and regulatory adherence \n\nIn many cases, you will be proactively identifying and solving procurement challenges before they impact the business \n\nWho you are: \n\nBachelor's degree in Finance, Accounting, Business Administration, or a related field; MBA or advanced degree preferred \n\n15+ years of procurement experience, with at least 7 years in a leadership role within a global technology or SaaS organization \n\nProven track record of managing enterprise-level vendor negotiations and delivering cost savings \n\nStrong understanding of SaaS, cloud infrastructure, and technology procurement \n\nExperience implementing procurement systems and driving process standardization globally \n\nExcellent leadership, communication, and stakeholder management skills \n\nKnowledge of compliance frameworks (SOX, GDPR) and risk management practices",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 5000105007,
-      "updated_at": "2026-01-13T15:20:26-05:00",
-      "requisition_id": null,
-      "title": "VP, Procurement",
-      "company_name": "The Trade Desk",
-      "first_published": "2025-12-08T12:59:31-05:00",
       "language": "en"
     }
   ]

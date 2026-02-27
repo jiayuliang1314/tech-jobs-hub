@@ -1,7 +1,7 @@
 {
   "company": "elastic",
-  "fetched_at": "2026-02-24T05:01:45.445298",
-  "job_count": 204,
+  "fetched_at": "2026-02-27T04:45:46.856899",
+  "job_count": 207,
   "jobs": [
     {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=6754725&gh_jid=6754725",
@@ -56,12 +56,12 @@
         {
           "id": 30595384,
           "name": "Seniority",
-          "value": "Mid-Senior Level",
+          "value": "Director",
           "value_type": "single_select"
         }
       ],
       "id": 6754725,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-25T07:06:31-05:00",
       "requisition_id": "R9447",
       "title": "Account Executive (Aramco)",
       "company_name": "Elastic",
@@ -570,7 +570,7 @@
         }
       ],
       "id": 7618591,
-      "updated_at": "2026-02-20T06:01:03-05:00",
+      "updated_at": "2026-02-24T10:18:56-05:00",
       "requisition_id": "R11124",
       "title": "Campaigns Specialist",
       "company_name": "Elastic",
@@ -633,74 +633,11 @@
         }
       ],
       "id": 7583295,
-      "updated_at": "2026-02-20T05:10:09-05:00",
+      "updated_at": "2026-02-24T04:36:31-05:00",
       "requisition_id": "R11070",
-      "title": "Commercial Account Executive II (Norway & Finland)",
+      "title": "Commercial Account Executive II (Norway)",
       "company_name": "Elastic",
       "first_published": "2026-02-20T05:10:09-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7440232&gh_jid=7440232",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3309236,
-      "location": {
-        "name": "Tokyo, Japan"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-12-03",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7440232,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10810",
-      "title": "Consulting Architect - Observability",
-      "company_name": "Elastic",
-      "first_published": "2025-12-07T22:41:32-05:00",
       "language": "en"
     },
     {
@@ -768,6 +705,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7440232&gh_jid=7440232",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3309236,
+      "location": {
+        "name": "Tokyo, Japan"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-12-03",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7440232,
+      "updated_at": "2026-02-17T15:46:19-05:00",
+      "requisition_id": "R10810",
+      "title": "Consulting Architect - Observability",
+      "company_name": "Elastic",
+      "first_published": "2025-12-07T22:41:32-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7643175&gh_jid=7643175",
       "data_compliance": [
         {
@@ -795,7 +795,17 @@
           "id": 168141,
           "name": "Target Remote Countries / States Locations [For Job Wrapping]",
           "value": [
-            "Illinois, United States"
+            "Connecticut, United States",
+            "Florida, United States",
+            "Georgia, United States",
+            "Illinois, United States",
+            "Massachusetts, United States",
+            "Michigan, United States",
+            "New Jersey, United States",
+            "New York, United States",
+            "North Carolina, United States",
+            "Rhode Island, United States",
+            "Texas, United States"
           ],
           "value_type": "multi_select"
         },
@@ -825,7 +835,7 @@
         }
       ],
       "id": 7643175,
-      "updated_at": "2026-02-23T13:44:58-05:00",
+      "updated_at": "2026-02-24T09:37:20-05:00",
       "requisition_id": "R11176",
       "title": "Consulting Architect - Observability and Security",
       "company_name": "Elastic",
@@ -1285,71 +1295,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7380710&gh_jid=7380710",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3290301,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-11-06",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "United States"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": "237364USA_ELASTIC US",
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": "2112_US BASIC AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7380710,
-      "updated_at": "2026-02-20T13:11:45-05:00",
-      "requisition_id": "R10653",
-      "title": "Consulting Engineer - Security",
-      "company_name": "Elastic",
-      "first_published": "2025-11-06T19:16:36-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7264405&gh_jid=7264405",
       "data_compliance": [
         {
@@ -1468,7 +1413,7 @@
         }
       ],
       "id": 7580581,
-      "updated_at": "2026-02-18T04:49:37-05:00",
+      "updated_at": "2026-02-24T02:59:37-05:00",
       "requisition_id": "R11059",
       "title": "Customer Advocacy Specialist, APJ",
       "company_name": "Elastic",
@@ -1858,6 +1803,81 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7520106&gh_jid=7520106",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3332009,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-09-17",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Canada",
+            "Greece",
+            "Ireland",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Spain",
+            "Sweden",
+            "United Kingdom",
+            "United States"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Director",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7520106,
+      "updated_at": "2026-02-17T15:46:19-05:00",
+      "requisition_id": "2879",
+      "title": "Distinguished Engineer - Search",
+      "company_name": "Elastic",
+      "first_published": "2026-01-07T11:52:29-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7520116&gh_jid=7520116",
       "data_compliance": [
         {
@@ -2005,81 +2025,6 @@
       "title": "Distinguished Engineer - Search",
       "company_name": "Elastic",
       "first_published": "2026-01-07T11:52:26-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7520106&gh_jid=7520106",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3332009,
-      "location": {
-        "name": "Canada"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-09-17",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Canada",
-            "Greece",
-            "Ireland",
-            "Norway",
-            "Poland",
-            "Portugal",
-            "Romania",
-            "Spain",
-            "Sweden",
-            "United Kingdom",
-            "United States"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Director",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7520106,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "2879",
-      "title": "Distinguished Engineer - Search",
-      "company_name": "Elastic",
-      "first_published": "2026-01-07T11:52:29-05:00",
       "language": "en"
     },
     {
@@ -2286,69 +2231,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7433794&gh_jid=7433794",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3307235,
-      "location": {
-        "name": "The Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-12-01",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7433794,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10782",
-      "title": "Enterprise Account Executive",
-      "company_name": "Elastic",
-      "first_published": "2025-12-15T04:21:39-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7061643&gh_jid=7061643",
       "data_compliance": [
         {
@@ -2411,6 +2293,69 @@
       "title": "Enterprise Account Executive",
       "company_name": "Elastic",
       "first_published": "2025-07-18T12:56:33-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7433794&gh_jid=7433794",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3307235,
+      "location": {
+        "name": "The Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-12-01",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7433794,
+      "updated_at": "2026-02-26T11:51:10-05:00",
+      "requisition_id": "R10782",
+      "title": "Enterprise Account Executive",
+      "company_name": "Elastic",
+      "first_published": "2025-12-15T04:21:39-05:00",
       "language": "en"
     },
     {
@@ -2544,7 +2489,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7427871&gh_jid=7427871",
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7654648&gh_jid=7654648",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2556,21 +2501,23 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 3305703,
+      "internal_job_id": 3371085,
       "location": {
-        "name": "Dubai, United Arab Emirates"
+        "name": "South Africa"
       },
       "metadata": [
         {
           "id": 32131013,
           "name": "Requisition open date",
-          "value": "2025-11-26",
+          "value": "2026-02-25",
           "value_type": "date"
         },
         {
           "id": 168141,
           "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
+          "value": [
+            "South Africa"
+          ],
           "value_type": "multi_select"
         },
         {
@@ -2582,13 +2529,13 @@
         {
           "id": 20164553,
           "name": "FADV_Account",
-          "value": "237364EME_ELASTIC EMEA",
+          "value": null,
           "value_type": "single_select"
         },
         {
           "id": 20164588,
           "name": "FADV_Package",
-          "value": "2168_GLOBAL FIELD OPS (LEVEL 7 AND BELOW)",
+          "value": null,
           "value_type": "single_select"
         },
         {
@@ -2598,12 +2545,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7427871,
-      "updated_at": "2026-02-20T17:40:58-05:00",
-      "requisition_id": "R10756",
+      "id": 7654648,
+      "updated_at": "2026-02-26T12:08:51-05:00",
+      "requisition_id": "R11187",
       "title": "Enterprise Account Executive ",
       "company_name": "Elastic",
-      "first_published": "2026-02-13T12:08:10-05:00",
+      "first_published": "2026-02-26T12:08:51-05:00",
       "language": "en"
     },
     {
@@ -2982,195 +2929,6 @@
       "title": "Enterprise Account Executive - Northeast",
       "company_name": "Elastic",
       "first_published": "2026-02-01T23:04:44-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7360684&gh_jid=7360684",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3282710,
-      "location": {
-        "name": "Florida, United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-10-27",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7360684,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10570",
-      "title": "Enterprise Account Executive - Pursuit East",
-      "company_name": "Elastic",
-      "first_published": "2026-01-07T14:13:43-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7520703&gh_jid=7520703",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3282710,
-      "location": {
-        "name": "Tennessee, United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-10-27",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7520703,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10570",
-      "title": "Enterprise Account Executive - Pursuit East",
-      "company_name": "Elastic",
-      "first_published": "2026-01-07T14:13:45-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7584176&gh_jid=7584176",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3352868,
-      "location": {
-        "name": "California, United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-02-02",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7584176,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R11074",
-      "title": "Enterprise Account Executive - SoCal",
-      "company_name": "Elastic",
-      "first_published": "2026-02-02T19:02:21-05:00",
       "language": "en"
     },
     {
@@ -4123,6 +3881,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7624722&gh_jid=7624722",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3364484,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-17",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Entry Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7624722,
+      "updated_at": "2026-02-25T05:20:19-05:00",
+      "requisition_id": "R11138",
+      "title": "Marketing Technology Contracts Coordinator",
+      "company_name": "Elastic",
+      "first_published": "2026-02-25T05:20:19-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7378622&gh_jid=7378622",
       "data_compliance": [
         {
@@ -4186,6 +4007,132 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7585901&gh_jid=7585901",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3353547,
+      "location": {
+        "name": "California, United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-03",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7585901,
+      "updated_at": "2026-02-24T00:21:39-05:00",
+      "requisition_id": "R11064",
+      "title": "Mid-Market Account Executive (Expand) - California",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T00:20:52-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7644455&gh_jid=7644455",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3368247,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-20",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7644455,
+      "updated_at": "2026-02-24T00:17:34-05:00",
+      "requisition_id": "R11161",
+      "title": "Mid-Market Account Executive - Northeast",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T00:17:34-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7525030&gh_jid=7525030",
       "data_compliance": [
         {
@@ -4241,7 +4188,7 @@
         }
       ],
       "id": 7525030,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-26T16:27:08-05:00",
       "requisition_id": "R10935",
       "title": "Mid-Market Account Executive - Rockies",
       "company_name": "Elastic",
@@ -4311,69 +4258,6 @@
       "title": "Mid Market Account Executive, (Whitespace)",
       "company_name": "Elastic",
       "first_published": "2026-01-09T07:07:01-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7546734&gh_jid=7546734",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3340579,
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-01-19",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Associate",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7546734,
-      "updated_at": "2026-02-19T03:47:22-05:00",
-      "requisition_id": "R10969",
-      "title": "Ops Analyst, Professional Services ",
-      "company_name": "Elastic",
-      "first_published": "2026-01-19T05:28:40-05:00",
       "language": "en"
     },
     {
@@ -5178,6 +5062,72 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7589895&gh_jid=7589895",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3355077,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-04",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "California, United States",
+            "United States"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7589895,
+      "updated_at": "2026-02-25T11:12:00-05:00",
+      "requisition_id": "R11076",
+      "title": "Principal Product Marketing Manager - Developer Marketing",
+      "company_name": "Elastic",
+      "first_published": "2026-02-25T10:22:34-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7012918&gh_jid=7012918",
       "data_compliance": [
         {
@@ -5743,6 +5693,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7652053&gh_jid=7652053",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3355411,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-05",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Director",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7652053,
+      "updated_at": "2026-02-25T19:47:53-05:00",
+      "requisition_id": "R11062",
+      "title": "Principal Software Developer II (Performance Team) - Elasticsearch",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T17:19:23-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7591722&gh_jid=7591722",
       "data_compliance": [
         {
@@ -5800,7 +5813,7 @@
         }
       ],
       "id": 7591722,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-25T19:47:24-05:00",
       "requisition_id": "R10878",
       "title": "Principal Software Developer I (Performance Team) - Elasticsearch",
       "company_name": "Elastic",
@@ -5865,7 +5878,7 @@
         }
       ],
       "id": 7561869,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-25T19:47:24-05:00",
       "requisition_id": "R10878",
       "title": "Principal Software Developer I (Performance Team) - Elasticsearch",
       "company_name": "Elastic",
@@ -6443,6 +6456,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7590700&gh_jid=7590700",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3355411,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-05",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Director",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7590700,
+      "updated_at": "2026-02-25T19:47:53-05:00",
+      "requisition_id": "R11062",
+      "title": "Principal Software Engineer II (Performance Team) - Elasticsearch",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T17:19:23-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7051986&gh_jid=7051986",
       "data_compliance": [
         {
@@ -6987,69 +7063,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7597680&gh_jid=7597680",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3357328,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-02-06",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7597680,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R11098",
-      "title": "Program Manager, Lead Management Operations",
-      "company_name": "Elastic",
-      "first_published": "2026-02-12T08:08:38-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7287821&gh_jid=7287821",
       "data_compliance": [
         {
@@ -7110,6 +7123,71 @@
       "title": "Public Relations Manager, Security",
       "company_name": "Elastic",
       "first_published": "2025-09-30T12:24:29-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7582958&gh_jid=7582958",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3352399,
+      "location": {
+        "name": "Delhi, India"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-02",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Delhi, India"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7582958,
+      "updated_at": "2026-02-17T15:46:19-05:00",
+      "requisition_id": "R11020",
+      "title": "Public Sector Account Executive",
+      "company_name": "Elastic",
+      "first_published": "2026-02-04T01:29:29-05:00",
       "language": "en"
     },
     {
@@ -7241,136 +7319,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7582958&gh_jid=7582958",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3352399,
-      "location": {
-        "name": "Delhi, India"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-02-02",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Delhi, India"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7582958,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R11020",
-      "title": "Public Sector Account Executive",
-      "company_name": "Elastic",
-      "first_published": "2026-02-04T01:29:29-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7340996&gh_jid=7340996",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3275665,
-      "location": {
-        "name": "Poland"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-10-17",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Poland"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7340996,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10483",
-      "title": "Public Sector Account Executive",
-      "company_name": "Elastic",
-      "first_published": "2025-10-23T03:05:05-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7516012&gh_jid=7516012",
       "data_compliance": [
         {
@@ -7497,71 +7445,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7526690&gh_jid=7526690",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3334069,
-      "location": {
-        "name": "Israel"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-01-09",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Israel"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7526690,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10896",
-      "title": "Public Sector Account Executive (MOD)",
-      "company_name": "Elastic",
-      "first_published": "2026-01-09T12:19:50-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=6754729&gh_jid=6754729",
       "data_compliance": [
         {
@@ -7619,7 +7502,7 @@
         }
       ],
       "id": 6754729,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-26T11:08:12-05:00",
       "requisition_id": "R9448",
       "title": "Public Sector Account Executive (Saudi Arabia)",
       "company_name": "Elastic",
@@ -8005,6 +7888,69 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7647794&gh_jid=7647794",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3369161,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-23",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Associate",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7647794,
+      "updated_at": "2026-02-24T00:29:23-05:00",
+      "requisition_id": "R11179",
+      "title": "Renewals Associate",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T00:29:23-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7524911&gh_jid=7524911",
       "data_compliance": [
         {
@@ -8128,6 +8074,78 @@
       "title": "Revenue Tech Engineering - Software Engineer II - AI Experiences",
       "company_name": "Elastic",
       "first_published": "2026-02-02T17:19:09-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7650739&gh_jid=7650739",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3370034,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Alberta, Canada",
+            "Calgary, Canada",
+            "Canada",
+            "Edmonton, Canada",
+            "Montreal, Canada",
+            "Ottawa, Canada",
+            "Quebec, Canada",
+            "Toronto, Canada",
+            "Vancouver, Canada"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Entry Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7650739,
+      "updated_at": "2026-02-24T13:23:45-05:00",
+      "requisition_id": "2891",
+      "title": "Sales Development Representative Canada - French Speaking",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T13:23:45-05:00",
       "language": "en"
     },
     {
@@ -8524,7 +8542,7 @@
       "education": "education_optional",
       "internal_job_id": 3083841,
       "location": {
-        "name": "The Netherlands"
+        "name": "Denmark"
       },
       "metadata": [
         {
@@ -8565,7 +8583,7 @@
         }
       ],
       "id": 6666023,
-      "updated_at": "2026-02-17T15:46:19-05:00",
+      "updated_at": "2026-02-26T10:23:13-05:00",
       "requisition_id": "R9279",
       "title": "Security Enterprise Account Executive",
       "company_name": "Elastic",
@@ -8896,6 +8914,71 @@
       "title": "Senior Data Analyst – Insights & Analytics (Revenue Operations)",
       "company_name": "Elastic",
       "first_published": "2026-02-18T05:29:01-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3310842,
+      "location": {
+        "name": "The Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-12-04",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "The Netherlands"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7445210,
+      "updated_at": "2026-02-24T22:59:19-05:00",
+      "requisition_id": "R10788",
+      "title": "Senior Developer Advocate",
+      "company_name": "Elastic",
+      "first_published": "2025-12-11T15:41:43-05:00",
       "language": "en"
     },
     {
@@ -10141,6 +10224,78 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7306012&gh_jid=7306012",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3256670,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-09-25",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Ireland",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Spain",
+            "Sweden",
+            "United Kingdom"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7306012,
+      "updated_at": "2026-02-17T15:46:19-05:00",
+      "requisition_id": "R10345",
+      "title": "Senior Product Manager, Platform",
+      "company_name": "Elastic",
+      "first_published": "2025-10-07T13:35:23-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7306009&gh_jid=7306009",
       "data_compliance": [
         {
@@ -10213,7 +10368,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7306012&gh_jid=7306012",
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7652286&gh_jid=7652286",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -10225,7 +10380,7 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 3256670,
+      "internal_job_id": 3355410,
       "location": {
         "name": "Canada"
       },
@@ -10233,22 +10388,13 @@
         {
           "id": 32131013,
           "name": "Requisition open date",
-          "value": "2025-09-25",
+          "value": "2026-02-05",
           "value_type": "date"
         },
         {
           "id": 168141,
           "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Ireland",
-            "Norway",
-            "Poland",
-            "Portugal",
-            "Romania",
-            "Spain",
-            "Sweden",
-            "United Kingdom"
-          ],
+          "value": [],
           "value_type": "multi_select"
         },
         {
@@ -10276,12 +10422,75 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7306012,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10345",
-      "title": "Senior Product Manager, Platform",
+      "id": 7652286,
+      "updated_at": "2026-02-24T17:52:56-05:00",
+      "requisition_id": "R11018",
+      "title": "Senior Product Manager, Platform Adoption and Growth (Serverless) - Security Analytics",
       "company_name": "Elastic",
-      "first_published": "2025-10-07T13:35:23-04:00",
+      "first_published": "2026-02-24T17:52:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7590698&gh_jid=7590698",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3355410,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-05",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7590698,
+      "updated_at": "2026-02-24T17:52:57-05:00",
+      "requisition_id": "R11018",
+      "title": "Senior Product Manager, Platform Adoption and Growth (Serverless) - Security Analytics",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T17:52:57-05:00",
       "language": "en"
     },
     {
@@ -10608,6 +10817,78 @@
       "title": "Senior Sales Development Representative",
       "company_name": "Elastic",
       "first_published": "2025-08-24T09:10:52-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7517615&gh_jid=7517615",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3331293,
+      "location": {
+        "name": "Spain"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-01-06",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Australia",
+            "Greece",
+            "Ireland",
+            "New Zealand",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Sweden"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7517615,
+      "updated_at": "2026-02-24T17:31:46-05:00",
+      "requisition_id": "R10892",
+      "title": "Senior Site Reliability Engineer (Resilience) - Platform Resilience",
+      "company_name": "Elastic",
+      "first_published": "2026-01-26T13:25:47-05:00",
       "language": "en"
     },
     {
@@ -11585,6 +11866,73 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7604432&gh_jid=7604432",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3359296,
+      "location": {
+        "name": "Ireland"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-10",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Ireland",
+            "Spain",
+            "United Kingdom"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7604432,
+      "updated_at": "2026-02-26T09:37:04-05:00",
+      "requisition_id": "R11071",
+      "title": "Senior UX Designer",
+      "company_name": "Elastic",
+      "first_published": "2026-02-24T08:15:43-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7604434&gh_jid=7604434",
       "data_compliance": [
         {
@@ -11790,71 +12138,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7564320&gh_jid=7564320",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3346155,
-      "location": {
-        "name": "Arizona, United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-01-26",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Arizona, United States"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": "237364USA_ELASTIC US",
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": "2115_US FIELD OPS - AMER",
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7564320,
-      "updated_at": "2026-02-19T14:22:05-05:00",
-      "requisition_id": "R11014",
-      "title": "SLED AE - Southwest US (AZ, NV, NM)",
-      "company_name": "Elastic",
-      "first_published": "2026-01-30T16:56:15-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7540062&gh_jid=7540062",
       "data_compliance": [
         {
@@ -11981,7 +12264,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7614533&gh_jid=7614533",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11993,21 +12276,25 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 3256148,
+      "internal_job_id": 3362130,
       "location": {
-        "name": "United States"
+        "name": "Spain"
       },
       "metadata": [
         {
           "id": 32131013,
           "name": "Requisition open date",
-          "value": "2025-09-24",
+          "value": "2026-02-13",
           "value_type": "date"
         },
         {
           "id": 168141,
           "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
+          "value": [
+            "Greece",
+            "Portugal",
+            "Spain"
+          ],
           "value_type": "multi_select"
         },
         {
@@ -12035,12 +12322,78 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7602101,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10367",
-      "title": "Software Engineer II - Python - Developer Tools - Search",
+      "id": 7614533,
+      "updated_at": "2026-02-26T07:01:36-05:00",
+      "requisition_id": "R11099",
+      "title": "Software Engineer - AI Developer Tooling (Engineering Productivity)",
       "company_name": "Elastic",
-      "first_published": "2026-02-10T09:53:19-05:00",
+      "first_published": "2026-02-26T07:01:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7615193&gh_jid=7615193",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3362246,
+      "location": {
+        "name": "Portugal"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2026-02-13",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [
+            "Greece",
+            "Spain"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7615193,
+      "updated_at": "2026-02-25T11:48:38-05:00",
+      "requisition_id": "R11145",
+      "title": "Software Engineer II - Front End - Application - OpEx - AppEx",
+      "company_name": "Elastic",
+      "first_published": "2026-02-25T11:24:33-05:00",
       "language": "en"
     },
     {
@@ -12104,6 +12457,69 @@
       "title": "Software Engineer II - Python - Developer Tools - Search",
       "company_name": "Elastic",
       "first_published": "2026-02-10T09:53:35-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3256148,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 32131013,
+          "name": "Requisition open date",
+          "value": "2025-09-24",
+          "value_type": "date"
+        },
+        {
+          "id": 168141,
+          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 33574685,
+          "name": "Types of Hiring",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164553,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 20164588,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 30595384,
+          "name": "Seniority",
+          "value": "Mid-Senior Level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7602101,
+      "updated_at": "2026-02-17T15:46:19-05:00",
+      "requisition_id": "R10367",
+      "title": "Software Engineer II - Python - Developer Tools - Search",
+      "company_name": "Elastic",
+      "first_published": "2026-02-10T09:53:19-05:00",
       "language": "en"
     },
     {
@@ -12303,69 +12719,6 @@
       "title": "Specialist, Partner Marketing",
       "company_name": "Elastic",
       "first_published": "2026-01-26T11:53:20-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7621572&gh_jid=7621572",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3363702,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-02-11",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7621572,
-      "updated_at": "2026-02-20T13:10:05-05:00",
-      "requisition_id": "R11128",
-      "title": "Sr. Business Analyst, IT Transformation",
-      "company_name": "Elastic",
-      "first_published": "2026-02-20T05:52:55-05:00",
       "language": "en"
     },
     {
@@ -12875,79 +13228,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7349637&gh_jid=7349637",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3278836,
-      "location": {
-        "name": "Spain"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2025-10-22",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [
-            "Greece",
-            "Ireland",
-            "Norway",
-            "Poland",
-            "Portugal",
-            "Romania",
-            "Spain",
-            "Sweden",
-            "United Kingdom"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Mid-Senior Level",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7349637,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R10504",
-      "title": "Systems Senior Software Developer (Go or C++) - Observability",
-      "company_name": "Elastic",
-      "first_published": "2025-10-28T10:54:43-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7318070&gh_jid=7318070",
       "data_compliance": [
         {
@@ -13013,7 +13293,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7565101&gh_jid=7565101",
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7349637&gh_jid=7349637",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13025,21 +13305,31 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 3346400,
+      "internal_job_id": 3278836,
       "location": {
-        "name": "Bangalore, India"
+        "name": "Spain"
       },
       "metadata": [
         {
           "id": 32131013,
           "name": "Requisition open date",
-          "value": "2026-01-26",
+          "value": "2025-10-22",
           "value_type": "date"
         },
         {
           "id": 168141,
           "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
+          "value": [
+            "Greece",
+            "Ireland",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Spain",
+            "Sweden",
+            "United Kingdom"
+          ],
           "value_type": "multi_select"
         },
         {
@@ -13067,12 +13357,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7565101,
-      "updated_at": "2026-02-17T15:46:19-05:00",
-      "requisition_id": "R11030",
-      "title": "Technical Content Program Specialist",
+      "id": 7349637,
+      "updated_at": "2026-02-26T14:15:11-05:00",
+      "requisition_id": "R10504",
+      "title": "Systems Senior Software Developer (Go or C++) - Observability",
       "company_name": "Elastic",
-      "first_published": "2026-02-04T00:05:33-05:00",
+      "first_published": "2025-10-28T10:54:43-04:00",
       "language": "en"
     },
     {
@@ -13268,69 +13558,6 @@
       "title": "Technical Writer I - SKI - Documentation",
       "company_name": "Elastic",
       "first_published": "2026-02-19T12:27:52-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7538490&gh_jid=7538490",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3337679,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 32131013,
-          "name": "Requisition open date",
-          "value": "2026-01-14",
-          "value_type": "date"
-        },
-        {
-          "id": 168141,
-          "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 33574685,
-          "name": "Types of Hiring",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164553,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 20164588,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 30595384,
-          "name": "Seniority",
-          "value": "Associate",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7538490,
-      "updated_at": "2026-02-20T13:11:50-05:00",
-      "requisition_id": "R10938",
-      "title": "Territory Account Executive",
-      "company_name": "Elastic",
-      "first_published": "2026-01-14T22:21:55-05:00",
       "language": "en"
     },
     {
