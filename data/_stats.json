@@ -1,7 +1,7 @@
 {
-  "success": 422,
-  "failed": 538,
-  "total_jobs": 21893,
+  "success": 419,
+  "failed": 539,
+  "total_jobs": 21743,
   "errors": [
     {
       "company": "shopee",
@@ -1460,6 +1460,10 @@
       "error": "404"
     },
     {
+      "company": "glovo",
+      "error": "404"
+    },
+    {
       "company": "aptos",
       "error": "404"
     },
@@ -2156,5 +2160,5 @@
       "error": "404"
     }
   ],
-  "timestamp": "2026-02-27T04:57:44.014460"
+  "timestamp": "2026-02-28T04:40:44.341977"
 }
