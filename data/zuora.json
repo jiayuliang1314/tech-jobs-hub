@@ -1,7 +1,7 @@
 {
   "company": "zuora",
-  "fetched_at": "2026-03-07T04:27:22.568293",
-  "job_count": 55,
+  "fetched_at": "2026-03-09T04:56:49.172456",
+  "job_count": 54,
   "jobs": [
     {
       "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7295254?gh_jid=7295254",
@@ -247,33 +247,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7343789?gh_jid=7343789",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "employment": "employment_required",
-      "internal_job_id": 3276681,
-      "location": {
-        "name": "London, Greater London, England, United Kingdom"
-      },
-      "metadata": null,
-      "id": 7343789,
-      "updated_at": "2026-03-05T11:22:04-05:00",
-      "requisition_id": "P105303",
-      "title": "Enterprise Account Executive",
-      "company_name": "Zuora",
-      "first_published": "2025-11-03T06:53:44-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://boards.greenhouse.io/zuora/jobs/6991349?gh_jid=6991349",
       "data_compliance": [
         {
@@ -298,6 +271,33 @@
       "title": "Enterprise Account Executive",
       "company_name": "Zuora",
       "first_published": "2026-02-25T03:08:06-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7343789?gh_jid=7343789",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "employment": "employment_required",
+      "internal_job_id": 3276681,
+      "location": {
+        "name": "London, Greater London, England, United Kingdom"
+      },
+      "metadata": null,
+      "id": 7343789,
+      "updated_at": "2026-03-05T11:22:04-05:00",
+      "requisition_id": "P105303",
+      "title": "Enterprise Account Executive",
+      "company_name": "Zuora",
+      "first_published": "2025-11-03T06:53:44-05:00",
       "language": "en"
     },
     {
@@ -413,11 +413,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": false,
+          "requires_consent": true,
           "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
         }
       ],
       "education": "education_optional",
@@ -428,7 +428,7 @@
       },
       "metadata": null,
       "id": 7669986,
-      "updated_at": "2026-03-06T20:58:59-05:00",
+      "updated_at": "2026-03-07T05:16:56-05:00",
       "requisition_id": "P105433",
       "title": "FP&A Analyst II",
       "company_name": "Zuora",
@@ -895,6 +895,33 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7392887?gh_jid=7392887",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "employment": "employment_required",
+      "internal_job_id": 3294977,
+      "location": {
+        "name": "Chennai, Tamil Nadu, India"
+      },
+      "metadata": null,
+      "id": 7392887,
+      "updated_at": "2026-02-20T14:09:42-05:00",
+      "requisition_id": "P105340",
+      "title": "Senior Software Engineer",
+      "company_name": "Zuora",
+      "first_published": "2025-12-15T00:09:14-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7310605?gh_jid=7310605",
       "data_compliance": [
         {
@@ -973,60 +1000,6 @@
       "title": "Senior Software Engineer",
       "company_name": "Zuora",
       "first_published": "2026-02-26T06:50:21-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7428818?gh_jid=7428818",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "employment": "employment_required",
-      "internal_job_id": 3305929,
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "metadata": null,
-      "id": 7428818,
-      "updated_at": "2026-02-20T14:11:07-05:00",
-      "requisition_id": "P105353",
-      "title": "Senior Software Engineer",
-      "company_name": "Zuora",
-      "first_published": "2025-11-28T06:14:55-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/7392887?gh_jid=7392887",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "employment": "employment_required",
-      "internal_job_id": 3294977,
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "metadata": null,
-      "id": 7392887,
-      "updated_at": "2026-02-20T14:09:42-05:00",
-      "requisition_id": "P105340",
-      "title": "Senior Software Engineer",
-      "company_name": "Zuora",
-      "first_published": "2025-12-15T00:09:14-05:00",
       "language": "en"
     },
     {
