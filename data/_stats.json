@@ -1,7 +1,7 @@
 {
-  "success": 416,
-  "failed": 539,
-  "total_jobs": 21555,
+  "success": 415,
+  "failed": 540,
+  "total_jobs": 21460,
   "errors": [
     {
       "company": "shopee",
@@ -1017,6 +1017,10 @@
     },
     {
       "company": "barrel",
+      "error": "404"
+    },
+    {
+      "company": "babbel",
       "error": "404"
     },
     {
@@ -2160,5 +2164,5 @@
       "error": "404"
     }
   ],
-  "timestamp": "2026-03-09T05:14:57.874750"
+  "timestamp": "2026-03-10T04:54:18.934996"
 }
