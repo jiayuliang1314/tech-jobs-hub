@@ -1,8 +1,46 @@
 {
   "company": "capco",
-  "fetched_at": "2026-03-13T04:40:18.677829",
-  "job_count": 686,
+  "fetched_at": "2026-03-16T05:21:23.423941",
+  "job_count": 678,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7721040",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3390441,
+      "location": {
+        "name": "Malaysia - Kuala Lumpur"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7721040,
+      "updated_at": "2026-03-15T22:17:42-04:00",
+      "requisition_id": "22441",
+      "title": "Agentic AI Specialist (Banking/Financial Service)",
+      "company_name": "Capco",
+      "first_published": "2026-03-15T22:17:21-04:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7682127",
       "data_compliance": [
@@ -80,83 +118,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7349075",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3278637,
-      "location": {
-        "name": "Canada - Toronto"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7349075,
-      "updated_at": "2026-02-03T08:16:07-05:00",
-      "requisition_id": "20319",
-      "title": "AI Data Engineer – Toronto - Hybrid",
-      "company_name": "Capco",
-      "first_published": "2025-10-22T09:32:58-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7650987",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3370087,
-      "location": {
-        "name": "US - New York"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7650987,
-      "updated_at": "2026-02-24T14:25:16-05:00",
-      "requisition_id": "22136",
-      "title": "AI Engineer",
-      "company_name": "Capco",
-      "first_published": "2026-02-24T14:25:16-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7625868",
       "data_compliance": [
         {
@@ -192,6 +153,45 @@
       "title": "AI Engineer",
       "company_name": "Capco",
       "first_published": "2026-02-24T03:38:23-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7650988",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3370087,
+      "location": {
+        "name": "US - Orlando"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7650988,
+      "updated_at": "2026-02-24T14:25:17-05:00",
+      "requisition_id": "22136",
+      "title": "AI Engineer",
+      "company_name": "Capco",
+      "first_published": "2026-02-24T14:25:17-05:00",
       "language": "en"
     },
     {
@@ -234,7 +234,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7650988",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7650987",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -248,7 +248,7 @@
       "education": "education_required",
       "internal_job_id": 3370087,
       "location": {
-        "name": "US - Orlando"
+        "name": "US - New York"
       },
       "metadata": [
         {
@@ -264,12 +264,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7650988,
-      "updated_at": "2026-02-24T14:25:17-05:00",
+      "id": 7650987,
+      "updated_at": "2026-02-24T14:25:16-05:00",
       "requisition_id": "22136",
       "title": "AI Engineer",
       "company_name": "Capco",
-      "first_published": "2026-02-24T14:25:17-05:00",
+      "first_published": "2026-02-24T14:25:16-05:00",
       "language": "en"
     },
     {
@@ -349,44 +349,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7641046",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3367641,
-      "location": {
-        "name": "Germany - Frankfurt am Main"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7641046,
-      "updated_at": "2026-02-20T06:07:25-05:00",
-      "requisition_id": "22058",
-      "title": "AI Governance & Risk Expert (m/f/d) - Regulatory AI Advisory for Financial Services",
-      "company_name": "Capco",
-      "first_published": "2026-02-20T06:07:25-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7641047",
       "data_compliance": [
         {
@@ -425,7 +387,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7349055",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7641046",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -436,9 +398,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3278632,
+      "internal_job_id": 3367641,
       "location": {
-        "name": "Canada - Toronto"
+        "name": "Germany - Frankfurt am Main"
       },
       "metadata": [
         {
@@ -454,12 +416,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7349055,
-      "updated_at": "2026-02-03T08:17:40-05:00",
-      "requisition_id": "20317",
-      "title": "AI/ML Engineer / Solution Designer – Toronto - Hybrid",
+      "id": 7641046,
+      "updated_at": "2026-02-20T06:07:25-05:00",
+      "requisition_id": "22058",
+      "title": "AI Governance & Risk Expert (m/f/d) - Regulatory AI Advisory for Financial Services",
       "company_name": "Capco",
-      "first_published": "2025-10-22T09:33:35-04:00",
+      "first_published": "2026-02-20T06:07:25-05:00",
       "language": "en"
     },
     {
@@ -617,45 +579,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7577053",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3349937,
-      "location": {
-        "name": "US - New York"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7577053,
-      "updated_at": "2026-03-10T11:21:51-04:00",
-      "requisition_id": "21640",
-      "title": "AI Transformation Managing Principal",
-      "company_name": "Capco",
-      "first_published": "2026-01-29T17:00:27-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7577054",
       "data_compliance": [
         {
@@ -692,6 +615,45 @@
       "title": "AI Transformation Managing Principal",
       "company_name": "Capco",
       "first_published": "2026-01-29T17:00:28-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7577053",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3349937,
+      "location": {
+        "name": "US - New York"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7577053,
+      "updated_at": "2026-03-10T11:21:51-04:00",
+      "requisition_id": "21640",
+      "title": "AI Transformation Managing Principal",
+      "company_name": "Capco",
+      "first_published": "2026-01-29T17:00:27-05:00",
       "language": "en"
     },
     {
@@ -921,44 +883,6 @@
       "title": "Analista de Business Intelligence / Remoto",
       "company_name": "Capco",
       "first_published": "2026-01-28T14:59:18-05:00",
-      "language": "pt"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7663673",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3373388,
-      "location": {
-        "name": "Brazil"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7663673,
-      "updated_at": "2026-02-27T14:52:10-05:00",
-      "requisition_id": "22202",
-      "title": "Analista de Compras / Remoto  ",
-      "company_name": "Capco",
-      "first_published": "2026-02-27T14:50:21-05:00",
       "language": "pt"
     },
     {
@@ -2140,45 +2064,6 @@
       "language": "pt"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7688528",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3380746,
-      "location": {
-        "name": "Brazil - Sao Paulo"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7688528,
-      "updated_at": "2026-03-06T14:04:18-05:00",
-      "requisition_id": "22343",
-      "title": "Analista de SMS com foco em Saúde e Segurança ",
-      "company_name": "Capco",
-      "first_published": "2026-03-06T14:04:18-05:00",
-      "language": "pt"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7688443",
       "data_compliance": [
         {
@@ -2215,6 +2100,45 @@
       "title": "Analista de SMS com foco em Saúde e Segurança ",
       "company_name": "Capco",
       "first_published": "2026-03-06T13:51:16-05:00",
+      "language": "pt"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7688528",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3380746,
+      "location": {
+        "name": "Brazil - Sao Paulo"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7688528,
+      "updated_at": "2026-03-06T14:04:18-05:00",
+      "requisition_id": "22343",
+      "title": "Analista de SMS com foco em Saúde e Segurança ",
+      "company_name": "Capco",
+      "first_published": "2026-03-06T14:04:18-05:00",
       "language": "pt"
     },
     {
@@ -2792,6 +2716,45 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7674380",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3376660,
+      "location": {
+        "name": "US - New York"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7674380,
+      "updated_at": "2026-03-03T16:54:33-05:00",
+      "requisition_id": "22246",
+      "title": "AWS Partnership Lead – Senior Sales & Alliances Executive (Financial Services)",
+      "company_name": "Capco",
+      "first_published": "2026-03-03T15:53:32-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7674878",
       "data_compliance": [
         {
@@ -2867,45 +2830,6 @@
       "title": "AWS Partnership Lead – Senior Sales & Alliances Executive (Financial Services)",
       "company_name": "Capco",
       "first_published": "2026-03-03T15:53:33-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7674380",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3376660,
-      "location": {
-        "name": "US - New York"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7674380,
-      "updated_at": "2026-03-03T16:54:33-05:00",
-      "requisition_id": "22246",
-      "title": "AWS Partnership Lead – Senior Sales & Alliances Executive (Financial Services)",
-      "company_name": "Capco",
-      "first_published": "2026-03-03T15:53:32-05:00",
       "language": "en"
     },
     {
@@ -3061,44 +2985,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7387942",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3293009,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7387942,
-      "updated_at": "2026-02-16T06:58:09-05:00",
-      "requisition_id": "20609",
-      "title": "BA - Capital Market",
-      "company_name": "Capco",
-      "first_published": "2025-12-09T05:06:39-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6282334",
       "data_compliance": [
         {
@@ -3134,6 +3020,44 @@
       "title": "BA - Capital Market",
       "company_name": "Capco",
       "first_published": "2025-06-04T13:53:47-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7387942",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3293009,
+      "location": {
+        "name": "India - Bengaluru"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7387942,
+      "updated_at": "2026-02-16T06:58:09-05:00",
+      "requisition_id": "20609",
+      "title": "BA - Capital Market",
+      "company_name": "Capco",
+      "first_published": "2025-12-09T05:06:39-05:00",
       "language": "en"
     },
     {
@@ -3557,44 +3481,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7649093",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3369558,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7649093,
-      "updated_at": "2026-03-10T00:20:40-04:00",
-      "requisition_id": "97584",
-      "title": "BA-Payment",
-      "company_name": "Capco",
-      "first_published": "2026-02-26T04:10:58-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7537528",
       "data_compliance": [
         {
@@ -3663,7 +3549,7 @@
         }
       ],
       "id": 7641089,
-      "updated_at": "2026-03-10T00:21:53-04:00",
+      "updated_at": "2026-03-16T00:08:58-04:00",
       "requisition_id": "97228",
       "title": "BA/PO- Credit Analysis",
       "company_name": "Capco",
@@ -3744,6 +3630,44 @@
       "title": "BA - Trading solutions",
       "company_name": "Capco",
       "first_published": "2025-11-11T01:26:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7720597",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3390225,
+      "location": {
+        "name": "India - Bengaluru"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7720597,
+      "updated_at": "2026-03-16T00:07:59-04:00",
+      "requisition_id": "98701",
+      "title": "Business Analysis-Reference Data",
+      "company_name": "Capco",
+      "first_published": "2026-03-16T00:07:59-04:00",
       "language": "en"
     },
     {
@@ -4704,45 +4628,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7407471",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3300383,
-      "location": {
-        "name": "US - Houston"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7407471,
-      "updated_at": "2025-12-12T14:19:48-05:00",
-      "requisition_id": "20732",
-      "title": "Business Analyst - Retail Energy",
-      "company_name": "Capco",
-      "first_published": "2025-11-19T11:27:29-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7476180",
       "data_compliance": [
         {
@@ -4779,6 +4664,45 @@
       "title": "Business Analyst - Retail Energy",
       "company_name": "Capco",
       "first_published": "2025-12-16T13:22:53-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7407471",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3300383,
+      "location": {
+        "name": "US - Houston"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7407471,
+      "updated_at": "2025-12-12T14:19:48-05:00",
+      "requisition_id": "20732",
+      "title": "Business Analyst - Retail Energy",
+      "company_name": "Capco",
+      "first_published": "2025-11-19T11:27:29-05:00",
       "language": "en"
     },
     {
@@ -5887,44 +5811,6 @@
       "language": "pt"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7563283",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3346019,
-      "location": {
-        "name": "Brazil - Rio de Janeiro"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7563283,
-      "updated_at": "2026-01-26T08:23:21-05:00",
-      "requisition_id": "21532",
-      "title": "Comprador | Home Office",
-      "company_name": "Capco",
-      "first_published": "2026-01-26T08:23:21-05:00",
-      "language": "pt"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7678761",
       "data_compliance": [
         {
@@ -5960,6 +5846,44 @@
       "title": "Comprador | Home Office",
       "company_name": "Capco",
       "first_published": "2026-03-04T13:34:34-05:00",
+      "language": "pt"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7563283",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3346019,
+      "location": {
+        "name": "Brazil - Rio de Janeiro"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7563283,
+      "updated_at": "2026-01-26T08:23:21-05:00",
+      "requisition_id": "21532",
+      "title": "Comprador | Home Office",
+      "company_name": "Capco",
+      "first_published": "2026-01-26T08:23:21-05:00",
       "language": "pt"
     },
     {
@@ -6536,44 +6460,6 @@
       "language": "pt"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7341107",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3275701,
-      "location": {
-        "name": "Brazil"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7341107,
-      "updated_at": "2025-12-12T14:19:48-05:00",
-      "requisition_id": "20265",
-      "title": "Consultor Especialista em Gestão e Liderança - Híbrido/Rio de Janeiro",
-      "company_name": "Capco",
-      "first_published": "2025-10-17T12:51:44-04:00",
-      "language": "pt"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7443073",
       "data_compliance": [
         {
@@ -6609,6 +6495,44 @@
       "title": "Consultor Especialista em Gestão e Liderança - Híbrido/Rio de Janeiro",
       "company_name": "Capco",
       "first_published": "2025-12-04T08:44:26-05:00",
+      "language": "pt"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7341107",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3275701,
+      "location": {
+        "name": "Brazil"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7341107,
+      "updated_at": "2025-12-12T14:19:48-05:00",
+      "requisition_id": "20265",
+      "title": "Consultor Especialista em Gestão e Liderança - Híbrido/Rio de Janeiro",
+      "company_name": "Capco",
+      "first_published": "2025-10-17T12:51:44-04:00",
       "language": "pt"
     },
     {
@@ -6954,6 +6878,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7708960",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3387406,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7708960,
+      "updated_at": "2026-03-14T05:09:22-04:00",
+      "requisition_id": "22413",
+      "title": "Credit Risk_Tester",
+      "company_name": "Capco",
+      "first_published": "2026-03-14T05:09:22-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7653536",
       "data_compliance": [
         {
@@ -7221,44 +7183,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7689108",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3380258,
-      "location": {
-        "name": "Czech Republic"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7689108,
-      "updated_at": "2026-03-06T15:39:04-05:00",
-      "requisition_id": "22332",
-      "title": "Database Administrator - Data Architecture focus",
-      "company_name": "Capco",
-      "first_published": "2026-03-06T15:39:04-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7686552",
       "data_compliance": [
         {
@@ -7294,6 +7218,44 @@
       "title": "Database Administrator - Data Architecture focus",
       "company_name": "Capco",
       "first_published": "2026-03-06T08:20:15-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7686476",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3380258,
+      "location": {
+        "name": "Czech Republic - Prague"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7686476,
+      "updated_at": "2026-03-06T15:39:21-05:00",
+      "requisition_id": "22332",
+      "title": "Database Administrator - Data Architecture focus",
+      "company_name": "Capco",
+      "first_published": "2026-03-06T08:19:17-05:00",
       "language": "en"
     },
     {
@@ -7373,7 +7335,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7686476",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7689108",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7386,7 +7348,7 @@
       ],
       "internal_job_id": 3380258,
       "location": {
-        "name": "Czech Republic - Prague"
+        "name": "Czech Republic"
       },
       "metadata": [
         {
@@ -7402,12 +7364,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7686476,
-      "updated_at": "2026-03-06T15:39:21-05:00",
+      "id": 7689108,
+      "updated_at": "2026-03-06T15:39:04-05:00",
       "requisition_id": "22332",
       "title": "Database Administrator - Data Architecture focus",
       "company_name": "Capco",
-      "first_published": "2026-03-06T08:19:17-05:00",
+      "first_published": "2026-03-06T15:39:04-05:00",
       "language": "en"
     },
     {
@@ -8021,45 +7983,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533347",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3336354,
-      "location": {
-        "name": "India - Bengaluru; India - Hyderabad; India - Pune"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7533347,
-      "updated_at": "2026-01-28T00:42:08-05:00",
-      "requisition_id": "21371",
-      "title": "Data Modeler",
-      "company_name": "Capco",
-      "first_published": "2026-01-13T06:58:53-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533349",
       "data_compliance": [
         {
@@ -8096,6 +8019,45 @@
       "title": "Data Modeler",
       "company_name": "Capco",
       "first_published": "2026-01-28T00:48:56-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533347",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3336354,
+      "location": {
+        "name": "India - Bengaluru; India - Hyderabad; India - Pune"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7533347,
+      "updated_at": "2026-01-28T00:42:08-05:00",
+      "requisition_id": "21371",
+      "title": "Data Modeler",
+      "company_name": "Capco",
+      "first_published": "2026-01-13T06:58:53-05:00",
       "language": "en"
     },
     {
@@ -9049,6 +9011,44 @@
       "company_name": "Capco",
       "first_published": "2026-02-16T02:32:18-05:00",
       "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7718311",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3389524,
+      "location": {
+        "name": "Brazil - Rio de Janeiro"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7718311,
+      "updated_at": "2026-03-13T17:36:02-04:00",
+      "requisition_id": "22436",
+      "title": "Economista - Híbrido - Rio de Janeiro - RJ",
+      "company_name": "Capco",
+      "first_published": "2026-03-13T17:36:02-04:00",
+      "language": "pt"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7679722",
@@ -10307,6 +10307,44 @@
       "language": "pt"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7675150",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3376825,
+      "location": {
+        "name": "UK - Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7675150,
+      "updated_at": "2026-03-03T16:43:12-05:00",
+      "requisition_id": "22256",
+      "title": "Engineering Director",
+      "company_name": "Capco",
+      "first_published": "2026-03-03T16:43:12-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7363417",
       "data_compliance": [
         {
@@ -10383,44 +10421,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7675150",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3376825,
-      "location": {
-        "name": "UK - Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7675150,
-      "updated_at": "2026-03-03T16:43:12-05:00",
-      "requisition_id": "22256",
-      "title": "Engineering Director",
-      "company_name": "Capco",
-      "first_published": "2026-03-03T16:43:12-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7559858",
       "data_compliance": [
         {
@@ -10494,6 +10494,44 @@
       "title": "Enterprise Data Modeller ",
       "company_name": "Capco",
       "first_published": "2024-08-30T04:31:37-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7613297",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3361809,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7613297,
+      "updated_at": "2026-03-13T06:12:38-04:00",
+      "requisition_id": "21950",
+      "title": "ESG - Design",
+      "company_name": "Capco",
+      "first_published": "2026-03-13T06:12:38-04:00",
       "language": "en"
     },
     {
@@ -11147,44 +11185,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7626210",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3364911,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7626210,
-      "updated_at": "2026-03-10T00:22:34-04:00",
-      "requisition_id": "97227",
-      "title": "Functional Support Analyst-L1",
-      "company_name": "Capco",
-      "first_published": "2026-02-23T03:31:01-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7570937",
       "data_compliance": [
         {
@@ -11261,6 +11261,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7718607",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3389586,
+      "location": {
+        "name": "India - Pune"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7718607,
+      "updated_at": "2026-03-13T15:23:32-04:00",
+      "requisition_id": "22437",
+      "title": "GCP Platform Engineer",
+      "company_name": "Capco",
+      "first_published": "2026-03-13T15:23:32-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6896885",
       "data_compliance": [
         {
@@ -11296,6 +11334,44 @@
       "title": "GenAI Engineer",
       "company_name": "Capco",
       "first_published": "2025-05-19T07:15:42-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7410266",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3301504,
+      "location": {
+        "name": "India - Bengaluru"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7410266,
+      "updated_at": "2026-01-22T07:52:37-05:00",
+      "requisition_id": "20766",
+      "title": "GenAI Engineer",
+      "company_name": "Capco",
+      "first_published": "2026-01-19T07:08:20-05:00",
       "language": "en"
     },
     {
@@ -11337,44 +11413,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6896886",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3150845,
-      "location": {
-        "name": "Czech Republic - Prague"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6896886,
-      "updated_at": "2025-12-12T14:19:48-05:00",
-      "requisition_id": "17988",
-      "title": "GenAI Engineer",
-      "company_name": "Capco",
-      "first_published": "2025-05-19T07:15:42-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6896887",
       "data_compliance": [
         {
@@ -11413,7 +11451,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7410266",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6896886",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11424,9 +11462,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3301504,
+      "internal_job_id": 3150845,
       "location": {
-        "name": "India - Bengaluru"
+        "name": "Czech Republic - Prague"
       },
       "metadata": [
         {
@@ -11442,12 +11480,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7410266,
-      "updated_at": "2026-01-22T07:52:37-05:00",
-      "requisition_id": "20766",
+      "id": 6896886,
+      "updated_at": "2025-12-12T14:19:48-05:00",
+      "requisition_id": "17988",
       "title": "GenAI Engineer",
       "company_name": "Capco",
-      "first_published": "2026-01-19T07:08:20-05:00",
+      "first_published": "2025-05-19T07:15:42-04:00",
       "language": "en"
     },
     {
@@ -11908,44 +11946,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7683404",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3379197,
-      "location": {
-        "name": "India - Pune"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7683404,
-      "updated_at": "2026-03-06T02:48:41-05:00",
-      "requisition_id": "22323",
-      "title": "HRBP",
-      "company_name": "Capco",
-      "first_published": "2026-03-06T02:48:41-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7654030",
       "data_compliance": [
         {
@@ -11981,6 +11981,44 @@
       "title": "HRBP",
       "company_name": "Capco",
       "first_published": "2026-02-25T10:54:02-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7683404",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3379197,
+      "location": {
+        "name": "India - Pune"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7683404,
+      "updated_at": "2026-03-13T15:53:34-04:00",
+      "requisition_id": "22323",
+      "title": "HRBP",
+      "company_name": "Capco",
+      "first_published": "2026-03-06T02:48:41-05:00",
       "language": "en"
     },
     {
@@ -12631,44 +12669,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7621599",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3363712,
-      "location": {
-        "name": "India - Mumbai"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7621599,
-      "updated_at": "2026-03-11T10:33:50-04:00",
-      "requisition_id": "97241",
-      "title": "Java Full Stack Developer ",
-      "company_name": "Capco",
-      "first_published": "2026-02-18T01:45:12-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7621539",
       "data_compliance": [
         {
@@ -12704,6 +12704,44 @@
       "title": "Java Full Stack Developer ",
       "company_name": "Capco",
       "first_published": "2026-02-17T01:56:51-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7621599",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3363712,
+      "location": {
+        "name": "India - Mumbai"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7621599,
+      "updated_at": "2026-03-11T10:33:50-04:00",
+      "requisition_id": "97241",
+      "title": "Java Full Stack Developer ",
+      "company_name": "Capco",
+      "first_published": "2026-02-18T01:45:12-05:00",
       "language": "en"
     },
     {
@@ -13014,7 +13052,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7557537",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7597950",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13025,9 +13063,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3344030,
+      "internal_job_id": 3357441,
       "location": {
-        "name": "Malaysia - Kuala Lumpur"
+        "name": "India - Bengaluru"
       },
       "metadata": [
         {
@@ -13043,12 +13081,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7557537,
-      "updated_at": "2026-01-27T09:02:44-05:00",
-      "requisition_id": "21496",
-      "title": "Junior Project Manager - (Banking)",
+      "id": 7597950,
+      "updated_at": "2026-02-16T06:05:04-05:00",
+      "requisition_id": "96772",
+      "title": "Junior Technology Delivery - Developer - Intellimatch",
       "company_name": "Capco",
-      "first_published": "2026-01-22T18:53:00-05:00",
+      "first_published": "2026-02-09T23:48:05-05:00",
       "language": "en"
     },
     {
@@ -13087,44 +13125,6 @@
       "title": "Junior Technology Delivery - Developer - Intellimatch",
       "company_name": "Capco",
       "first_published": "2026-02-10T03:56:45-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7597950",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3357441,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7597950,
-      "updated_at": "2026-02-16T06:05:04-05:00",
-      "requisition_id": "96772",
-      "title": "Junior Technology Delivery - Developer - Intellimatch",
-      "company_name": "Capco",
-      "first_published": "2026-02-09T23:48:05-05:00",
       "language": "en"
     },
     {
@@ -13280,6 +13280,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7712757",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3388039,
+      "location": {
+        "name": "UK - Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7712757,
+      "updated_at": "2026-03-12T14:21:48-04:00",
+      "requisition_id": "22424",
+      "title": "Lead AI Engineer",
+      "company_name": "Capco",
+      "first_published": "2026-03-12T14:20:56-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6870486",
       "data_compliance": [
         {
@@ -13353,44 +13391,6 @@
       "title": "Lead AI Engineer",
       "company_name": "Capco",
       "first_published": "2026-03-12T14:23:16-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7712757",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3388039,
-      "location": {
-        "name": "UK - Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7712757,
-      "updated_at": "2026-03-12T14:21:48-04:00",
-      "requisition_id": "22424",
-      "title": "Lead AI Engineer",
-      "company_name": "Capco",
-      "first_published": "2026-03-12T14:20:56-04:00",
       "language": "en"
     },
     {
@@ -13851,44 +13851,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533826",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3336392,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7533826,
-      "updated_at": "2026-01-13T08:01:01-05:00",
-      "requisition_id": "21377",
-      "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
-      "company_name": "Capco",
-      "first_published": "2026-01-13T08:01:01-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7642388",
       "data_compliance": [
         {
@@ -13924,6 +13886,44 @@
       "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
       "company_name": "Capco",
       "first_published": "2026-02-20T12:54:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533826",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3336392,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7533826,
+      "updated_at": "2026-01-13T08:01:01-05:00",
+      "requisition_id": "21377",
+      "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
+      "company_name": "Capco",
+      "first_published": "2026-01-13T08:01:01-05:00",
       "language": "en"
     },
     {
@@ -14003,44 +14003,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533952",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3336407,
-      "location": {
-        "name": "UK - Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7533952,
-      "updated_at": "2026-01-13T08:39:32-05:00",
-      "requisition_id": "21384",
-      "title": "Management Consultant - Financial Risk",
-      "company_name": "Capco",
-      "first_published": "2026-01-13T08:39:32-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7642455",
       "data_compliance": [
         {
@@ -14114,6 +14076,44 @@
       "title": "Management Consultant - Financial Risk",
       "company_name": "Capco",
       "first_published": "2026-01-13T08:02:42-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533952",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3336407,
+      "location": {
+        "name": "UK - Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7533952,
+      "updated_at": "2026-01-13T08:39:32-05:00",
+      "requisition_id": "21384",
+      "title": "Management Consultant - Financial Risk",
+      "company_name": "Capco",
+      "first_published": "2026-01-13T08:39:32-05:00",
       "language": "en"
     },
     {
@@ -14307,44 +14307,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533836",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3336396,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7533836,
-      "updated_at": "2026-01-13T08:04:02-05:00",
-      "requisition_id": "21379",
-      "title": "Management Consultant - Operational Resilience & Cyber",
-      "company_name": "Capco",
-      "first_published": "2026-01-13T08:04:02-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7653807",
       "data_compliance": [
         {
@@ -14380,6 +14342,44 @@
       "title": "Management Consultant - Operational Resilience & Cyber",
       "company_name": "Capco",
       "first_published": "2026-02-25T10:12:40-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7533836",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3336396,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7533836,
+      "updated_at": "2026-01-13T08:04:02-05:00",
+      "requisition_id": "21379",
+      "title": "Management Consultant - Operational Resilience & Cyber",
+      "company_name": "Capco",
+      "first_published": "2026-01-13T08:04:02-05:00",
       "language": "en"
     },
     {
@@ -15107,44 +15107,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7584269",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3352901,
-      "location": {
-        "name": "Canada - Toronto"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7584269,
-      "updated_at": "2026-02-03T10:35:34-05:00",
-      "requisition_id": "21716",
-      "title": "Managing Principal - Payments",
-      "company_name": "Capco",
-      "first_published": "2026-02-02T17:17:50-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7674903",
       "data_compliance": [
         {
@@ -15338,44 +15300,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7645940",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3368723,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7645940,
-      "updated_at": "2026-02-23T07:54:22-05:00",
-      "requisition_id": "97260",
-      "title": "Mid Data Governance ",
-      "company_name": "Capco",
-      "first_published": "2026-02-23T07:54:22-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7649051",
       "data_compliance": [
         {
@@ -15411,6 +15335,44 @@
       "title": "Mid Data Governance ",
       "company_name": "Capco",
       "first_published": "2026-03-05T07:57:03-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7645940",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3368723,
+      "location": {
+        "name": "India - Bengaluru"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7645940,
+      "updated_at": "2026-02-23T07:54:22-05:00",
+      "requisition_id": "97260",
+      "title": "Mid Data Governance ",
+      "company_name": "Capco",
+      "first_published": "2026-02-23T07:54:22-05:00",
       "language": "en"
     },
     {
@@ -15566,7 +15528,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7585730",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7585729",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15579,7 +15541,7 @@
       ],
       "internal_job_id": 3353460,
       "location": {
-        "name": "Czech Republic - Prague"
+        "name": "Czech Republic - Brno"
       },
       "metadata": [
         {
@@ -15595,12 +15557,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7585730,
-      "updated_at": "2026-02-03T11:23:04-05:00",
+      "id": 7585729,
+      "updated_at": "2026-02-03T11:23:03-05:00",
       "requisition_id": "21733",
       "title": "Murex Consultant",
       "company_name": "Capco",
-      "first_published": "2026-02-03T11:23:04-05:00",
+      "first_published": "2026-02-03T11:23:03-05:00",
       "language": "en"
     },
     {
@@ -15680,7 +15642,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7585729",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7585730",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15693,7 +15655,7 @@
       ],
       "internal_job_id": 3353460,
       "location": {
-        "name": "Czech Republic - Brno"
+        "name": "Czech Republic - Prague"
       },
       "metadata": [
         {
@@ -15709,12 +15671,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7585729,
-      "updated_at": "2026-02-03T11:23:03-05:00",
+      "id": 7585730,
+      "updated_at": "2026-02-03T11:23:04-05:00",
       "requisition_id": "21733",
       "title": "Murex Consultant",
       "company_name": "Capco",
-      "first_published": "2026-02-03T11:23:03-05:00",
+      "first_published": "2026-02-03T11:23:04-05:00",
       "language": "en"
     },
     {
@@ -16058,44 +16020,6 @@
       "title": "Order-to-Cash (O2C) Billing/Invoice",
       "company_name": "Capco",
       "first_published": "2026-03-09T06:54:08-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7649214",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3369592,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7649214,
-      "updated_at": "2026-03-10T00:36:12-04:00",
-      "requisition_id": "97587",
-      "title": "Payment with Pega Business Analyst",
-      "company_name": "Capco",
-      "first_published": "2026-02-26T04:14:05-05:00",
       "language": "en"
     },
     {
@@ -17355,7 +17279,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7349051",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7456933",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -17366,9 +17290,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3278629,
+      "internal_job_id": 3314128,
       "location": {
-        "name": "Canada - Toronto"
+        "name": "India"
       },
       "metadata": [
         {
@@ -17384,12 +17308,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7349051,
-      "updated_at": "2026-02-03T08:20:10-05:00",
-      "requisition_id": "20316",
-      "title": "Product / Domain Lead (AI + Banking domain) – Toronto - Hybrid",
+      "id": 7456933,
+      "updated_at": "2026-03-16T00:10:09-04:00",
+      "requisition_id": "92726",
+      "title": "Product Lead Coach",
       "company_name": "Capco",
-      "first_published": "2025-10-22T09:34:14-04:00",
+      "first_published": "2026-01-27T23:38:03-05:00",
       "language": "en"
     },
     {
@@ -17812,44 +17736,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6368592",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2997840,
-      "location": {
-        "name": "Malaysia - Kuala Lumpur"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": "109040MAL_CAPCO MALAYSIA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": "2114_MALAYSIA STANDARD",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6368592,
-      "updated_at": "2026-02-09T07:21:17-05:00",
-      "requisition_id": "14911",
-      "title": "Project Manager ",
-      "company_name": "Capco",
-      "first_published": "2024-11-03T08:51:11-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7624681",
       "data_compliance": [
         {
@@ -17886,6 +17772,44 @@
       "title": "Project Manager ",
       "company_name": "Capco",
       "first_published": "2026-02-19T10:18:30-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6368592",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2997840,
+      "location": {
+        "name": "Malaysia - Kuala Lumpur"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": "109040MAL_CAPCO MALAYSIA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": "2114_MALAYSIA STANDARD",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6368592,
+      "updated_at": "2026-02-09T07:21:17-05:00",
+      "requisition_id": "14911",
+      "title": "Project Manager ",
+      "company_name": "Capco",
+      "first_published": "2024-11-03T08:51:11-05:00",
       "language": "en"
     },
     {
@@ -18156,44 +18080,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7349058",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3278633,
-      "location": {
-        "name": "Canada - Toronto"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7349058,
-      "updated_at": "2026-02-03T08:20:48-05:00",
-      "requisition_id": "20318",
-      "title": "Prompt Engineer / Agent Designer – Toronto - Hybrid",
-      "company_name": "Capco",
-      "first_published": "2025-10-22T09:34:53-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7642919",
       "data_compliance": [
         {
@@ -18308,7 +18194,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7676987",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7676985",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -18321,7 +18207,7 @@
       ],
       "internal_job_id": 3377391,
       "location": {
-        "name": "Czech Republic - Prague"
+        "name": "Slovakia - Bratislava"
       },
       "metadata": [
         {
@@ -18337,12 +18223,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7676987,
-      "updated_at": "2026-03-04T07:52:17-05:00",
+      "id": 7676985,
+      "updated_at": "2026-03-04T04:44:16-05:00",
       "requisition_id": "22276",
       "title": "QA Engineer – SimCorp Dimension & Tosca Automation",
       "company_name": "Capco",
-      "first_published": "2026-03-04T07:52:17-05:00",
+      "first_published": "2026-03-04T04:44:16-05:00",
       "language": "en"
     },
     {
@@ -18384,6 +18270,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7676987",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3377391,
+      "location": {
+        "name": "Czech Republic - Prague"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7676987,
+      "updated_at": "2026-03-04T07:52:17-05:00",
+      "requisition_id": "22276",
+      "title": "QA Engineer – SimCorp Dimension & Tosca Automation",
+      "company_name": "Capco",
+      "first_published": "2026-03-04T07:52:17-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7676986",
       "data_compliance": [
         {
@@ -18419,44 +18343,6 @@
       "title": "QA Engineer – SimCorp Dimension & Tosca Automation",
       "company_name": "Capco",
       "first_published": "2026-03-04T07:51:03-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7676985",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3377391,
-      "location": {
-        "name": "Slovakia - Bratislava"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7676985,
-      "updated_at": "2026-03-04T04:44:16-05:00",
-      "requisition_id": "22276",
-      "title": "QA Engineer – SimCorp Dimension & Tosca Automation",
-      "company_name": "Capco",
-      "first_published": "2026-03-04T04:44:16-05:00",
       "language": "en"
     },
     {
@@ -18650,44 +18536,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7558766",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3344445,
-      "location": {
-        "name": "Canada - Toronto"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7558766,
-      "updated_at": "2026-01-28T12:13:22-05:00",
-      "requisition_id": "21499",
-      "title": "Sales Enablement Manager",
-      "company_name": "Capco",
-      "first_published": "2026-01-22T16:17:18-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7548323",
       "data_compliance": [
         {
@@ -18723,6 +18571,44 @@
       "title": "Sales Enablement Manager",
       "company_name": "Capco",
       "first_published": "2026-01-20T04:37:48-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7558766",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3344445,
+      "location": {
+        "name": "Canada - Toronto"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7558766,
+      "updated_at": "2026-01-28T12:13:22-05:00",
+      "requisition_id": "21499",
+      "title": "Sales Enablement Manager",
+      "company_name": "Capco",
+      "first_published": "2026-01-22T16:17:18-05:00",
       "language": "en"
     },
     {
@@ -19069,44 +18955,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7556771",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3343826,
-      "location": {
-        "name": "Germany - Frankfurt am Main"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7556771,
-      "updated_at": "2026-01-22T08:02:49-05:00",
-      "requisition_id": "21495",
-      "title": "Senior AI Delivery Lead for Continental Europe",
-      "company_name": "Capco",
-      "first_published": "2026-01-22T08:02:49-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7571444",
       "data_compliance": [
         {
@@ -19142,6 +18990,44 @@
       "title": "Senior AI Delivery Lead for Continental Europe",
       "company_name": "Capco",
       "first_published": "2026-01-28T09:57:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7556771",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3343826,
+      "location": {
+        "name": "Germany - Frankfurt am Main"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7556771,
+      "updated_at": "2026-01-22T08:02:49-05:00",
+      "requisition_id": "21495",
+      "title": "Senior AI Delivery Lead for Continental Europe",
+      "company_name": "Capco",
+      "first_published": "2026-01-22T08:02:49-05:00",
       "language": "en"
     },
     {
@@ -19449,44 +19335,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7653036",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3370622,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7653036,
-      "updated_at": "2026-03-03T23:49:10-05:00",
-      "requisition_id": "97405",
-      "title": "Senior Business Analysis - DevOps, Agile Kanban",
-      "company_name": "Capco",
-      "first_published": "2026-03-03T23:49:10-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7667875",
       "data_compliance": [
         {
@@ -19715,7 +19563,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7663030",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5069008",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -19726,10 +19574,10 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "education": "education_required",
-      "internal_job_id": 3373213,
+      "education": "education_optional",
+      "internal_job_id": 2552187,
       "location": {
-        "name": "US - New York"
+        "name": "Germany - Frankfurt am Main"
       },
       "metadata": [
         {
@@ -19745,13 +19593,13 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7663030,
-      "updated_at": "2026-03-05T11:52:28-05:00",
-      "requisition_id": "22196",
-      "title": "Senior Consultant - Banking and Payments",
+      "id": 5069008,
+      "updated_at": "2026-02-03T04:43:36-05:00",
+      "requisition_id": "8947",
+      "title": "(Senior) Consultant* - Capital Markets",
       "company_name": "Capco",
-      "first_published": "2026-02-27T12:58:51-05:00",
-      "language": "en"
+      "first_published": "2023-07-19T08:16:21-04:00",
+      "language": "de"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5196333",
@@ -19790,45 +19638,6 @@
       "title": "(Senior) Consultant* - Capital Markets",
       "company_name": "Capco",
       "first_published": "2023-07-19T08:16:25-04:00",
-      "language": "de"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5069008",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 2552187,
-      "location": {
-        "name": "Germany - Frankfurt am Main"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5069008,
-      "updated_at": "2026-02-03T04:43:36-05:00",
-      "requisition_id": "8947",
-      "title": "(Senior) Consultant* - Capital Markets",
-      "company_name": "Capco",
-      "first_published": "2023-07-19T08:16:21-04:00",
       "language": "de"
     },
     {
@@ -20063,7 +19872,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7601768",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7601770",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -20076,7 +19885,7 @@
       ],
       "internal_job_id": 3358415,
       "location": {
-        "name": "Germany - Frankfurt am Main"
+        "name": "Germany - Berlin"
       },
       "metadata": [
         {
@@ -20092,12 +19901,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7601768,
-      "updated_at": "2026-03-11T12:21:56-04:00",
+      "id": 7601770,
+      "updated_at": "2026-03-11T12:22:52-04:00",
       "requisition_id": "21872",
       "title": "(Senior) Consultant* - Digital Assets & DLT / Blockchain",
       "company_name": "Capco",
-      "first_published": "2026-02-10T06:46:44-05:00",
+      "first_published": "2026-02-26T04:35:54-05:00",
       "language": "de"
     },
     {
@@ -20139,7 +19948,7 @@
       "language": "de"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7601770",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7601768",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -20152,7 +19961,7 @@
       ],
       "internal_job_id": 3358415,
       "location": {
-        "name": "Germany - Berlin"
+        "name": "Germany - Frankfurt am Main"
       },
       "metadata": [
         {
@@ -20168,12 +19977,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7601770,
-      "updated_at": "2026-03-11T12:22:52-04:00",
+      "id": 7601768,
+      "updated_at": "2026-03-11T12:21:56-04:00",
       "requisition_id": "21872",
       "title": "(Senior) Consultant* - Digital Assets & DLT / Blockchain",
       "company_name": "Capco",
-      "first_published": "2026-02-26T04:35:54-05:00",
+      "first_published": "2026-02-10T06:46:44-05:00",
       "language": "de"
     },
     {
@@ -20330,44 +20139,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7025998",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3183091,
-      "location": {
-        "name": "Germany - Dusseldorf"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7025998,
-      "updated_at": "2026-02-03T04:46:33-05:00",
-      "requisition_id": "18683",
-      "title": "(Senior) Consultant* – Insurance",
-      "company_name": "Capco",
-      "first_published": "2026-02-03T04:46:33-05:00",
-      "language": "de"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7025997",
       "data_compliance": [
         {
@@ -20403,6 +20174,44 @@
       "title": "(Senior) Consultant* – Insurance",
       "company_name": "Capco",
       "first_published": "2026-02-03T04:46:22-05:00",
+      "language": "de"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7025998",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3183091,
+      "location": {
+        "name": "Germany - Dusseldorf"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7025998,
+      "updated_at": "2026-02-03T04:46:33-05:00",
+      "requisition_id": "18683",
+      "title": "(Senior) Consultant* – Insurance",
+      "company_name": "Capco",
+      "first_published": "2026-02-03T04:46:33-05:00",
       "language": "de"
     },
     {
@@ -20520,44 +20329,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7200756",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3230928,
-      "location": {
-        "name": "Germany - Frankfurt am Main"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7200756,
-      "updated_at": "2026-02-03T04:44:24-05:00",
-      "requisition_id": "19512",
-      "title": "(Senior) Consultant* - Insurance mit Schwerpunkt Schadenmanagement",
-      "company_name": "Capco",
-      "first_published": "2025-08-28T03:22:40-04:00",
-      "language": "de"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7200757",
       "data_compliance": [
         {
@@ -20593,6 +20364,44 @@
       "title": "(Senior) Consultant* - Insurance mit Schwerpunkt Schadenmanagement",
       "company_name": "Capco",
       "first_published": "2026-01-28T07:05:03-05:00",
+      "language": "de"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7200756",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3230928,
+      "location": {
+        "name": "Germany - Frankfurt am Main"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7200756,
+      "updated_at": "2026-02-03T04:44:24-05:00",
+      "requisition_id": "19512",
+      "title": "(Senior) Consultant* - Insurance mit Schwerpunkt Schadenmanagement",
+      "company_name": "Capco",
+      "first_published": "2025-08-28T03:22:40-04:00",
       "language": "de"
     },
     {
@@ -20710,7 +20519,7 @@
       "language": "de"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7122913",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647304",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -20721,7 +20530,45 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3207543,
+      "internal_job_id": 2770724,
+      "location": {
+        "name": "Germany - Frankfurt am Main"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 5647304,
+      "updated_at": "2026-02-03T04:44:40-05:00",
+      "requisition_id": "11159",
+      "title": "(Senior) Consultant* - Payments",
+      "company_name": "Capco",
+      "first_published": "2024-01-25T04:50:06-05:00",
+      "language": "de"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647306",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2770724,
       "location": {
         "name": "Germany - Munich"
       },
@@ -20739,12 +20586,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7122913,
-      "updated_at": "2026-02-03T04:47:01-05:00",
-      "requisition_id": "19117",
+      "id": 5647306,
+      "updated_at": "2026-02-03T04:46:45-05:00",
+      "requisition_id": "11159",
       "title": "(Senior) Consultant* - Payments",
       "company_name": "Capco",
-      "first_published": "2026-02-03T04:47:01-05:00",
+      "first_published": "2024-01-25T04:52:11-05:00",
       "language": "de"
     },
     {
@@ -20786,120 +20633,6 @@
       "language": "de"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7122912",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3207543,
-      "location": {
-        "name": "Germany - Dusseldorf"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7122912,
-      "updated_at": "2026-02-03T04:47:02-05:00",
-      "requisition_id": "19117",
-      "title": "(Senior) Consultant* - Payments",
-      "company_name": "Capco",
-      "first_published": "2026-02-03T04:47:02-05:00",
-      "language": "de"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647304",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2770724,
-      "location": {
-        "name": "Germany - Frankfurt am Main"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5647304,
-      "updated_at": "2026-02-03T04:44:40-05:00",
-      "requisition_id": "11159",
-      "title": "(Senior) Consultant* - Payments",
-      "company_name": "Capco",
-      "first_published": "2024-01-25T04:50:06-05:00",
-      "language": "de"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647307",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2770724,
-      "location": {
-        "name": "Germany - Berlin"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5647307,
-      "updated_at": "2026-02-03T04:46:46-05:00",
-      "requisition_id": "11159",
-      "title": "(Senior) Consultant* - Payments",
-      "company_name": "Capco",
-      "first_published": "2024-01-25T04:53:30-05:00",
-      "language": "de"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647305",
       "data_compliance": [
         {
@@ -20938,7 +20671,7 @@
       "language": "de"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647306",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7122912",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -20949,7 +20682,45 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 2770724,
+      "internal_job_id": 3207543,
+      "location": {
+        "name": "Germany - Dusseldorf"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7122912,
+      "updated_at": "2026-02-03T04:47:02-05:00",
+      "requisition_id": "19117",
+      "title": "(Senior) Consultant* - Payments",
+      "company_name": "Capco",
+      "first_published": "2026-02-03T04:47:02-05:00",
+      "language": "de"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7122913",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3207543,
       "location": {
         "name": "Germany - Munich"
       },
@@ -20967,12 +20738,50 @@
           "value_type": "single_select"
         }
       ],
-      "id": 5647306,
-      "updated_at": "2026-02-03T04:46:45-05:00",
+      "id": 7122913,
+      "updated_at": "2026-02-03T04:47:01-05:00",
+      "requisition_id": "19117",
+      "title": "(Senior) Consultant* - Payments",
+      "company_name": "Capco",
+      "first_published": "2026-02-03T04:47:01-05:00",
+      "language": "de"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/5647307",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2770724,
+      "location": {
+        "name": "Germany - Berlin"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 5647307,
+      "updated_at": "2026-02-03T04:46:46-05:00",
       "requisition_id": "11159",
       "title": "(Senior) Consultant* - Payments",
       "company_name": "Capco",
-      "first_published": "2024-01-25T04:52:11-05:00",
+      "first_published": "2024-01-25T04:53:30-05:00",
       "language": "de"
     },
     {
@@ -21397,6 +21206,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7570817",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3348002,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7570817,
+      "updated_at": "2026-03-05T04:02:10-05:00",
+      "requisition_id": "21592",
+      "title": "Senior Data Architect",
+      "company_name": "Capco",
+      "first_published": "2026-01-28T04:33:18-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7430599",
       "data_compliance": [
         {
@@ -21473,44 +21320,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7570817",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3348002,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7570817,
-      "updated_at": "2026-03-05T04:02:10-05:00",
-      "requisition_id": "21592",
-      "title": "Senior Data Architect",
-      "company_name": "Capco",
-      "first_published": "2026-01-28T04:33:18-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7686698",
       "data_compliance": [
         {
@@ -21546,44 +21355,6 @@
       "title": "Senior Data Architect  (She/ He/ They)",
       "company_name": "Capco",
       "first_published": "2026-03-06T09:24:13-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7637843",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3367234,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7637843,
-      "updated_at": "2026-02-19T15:24:13-05:00",
-      "requisition_id": "22054",
-      "title": "Senior Data Architect - Wealth & Asset Management.",
-      "company_name": "Capco",
-      "first_published": "2026-02-19T15:24:13-05:00",
       "language": "en"
     },
     {
@@ -21625,6 +21396,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7637843",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3367234,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7637843,
+      "updated_at": "2026-02-19T15:24:13-05:00",
+      "requisition_id": "22054",
+      "title": "Senior Data Architect - Wealth & Asset Management.",
+      "company_name": "Capco",
+      "first_published": "2026-02-19T15:24:13-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7461931",
       "data_compliance": [
         {
@@ -21663,44 +21472,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7588472",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3354534,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7588472,
-      "updated_at": "2026-03-03T10:59:57-05:00",
-      "requisition_id": "21764",
-      "title": "Senior Data Engineer - AWS",
-      "company_name": "Capco",
-      "first_published": "2026-02-04T10:16:04-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7675144",
       "data_compliance": [
         {
@@ -21736,6 +21507,44 @@
       "title": "Senior Data Engineer - AWS",
       "company_name": "Capco",
       "first_published": "2026-03-03T16:40:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7588472",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3354534,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7588472,
+      "updated_at": "2026-03-03T10:59:57-05:00",
+      "requisition_id": "21764",
+      "title": "Senior Data Engineer - AWS",
+      "company_name": "Capco",
+      "first_published": "2026-02-04T10:16:04-05:00",
       "language": "en"
     },
     {
@@ -22035,7 +21844,7 @@
         }
       ],
       "id": 7698823,
-      "updated_at": "2026-03-10T05:48:33-04:00",
+      "updated_at": "2026-03-13T03:57:27-04:00",
       "requisition_id": "98375",
       "title": "Senior Developer - Calypso",
       "company_name": "Capco",
@@ -22078,6 +21887,44 @@
       "title": "Senior Dev Fullstack com IA - Remoto",
       "company_name": "Capco",
       "first_published": "2026-01-23T08:18:58-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6963156",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3166495,
+      "location": {
+        "name": "Slovakia - Kosice"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6963156,
+      "updated_at": "2025-12-12T14:19:48-05:00",
+      "requisition_id": "18342",
+      "title": "Senior DevOps Engineer",
+      "company_name": "Capco",
+      "first_published": "2025-06-09T06:06:08-04:00",
       "language": "en"
     },
     {
@@ -22157,44 +22004,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6963156",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3166495,
-      "location": {
-        "name": "Slovakia - Kosice"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 6963156,
-      "updated_at": "2025-12-12T14:19:48-05:00",
-      "requisition_id": "18342",
-      "title": "Senior DevOps Engineer",
-      "company_name": "Capco",
-      "first_published": "2025-06-09T06:06:08-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6963178",
       "data_compliance": [
         {
@@ -22230,44 +22039,6 @@
       "title": "Senior DevOps Engineer",
       "company_name": "Capco",
       "first_published": "2025-06-09T06:06:11-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7680001",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3378266,
-      "location": {
-        "name": "UK - Glasgow "
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7680001,
-      "updated_at": "2026-03-04T15:48:26-05:00",
-      "requisition_id": "22303",
-      "title": "Senior DevOps Engineer - AWS",
-      "company_name": "Capco",
-      "first_published": "2026-03-04T15:48:26-05:00",
       "language": "en"
     },
     {
@@ -22344,6 +22115,44 @@
       "title": "Senior DevOps Engineer - AWS",
       "company_name": "Capco",
       "first_published": "2025-10-30T05:37:32-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7680001",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3378266,
+      "location": {
+        "name": "UK - Glasgow "
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7680001,
+      "updated_at": "2026-03-04T15:48:26-05:00",
+      "requisition_id": "22303",
+      "title": "Senior DevOps Engineer - AWS",
+      "company_name": "Capco",
+      "first_published": "2026-03-04T15:48:26-05:00",
       "language": "en"
     },
     {
@@ -22461,44 +22270,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7641216",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3367721,
-      "location": {
-        "name": "Brazil - Sao Paulo"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7641216,
-      "updated_at": "2026-02-23T08:48:30-05:00",
-      "requisition_id": "22061",
-      "title": "Senior Full Stack Developer - COM INGLÊS - Remoto",
-      "company_name": "Capco",
-      "first_published": "2026-02-23T08:48:30-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7456452",
       "data_compliance": [
         {
@@ -22534,6 +22305,44 @@
       "title": "Senior Full Stack Developer - COM INGLÊS - Remoto",
       "company_name": "Capco",
       "first_published": "2025-12-15T15:13:22-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7641216",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3367721,
+      "location": {
+        "name": "Brazil - Sao Paulo"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7641216,
+      "updated_at": "2026-02-23T08:48:30-05:00",
+      "requisition_id": "22061",
+      "title": "Senior Full Stack Developer - COM INGLÊS - Remoto",
+      "company_name": "Capco",
+      "first_published": "2026-02-23T08:48:30-05:00",
       "language": "en"
     },
     {
@@ -22689,7 +22498,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6889747",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6889745",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -22702,7 +22511,7 @@
       ],
       "internal_job_id": 3148562,
       "location": {
-        "name": "Czech Republic - Prague"
+        "name": "Slovakia - Bratislava"
       },
       "metadata": [
         {
@@ -22718,12 +22527,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 6889747,
+      "id": 6889745,
       "updated_at": "2025-12-12T14:19:48-05:00",
       "requisition_id": "17884",
       "title": "Senior GenAI Engineer",
       "company_name": "Capco",
-      "first_published": "2025-05-15T02:11:51-04:00",
+      "first_published": "2025-05-15T02:11:50-04:00",
       "language": "en"
     },
     {
@@ -22765,7 +22574,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6889745",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/6889747",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -22778,7 +22587,7 @@
       ],
       "internal_job_id": 3148562,
       "location": {
-        "name": "Slovakia - Bratislava"
+        "name": "Czech Republic - Prague"
       },
       "metadata": [
         {
@@ -22794,12 +22603,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 6889745,
+      "id": 6889747,
       "updated_at": "2025-12-12T14:19:48-05:00",
       "requisition_id": "17884",
       "title": "Senior GenAI Engineer",
       "company_name": "Capco",
-      "first_published": "2025-05-15T02:11:50-04:00",
+      "first_published": "2025-05-15T02:11:51-04:00",
       "language": "en"
     },
     {
@@ -23063,7 +22872,7 @@
         }
       ],
       "id": 7662053,
-      "updated_at": "2026-03-02T05:34:07-05:00",
+      "updated_at": "2026-03-13T04:04:55-04:00",
       "requisition_id": "22195",
       "title": "Senior Java Developer",
       "company_name": "Capco",
@@ -23489,44 +23298,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7648843",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3369439,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7648843,
-      "updated_at": "2026-03-11T03:47:42-04:00",
-      "requisition_id": "22110",
-      "title": "Senior React Native Developer ",
-      "company_name": "Capco",
-      "first_published": "2026-03-11T03:47:42-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7588687",
       "data_compliance": [
         {
@@ -23679,6 +23450,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7615415",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3362278,
+      "location": {
+        "name": "UK - London"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7615415,
+      "updated_at": "2026-02-13T12:48:39-05:00",
+      "requisition_id": "21970",
+      "title": "Senior Solutions and Enterprise Architect",
+      "company_name": "Capco",
+      "first_published": "2026-02-13T12:35:06-05:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7675200",
       "data_compliance": [
         {
@@ -23752,44 +23561,6 @@
       "title": "Senior Solutions and Enterprise Architect",
       "company_name": "Capco",
       "first_published": "2026-03-03T16:49:28-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7615415",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3362278,
-      "location": {
-        "name": "UK - London"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7615415,
-      "updated_at": "2026-02-13T12:48:39-05:00",
-      "requisition_id": "21970",
-      "title": "Senior Solutions and Enterprise Architect",
-      "company_name": "Capco",
-      "first_published": "2026-02-13T12:35:06-05:00",
       "language": "en"
     },
     {
@@ -24325,45 +24096,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7237726",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3242138,
-      "location": {
-        "name": "US - Dallas"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7237726,
-      "updated_at": "2025-12-12T14:19:48-05:00",
-      "requisition_id": "19713",
-      "title": "Sr. React Developer",
-      "company_name": "Capco",
-      "first_published": "2025-09-09T09:11:59-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7609617",
       "data_compliance": [
         {
@@ -24440,45 +24172,6 @@
       "language": "pt"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7693010",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3382623,
-      "location": {
-        "name": "India - Bengaluru"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7693010,
-      "updated_at": "2026-03-09T01:34:53-04:00",
-      "requisition_id": "22349",
-      "title": "Talent Acquisition Lead",
-      "company_name": "Capco",
-      "first_published": "2026-03-09T01:34:52-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7622566",
       "data_compliance": [
         {
@@ -24518,7 +24211,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7682757",
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7693010",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -24526,13 +24219,13 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
       "education": "education_required",
-      "internal_job_id": 3379052,
+      "internal_job_id": 3382623,
       "location": {
-        "name": "US - Charlotte"
+        "name": "India - Bengaluru"
       },
       "metadata": [
         {
@@ -24548,51 +24241,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7682757,
-      "updated_at": "2026-03-09T13:25:31-04:00",
-      "requisition_id": "22320",
-      "title": "Talent Acquisition Recruiter - Temporary (2-3 Months)",
+      "id": 7693010,
+      "updated_at": "2026-03-09T01:34:53-04:00",
+      "requisition_id": "22349",
+      "title": "Talent Acquisition Lead",
       "company_name": "Capco",
-      "first_published": "2026-03-05T11:01:22-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7696000",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3379052,
-      "location": {
-        "name": "US - New York"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7696000,
-      "updated_at": "2026-03-09T16:13:15-04:00",
-      "requisition_id": "22320",
-      "title": "Talent Acquisition Recruiter - Temporary (2-3 Months)",
-      "company_name": "Capco",
-      "first_published": "2026-03-09T16:13:15-04:00",
+      "first_published": "2026-03-09T01:34:52-04:00",
       "language": "en"
     },
     {
@@ -24826,45 +24480,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7414639",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3302942,
-      "location": {
-        "name": "US - Charlotte"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7414639,
-      "updated_at": "2026-02-26T17:29:49-05:00",
-      "requisition_id": "20796",
-      "title": "Technical Recruiter - Contract Hiring ",
-      "company_name": "Capco",
-      "first_published": "2025-11-21T12:16:21-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7592033",
       "data_compliance": [
         {
@@ -24901,6 +24516,45 @@
       "title": "Technical Recruiter - Contract Hiring ",
       "company_name": "Capco",
       "first_published": "2026-02-05T12:47:44-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7414639",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3302942,
+      "location": {
+        "name": "US - Charlotte"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7414639,
+      "updated_at": "2026-02-26T17:29:49-05:00",
+      "requisition_id": "20796",
+      "title": "Technical Recruiter - Contract Hiring ",
+      "company_name": "Capco",
+      "first_published": "2025-11-21T12:16:21-05:00",
       "language": "en"
     },
     {
@@ -25210,44 +24864,6 @@
       "language": "pt"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7472649",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3318042,
-      "location": {
-        "name": "Brazil - Rio de Janeiro"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7472649,
-      "updated_at": "2025-12-16T17:27:29-05:00",
-      "requisition_id": "21037",
-      "title": "Técnico de Segurança do Trabalho / Home Office (embarque eventual)",
-      "company_name": "Capco",
-      "first_published": "2025-12-16T17:27:29-05:00",
-      "language": "pt"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7678880",
       "data_compliance": [
         {
@@ -25283,6 +24899,44 @@
       "title": "Técnico de Segurança do Trabalho / Home Office (embarque eventual)",
       "company_name": "Capco",
       "first_published": "2026-03-04T13:59:45-05:00",
+      "language": "pt"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7472649",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3318042,
+      "location": {
+        "name": "Brazil - Rio de Janeiro"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7472649,
+      "updated_at": "2025-12-16T17:27:29-05:00",
+      "requisition_id": "21037",
+      "title": "Técnico de Segurança do Trabalho / Home Office (embarque eventual)",
+      "company_name": "Capco",
+      "first_published": "2025-12-16T17:27:29-05:00",
       "language": "pt"
     },
     {
@@ -25734,7 +25388,7 @@
         }
       ],
       "id": 6929036,
-      "updated_at": "2026-03-11T22:12:46-04:00",
+      "updated_at": "2026-03-13T23:05:11-04:00",
       "requisition_id": "18176",
       "title": "Test Analyst (Banking)",
       "company_name": "Capco",
@@ -25772,7 +25426,7 @@
         }
       ],
       "id": 7619015,
-      "updated_at": "2026-03-11T05:15:35-04:00",
+      "updated_at": "2026-03-16T00:10:32-04:00",
       "requisition_id": "97168",
       "title": "Test Lead-Automation",
       "company_name": "Capco",
@@ -25856,44 +25510,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7642364",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3367986,
-      "location": {
-        "name": "UK - Edinburgh"
-      },
-      "metadata": [
-        {
-          "id": 950685,
-          "name": "FADV_Account",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 950687,
-          "name": "FADV_Package",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7642364,
-      "updated_at": "2026-02-20T12:49:13-05:00",
-      "requisition_id": "22067",
-      "title": "Trade and Transaction Reporting Business Analyst / Project Manager",
-      "company_name": "Capco",
-      "first_published": "2026-02-20T12:49:13-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7534076",
       "data_compliance": [
         {
@@ -25929,6 +25545,44 @@
       "title": "Trade and Transaction Reporting Business Analyst / Project Manager",
       "company_name": "Capco",
       "first_published": "2026-01-13T08:28:14-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7642364",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3367986,
+      "location": {
+        "name": "UK - Edinburgh"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7642364,
+      "updated_at": "2026-02-20T12:49:13-05:00",
+      "requisition_id": "22067",
+      "title": "Trade and Transaction Reporting Business Analyst / Project Manager",
+      "company_name": "Capco",
+      "first_published": "2026-02-20T12:49:13-05:00",
       "language": "en"
     },
     {
@@ -26157,6 +25811,44 @@
       "title": "Workstation Configuration Specialist (She/He/They)",
       "company_name": "Capco",
       "first_published": "2026-01-30T08:58:50-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/capco/jobs/7716061",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3389108,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 950685,
+          "name": "FADV_Account",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 950687,
+          "name": "FADV_Package",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7716061,
+      "updated_at": "2026-03-13T09:32:04-04:00",
+      "requisition_id": "96404",
+      "title": "WPB Data Privacy",
+      "company_name": "Capco",
+      "first_published": "2026-03-13T09:32:04-04:00",
       "language": "en"
     }
   ]
