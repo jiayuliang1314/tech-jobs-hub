@@ -1,7 +1,7 @@
 {
   "company": "oneacrefund",
-  "fetched_at": "2026-03-29T05:15:29.135411",
-  "job_count": 44,
+  "fetched_at": "2026-03-30T05:27:27.981263",
+  "job_count": 46,
   "jobs": [
     {
       "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7609932",
@@ -2623,6 +2623,103 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7756991",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3398998,
+      "location": {
+        "name": "Bugesera, Rwanda"
+      },
+      "metadata": [
+        {
+          "id": 159975,
+          "name": "Budget ID",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 159982,
+          "name": "New or Replacement?",
+          "value": "New",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23426,
+          "name": "Employment Type",
+          "value": "Fixed-term",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159978,
+          "name": "Division",
+          "value": "N/A - Common Job Linked to Many Departments",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159974,
+          "name": "Internal and/or External?",
+          "value": "Internal and External",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159979,
+          "name": "Expected Hire Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 159980,
+          "name": "Expected Manager (you can leave this blank)",
+          "value": {
+            "name": null,
+            "email": null,
+            "user_id": null,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 159986,
+          "name": "Replacement For?",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 67894,
+          "name": "Nationality Criteria",
+          "value": "Country Nationals Only",
+          "value_type": "single_select"
+        },
+        {
+          "id": 167173,
+          "name": "Plum?",
+          "value": "Yes",
+          "value_type": "single_select"
+        },
+        {
+          "id": 2445961,
+          "name": "Referral Cheat Sheet",
+          "value": "An experienced Civil Engineer (Projects Engineer) to work at the RICA Seed Centre’s physical infrastructure for the implementation of the project, overseeing the civil engineering aspect of the project.",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7756991,
+      "updated_at": "2026-03-29T07:51:40-04:00",
+      "requisition_id": "02415",
+      "title": "Rwanda Civil Engineer (Fixed-Term)",
+      "company_name": "One Acre Fund",
+      "first_published": "2026-03-29T07:51:40-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7735358",
       "data_compliance": [
         {
@@ -3008,6 +3105,103 @@
       "title": "Rwanda Procurement Associate",
       "company_name": "One Acre Fund",
       "first_published": "2026-01-12T03:01:25-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://oneacrefund.org/vacancies/?gh_jid=7756967",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3398991,
+      "location": {
+        "name": "Bugesera, Rwanda "
+      },
+      "metadata": [
+        {
+          "id": 159975,
+          "name": "Budget ID",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 159982,
+          "name": "New or Replacement?",
+          "value": "New",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23426,
+          "name": "Employment Type",
+          "value": "Fixed-term",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159978,
+          "name": "Division",
+          "value": "Rwanda Program",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159974,
+          "name": "Internal and/or External?",
+          "value": "Internal and External",
+          "value_type": "single_select"
+        },
+        {
+          "id": 159979,
+          "name": "Expected Hire Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 159980,
+          "name": "Expected Manager (you can leave this blank)",
+          "value": {
+            "name": null,
+            "email": null,
+            "user_id": null,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 159986,
+          "name": "Replacement For?",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 67894,
+          "name": "Nationality Criteria",
+          "value": "Country Nationals Only",
+          "value_type": "single_select"
+        },
+        {
+          "id": 167173,
+          "name": "Plum?",
+          "value": "Yes",
+          "value_type": "single_select"
+        },
+        {
+          "id": 2445961,
+          "name": "Referral Cheat Sheet",
+          "value": "Seeking an experienced Electrical Project Engineer with over 7 years of experience to lead our electrical system. You will ensure SANS compliance and technical excellence from design to commissioning for reliable electrical infrastructure.",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7756967,
+      "updated_at": "2026-03-29T08:24:31-04:00",
+      "requisition_id": "02416",
+      "title": "Rwanda SIC-Electrical Engineer",
+      "company_name": "One Acre Fund",
+      "first_published": "2026-03-29T08:24:31-04:00",
       "language": "en"
     },
     {
