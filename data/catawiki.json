@@ -1,6 +1,6 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-04-02T04:57:06.371289",
+  "fetched_at": "2026-04-03T04:59:24.722626",
   "job_count": 60,
   "jobs": [
     {
@@ -1870,11 +1870,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3368631,
@@ -1896,7 +1896,7 @@
         }
       ],
       "id": 7645749,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-02T15:09:17-04:00",
       "requisition_id": null,
       "title": "Senior Backend Software Engineer ",
       "company_name": "Catawiki",
@@ -2136,10 +2136,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -2162,7 +2162,7 @@
         }
       ],
       "id": 7715902,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-02T06:07:01-04:00",
       "requisition_id": "P-7329161211",
       "title": "Shipping Operations Project Manager",
       "company_name": "Catawiki",
@@ -2174,10 +2174,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -2200,9 +2200,9 @@
         }
       ],
       "id": 7609833,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-02T06:07:01-04:00",
       "requisition_id": "P-7329161211",
-      "title": "Shipping Performance Analyst",
+      "title": "Shipping Operations Project Manager",
       "company_name": "Catawiki",
       "first_published": "2026-02-12T08:07:17-05:00",
       "language": "en"
