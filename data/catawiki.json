@@ -1,7 +1,7 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-04-08T05:05:04.286268",
-  "job_count": 61,
+  "fetched_at": "2026-04-09T05:03:57.617114",
+  "job_count": 62,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7434054",
@@ -1984,16 +1984,16 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3288101,
       "location": {
-        "name": "Belgium; France; Germany; Italy; Netherlands; Poland; Spain"
+        "name": "France"
       },
       "metadata": [
         {
@@ -2010,7 +2010,7 @@
         }
       ],
       "id": 7374873,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-08T09:59:15-04:00",
       "requisition_id": "P-8131206737",
       "title": "Senior Expert Modern Watches",
       "company_name": "Catawiki",
@@ -2129,6 +2129,44 @@
       "title": "Senior Preowned Jewellery Expert",
       "company_name": "Catawiki",
       "first_published": "2026-01-07T03:17:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7626096",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3364864,
+      "location": {
+        "name": "Lisbon, Portugal"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "2024-11-01",
+          "value_type": "date"
+        }
+      ],
+      "id": 7626096,
+      "updated_at": "2026-04-08T09:46:39-04:00",
+      "requisition_id": null,
+      "title": "Senior Product Designer",
+      "company_name": "Catawiki",
+      "first_published": "2026-02-18T05:34:37-05:00",
       "language": "en"
     },
     {
