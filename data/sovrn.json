@@ -1,10 +1,10 @@
 {
   "company": "sovrn",
-  "fetched_at": "2025-12-15T04:04:08.136306",
-  "job_count": 1,
+  "fetched_at": "2026-04-10T05:21:13.150003",
+  "job_count": 3,
   "jobs": [
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sovrn/jobs/7362375",
+      "absolute_url": "https://job-boards.greenhouse.io/sovrn/jobs/7778999",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15,7 +15,39 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3283324,
+      "internal_job_id": 3405385,
+      "location": {
+        "name": "New York City, New York"
+      },
+      "metadata": [
+        {
+          "id": 439381,
+          "name": "GHBGCheck",
+          "value": "RPT_STANDARD",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7778999,
+      "updated_at": "2026-04-03T16:22:20-04:00",
+      "requisition_id": "255",
+      "title": "Account Executive, Agency",
+      "company_name": "Sovrn",
+      "first_published": "2026-04-03T16:07:47-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sovrn/jobs/7747283",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3397356,
       "location": {
         "name": "Boulder, Colorado"
       },
@@ -27,12 +59,44 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7362375,
-      "updated_at": "2025-12-11T17:23:18-05:00",
-      "requisition_id": "247",
-      "title": "Senior Cloud Engineer",
+      "id": 7747283,
+      "updated_at": "2026-03-24T23:15:33-04:00",
+      "requisition_id": "253",
+      "title": "Executive Assistant to the CEO",
       "company_name": "Sovrn",
-      "first_published": "2025-10-28T10:55:12-04:00",
+      "first_published": "2026-03-24T16:29:19-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sovrn/jobs/7776565",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3404854,
+      "location": {
+        "name": "Boulder, Colorado"
+      },
+      "metadata": [
+        {
+          "id": 439381,
+          "name": "GHBGCheck",
+          "value": "RPT_STANDARD",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7776565,
+      "updated_at": "2026-04-03T16:19:08-04:00",
+      "requisition_id": "254",
+      "title": "Senior AI/ML Data Scientist",
+      "company_name": "Sovrn",
+      "first_published": "2026-04-02T18:16:22-04:00",
       "language": "en"
     }
   ]
