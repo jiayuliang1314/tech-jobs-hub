@@ -1,7 +1,7 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-04-15T05:16:01.100564",
-  "job_count": 64,
+  "fetched_at": "2026-04-18T05:01:08.033176",
+  "job_count": 67,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7434054",
@@ -160,11 +160,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3390541,
@@ -186,7 +186,7 @@
         }
       ],
       "id": 7721258,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-17T08:46:45-04:00",
       "requisition_id": "P-7380964784",
       "title": "Brand Copywriter",
       "company_name": "Catawiki",
@@ -308,44 +308,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566371",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3346867,
-      "location": {
-        "name": "Amsterdam, Netherlands; France; Italy"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7566371,
-      "updated_at": "2026-03-17T08:08:54-04:00",
-      "requisition_id": "P-5292899217",
-      "title": "Category Manager E-Commerce",
-      "company_name": "Catawiki",
-      "first_published": "2026-01-27T05:18:46-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7541003",
       "data_compliance": [
         {
@@ -381,6 +343,44 @@
       "title": "Category Manager E-Commerce",
       "company_name": "Catawiki",
       "first_published": "2026-01-15T05:44:57-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566371",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3346867,
+      "location": {
+        "name": "Amsterdam, Netherlands; France; Italy"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7566371,
+      "updated_at": "2026-03-17T08:08:54-04:00",
+      "requisition_id": "P-5292899217",
+      "title": "Category Manager E-Commerce",
+      "company_name": "Catawiki",
+      "first_published": "2026-01-27T05:18:46-05:00",
       "language": "en"
     },
     {
@@ -452,7 +452,7 @@
         }
       ],
       "id": 7775101,
-      "updated_at": "2026-04-03T10:44:49-04:00",
+      "updated_at": "2026-04-17T08:47:34-04:00",
       "requisition_id": "P-4062771528",
       "title": "Category Marketing Sr Specialist",
       "company_name": "Catawiki",
@@ -495,6 +495,82 @@
       "title": "Commercial Data Scientist",
       "company_name": "Catawiki",
       "first_published": "2026-01-28T10:33:46-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7820381",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3414185,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7820381,
+      "updated_at": "2026-04-17T11:20:44-04:00",
+      "requisition_id": "P-1609501167",
+      "title": "Communications Specialist",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-17T11:20:44-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7820792",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3414234,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7820792,
+      "updated_at": "2026-04-17T08:48:10-04:00",
+      "requisition_id": "P-7915216889",
+      "title": "CRM Specialist",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-16T06:03:54-04:00",
       "language": "en"
     },
     {
@@ -578,11 +654,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3338501,
@@ -604,7 +680,7 @@
         }
       ],
       "id": 7540937,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-17T04:06:19-04:00",
       "requisition_id": "P-5786935907",
       "title": "Expert Audio Equipment",
       "company_name": "Catawiki",
@@ -616,11 +692,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3339600,
@@ -642,7 +718,7 @@
         }
       ],
       "id": 7745797,
-      "updated_at": "2026-03-24T08:11:52-04:00",
+      "updated_at": "2026-04-15T10:57:14-04:00",
       "requisition_id": "P-4845735356",
       "title": "Expert Automobilia",
       "company_name": "Catawiki",
@@ -1752,6 +1828,44 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7821262",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3414352,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7821262,
+      "updated_at": "2026-04-16T09:41:17-04:00",
+      "requisition_id": "P-5217692160",
+      "title": "Key Business Developer Japan",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-16T09:41:17-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7507478",
       "data_compliance": [
         {
@@ -2010,7 +2124,7 @@
         }
       ],
       "id": 7645749,
-      "updated_at": "2026-04-02T15:09:17-04:00",
+      "updated_at": "2026-04-17T07:51:11-04:00",
       "requisition_id": null,
       "title": "Senior Backend Software Engineer ",
       "company_name": "Catawiki",
@@ -2022,11 +2136,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3390542,
@@ -2048,7 +2162,7 @@
         }
       ],
       "id": 7721259,
-      "updated_at": "2026-03-17T08:08:54-04:00",
+      "updated_at": "2026-04-17T08:47:09-04:00",
       "requisition_id": "P-1012130370",
       "title": "Senior Brand Designer",
       "company_name": "Catawiki",
@@ -2398,26 +2512,26 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7522261",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7821237",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3332640,
+      "internal_job_id": 3414352,
       "location": {
-        "name": "Lisbon, Portugal"
+        "name": "Japan"
       },
       "metadata": [
         {
           "id": 1349263,
           "name": "Time Type",
-          "value": null,
+          "value": "Full Time",
           "value_type": "single_select"
         },
         {
@@ -2427,12 +2541,12 @@
           "value_type": "date"
         }
       ],
-      "id": 7522261,
-      "updated_at": "2026-03-17T16:40:29-04:00",
-      "requisition_id": null,
-      "title": "Software Engineer - Data Engineering",
+      "id": 7821237,
+      "updated_at": "2026-04-16T09:40:24-04:00",
+      "requisition_id": "P-5217692160",
+      "title": "キー・ビジネスディベロッパー（日本）",
       "company_name": "Catawiki",
-      "first_published": "2026-01-08T02:55:52-05:00",
+      "first_published": "2026-04-16T09:40:24-04:00",
       "language": "en"
     }
   ]
