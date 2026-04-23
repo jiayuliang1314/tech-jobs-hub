@@ -1,7 +1,7 @@
 {
   "company": "zoominfo",
-  "fetched_at": "2026-04-20T05:40:19.300657",
-  "job_count": 92,
+  "fetched_at": "2026-04-23T05:29:18.891842",
+  "job_count": 86,
   "jobs": [
     {
       "absolute_url": "https://www.zoominfo.com/careers?gh_jid=7961383002",
@@ -21,6 +21,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -34,7 +46,7 @@
         }
       ],
       "id": 7961383002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AMCoreSOURCING",
       "title": "Account Manager, Enterprise Core",
       "company_name": "ZoomInfo Technologies LLC",
@@ -59,6 +71,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -72,49 +96,11 @@
         }
       ],
       "id": 8500883002,
-      "updated_at": "2026-04-10T14:39:48-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "ENTGsourcing",
       "title": "Account Manager, Enterprise Growth ",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-10T14:39:48-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8470071002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6383188002,
-      "location": {
-        "name": "London, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8470071002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107332",
-      "title": "Account Manager I (SMB)",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-23T14:38:28-04:00",
       "language": "en"
     },
     {
@@ -135,6 +121,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -148,11 +146,61 @@
         }
       ],
       "id": 8091290002,
-      "updated_at": "2026-04-02T19:59:04-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AMSourcingMMV",
       "title": "Account Manager, Mid Market VIP",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2025-08-04T18:44:47-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8470071002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6383188002,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8470071002,
+      "updated_at": "2026-04-22T11:48:35-04:00",
+      "requisition_id": "JR107332",
+      "title": "Account Manager, SMB",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-23T14:38:28-04:00",
       "language": "en"
     },
     {
@@ -173,6 +221,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Legal",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -186,7 +246,7 @@
         }
       ],
       "id": 8464456002,
-      "updated_at": "2026-04-06T10:57:17-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107311",
       "title": "Corporate and Securities Counsel",
       "company_name": "ZoomInfo Technologies LLC",
@@ -211,6 +271,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -224,7 +296,7 @@
         }
       ],
       "id": 8481755002,
-      "updated_at": "2026-04-14T15:36:36-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107367",
       "title": "Customer Onboarding Manager III",
       "company_name": "ZoomInfo Technologies LLC",
@@ -249,6 +321,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -262,7 +346,7 @@
         }
       ],
       "id": 8460763002,
-      "updated_at": "2026-04-08T10:12:15-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107283",
       "title": "Customer Success Manager II",
       "company_name": "ZoomInfo Technologies LLC",
@@ -287,6 +371,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Finance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -300,7 +396,7 @@
         }
       ],
       "id": 8470308002,
-      "updated_at": "2026-04-16T11:44:21-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107338",
       "title": "Director, Financial Planning & Analysis",
       "company_name": "ZoomInfo Technologies LLC",
@@ -325,6 +421,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -338,7 +446,7 @@
         }
       ],
       "id": 8486803002,
-      "updated_at": "2026-04-06T10:48:31-04:00",
+      "updated_at": "2026-04-21T16:46:14-04:00",
       "requisition_id": "JR107370",
       "title": "Director, Product Strategy",
       "company_name": "ZoomInfo Technologies LLC",
@@ -363,6 +471,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -376,7 +496,7 @@
         }
       ],
       "id": 8498600002,
-      "updated_at": "2026-04-14T15:34:56-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107380",
       "title": "Forward Deployed Data Engineer",
       "company_name": "ZoomInfo Technologies LLC",
@@ -401,6 +521,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -414,7 +546,7 @@
         }
       ],
       "id": 8424944002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": null,
       "title": "Future Account Executive Opportunities",
       "company_name": "ZoomInfo Technologies LLC",
@@ -439,6 +571,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -452,7 +596,7 @@
         }
       ],
       "id": 8424956002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": null,
       "title": "Future Account Manager Opportunities",
       "company_name": "ZoomInfo Technologies LLC",
@@ -477,6 +621,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -490,7 +646,7 @@
         }
       ],
       "id": 8467073002,
-      "updated_at": "2026-04-14T10:42:43-04:00",
+      "updated_at": "2026-04-21T17:03:01-04:00",
       "requisition_id": "JR107215",
       "title": "Head of Performance Marketing, Agentic / AI-First",
       "company_name": "ZoomInfo Technologies LLC",
@@ -515,6 +671,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "Late Evening Shift - Eligible for Shift Allowance (07:00 PM - 04:00 AM)",
@@ -528,49 +696,11 @@
         }
       ],
       "id": 8453263002,
-      "updated_at": "2026-04-16T08:04:34-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107267",
       "title": "Integrations Support Specialist II",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-16T08:04:34-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8449517002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6375211002,
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "Late Evening Shift - Eligible for Shift Allowance (07:00 PM - 04:00 AM)",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8449517002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107253",
-      "title": "Integrations Support Specialist II",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-10T02:11:41-04:00",
       "language": "en"
     },
     {
@@ -591,6 +721,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Finance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -604,7 +746,7 @@
         }
       ],
       "id": 8459332002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107221",
       "title": "IT Audit Analyst",
       "company_name": "ZoomInfo Technologies LLC",
@@ -629,6 +771,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Finance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -642,7 +796,7 @@
         }
       ],
       "id": 8441742002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107221",
       "title": "IT Audit Analyst",
       "company_name": "ZoomInfo Technologies LLC",
@@ -667,6 +821,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -680,49 +846,11 @@
         }
       ],
       "id": 8492429002,
-      "updated_at": "2026-04-02T15:09:13-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107382",
       "title": "Manager, Sales",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-02T15:09:13-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8431776002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6367919002,
-      "location": {
-        "name": "Austin, Texas, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8431776002,
-      "updated_at": "2026-03-30T10:50:59-04:00",
-      "requisition_id": "JR107209",
-      "title": "Mid-Market Account Executive - Talent Platform",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-24T12:49:35-05:00",
       "language": "en"
     },
     {
@@ -743,6 +871,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -756,7 +896,7 @@
         }
       ],
       "id": 8509214002,
-      "updated_at": "2026-04-15T16:54:14-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AEsourcing4",
       "title": "New Business Account Executive, Enterprise",
       "company_name": "ZoomInfo Technologies LLC",
@@ -781,6 +921,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -794,7 +946,7 @@
         }
       ],
       "id": 8509211002,
-      "updated_at": "2026-04-15T16:52:46-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AEsourcing4",
       "title": "New Business Account Executive, Enterprise",
       "company_name": "ZoomInfo Technologies LLC",
@@ -819,6 +971,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -832,7 +996,7 @@
         }
       ],
       "id": 8509210002,
-      "updated_at": "2026-04-15T16:52:13-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AEsourcing4",
       "title": "New Business Account Executive, Enterprise",
       "company_name": "ZoomInfo Technologies LLC",
@@ -857,6 +1021,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -870,11 +1046,211 @@
         }
       ],
       "id": 8479406002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "AEsourcingMMstrat",
       "title": "New Business Account Executive, Mid Market ",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-25T11:45:50-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8431776002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6367919002,
+      "location": {
+        "name": "Austin, Texas, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8431776002,
+      "updated_at": "2026-04-22T11:40:03-04:00",
+      "requisition_id": "JR107209",
+      "title": "New Business Account Executive, Mid Market, Talent Platform",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-02-24T12:49:35-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477299002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6170411002,
+      "location": {
+        "name": "Vancouver, Washington, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8477299002,
+      "updated_at": "2026-04-22T11:40:51-04:00",
+      "requisition_id": "JR106190",
+      "title": "New Business Account Executive, SMB",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-24T12:45:15-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477301002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6170411002,
+      "location": {
+        "name": "Bethesda, Maryland, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8477301002,
+      "updated_at": "2026-04-22T11:41:35-04:00",
+      "requisition_id": "JR106190",
+      "title": "New Business Account Executive, SMB",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-24T12:45:17-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477300002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6170411002,
+      "location": {
+        "name": "Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8477300002,
+      "updated_at": "2026-04-22T11:41:01-04:00",
+      "requisition_id": "JR106190",
+      "title": "New Business Account Executive, SMB",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-24T12:45:16-04:00",
       "language": "en"
     },
     {
@@ -895,6 +1271,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -908,7 +1296,7 @@
         }
       ],
       "id": 8477033002,
-      "updated_at": "2026-03-30T16:41:48-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107341",
       "title": "Principal Product Manager, Agentic Tools & Orchestration",
       "company_name": "ZoomInfo Technologies LLC",
@@ -933,6 +1321,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -946,7 +1346,7 @@
         }
       ],
       "id": 8477035002,
-      "updated_at": "2026-03-27T14:25:44-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107345",
       "title": "Principal Product Manager- Company Data",
       "company_name": "ZoomInfo Technologies LLC",
@@ -971,6 +1371,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -984,49 +1396,11 @@
         }
       ],
       "id": 8453127002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106294",
       "title": "Principal Product Manager, Next-Gen GTM AI",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-06T14:13:26-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8340521002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6330951002,
-      "location": {
-        "name": "Bethesda, Maryland, United States; Remote US - PST; Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8340521002,
-      "updated_at": "2026-04-14T11:13:53-04:00",
-      "requisition_id": "JR106979",
-      "title": "Principal Software Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-04T11:28:30-05:00",
       "language": "en"
     },
     {
@@ -1047,6 +1421,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1060,11 +1446,61 @@
         }
       ],
       "id": 8243004002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106864",
       "title": "Principal Software Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2025-11-20T16:47:21-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8340521002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6330951002,
+      "location": {
+        "name": "Bethesda, Maryland, United States; Remote US - PST; Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8340521002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR106979",
+      "title": "Principal Software Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-02-04T11:28:30-05:00",
       "language": "en"
     },
     {
@@ -1085,6 +1521,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1098,7 +1546,7 @@
         }
       ],
       "id": 8378092002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107098",
       "title": "Principal Software Engineer, Web Data - Tech Lead",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1123,6 +1571,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1136,7 +1596,7 @@
         }
       ],
       "id": 8477054002,
-      "updated_at": "2026-03-30T16:40:38-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107343",
       "title": "Product Manager, Agentic Ecosystem",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1161,6 +1621,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -1174,7 +1646,7 @@
         }
       ],
       "id": 8242802002,
-      "updated_at": "2026-04-08T09:48:38-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106831",
       "title": "Product Owner III - SAP BRIM",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1199,6 +1671,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1212,7 +1696,7 @@
         }
       ],
       "id": 8477044002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107356",
       "title": "Research Data Scientist III",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1237,6 +1721,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -1250,7 +1746,7 @@
         }
       ],
       "id": 7795003002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T17:42:35-04:00",
       "requisition_id": "SDRsourcing4",
       "title": "Sales Development Representative",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1258,7 +1754,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8098837002",
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8369427002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1269,11 +1765,23 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6207992002,
+      "internal_job_id": 6162712002,
       "location": {
-        "name": "Vancouver, Washington, United States"
+        "name": "Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, United States"
       },
       "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
         {
           "id": 101751589002,
           "name": "Work Shift",
@@ -1287,202 +1795,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8098837002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "SDRCustMM",
-      "title": "Sales Development Representative - Mid Market Customer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2025-08-01T14:13:54-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8102837002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6207992002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8102837002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "SDRCustMM",
-      "title": "Sales Development Representative - Mid Market Customer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2025-08-01T14:15:47-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8418328002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6072513002,
-      "location": {
-        "name": "Vancouver, Washington, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8418328002,
-      "updated_at": "2026-04-14T14:34:20-04:00",
-      "requisition_id": "SDRsourcing2",
+      "id": 8369427002,
+      "updated_at": "2026-04-22T11:49:47-04:00",
+      "requisition_id": "SourcingSDRStrat",
       "title": "Sales Development Representative, New Business Enterprise",
       "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-11T09:35:41-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8418325002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6075581002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8418325002,
-      "updated_at": "2026-04-14T14:33:15-04:00",
-      "requisition_id": "SDRsourcing5",
-      "title": "Sales Development Representative, New Business Enterprise",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-11T09:34:59-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8418320002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6075591002,
-      "location": {
-        "name": "Bethesda, Maryland, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8418320002,
-      "updated_at": "2026-04-14T14:32:34-04:00",
-      "requisition_id": "SDRsourcing6",
-      "title": "Sales Development Representative, New Business Enterprise",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-11T09:33:27-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8494772002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6329502002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8494772002,
-      "updated_at": "2026-04-14T14:30:37-04:00",
-      "requisition_id": "4749",
-      "title": "Sales Development Representative - New Business Inbound",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-04-06T08:35:20-04:00",
+      "first_published": "2026-01-09T17:18:03-05:00",
       "language": "en"
     },
     {
@@ -1503,6 +1821,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -1516,11 +1846,61 @@
         }
       ],
       "id": 8494771002,
-      "updated_at": "2026-04-14T14:30:06-04:00",
+      "updated_at": "2026-04-22T11:45:35-04:00",
       "requisition_id": "4748",
-      "title": "Sales Development Representative - New Business Inbound",
+      "title": "Sales Development Representative, New Business Inbound",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-06T08:28:38-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8494772002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6329502002,
+      "location": {
+        "name": "Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8494772002,
+      "updated_at": "2026-04-22T11:44:59-04:00",
+      "requisition_id": "4749",
+      "title": "Sales Development Representative, New Business Inbound",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-04-06T08:35:20-04:00",
       "language": "en"
     },
     {
@@ -1541,6 +1921,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -1554,49 +1946,11 @@
         }
       ],
       "id": 8494770002,
-      "updated_at": "2026-04-14T14:29:16-04:00",
+      "updated_at": "2026-04-22T11:46:29-04:00",
       "requisition_id": "SDRSourcing9",
-      "title": "Sales Development Representative - New Business Inbound",
+      "title": "Sales Development Representative, New Business Inbound",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-06T08:26:57-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8465924002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6072507002,
-      "location": {
-        "name": "Bethesda, Maryland, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8465924002,
-      "updated_at": "2026-04-14T14:36:17-04:00",
-      "requisition_id": "SDRsourcing1",
-      "title": "Sales Development Representative, New Business Mid-Market",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-17T11:13:40-04:00",
       "language": "en"
     },
     {
@@ -1617,6 +1971,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -1630,11 +1996,61 @@
         }
       ],
       "id": 8465926002,
-      "updated_at": "2026-04-14T14:35:22-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "SDRsourcing3",
       "title": "Sales Development Representative, New Business Mid-Market",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-17T11:14:13-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8465924002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6072507002,
+      "location": {
+        "name": "Bethesda, Maryland, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8465924002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "SDRsourcing1",
+      "title": "Sales Development Representative, New Business Mid-Market",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-17T11:13:40-04:00",
       "language": "en"
     },
     {
@@ -1655,6 +2071,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": null,
@@ -1668,7 +2096,7 @@
         }
       ],
       "id": 8465842002,
-      "updated_at": "2026-04-14T14:37:09-04:00",
+      "updated_at": "2026-04-21T17:44:31-04:00",
       "requisition_id": "SDRsourcing8",
       "title": "Sales Development Representative, New Business Mid-Market ",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1693,6 +2121,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -1706,49 +2146,11 @@
         }
       ],
       "id": 8106677002,
-      "updated_at": "2026-04-06T06:47:10-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106498",
       "title": "Salesforce Engineer III",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2025-08-21T10:41:21-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8466127002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6381811002,
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8466127002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107291",
-      "title": "SAP Basis Administrator",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-20T09:01:17-04:00",
       "language": "en"
     },
     {
@@ -1769,6 +2171,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1782,11 +2196,61 @@
         }
       ],
       "id": 8408633002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106607",
       "title": "Senior Analytics Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-02-06T15:46:45-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8509474002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6399210002,
+      "location": {
+        "name": "Toronto, Ontario, Canada"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8509474002,
+      "updated_at": "2026-04-22T16:17:14-04:00",
+      "requisition_id": "JR107360",
+      "title": "Senior Data Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-04-22T16:17:14-04:00",
       "language": "en"
     },
     {
@@ -1807,6 +2271,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1820,7 +2296,7 @@
         }
       ],
       "id": 8408637002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106607",
       "title": "Senior Data Engineering Analyst",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1845,6 +2321,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1858,7 +2346,7 @@
         }
       ],
       "id": 8408632002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106607",
       "title": "Senior Data Pipeline Analyst",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1883,6 +2371,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1896,49 +2396,11 @@
         }
       ],
       "id": 8157960002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106607",
       "title": "Senior Data Systems Analyst",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2025-09-11T13:35:33-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8287254002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6305599002,
-      "location": {
-        "name": "Ra'anana, Israel"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8287254002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR106885",
-      "title": "Senior DevOps Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2025-11-16T04:50:06-05:00",
       "language": "en"
     },
     {
@@ -1959,6 +2421,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -1972,7 +2446,7 @@
         }
       ],
       "id": 8496455002,
-      "updated_at": "2026-04-10T12:18:23-04:00",
+      "updated_at": "2026-04-22T16:52:21-04:00",
       "requisition_id": "JR107376",
       "title": "Senior DevOps Engineer",
       "company_name": "ZoomInfo Technologies LLC",
@@ -1997,6 +2471,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2010,11 +2496,111 @@
         }
       ],
       "id": 8483173002,
-      "updated_at": "2026-03-31T11:10:26-04:00",
+      "updated_at": "2026-04-22T16:49:40-04:00",
       "requisition_id": "JR107361",
       "title": "Senior DevOps Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-31T11:10:26-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8287254002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6305599002,
+      "location": {
+        "name": "Ra'anana, Israel"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8287254002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR106885",
+      "title": "Senior DevOps Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2025-11-16T04:50:06-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8496473002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6393815002,
+      "location": {
+        "name": "Toronto, Ontario, Canada"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8496473002,
+      "updated_at": "2026-04-22T16:50:48-04:00",
+      "requisition_id": "JR107378",
+      "title": "Senior DevOps Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-04-22T16:50:48-04:00",
       "language": "en"
     },
     {
@@ -2035,6 +2621,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2048,7 +2646,7 @@
         }
       ],
       "id": 8460768002,
-      "updated_at": "2026-03-31T08:40:14-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107274",
       "title": "Senior Manager, Sales - ZoomInfo Operations",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2073,6 +2671,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2086,7 +2696,7 @@
         }
       ],
       "id": 8457480002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107214",
       "title": "Senior Partnerships Manager",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2111,6 +2721,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2124,7 +2746,7 @@
         }
       ],
       "id": 8433562002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107214",
       "title": "Senior Partnerships Manager",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2149,6 +2771,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2162,7 +2796,7 @@
         }
       ],
       "id": 8206116002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106739",
       "title": "Senior Product Manager, Context Engineering",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2187,6 +2821,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2200,7 +2846,7 @@
         }
       ],
       "id": 8477058002,
-      "updated_at": "2026-03-27T15:59:07-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107346",
       "title": "Senior Product Manager - Identity",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2225,6 +2871,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Finance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2238,163 +2896,11 @@
         }
       ],
       "id": 8464595002,
-      "updated_at": "2026-04-02T12:48:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107315",
       "title": "Senior Revenue Accountant",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-17T14:34:58-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8169782002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6237798002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8169782002,
-      "updated_at": "2026-04-14T14:40:54-04:00",
-      "requisition_id": "JR106643",
-      "title": "Senior Sales Development Representative",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-17T12:12:56-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8369427002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6162712002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8369427002,
-      "updated_at": "2026-04-14T14:39:58-04:00",
-      "requisition_id": "SourcingSDRStrat",
-      "title": "Senior Sales Development Representative - Enterprise Customer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-01-09T17:18:03-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8369428002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6162712002,
-      "location": {
-        "name": "Bethesda, Maryland, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8369428002,
-      "updated_at": "2026-04-14T14:39:57-04:00",
-      "requisition_id": "SourcingSDRStrat",
-      "title": "Senior Sales Development Representative - Enterprise Customer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-01-09T17:19:00-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8369430002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6162712002,
-      "location": {
-        "name": "Vancouver, Washington, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8369430002,
-      "updated_at": "2026-04-14T14:39:56-04:00",
-      "requisition_id": "SourcingSDRStrat",
-      "title": "Senior Sales Development Representative - Enterprise Customer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-01-09T17:20:28-05:00",
       "language": "en"
     },
     {
@@ -2415,6 +2921,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2428,7 +2946,7 @@
         }
       ],
       "id": 8451787002,
-      "updated_at": "2026-04-14T09:03:57-04:00",
+      "updated_at": "2026-04-22T12:31:12-04:00",
       "requisition_id": "JR107260",
       "title": "Senior Sales Development Representative - Talent Solutions Platform",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2453,6 +2971,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2466,7 +2996,7 @@
         }
       ],
       "id": 8500981002,
-      "updated_at": "2026-04-14T09:04:09-04:00",
+      "updated_at": "2026-04-22T12:31:17-04:00",
       "requisition_id": "JR107260",
       "title": "Senior Sales Development Representative - Talent Solutions Platform",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2491,6 +3021,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "Evening Shift (05:00 PM - 02:00 AM)",
@@ -2504,7 +3046,7 @@
         }
       ],
       "id": 8242813002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106805",
       "title": "Senior Security Engineer",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2512,83 +3054,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8464716002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6381208002,
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8464716002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107300",
-      "title": "Senior Software Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-24T07:59:45-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8439687002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6371302002,
-      "location": {
-        "name": "Toronto, Ontario, Canada"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8439687002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107149",
-      "title": "Senior Software Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-05T19:30:00-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8305634002",
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2605,6 +3071,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -2617,88 +3095,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8305634002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "id": 8213981002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106757",
       "title": "Senior Software Engineer",
       "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2025-11-24T11:31:26-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8451382002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6375922002,
-      "location": {
-        "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8451382002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107250",
-      "title": "Senior Software Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-11T13:43:36-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8400168002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6353583002,
-      "location": {
-        "name": "Toronto, Ontario, Canada"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8400168002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR107107",
-      "title": "Senior Software Engineer",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-08T10:25:31-05:00",
+      "first_published": "2025-10-28T03:42:46-04:00",
       "language": "en"
     },
     {
@@ -2719,6 +3121,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2732,11 +3146,111 @@
         }
       ],
       "id": 8441732002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107229",
       "title": "Senior Software Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-16T19:55:43-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8439687002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6371302002,
+      "location": {
+        "name": "Toronto, Ontario, Canada"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8439687002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107149",
+      "title": "Senior Software Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-05T19:30:00-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8464716002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6381208002,
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8464716002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107300",
+      "title": "Senior Software Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-24T07:59:45-04:00",
       "language": "en"
     },
     {
@@ -2757,6 +3271,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -2770,11 +3296,61 @@
         }
       ],
       "id": 8464718002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107301",
       "title": "Senior Software Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-24T08:09:31-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8400168002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6353583002,
+      "location": {
+        "name": "Toronto, Ontario, Canada"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8400168002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107107",
+      "title": "Senior Software Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-02-08T10:25:31-05:00",
       "language": "en"
     },
     {
@@ -2795,6 +3371,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -2808,11 +3396,61 @@
         }
       ],
       "id": 8496453002,
-      "updated_at": "2026-04-08T09:46:19-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107379",
       "title": "Senior Software Engineer",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-08T09:46:19-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8451382002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6375922002,
+      "location": {
+        "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8451382002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107250",
+      "title": "Senior Software Engineer",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-11T13:43:36-04:00",
       "language": "en"
     },
     {
@@ -2833,6 +3471,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2846,7 +3496,7 @@
         }
       ],
       "id": 8461281002,
-      "updated_at": "2026-03-31T20:52:26-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107295",
       "title": "Senior Software Engineer - Contributory Network ",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2871,6 +3521,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2884,7 +3546,7 @@
         }
       ],
       "id": 8486808002,
-      "updated_at": "2026-04-14T13:39:05-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107373",
       "title": "Senior Software Engineer - Data",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2909,6 +3571,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2922,7 +3596,7 @@
         }
       ],
       "id": 8295568002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-22T16:01:28-04:00",
       "requisition_id": "JR106862",
       "title": "Senior Software Engineer- Data Platform",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2947,6 +3621,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -2960,7 +3646,7 @@
         }
       ],
       "id": 8461275002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107297",
       "title": "Senior Software Engineer- Match Service",
       "company_name": "ZoomInfo Technologies LLC",
@@ -2985,6 +3671,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -2998,7 +3696,7 @@
         }
       ],
       "id": 8226022002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106791",
       "title": "Senior Software Engineer - Node.js",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3023,6 +3721,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -3036,7 +3746,7 @@
         }
       ],
       "id": 8476981002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107328",
       "title": "Senior Software Engineer - Python",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3061,6 +3771,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3074,7 +3796,7 @@
         }
       ],
       "id": 8441280002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107243",
       "title": "Senior Strategic Partner Manager, Solutions",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3099,6 +3821,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3112,7 +3846,7 @@
         }
       ],
       "id": 8475913002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-22T20:16:34-04:00",
       "requisition_id": "JR107358",
       "title": "Senior Strategy Manager",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3137,6 +3871,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3150,7 +3896,7 @@
         }
       ],
       "id": 8362813002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107060",
       "title": "SMB New Business Account Executive",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3158,7 +3904,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477299002",
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8511153002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3169,11 +3915,23 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6170411002,
+      "internal_job_id": 6399816002,
       "location": {
-        "name": "Vancouver, Washington, United States"
+        "name": "Toronto, Ontario, Canada"
       },
       "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
         {
           "id": 101751589002,
           "name": "Work Shift",
@@ -3187,88 +3945,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8477299002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR106190",
-      "title": "SMB New Business Account Executive",
+      "id": 8511153002,
+      "updated_at": "2026-04-21T16:16:05-04:00",
+      "requisition_id": "JR107375",
+      "title": "Software Engineer III",
       "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-24T12:45:15-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477301002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6170411002,
-      "location": {
-        "name": "Bethesda, Maryland, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8477301002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR106190",
-      "title": "SMB New Business Account Executive",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-24T12:45:17-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477300002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6170411002,
-      "location": {
-        "name": "Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8477300002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
-      "requisition_id": "JR106190",
-      "title": "SMB New Business Account Executive",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-03-24T12:45:16-04:00",
+      "first_published": "2026-04-21T15:55:48-04:00",
       "language": "en"
     },
     {
@@ -3289,6 +3971,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -3302,11 +3996,61 @@
         }
       ],
       "id": 8464720002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107302",
       "title": "Software Engineer III",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-24T08:11:55-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8509478002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6399212002,
+      "location": {
+        "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8509478002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107409",
+      "title": "Software Engineer III",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-04-20T15:27:38-04:00",
       "language": "en"
     },
     {
@@ -3327,6 +4071,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3340,7 +4096,7 @@
         }
       ],
       "id": 8461279002,
-      "updated_at": "2026-03-31T20:52:59-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107296",
       "title": "Software Engineer III - Contributory Network ",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3365,6 +4121,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
@@ -3378,50 +4146,11 @@
         }
       ],
       "id": 8477031002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107330",
       "title": "Software Engineer III - Python",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-03-26T11:30:12-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8373259002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 6343073002,
-      "location": {
-        "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
-      },
-      "metadata": [
-        {
-          "id": 101751589002,
-          "name": "Work Shift",
-          "value": "General Shift",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4203585002,
-          "name": "LEGACY - Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8373259002,
-      "updated_at": "2026-04-06T11:28:42-04:00",
-      "requisition_id": "JR107095",
-      "title": "Software Engineer Intern",
-      "company_name": "ZoomInfo Technologies LLC",
-      "first_published": "2026-02-25T15:45:49-05:00",
       "language": "en"
     },
     {
@@ -3442,6 +4171,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Information Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3455,7 +4196,7 @@
         }
       ],
       "id": 8408622002,
-      "updated_at": "2026-03-27T14:04:25-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR106607",
       "title": "Staff Data Systems Analyst",
       "company_name": "ZoomInfo Technologies LLC",
@@ -3480,6 +4221,18 @@
       },
       "metadata": [
         {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Customer",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
           "id": 101751589002,
           "name": "Work Shift",
           "value": "General Shift",
@@ -3493,11 +4246,61 @@
         }
       ],
       "id": 8492435002,
-      "updated_at": "2026-04-14T18:37:01-04:00",
+      "updated_at": "2026-04-21T12:37:38-04:00",
       "requisition_id": "JR107384",
       "title": "Strategy Manager II, Marketing",
       "company_name": "ZoomInfo Technologies LLC",
       "first_published": "2026-04-14T18:37:01-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8448778002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6374946002,
+      "location": {
+        "name": "Bethesda, Maryland, United States; Remote; Vancouver, Washington, United States; Waltham, Massachusetts, United States"
+      },
+      "metadata": [
+        {
+          "id": 24710929002,
+          "name": "Job Family Group",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24711071002,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 101751589002,
+          "name": "Work Shift",
+          "value": "General Shift",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4203585002,
+          "name": "LEGACY - Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8448778002,
+      "updated_at": "2026-04-21T12:37:38-04:00",
+      "requisition_id": "JR107245",
+      "title": "Vice President – GTM Technology Product and Operations",
+      "company_name": "ZoomInfo Technologies LLC",
+      "first_published": "2026-03-05T14:42:35-05:00",
       "language": "en"
     }
   ]
