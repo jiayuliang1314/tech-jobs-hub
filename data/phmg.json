@@ -1,8 +1,59 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-04-21T05:36:58.254649",
-  "job_count": 24,
+  "fetched_at": "2026-04-24T05:43:28.778614",
+  "job_count": 26,
   "jobs": [
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8520551002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5914299002,
+      "location": {
+        "name": "Manchester"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "GBP",
+            "amount": "56000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8520551002,
+      "updated_at": "2026-04-23T09:42:38-04:00",
+      "requisition_id": "959",
+      "title": "Account Manager (Australian Market)",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-04-23T09:42:38-04:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8456766002",
       "data_compliance": [
@@ -106,7 +157,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8499735002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8520516002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -117,9 +168,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6395207002,
+      "internal_job_id": 5520463002,
       "location": {
-        "name": "Phoenix"
+        "name": "Manchester"
       },
       "metadata": [
         {
@@ -132,9 +183,9 @@
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "USD",
-            "max_value": "55000.0",
-            "min_value": "50000.0"
+            "unit": "GBP",
+            "max_value": "26000.0",
+            "min_value": "26000.0"
           },
           "value_type": "currency_range"
         },
@@ -142,18 +193,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": "USD",
-            "amount": "85000.0"
+            "unit": "GBP",
+            "amount": "26000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8499735002,
-      "updated_at": "2026-04-09T04:38:08-04:00",
-      "requisition_id": "1087",
-      "title": "Business Development Executive",
+      "id": 8520516002,
+      "updated_at": "2026-04-23T09:36:24-04:00",
+      "requisition_id": "777",
+      "title": "Accounts Payable Executive",
       "company_name": "PHMG Careers",
-      "first_published": "2026-04-09T04:37:56-04:00",
+      "first_published": "2026-04-23T09:36:24-04:00",
       "language": "en"
     },
     {
@@ -205,6 +256,57 @@
       "title": "Business Development Executive",
       "company_name": "PHMG Careers",
       "first_published": "2026-04-09T04:26:11-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8499735002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6395207002,
+      "location": {
+        "name": "Phoenix"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "55000.0",
+            "min_value": "50000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "85000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8499735002,
+      "updated_at": "2026-04-09T04:38:08-04:00",
+      "requisition_id": "1087",
+      "title": "Business Development Executive",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-04-09T04:37:56-04:00",
       "language": "en"
     },
     {

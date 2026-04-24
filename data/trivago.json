@@ -1,144 +1,8 @@
 {
   "company": "trivago",
-  "fetched_at": "2026-04-21T05:34:42.308787",
+  "fetched_at": "2026-04-24T05:41:18.013046",
   "job_count": 10,
   "jobs": [
-    {
-      "absolute_url": "https://careers.trivago.com/job/r8437100002?gh_jid=8437100002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6370236002,
-      "location": {
-        "name": "Düsseldorf"
-      },
-      "metadata": [
-        {
-          "id": 20470910002,
-          "name": "Job Family Group",
-          "value": "Analytics",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4938509002,
-          "name": "Job Profile",
-          "value": "JP-3461",
-          "value_type": "single_select"
-        },
-        {
-          "id": 28189797002,
-          "name": "Career Level",
-          "value": "Data Analyst III",
-          "value_type": "short_text"
-        },
-        {
-          "id": 4938500002,
-          "name": "Job Family",
-          "value": "Data Analysis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4938400002,
-          "name": "Time Type - DO NOT CHANGE",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4938402002,
-          "name": "Experience level required",
-          "value": "Senior",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4938403002,
-          "name": "Job Language",
-          "value": [
-            "English"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 4938510002,
-          "name": "Team Size",
-          "value": "20.0",
-          "value_type": "number"
-        },
-        {
-          "id": 109790462002,
-          "name": "Post to StSt",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 109790522002,
-          "name": "Product",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 109790523002,
-          "name": "Language",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 109790564002,
-          "name": "Company Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 109790565002,
-          "name": "Recruiter",
-          "value": null,
-          "value_type": "user"
-        },
-        {
-          "id": 109790566002,
-          "name": "Salary",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 109790567002,
-          "name": "Salary Period",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 109910884002,
-          "name": "Product",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 109912446002,
-          "name": "Salary",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 109912447002,
-          "name": "Salary Period",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8437100002,
-      "updated_at": "2026-03-23T08:42:36-04:00",
-      "requisition_id": "R0004076",
-      "title": "Data Analyst - Marketing Strategy and Intelligence",
-      "company_name": "trivago",
-      "first_published": "2026-02-26T05:17:45-05:00",
-      "language": "en"
-    },
     {
       "absolute_url": "https://careers.trivago.com/job/r8464320002?gh_jid=8464320002",
       "data_compliance": [
@@ -165,13 +29,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3473",
+          "value": "Data Scientist II",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Data Scientist II",
+          "value": "JP-3473",
           "value_type": "short_text"
         },
         {
@@ -189,7 +53,7 @@
         {
           "id": 4938402002,
           "name": "Experience level required",
-          "value": "Senior",
+          "value": "Mid Level",
           "value_type": "single_select"
         },
         {
@@ -268,7 +132,7 @@
         }
       ],
       "id": 8464320002,
-      "updated_at": "2026-03-27T04:24:44-04:00",
+      "updated_at": "2026-04-23T10:49:21-04:00",
       "requisition_id": "R0004089",
       "title": "Data Scientist - AI Search & Ranking",
       "company_name": "trivago",
@@ -301,13 +165,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3473",
+          "value": "Data Scientist II",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Data Scientist II",
+          "value": "JP-3473",
           "value_type": "short_text"
         },
         {
@@ -404,7 +268,7 @@
         }
       ],
       "id": 8401443002,
-      "updated_at": "2026-03-02T10:42:17-05:00",
+      "updated_at": "2026-04-23T10:48:27-04:00",
       "requisition_id": "R0004062",
       "title": "Data Scientist - Price",
       "company_name": "trivago",
@@ -437,19 +301,155 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3519",
+          "value": "Internal Auditor II",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Internal Auditor II",
+          "value": "JP-3519",
           "value_type": "short_text"
         },
         {
           "id": 4938500002,
           "name": "Job Family",
           "value": "Internal Audit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938400002,
+          "name": "Time Type - DO NOT CHANGE",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938402002,
+          "name": "Experience level required",
+          "value": "Mid Level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938403002,
+          "name": "Job Language",
+          "value": [
+            "English"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4938510002,
+          "name": "Team Size",
+          "value": "5.0",
+          "value_type": "number"
+        },
+        {
+          "id": 109790462002,
+          "name": "Post to StSt",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 109790522002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790523002,
+          "name": "Language",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790564002,
+          "name": "Company Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 109790565002,
+          "name": "Recruiter",
+          "value": null,
+          "value_type": "user"
+        },
+        {
+          "id": 109790566002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109790567002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109910884002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109912446002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109912447002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8478654002,
+      "updated_at": "2026-04-23T10:49:24-04:00",
+      "requisition_id": "R0004094",
+      "title": "Internal Auditor IT",
+      "company_name": "trivago",
+      "first_published": "2026-04-01T06:06:36-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://careers.trivago.com/job/r8520520002?gh_jid=8520520002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6403359002,
+      "location": {
+        "name": "Düsseldorf"
+      },
+      "metadata": [
+        {
+          "id": 20470910002,
+          "name": "Job Family Group",
+          "value": "Media & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938509002,
+          "name": "Job Profile",
+          "value": "Brand Media Buyer II",
+          "value_type": "single_select"
+        },
+        {
+          "id": 28189797002,
+          "name": "Career Level",
+          "value": "JP-3404",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4938500002,
+          "name": "Job Family",
+          "value": "Brand Media Buying",
           "value_type": "single_select"
         },
         {
@@ -539,12 +539,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8478654002,
-      "updated_at": "2026-04-01T06:06:36-04:00",
-      "requisition_id": "R0004094",
-      "title": "Internal Auditor IT",
+      "id": 8520520002,
+      "updated_at": "2026-04-23T11:40:39-04:00",
+      "requisition_id": "R0004110",
+      "title": "Media Buyer",
       "company_name": "trivago",
-      "first_published": "2026-04-01T06:06:36-04:00",
+      "first_published": "2026-04-23T11:33:38-04:00",
       "language": "en"
     },
     {
@@ -573,13 +573,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3657",
+          "value": "Brand Media Buyer A&I",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Brand Media Buyer A&I",
+          "value": "JP-3657",
           "value_type": "short_text"
         },
         {
@@ -676,7 +676,7 @@
         }
       ],
       "id": 8484737002,
-      "updated_at": "2026-04-01T04:15:02-04:00",
+      "updated_at": "2026-04-23T10:49:28-04:00",
       "requisition_id": "R0004096",
       "title": "Media Buying - Internship",
       "company_name": "trivago",
@@ -709,13 +709,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3406",
+          "value": "Brand Media Buying Lead II",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Brand Media Buying Lead II",
+          "value": "JP-3406",
           "value_type": "short_text"
         },
         {
@@ -747,7 +747,7 @@
         {
           "id": 4938510002,
           "name": "Team Size",
-          "value": "5.0",
+          "value": "4.0",
           "value_type": "number"
         },
         {
@@ -812,9 +812,9 @@
         }
       ],
       "id": 8343272002,
-      "updated_at": "2026-03-17T09:32:22-04:00",
+      "updated_at": "2026-04-23T10:48:17-04:00",
       "requisition_id": "R0004049",
-      "title": "Media Buying Lead Europe + LatAm (TV/Streaming) ",
+      "title": "Media Buying Lead Europe and LatAm (TV/Streaming) ",
       "company_name": "trivago",
       "first_published": "2025-12-17T06:45:14-05:00",
       "language": "en"
@@ -979,13 +979,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3392",
+          "value": "Backend Software Engineer III",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Backend Software Engineer III",
+          "value": "JP-3392",
           "value_type": "short_text"
         },
         {
@@ -1003,7 +1003,7 @@
         {
           "id": 4938402002,
           "name": "Experience level required",
-          "value": "Senior",
+          "value": "Mid Level",
           "value_type": "single_select"
         },
         {
@@ -1017,7 +1017,7 @@
         {
           "id": 4938510002,
           "name": "Team Size",
-          "value": "8.0",
+          "value": "6.0",
           "value_type": "number"
         },
         {
@@ -1082,7 +1082,7 @@
         }
       ],
       "id": 8333176002,
-      "updated_at": "2026-03-04T11:46:06-05:00",
+      "updated_at": "2026-04-23T10:48:10-04:00",
       "requisition_id": "R0004040",
       "title": "Software Engineer - Marketing Solutions",
       "company_name": "trivago",
@@ -1115,13 +1115,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3446",
+          "value": "Strategy & Growth Manager III",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Strategy & Growth Manager III",
+          "value": "JP-3446",
           "value_type": "short_text"
         },
         {
@@ -1153,7 +1153,7 @@
         {
           "id": 4938510002,
           "name": "Team Size",
-          "value": "20.0",
+          "value": "9.0",
           "value_type": "number"
         },
         {
@@ -1218,7 +1218,7 @@
         }
       ],
       "id": 8438830002,
-      "updated_at": "2026-03-02T10:42:17-05:00",
+      "updated_at": "2026-04-23T10:48:51-04:00",
       "requisition_id": "R0004080",
       "title": "Strategy and Growth Manager - Marketing Strategy and Intelligence",
       "company_name": "trivago",
@@ -1251,13 +1251,13 @@
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "JP-3588",
+          "value": "Systems Engineer III",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "Systems Engineer III",
+          "value": "JP-3588",
           "value_type": "short_text"
         },
         {
@@ -1354,7 +1354,7 @@
         }
       ],
       "id": 8424124002,
-      "updated_at": "2026-03-02T10:42:17-05:00",
+      "updated_at": "2026-04-23T10:48:37-04:00",
       "requisition_id": "R0004070",
       "title": "Systems Engineer",
       "company_name": "trivago",

@@ -1,18 +1,18 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-04-21T05:20:29.689464",
-  "job_count": 68,
+  "fetched_at": "2026-04-24T05:27:57.182863",
+  "job_count": 69,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7434054",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3307276,
@@ -77,6 +77,44 @@
       "title": "エキスパート（アイコニックトイ）",
       "company_name": "Catawiki",
       "first_published": "2026-03-26T08:53:30-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7841237",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3412737,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7841237,
+      "updated_at": "2026-04-22T05:51:15-04:00",
+      "requisition_id": "P-7023557798",
+      "title": "エキスパート（マンガ・アニメ・コミック）",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-22T05:51:15-04:00",
       "language": "en"
     },
     {
@@ -194,44 +232,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7672843",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3376287,
-      "location": {
-        "name": "Italy"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7672843,
-      "updated_at": "2026-03-17T08:08:54-04:00",
-      "requisition_id": "P-2277371513",
-      "title": "Business Developer – Art (Italy)",
-      "company_name": "Catawiki",
-      "first_published": "2026-03-03T10:37:00-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7815373",
       "data_compliance": [
         {
@@ -346,44 +346,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566371",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3346867,
-      "location": {
-        "name": "Amsterdam, Netherlands; France; Italy"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7566371,
-      "updated_at": "2026-03-17T08:08:54-04:00",
-      "requisition_id": "P-5292899217",
-      "title": "Category Manager E-Commerce",
-      "company_name": "Catawiki",
-      "first_published": "2026-01-27T05:18:46-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7541003",
       "data_compliance": [
         {
@@ -419,6 +381,44 @@
       "title": "Category Manager E-Commerce",
       "company_name": "Catawiki",
       "first_published": "2026-01-15T05:44:57-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566371",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3346867,
+      "location": {
+        "name": "Amsterdam, Netherlands; France; Italy"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7566371,
+      "updated_at": "2026-03-17T08:08:54-04:00",
+      "requisition_id": "P-5292899217",
+      "title": "Category Manager E-Commerce",
+      "company_name": "Catawiki",
+      "first_published": "2026-01-27T05:18:46-05:00",
       "language": "en"
     },
     {
@@ -490,9 +490,9 @@
         }
       ],
       "id": 7775101,
-      "updated_at": "2026-04-17T08:47:34-04:00",
+      "updated_at": "2026-04-21T07:20:52-04:00",
       "requisition_id": "P-4062771528",
-      "title": "Category Marketing Sr Specialist",
+      "title": "Category Marketing Specialist",
       "company_name": "Catawiki",
       "first_published": "2026-04-03T10:44:49-04:00",
       "language": "en"
@@ -533,6 +533,82 @@
       "title": "Commercial Data Scientist",
       "company_name": "Catawiki",
       "first_published": "2026-01-28T10:33:46-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7835409",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3417760,
+      "location": {
+        "name": "Lisbon, Portugal"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7835409,
+      "updated_at": "2026-04-22T08:56:33-04:00",
+      "requisition_id": "P-2950973508",
+      "title": "Commercial Operations Project Manager",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-21T03:25:40-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7835396",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3417760,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7835396,
+      "updated_at": "2026-04-22T04:16:34-04:00",
+      "requisition_id": "P-2950973508",
+      "title": "Commercial Operations Project Manager",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-21T03:24:47-04:00",
       "language": "en"
     },
     {
@@ -587,7 +663,7 @@
       ],
       "internal_job_id": 3414234,
       "location": {
-        "name": "Netherlands"
+        "name": "Lisbon, Portugal; Netherlands"
       },
       "metadata": [
         {
@@ -604,9 +680,9 @@
         }
       ],
       "id": 7820792,
-      "updated_at": "2026-04-17T08:48:10-04:00",
+      "updated_at": "2026-04-23T04:49:56-04:00",
       "requisition_id": "P-7915216889",
-      "title": "CRM Specialist",
+      "title": "CRM Specialist - Amsterdam or Lisbon",
       "company_name": "Catawiki",
       "first_published": "2026-04-16T06:03:54-04:00",
       "language": "en"
@@ -688,91 +764,15 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7540937",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3338501,
-      "location": {
-        "name": "Italy; Netherlands; Spain"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7540937,
-      "updated_at": "2026-04-17T04:06:19-04:00",
-      "requisition_id": "P-5786935907",
-      "title": "Expert Audio Equipment",
-      "company_name": "Catawiki",
-      "first_published": "2026-01-16T06:41:51-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7745797",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3339600,
-      "location": {
-        "name": "France; Germany; Italy; Netherlands; Portugal; Spain; United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7745797,
-      "updated_at": "2026-04-15T10:57:14-04:00",
-      "requisition_id": "P-4845735356",
-      "title": "Expert Automobilia",
-      "company_name": "Catawiki",
-      "first_published": "2026-03-24T08:11:52-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7540940",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3338503,
@@ -844,10 +844,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -882,10 +882,10 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
@@ -954,15 +954,53 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7815401",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3412737,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7815401,
+      "updated_at": "2026-04-22T05:49:14-04:00",
+      "requisition_id": "P-7023557798",
+      "title": "Expert Comics Manga & Anime",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-22T05:49:14-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7270250",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3254408,
@@ -1224,11 +1262,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3377594,
@@ -1262,11 +1300,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3326522,
@@ -1300,11 +1338,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3329364,
@@ -1338,11 +1376,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3267746,
@@ -1410,53 +1448,15 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7614933",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3362200,
-      "location": {
-        "name": "Italy"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7614933,
-      "updated_at": "2026-03-17T08:08:54-04:00",
-      "requisition_id": "P-7565853073",
-      "title": "Expert Sports Memorabilia - Football & Motorsports",
-      "company_name": "Catawiki",
-      "first_published": "2026-02-17T06:31:53-05:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7745792",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3315594,
@@ -1680,11 +1680,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3393761,
@@ -1825,44 +1825,6 @@
       "title": "Key Account Manager – Art - DACH Region",
       "company_name": "Catawiki",
       "first_published": "2026-04-01T03:52:32-04:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7735090",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3318590,
-      "location": {
-        "name": "Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7735090,
-      "updated_at": "2026-03-24T06:03:26-04:00",
-      "requisition_id": "P-4278655893",
-      "title": "Key Account Manager - Benelux",
-      "company_name": "Catawiki",
-      "first_published": "2026-03-19T06:55:19-04:00",
       "language": "en"
     },
     {
@@ -2010,7 +1972,7 @@
         }
       ],
       "id": 7480363,
-      "updated_at": "2026-04-14T03:19:44-04:00",
+      "updated_at": "2026-04-22T10:01:40-04:00",
       "requisition_id": null,
       "title": "QA Automation Engineer",
       "company_name": "Catawiki",
@@ -2208,7 +2170,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7374873",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7348691",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2217,44 +2179,6 @@
           "requires_retention_consent": false,
           "retention_period": null,
           "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3288101,
-      "location": {
-        "name": "France"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7374873,
-      "updated_at": "2026-04-08T09:59:15-04:00",
-      "requisition_id": "P-8131206737",
-      "title": "Senior Expert Modern Watches",
-      "company_name": "Catawiki",
-      "first_published": "2025-11-04T08:17:01-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7348691",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
         }
       ],
       "internal_job_id": 3260425,
@@ -2281,6 +2205,44 @@
       "title": "Senior Jewellery Expert",
       "company_name": "Catawiki",
       "first_published": "2025-10-22T05:24:25-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7823727",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3415116,
+      "location": {
+        "name": "Belgium; France; Germany; Italy; Netherlands; Portugal; Spain; United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7823727,
+      "updated_at": "2026-04-21T04:27:07-04:00",
+      "requisition_id": "P-8905440942",
+      "title": "Senior Key Account Manager - Wine",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-21T04:12:32-04:00",
       "language": "en"
     },
     {
@@ -2326,11 +2288,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
       "internal_job_id": 3319762,
@@ -2474,44 +2436,6 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7715902",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3360849,
-      "location": {
-        "name": "Lisbon, Portugal"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7715902,
-      "updated_at": "2026-04-14T06:40:13-04:00",
-      "requisition_id": "P-7329161211",
-      "title": "Shipping Operations Project Manager",
-      "company_name": "Catawiki",
-      "first_published": "2026-03-13T07:34:41-04:00",
-      "language": "en"
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7609833",
       "data_compliance": [
         {
@@ -2550,6 +2474,82 @@
       "language": "en"
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7715902",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3360849,
+      "location": {
+        "name": "Lisbon, Portugal"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7715902,
+      "updated_at": "2026-04-14T06:40:13-04:00",
+      "requisition_id": "P-7329161211",
+      "title": "Shipping Operations Project Manager",
+      "company_name": "Catawiki",
+      "first_published": "2026-03-13T07:34:41-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7837112",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3417999,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7837112,
+      "updated_at": "2026-04-23T04:47:37-04:00",
+      "requisition_id": "P-3929254601",
+      "title": "Social Media Lead",
+      "company_name": "Catawiki",
+      "first_published": "2026-04-21T12:09:28-04:00",
+      "language": "en"
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7821237",
       "data_compliance": [
         {
@@ -2585,6 +2585,44 @@
       "title": "キー・ビジネスディベロッパー（日本）",
       "company_name": "Catawiki",
       "first_published": "2026-04-16T09:40:24-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7474571",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3318590,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7474571,
+      "updated_at": "2026-04-22T07:34:20-04:00",
+      "requisition_id": "P-4278655893",
+      "title": "キーアカウントマネージャー（日本市場）",
+      "company_name": "Catawiki",
+      "first_published": "2025-12-17T05:45:12-05:00",
       "language": "en"
     }
   ]
