@@ -1,7 +1,7 @@
 {
   "company": "hover",
-  "fetched_at": "2026-04-24T05:40:12.060044",
-  "job_count": 17,
+  "fetched_at": "2026-04-27T05:57:21.101476",
+  "job_count": 18,
   "jobs": [
     {
       "absolute_url": "https://hover.to/job-posts/7700990/?gh_jid=7700990",
@@ -268,7 +268,7 @@
       "language": "en"
     },
     {
-      "absolute_url": "https://hover.to/job-posts/7760115/?gh_jid=7760115",
+      "absolute_url": "https://hover.to/job-posts/7832762/?gh_jid=7832762",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -279,15 +279,15 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3399819,
+      "internal_job_id": 3417112,
       "location": {
-        "name": "san_francisconew_york"
+        "name": "san_francisco"
       },
       "metadata": [
         {
           "id": 25807887,
           "name": "Division",
-          "value": "Sales",
+          "value": "People",
           "value_type": "single_select"
         },
         {
@@ -303,12 +303,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7760115,
-      "updated_at": "2026-04-03T15:00:18-04:00",
-      "requisition_id": "5301",
-      "title": "Sales Engineer",
+      "id": 7832762,
+      "updated_at": "2026-04-24T13:35:41-04:00",
+      "requisition_id": "TBD",
+      "title": "Recruiter ",
       "company_name": "Hover",
-      "first_published": "2026-04-03T15:00:18-04:00",
+      "first_published": "2026-04-24T02:24:12-04:00",
       "language": "en"
     },
     {
@@ -441,6 +441,50 @@
       "title": "Senior People Business Partner (EPD)",
       "company_name": "Hover",
       "first_published": "2026-01-15T14:24:48-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://hover.to/job-posts/7760115/?gh_jid=7760115",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3399819,
+      "location": {
+        "name": "san_francisconew_york"
+      },
+      "metadata": [
+        {
+          "id": 25807887,
+          "name": "Division",
+          "value": "Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 112760,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13139096,
+          "name": "Internal or External Job?",
+          "value": "External",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7760115,
+      "updated_at": "2026-04-24T17:30:35-04:00",
+      "requisition_id": "5301",
+      "title": "Senior Sales Engineer",
+      "company_name": "Hover",
+      "first_published": "2026-04-03T15:00:18-04:00",
       "language": "en"
     },
     {
