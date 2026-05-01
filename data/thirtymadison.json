@@ -1,8 +1,33 @@
 {
   "company": "thirtymadison",
-  "fetched_at": "2026-04-28T05:51:56.219804",
-  "job_count": 1,
+  "fetched_at": "2026-05-01T06:01:30.345459",
+  "job_count": 3,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thirtymadison/jobs/8527450002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6405919002,
+      "location": {
+        "name": "Syracuse, NY"
+      },
+      "metadata": null,
+      "id": 8527450002,
+      "updated_at": "2026-04-30T13:20:25-04:00",
+      "requisition_id": "RQ2942",
+      "title": "Pharmacist (NY & CA License Required)",
+      "company_name": "Remedy Meds",
+      "first_published": "2026-04-30T13:19:34-04:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/thirtymadison/jobs/8505182002",
       "data_compliance": [
@@ -21,11 +46,36 @@
       },
       "metadata": null,
       "id": 8505182002,
-      "updated_at": "2026-04-13T18:23:49-04:00",
+      "updated_at": "2026-04-29T16:40:52-04:00",
       "requisition_id": "RQ2939",
-      "title": "Registered Nurse - Dermatology (Per Diem)",
-      "company_name": "Thirty Madison",
+      "title": "Registered Nurse - Dermatology",
+      "company_name": "Remedy Meds",
       "first_published": "2026-04-13T18:23:33-04:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/thirtymadison/jobs/8527060002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6405731002,
+      "location": {
+        "name": "Summit, NJ"
+      },
+      "metadata": null,
+      "id": 8527060002,
+      "updated_at": "2026-04-28T17:38:05-04:00",
+      "requisition_id": "RQ2941",
+      "title": "Senior Software Engineer - Elixir",
+      "company_name": "Remedy Meds",
+      "first_published": "2026-04-28T15:08:06-04:00",
       "language": "en"
     }
   ]
