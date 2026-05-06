@@ -1,8 +1,71 @@
 {
   "company": "constantcontact",
-  "fetched_at": "2026-05-03T05:56:53.062948",
-  "job_count": 28,
+  "fetched_at": "2026-05-06T05:55:46.562876",
+  "job_count": 30,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/constantcontact/jobs/7874641",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3426797,
+      "location": {
+        "name": "Waltham, MA or Fort Collins, CO"
+      },
+      "metadata": [
+        {
+          "id": 88655,
+          "name": "Secondary Location",
+          "value": [
+            "Loveland"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 163016,
+          "name": "Business Unit",
+          "value": "Constant Contact",
+          "value_type": "single_select"
+        },
+        {
+          "id": 89927,
+          "name": "Posting Requirements",
+          "value": "Internal and External",
+          "value_type": "single_select"
+        },
+        {
+          "id": 83647,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4621678,
+          "name": "Hiring Manager",
+          "value": {
+            "name": "Tamara Yutkins",
+            "email": "tamara.yutkins@constantcontact.com",
+            "user_id": 2513191,
+            "employee_id": null
+          },
+          "value_type": "user"
+        }
+      ],
+      "id": 7874641,
+      "updated_at": "2026-05-05T11:13:17-04:00",
+      "requisition_id": "7733",
+      "title": "Account Executive",
+      "company_name": "Constant Contact",
+      "first_published": "2026-05-05T11:05:05-04:00",
+      "language": "en"
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/constantcontact/jobs/7394405",
       "data_compliance": [
@@ -1760,6 +1823,67 @@
       "title": "Software Engineering Manager - Customer Data Platform",
       "company_name": "Constant Contact",
       "first_published": "2026-02-10T17:42:36-05:00",
+      "language": "en"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/constantcontact/jobs/7886268",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3430030,
+      "location": {
+        "name": "Waltham, MA"
+      },
+      "metadata": [
+        {
+          "id": 88655,
+          "name": "Secondary Location",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 163016,
+          "name": "Business Unit",
+          "value": "Constant Contact",
+          "value_type": "single_select"
+        },
+        {
+          "id": 89927,
+          "name": "Posting Requirements",
+          "value": "Internal and External",
+          "value_type": "single_select"
+        },
+        {
+          "id": 83647,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4621678,
+          "name": "Hiring Manager",
+          "value": {
+            "name": "Liv Hourihan",
+            "email": "liv.hourihan@constantcontact.com",
+            "user_id": 3959838,
+            "employee_id": null
+          },
+          "value_type": "user"
+        }
+      ],
+      "id": 7886268,
+      "updated_at": "2026-05-05T09:46:46-04:00",
+      "requisition_id": "7735",
+      "title": "Workplace Experience Partner",
+      "company_name": "Constant Contact",
+      "first_published": "2026-05-05T09:46:46-04:00",
       "language": "en"
     }
   ]
