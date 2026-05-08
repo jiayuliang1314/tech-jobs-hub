@@ -1,8 +1,35 @@
 {
   "company": "gassouth",
-  "fetched_at": "2026-05-05T05:35:17.753619",
+  "fetched_at": "2026-05-08T05:24:55.452329",
   "job_count": 2,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/gassouth/jobs/7901261",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3435312,
+      "location": {
+        "name": "Atlanta, Georgia"
+      },
+      "metadata": null,
+      "id": 7901261,
+      "updated_at": "2026-05-07T16:11:18-04:00",
+      "requisition_id": "635",
+      "title": "Financial Analyst I",
+      "company_name": "Gas South",
+      "first_published": "2026-05-07T16:11:18-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/gassouth/jobs/7594845",
       "data_compliance": [
@@ -27,33 +54,8 @@
       "title": "Manager of Residential Management and Development",
       "company_name": "Gas South",
       "first_published": "2026-02-16T14:03:28-05:00",
-      "language": "en"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/gassouth/jobs/7729009",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3392266,
-      "location": {
-        "name": "Atlanta, Georgia or Gainesville, FL"
-      },
-      "metadata": null,
-      "id": 7729009,
-      "updated_at": "2026-04-08T09:07:34-04:00",
-      "requisition_id": "629",
-      "title": "Structuring Analyst",
-      "company_name": "Gas South",
-      "first_published": "2026-03-17T17:37:02-04:00",
-      "language": "en"
+      "language": "en",
+      "application_deadline": null
     }
   ]
 }
