@@ -1,8 +1,53 @@
 {
   "company": "instacart",
-  "fetched_at": "2026-05-08T05:34:00.600826",
-  "job_count": 125,
+  "fetched_at": "2026-05-11T06:39:53.788369",
+  "job_count": 123,
   "jobs": [
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7642778",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3368067,
+      "location": {
+        "name": "Canada - Remote (ON Only)"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7642778,
+      "updated_at": "2026-05-08T14:37:32-04:00",
+      "requisition_id": "MH101",
+      "title": "Account Manager",
+      "company_name": "Instacart",
+      "first_published": "2026-05-05T15:48:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7642776",
       "data_compliance": [
@@ -45,51 +90,6 @@
       "title": "Account Manager",
       "company_name": "Instacart",
       "first_published": "2026-02-24T15:28:15-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7642778",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3368067,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7642778,
-      "updated_at": "2026-05-05T15:48:24-04:00",
-      "requisition_id": "MH101",
-      "title": "Account Manager",
-      "company_name": "Instacart",
-      "first_published": "2026-05-05T15:48:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -355,56 +355,11 @@
         }
       ],
       "id": 7736004,
-      "updated_at": "2026-04-08T18:24:40-04:00",
+      "updated_at": "2026-05-08T12:53:02-04:00",
       "requisition_id": "R018129",
       "title": "Customer Success Manager",
       "company_name": "Instacart",
       "first_published": "2026-03-19T17:39:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7769284",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3402682,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7769284,
-      "updated_at": "2026-05-06T15:45:08-04:00",
-      "requisition_id": "R018328",
-      "title": "Data Science Manager, Shopping Experience",
-      "company_name": "Instacart",
-      "first_published": "2026-04-01T12:43:40-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -454,6 +409,51 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7769284",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3402682,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7769284,
+      "updated_at": "2026-05-06T15:45:08-04:00",
+      "requisition_id": "R018328",
+      "title": "Data Science Manager, Shopping Experience",
+      "company_name": "Instacart",
+      "first_published": "2026-04-01T12:43:40-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7707793",
       "data_compliance": [
         {
@@ -499,51 +499,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7403549",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3298793,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7403549,
-      "updated_at": "2026-05-06T15:33:03-04:00",
-      "requisition_id": "R017597",
-      "title": "Director, Pricing Strategy",
-      "company_name": "Instacart",
-      "first_published": "2025-11-17T19:29:48-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7403551",
       "data_compliance": [
         {
@@ -585,6 +540,51 @@
       "title": "Director, Pricing Strategy",
       "company_name": "Instacart",
       "first_published": "2025-11-17T19:29:49-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7403549",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3298793,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7403549,
+      "updated_at": "2026-05-06T15:33:03-04:00",
+      "requisition_id": "R017597",
+      "title": "Director, Pricing Strategy",
+      "company_name": "Instacart",
+      "first_published": "2025-11-17T19:29:48-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1039,51 +1039,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7868584",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3425221,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7868584,
-      "updated_at": "2026-05-06T16:50:58-04:00",
-      "requisition_id": "R018667",
-      "title": "Manager, Legal Technology & Operations",
-      "company_name": "Instacart",
-      "first_published": "2026-04-29T17:51:43-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7868586",
       "data_compliance": [
         {
@@ -1125,6 +1080,51 @@
       "title": "Manager, Legal Technology & Operations",
       "company_name": "Instacart",
       "first_published": "2026-04-29T17:51:44-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7868584",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3425221,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7868584,
+      "updated_at": "2026-05-06T16:50:58-04:00",
+      "requisition_id": "R018667",
+      "title": "Manager, Legal Technology & Operations",
+      "company_name": "Instacart",
+      "first_published": "2026-04-29T17:51:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1435,7 +1435,7 @@
         }
       ],
       "id": 7572155,
-      "updated_at": "2026-05-04T16:42:49-04:00",
+      "updated_at": "2026-05-08T18:48:12-04:00",
       "requisition_id": "EG972",
       "title": "Sales Associate",
       "company_name": "Instacart",
@@ -1480,7 +1480,7 @@
         }
       ],
       "id": 7558978,
-      "updated_at": "2026-05-04T16:42:53-04:00",
+      "updated_at": "2026-05-08T18:48:37-04:00",
       "requisition_id": "EG972",
       "title": "Sales Associate - New York",
       "company_name": "Instacart",
@@ -1525,7 +1525,7 @@
         }
       ],
       "id": 7560993,
-      "updated_at": "2026-04-21T10:26:42-04:00",
+      "updated_at": "2026-05-08T18:48:49-04:00",
       "requisition_id": "EG972",
       "title": "Sales Associate - San Francisco/Los Angeles",
       "company_name": "Instacart",
@@ -1804,51 +1804,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7904917",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3436333,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7904917,
-      "updated_at": "2026-05-07T13:35:45-04:00",
-      "requisition_id": "R018579",
-      "title": "Senior Corporate Engineer II",
-      "company_name": "Instacart",
-      "first_published": "2026-05-07T13:35:45-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7904915",
       "data_compliance": [
         {
@@ -1885,11 +1840,56 @@
         }
       ],
       "id": 7904915,
-      "updated_at": "2026-05-07T13:34:55-04:00",
+      "updated_at": "2026-05-08T12:41:15-04:00",
       "requisition_id": "R018579",
       "title": "Senior Corporate Engineer II",
       "company_name": "Instacart",
       "first_published": "2026-05-07T13:28:40-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7904917",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3436333,
+      "location": {
+        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7904917,
+      "updated_at": "2026-05-08T12:41:24-04:00",
+      "requisition_id": "R018579",
+      "title": "Senior Corporate Engineer II",
+      "company_name": "Instacart",
+      "first_published": "2026-05-07T13:35:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1935,96 +1935,6 @@
       "title": "Senior Customer Success Associate",
       "company_name": "Instacart",
       "first_published": "2026-03-31T17:52:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7859598",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3423142,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7859598,
-      "updated_at": "2026-05-04T00:44:50-04:00",
-      "requisition_id": "MH108",
-      "title": "Senior Customer Success Manager, Caper",
-      "company_name": "Instacart",
-      "first_published": "2026-04-28T12:09:19-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7859600",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3423142,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7859600,
-      "updated_at": "2026-05-04T00:44:50-04:00",
-      "requisition_id": "MH108",
-      "title": "Senior Customer Success Manager, Caper",
-      "company_name": "Instacart",
-      "first_published": "2026-04-28T12:09:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2479,51 +2389,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7819293",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2454374,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7819293,
-      "updated_at": "2026-04-15T15:53:56-04:00",
-      "requisition_id": "EG572",
-      "title": "Senior Data Scientist - Shopping Experience (Search)",
-      "company_name": "Instacart",
-      "first_published": "2026-04-15T15:53:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7819163",
       "data_compliance": [
         {
@@ -2565,6 +2430,51 @@
       "title": "Senior Data Scientist - Shopping Experience (Search)",
       "company_name": "Instacart",
       "first_published": "2026-04-15T15:16:19-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7819293",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2454374,
+      "location": {
+        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7819293,
+      "updated_at": "2026-04-15T15:53:56-04:00",
+      "requisition_id": "EG572",
+      "title": "Senior Data Scientist - Shopping Experience (Search)",
+      "company_name": "Instacart",
+      "first_published": "2026-04-15T15:53:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3199,51 +3109,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7819015",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3307396,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7819015,
-      "updated_at": "2026-05-01T17:10:29-04:00",
-      "requisition_id": "EG931",
-      "title": "Senior Product Designer II - Health & Meals",
-      "company_name": "Instacart",
-      "first_published": "2026-04-15T13:54:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7819012",
       "data_compliance": [
         {
@@ -3285,6 +3150,51 @@
       "title": "Senior Product Designer II - Health & Meals",
       "company_name": "Instacart",
       "first_published": "2026-04-15T13:52:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7819015",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3307396,
+      "location": {
+        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7819015,
+      "updated_at": "2026-05-01T17:10:29-04:00",
+      "requisition_id": "EG931",
+      "title": "Senior Product Designer II - Health & Meals",
+      "company_name": "Instacart",
+      "first_published": "2026-04-15T13:54:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3379,51 +3289,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7769924",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3402947,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7769924,
-      "updated_at": "2026-05-01T13:19:26-04:00",
-      "requisition_id": "R018373",
-      "title": "Senior Product Manager, Fraud & Trust",
-      "company_name": "Instacart",
-      "first_published": "2026-03-31T19:44:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7769926",
       "data_compliance": [
         {
@@ -3465,6 +3330,51 @@
       "title": "Senior Product Manager, Fraud & Trust",
       "company_name": "Instacart",
       "first_published": "2026-03-31T19:44:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7769924",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3402947,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7769924,
+      "updated_at": "2026-05-01T13:19:26-04:00",
+      "requisition_id": "R018373",
+      "title": "Senior Product Manager, Fraud & Trust",
+      "company_name": "Instacart",
+      "first_published": "2026-03-31T19:44:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4415,51 +4325,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7896276",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3432267,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7896276,
-      "updated_at": "2026-05-05T18:28:05-04:00",
-      "requisition_id": "R018655",
-      "title": "Senior Strategic Financial Analyst – Growth",
-      "company_name": "Instacart",
-      "first_published": "2026-05-05T18:28:05-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7896278",
       "data_compliance": [
         {
@@ -4496,6 +4361,51 @@
         }
       ],
       "id": 7896278,
+      "updated_at": "2026-05-05T18:28:05-04:00",
+      "requisition_id": "R018655",
+      "title": "Senior Strategic Financial Analyst – Growth",
+      "company_name": "Instacart",
+      "first_published": "2026-05-05T18:28:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7896276",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3432267,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7896276,
       "updated_at": "2026-05-05T18:28:05-04:00",
       "requisition_id": "R018655",
       "title": "Senior Strategic Financial Analyst – Growth",
@@ -4681,6 +4591,96 @@
       "title": "Senior User Researcher II - Connected Stores",
       "company_name": "Instacart",
       "first_published": "2026-03-05T12:05:42-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7909652",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3437919,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7909652,
+      "updated_at": "2026-05-08T17:56:27-04:00",
+      "requisition_id": "MH116",
+      "title": "Sr. Associate, Retail Go-To-Market Operations - Growth & Innovation",
+      "company_name": "Instacart",
+      "first_published": "2026-05-08T17:56:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7909686",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3437932,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7909686,
+      "updated_at": "2026-05-08T18:27:32-04:00",
+      "requisition_id": "R018700",
+      "title": "Sr. Associate, Retail Go-To-Market Operations - Launch Success & Retailer Enablement",
+      "company_name": "Instacart",
+      "first_published": "2026-05-08T18:27:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5000,51 +5000,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7838938",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3418445,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7838938,
-      "updated_at": "2026-05-04T01:10:13-04:00",
-      "requisition_id": "MH114",
-      "title": "Staff Software Engineer, Shopper Activation & Engagement",
-      "company_name": "Instacart",
-      "first_published": "2026-04-21T15:30:27-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://instacart.careers/job/?gh_jid=7838936",
       "data_compliance": [
         {
@@ -5086,6 +5041,51 @@
       "title": "Staff Software Engineer, Shopper Activation & Engagement",
       "company_name": "Instacart",
       "first_published": "2026-04-21T15:30:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7838938",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3418445,
+      "location": {
+        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+      },
+      "metadata": [
+        {
+          "id": 16452,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 740030,
+          "name": "Exemption Status",
+          "value": "Exempt",
+          "value_type": "single_select"
+        },
+        {
+          "id": 235666,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7838938,
+      "updated_at": "2026-05-04T01:10:13-04:00",
+      "requisition_id": "MH114",
+      "title": "Staff Software Engineer, Shopper Activation & Engagement",
+      "company_name": "Instacart",
+      "first_published": "2026-04-21T15:30:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5135,7 +5135,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7700302",
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7809318",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5146,52 +5146,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3384610,
-      "location": {
-        "name": "Canada - Remote (ON, AB, BC, or NS Only)"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7700302,
-      "updated_at": "2026-05-06T15:42:18-04:00",
-      "requisition_id": "R018217",
-      "title": "Staff Technical Project Manager, Global Expansion & M&A",
-      "company_name": "Instacart",
-      "first_published": "2026-03-10T12:56:08-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7700300",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3384610,
+      "internal_job_id": 3411101,
       "location": {
         "name": "United States - Remote"
       },
@@ -5215,12 +5170,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7700300,
-      "updated_at": "2026-05-06T15:42:00-04:00",
-      "requisition_id": "R018217",
-      "title": "Staff Technical Project Manager, Global Expansion & M&A",
+      "id": 7809318,
+      "updated_at": "2026-05-01T13:22:55-04:00",
+      "requisition_id": "R018357",
+      "title": "Strategic Finance Analyst, Product Finance",
       "company_name": "Instacart",
-      "first_published": "2026-03-10T12:56:08-04:00",
+      "first_published": "2026-04-10T20:32:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5270,7 +5225,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7809318",
+      "absolute_url": "https://instacart.careers/job/?gh_jid=7706355",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5281,7 +5236,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3411101,
+      "internal_job_id": 3386567,
       "location": {
         "name": "United States - Remote"
       },
@@ -5305,12 +5260,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7809318,
-      "updated_at": "2026-05-01T13:22:55-04:00",
-      "requisition_id": "R018357",
-      "title": "Strategic Finance Analyst, Product Finance",
+      "id": 7706355,
+      "updated_at": "2026-05-01T13:24:48-04:00",
+      "requisition_id": "R017775",
+      "title": "Strategic Finance Manager",
       "company_name": "Instacart",
-      "first_published": "2026-04-10T20:32:20-04:00",
+      "first_published": "2026-03-11T19:02:25-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5356,51 +5311,6 @@
       "title": "Strategic Finance Manager",
       "company_name": "Instacart",
       "first_published": "2026-03-11T19:02:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://instacart.careers/job/?gh_jid=7706355",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3386567,
-      "location": {
-        "name": "United States - Remote"
-      },
-      "metadata": [
-        {
-          "id": 16452,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 740030,
-          "name": "Exemption Status",
-          "value": "Exempt",
-          "value_type": "single_select"
-        },
-        {
-          "id": 235666,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7706355,
-      "updated_at": "2026-05-01T13:24:48-04:00",
-      "requisition_id": "R017775",
-      "title": "Strategic Finance Manager",
-      "company_name": "Instacart",
-      "first_published": "2026-03-11T19:02:25-04:00",
       "language": "en",
       "application_deadline": null
     },
