@@ -1,7 +1,7 @@
 {
   "company": "canonical",
-  "fetched_at": "2026-05-09T05:40:22.510378",
-  "job_count": 285,
+  "fetched_at": "2026-05-12T05:58:19.561624",
+  "job_count": 290,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5569916",
@@ -3246,6 +3246,114 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911753",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1879251,
+      "location": {
+        "name": "Home based - Worldwide"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Doer",
+            "Entrepreneur",
+            "Leader",
+            "Organiser",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Traveller"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Build customer trust and relationships in the global IoT market, enabling next-generation secure connected devices with Canonical Ubuntu embedded Linux.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7911753,
+      "updated_at": "2026-05-09T12:53:11-04:00",
+      "requisition_id": "749",
+      "title": "Embedded Devices Software Solution Sales Account Manager",
+      "company_name": "Canonical",
+      "first_published": "2026-05-09T12:53:11-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5823852",
       "data_compliance": [
         {
@@ -3345,11 +3453,443 @@
         }
       ],
       "id": 5823852,
-      "updated_at": "2026-03-31T10:10:58-04:00",
+      "updated_at": "2026-05-09T12:35:49-04:00",
       "requisition_id": "749",
-      "title": "Embedded IoT / Edge Solutions Sales Representative, Manager and Director",
+      "title": "Embedded Devices Software Solution Sales - All Roles",
       "company_name": "Canonical",
       "first_published": "2024-03-27T15:00:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911756",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1879251,
+      "location": {
+        "name": "Home Based - APAC"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Doer",
+            "Entrepreneur",
+            "Leader",
+            "Organiser",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Traveller"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Build customer trust and relationships in the global IoT market, enabling next-generation secure connected devices with Canonical Ubuntu embedded Linux.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7911756,
+      "updated_at": "2026-05-09T13:01:59-04:00",
+      "requisition_id": "749",
+      "title": "Embedded Devices Software Solution Sales Director (Japan)",
+      "company_name": "Canonical",
+      "first_published": "2026-05-09T12:53:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911758",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1879251,
+      "location": {
+        "name": "Home Based - Americas"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Doer",
+            "Entrepreneur",
+            "Leader",
+            "Organiser",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Traveller"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Build customer trust and relationships in the global IoT market, enabling next-generation secure connected devices with Canonical Ubuntu embedded Linux.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7911758,
+      "updated_at": "2026-05-09T12:53:14-04:00",
+      "requisition_id": "749",
+      "title": "Embedded Devices Software Solution Sales Manager (Americas)",
+      "company_name": "Canonical",
+      "first_published": "2026-05-09T12:53:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911757",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1879251,
+      "location": {
+        "name": "Home Based - APAC"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Doer",
+            "Entrepreneur",
+            "Leader",
+            "Organiser",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Traveller"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Build customer trust and relationships in the global IoT market, enabling next-generation secure connected devices with Canonical Ubuntu embedded Linux.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7911757,
+      "updated_at": "2026-05-09T12:53:16-04:00",
+      "requisition_id": "749",
+      "title": "Embedded Devices Software Solution Sales Manager (APAC)",
+      "company_name": "Canonical",
+      "first_published": "2026-05-09T12:53:16-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1879251,
+      "location": {
+        "name": "Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Doer",
+            "Entrepreneur",
+            "Leader",
+            "Organiser",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Traveller"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Build customer trust and relationships in the global IoT market, enabling next-generation secure connected devices with Canonical Ubuntu embedded Linux.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7911759,
+      "updated_at": "2026-05-09T12:53:18-04:00",
+      "requisition_id": "749",
+      "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
+      "company_name": "Canonical",
+      "first_published": "2026-05-09T12:53:18-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11358,115 +11898,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 1875080,
-      "location": {
-        "name": "Office Based - Beijing, China"
-      },
-      "metadata": [
-        {
-          "id": 186225,
-          "name": "People management responsibilities?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 149021,
-          "name": "Employment Length",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 675557,
-          "name": "Core skills",
-          "value": [
-            "Analysers",
-            "Competitor",
-            "Developer",
-            "Doer",
-            "Generalist",
-            "Helper",
-            "Leader",
-            "Manager",
-            "Organiser",
-            "Planner",
-            "Problem Solver",
-            "Technologist"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739136,
-          "name": "External Departments (website)",
-          "value": [
-            "Engineering"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739137,
-          "name": "One line job description",
-          "value": "Lead a team to bring high-quality Ubuntu certified devices directly to millions of users with our world-leading partners.",
-          "value_type": "long_text"
-        },
-        {
-          "id": 3209541,
-          "name": "Canonical site",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 3587161,
-          "name": "LinkedIn Posting Level",
-          "value": "Mid-Senior",
-          "value_type": "single_select"
-        },
-        {
-          "id": 11961371,
-          "name": "Featured job (Talent Team to complete)",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54742858,
-          "name": "Business Unit Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 54743567,
-          "name": "Req Category",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 56835606,
-          "name": "Discipline/Track",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5560182,
-      "updated_at": "2026-03-31T13:18:20-04:00",
-      "requisition_id": "745",
-      "title": "Linux Enablement - Software Engineering Manager",
-      "company_name": "Canonical",
-      "first_published": "2024-05-15T14:35:04-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/3262042",
       "data_compliance": [
         {
@@ -11572,6 +12003,115 @@
       "title": "Linux Enablement - Software Engineering Manager",
       "company_name": "Canonical",
       "first_published": "2021-09-03T00:18:19-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1875080,
+      "location": {
+        "name": "Office Based - Beijing, China"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Competitor",
+            "Developer",
+            "Doer",
+            "Generalist",
+            "Helper",
+            "Leader",
+            "Manager",
+            "Organiser",
+            "Planner",
+            "Problem Solver",
+            "Technologist"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Lead a team to bring high-quality Ubuntu certified devices directly to millions of users with our world-leading partners.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 5560182,
+      "updated_at": "2026-03-31T13:18:20-04:00",
+      "requisition_id": "745",
+      "title": "Linux Enablement - Software Engineering Manager",
+      "company_name": "Canonical",
+      "first_published": "2024-05-15T14:35:04-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15304,111 +15844,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 1864134,
-      "location": {
-        "name": "Office Based - Taipei, Taiwan"
-      },
-      "metadata": [
-        {
-          "id": 186225,
-          "name": "People management responsibilities?",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 149021,
-          "name": "Employment Length",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 675557,
-          "name": "Core skills",
-          "value": [
-            "Analysers",
-            "Contributor",
-            "Leader",
-            "Organiser",
-            "Planner",
-            "Problem Solver",
-            "Stalwart",
-            "Technologist"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739136,
-          "name": "External Departments (website)",
-          "value": [
-            "Project Management"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739137,
-          "name": "One line job description",
-          "value": "A high-profile technical project management role in the fast-paced and technically challenging pre-loading of Ubuntu on Tier-1 OEM and ODM devices.",
-          "value_type": "long_text"
-        },
-        {
-          "id": 3209541,
-          "name": "Canonical site",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 3587161,
-          "name": "LinkedIn Posting Level",
-          "value": "Mid-Senior",
-          "value_type": "single_select"
-        },
-        {
-          "id": 11961371,
-          "name": "Featured job (Talent Team to complete)",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54742858,
-          "name": "Business Unit Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 54743567,
-          "name": "Req Category",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 56835606,
-          "name": "Discipline/Track",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 5422728,
-      "updated_at": "2026-04-01T06:35:42-04:00",
-      "requisition_id": "738",
-      "title": "Project Manager - Ubuntu Embedded Systems",
-      "company_name": "Canonical",
-      "first_published": "2023-10-08T18:01:51-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/4953222",
       "data_compliance": [
         {
@@ -15510,6 +15945,111 @@
       "title": "Project Manager - Ubuntu Embedded Systems",
       "company_name": "Canonical",
       "first_published": "2023-03-27T05:27:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1864134,
+      "location": {
+        "name": "Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Contributor",
+            "Leader",
+            "Organiser",
+            "Planner",
+            "Problem Solver",
+            "Stalwart",
+            "Technologist"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Project Management"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "A high-profile technical project management role in the fast-paced and technically challenging pre-loading of Ubuntu on Tier-1 OEM and ODM devices.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 5422728,
+      "updated_at": "2026-04-01T06:35:42-04:00",
+      "requisition_id": "738",
+      "title": "Project Manager - Ubuntu Embedded Systems",
+      "company_name": "Canonical",
+      "first_published": "2023-10-08T18:01:51-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17415,109 +17955,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/2955155",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 1739733,
-      "location": {
-        "name": "Office Based - London, UK"
-      },
-      "metadata": [
-        {
-          "id": 186225,
-          "name": "People management responsibilities?",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 149021,
-          "name": "Employment Length",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 675557,
-          "name": "Core skills",
-          "value": [
-            "Analysers",
-            "Entrepreneur",
-            "Problem Solver",
-            "Seller",
-            "Spokesperson",
-            "Stalwart"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739136,
-          "name": "External Departments (website)",
-          "value": [
-            "Sales"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739137,
-          "name": "One line job description",
-          "value": "Love technology? Looking for a sales role? Training, mentoring, exciting product portfolio.. kickstart your sales career!",
-          "value_type": "long_text"
-        },
-        {
-          "id": 3209541,
-          "name": "Canonical site",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 3587161,
-          "name": "LinkedIn Posting Level",
-          "value": "Entry level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 11961371,
-          "name": "Featured job (Talent Team to complete)",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54742858,
-          "name": "Business Unit Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 54743567,
-          "name": "Req Category",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 56835606,
-          "name": "Discipline/Track",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 2955155,
-      "updated_at": "2026-04-01T08:40:02-04:00",
-      "requisition_id": "642",
-      "title": "Sales Development Representative",
-      "company_name": "Canonical",
-      "first_published": "2021-03-11T05:47:03-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5912833",
       "data_compliance": [
         {
@@ -17617,6 +18054,109 @@
       "title": "Sales Development Representative",
       "company_name": "Canonical",
       "first_published": "2024-04-17T12:25:00-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/2955155",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1739733,
+      "location": {
+        "name": "Office Based - London, UK"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Entrepreneur",
+            "Problem Solver",
+            "Seller",
+            "Spokesperson",
+            "Stalwart"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Love technology? Looking for a sales role? Training, mentoring, exciting product portfolio.. kickstart your sales career!",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Entry level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 2955155,
+      "updated_at": "2026-04-01T08:40:02-04:00",
+      "requisition_id": "642",
+      "title": "Sales Development Representative",
+      "company_name": "Canonical",
+      "first_published": "2021-03-11T05:47:03-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -20873,108 +21413,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/4706463",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 1348450,
-      "location": {
-        "name": "Home based - EMEA"
-      },
-      "metadata": [
-        {
-          "id": 186225,
-          "name": "People management responsibilities?",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 149021,
-          "name": "Employment Length",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 675557,
-          "name": "Core skills",
-          "value": [
-            "Analysers",
-            "Contributor",
-            "Problem Solver",
-            "Stalwart",
-            "Technologist"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739136,
-          "name": "External Departments (website)",
-          "value": [
-            "Engineering"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2739137,
-          "name": "One line job description",
-          "value": "Bring high-quality Ubuntu certified devices directly to millions of users with the world leading OEM partners.",
-          "value_type": "long_text"
-        },
-        {
-          "id": 3209541,
-          "name": "Canonical site",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 3587161,
-          "name": "LinkedIn Posting Level",
-          "value": "Mid-Senior",
-          "value_type": "single_select"
-        },
-        {
-          "id": 11961371,
-          "name": "Featured job (Talent Team to complete)",
-          "value": false,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54742858,
-          "name": "Business Unit Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 54743567,
-          "name": "Req Category",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 56835606,
-          "name": "Discipline/Track",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 4706463,
-      "updated_at": "2026-03-31T13:09:00-04:00",
-      "requisition_id": "1986",
-      "title": "Senior Ubuntu Embedded IoT System Engineer",
-      "company_name": "Canonical",
-      "first_published": "2022-11-22T09:54:16-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/6731174",
       "data_compliance": [
         {
@@ -21073,6 +21511,108 @@
       "title": "Senior Ubuntu Embedded IoT System Engineer",
       "company_name": "Canonical",
       "first_published": "2025-03-20T12:59:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/4706463",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1348450,
+      "location": {
+        "name": "Home based - EMEA"
+      },
+      "metadata": [
+        {
+          "id": 186225,
+          "name": "People management responsibilities?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 149021,
+          "name": "Employment Length",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 675557,
+          "name": "Core skills",
+          "value": [
+            "Analysers",
+            "Contributor",
+            "Problem Solver",
+            "Stalwart",
+            "Technologist"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2739137,
+          "name": "One line job description",
+          "value": "Bring high-quality Ubuntu certified devices directly to millions of users with the world leading OEM partners.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 3209541,
+          "name": "Canonical site",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 3587161,
+          "name": "LinkedIn Posting Level",
+          "value": "Mid-Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 11961371,
+          "name": "Featured job (Talent Team to complete)",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54742858,
+          "name": "Business Unit Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 54743567,
+          "name": "Req Category",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 56835606,
+          "name": "Discipline/Track",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 4706463,
+      "updated_at": "2026-03-31T13:09:00-04:00",
+      "requisition_id": "1986",
+      "title": "Senior Ubuntu Embedded IoT System Engineer",
+      "company_name": "Canonical",
+      "first_published": "2022-11-22T09:54:16-05:00",
       "language": "en",
       "application_deadline": null
     },
