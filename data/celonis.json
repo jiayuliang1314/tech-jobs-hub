@@ -1,8 +1,121 @@
 {
   "company": "celonis",
-  "fetched_at": "2026-05-10T05:55:47.790785",
-  "job_count": 198,
+  "fetched_at": "2026-05-13T06:18:09.909660",
+  "job_count": 206,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7496507003?gh_jid=7496507003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5665612003,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Keshav Bhooban",
+            "email": "k.bhooban.ext@celonis.com",
+            "user_id": 5484955003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7496507003,
+      "updated_at": "2026-05-08T13:46:22-04:00",
+      "requisition_id": "R13000",
+      "title": "Account Executive",
+      "company_name": "Celonis",
+      "first_published": "2026-05-08T06:41:00-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7657936003?gh_jid=7657936003",
       "data_compliance": [
@@ -226,119 +339,6 @@
       "title": "Account Executive",
       "company_name": "Celonis",
       "first_published": "2025-08-29T05:13:22-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7496507003?gh_jid=7496507003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5665612003,
-      "location": {
-        "name": "London, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Keshav Bhooban",
-            "email": "k.bhooban.ext@celonis.com",
-            "user_id": 5484955003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7496507003,
-      "updated_at": "2026-05-08T13:46:22-04:00",
-      "requisition_id": "R13000",
-      "title": "Account Executive",
-      "company_name": "Celonis",
-      "first_published": "2026-05-08T06:41:00-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -673,7 +673,7 @@
         }
       ],
       "id": 7493307003,
-      "updated_at": "2026-05-05T15:08:58-04:00",
+      "updated_at": "2026-05-11T15:09:24-04:00",
       "requisition_id": "R13105",
       "title": "Account Executive - Retail",
       "company_name": "Celonis",
@@ -795,6 +795,119 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725177003?gh_jid=7725177003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5760626003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Clara Herrero",
+            "email": "c.herrerocartaya@celonis.com",
+            "user_id": 4833208003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "N/A",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7725177003,
+      "updated_at": "2026-05-11T07:24:26-04:00",
+      "requisition_id": "R14531",
+      "title": "Accounts Payable Analyst",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T07:24:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725169003?gh_jid=7725169003",
       "data_compliance": [
         {
@@ -820,7 +933,7 @@
         {
           "id": 13879587003,
           "name": "Type",
-          "value": null,
+          "value": "Professional Hire",
           "value_type": "single_select"
         },
         {
@@ -899,11 +1012,125 @@
         }
       ],
       "id": 7725169003,
-      "updated_at": "2026-05-07T04:21:50-04:00",
+      "updated_at": "2026-05-11T04:24:54-04:00",
       "requisition_id": "R14527",
       "title": "Accounts Receivable Specialist",
       "company_name": "Celonis",
       "first_published": "2026-05-07T04:21:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7568220003?gh_jid=7568220003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5692360003,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Intern - Fixed Term - Trainee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bella Jahn",
+            "email": "b.jahn@celonis.com",
+            "user_id": 5290631003,
+            "employee_id": "06727"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Interns/Working Students",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7568220003,
+      "updated_at": "2026-05-12T04:43:23-04:00",
+      "requisition_id": "R13612",
+      "title": "AI & Management Consulting Intern",
+      "company_name": "Celonis",
+      "first_published": "2026-04-01T03:40:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1013,7 +1240,7 @@
         }
       ],
       "id": 7699758003,
-      "updated_at": "2026-04-30T10:57:08-04:00",
+      "updated_at": "2026-05-11T05:12:07-04:00",
       "requisition_id": "R14428",
       "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
       "company_name": "Celonis",
@@ -1240,7 +1467,7 @@
         }
       ],
       "id": 7718259003,
-      "updated_at": "2026-04-30T10:57:08-04:00",
+      "updated_at": "2026-05-11T05:12:07-04:00",
       "requisition_id": "R14428",
       "title": "Applied AI Solution Consulting Intern (DACH Market)",
       "company_name": "Celonis",
@@ -1475,7 +1702,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/6285258003?gh_jid=6285258003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725802003?gh_jid=7725802003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1486,9 +1713,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5083252003,
+      "internal_job_id": 5760915003,
       "location": {
-        "name": "Bangalore, India"
+        "name": "Redwood City, US, California"
       },
       "metadata": [
         {
@@ -1519,9 +1746,9 @@
           "id": 4080290003,
           "name": "Recruiter",
           "value": {
-            "name": "Madhumanti Roy Choudhury",
-            "email": "m.roychoudhury@celonis.com",
-            "user_id": 4580479003,
+            "name": "Talia Morgan",
+            "email": "t.morgan.ext@celonis.com",
+            "user_id": 5551624003,
             "employee_id": null
           },
           "value_type": "user"
@@ -1562,7 +1789,7 @@
         {
           "id": 9155214003,
           "name": "Job Function",
-          "value": null,
+          "value": "Orbit",
           "value_type": "single_select"
         },
         {
@@ -1578,17 +1805,17 @@
           "value_type": "single_select"
         }
       ],
-      "id": 6285258003,
-      "updated_at": "2026-05-06T00:57:36-04:00",
-      "requisition_id": "R11081",
+      "id": 7725802003,
+      "updated_at": "2026-05-12T12:15:59-04:00",
+      "requisition_id": "R14528",
       "title": "Applied Value Engineer",
       "company_name": "Celonis",
-      "first_published": "2026-04-30T09:02:09-04:00",
+      "first_published": "2026-05-08T11:45:58-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7635314003?gh_jid=7635314003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7635542003?gh_jid=7635542003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1599,7 +1826,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5720256003,
+      "internal_job_id": 5720284003,
       "location": {
         "name": "Bangalore, India"
       },
@@ -1691,125 +1918,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7635314003,
-      "updated_at": "2026-05-05T02:24:26-04:00",
-      "requisition_id": "R14096",
+      "id": 7635542003,
+      "updated_at": "2026-05-08T08:06:38-04:00",
+      "requisition_id": "R14129",
       "title": "Applied Value Engineer",
       "company_name": "Celonis",
-      "first_published": "2026-04-22T06:04:21-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725802003?gh_jid=7725802003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5760915003,
-      "location": {
-        "name": "Redwood City, US, California"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Talia Morgan",
-            "email": "t.morgan.ext@celonis.com",
-            "user_id": 5551624003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7725802003,
-      "updated_at": "2026-05-08T12:04:32-04:00",
-      "requisition_id": "R14528",
-      "title": "Applied Value Engineer",
-      "company_name": "Celonis",
-      "first_published": "2026-05-08T11:45:58-04:00",
+      "first_published": "2026-03-30T06:12:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1927,7 +2041,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7635542003?gh_jid=7635542003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7635314003?gh_jid=7635314003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1938,7 +2052,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5720284003,
+      "internal_job_id": 5720256003,
       "location": {
         "name": "Bangalore, India"
       },
@@ -2030,12 +2144,125 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7635542003,
-      "updated_at": "2026-05-08T08:06:38-04:00",
-      "requisition_id": "R14129",
+      "id": 7635314003,
+      "updated_at": "2026-05-05T02:24:26-04:00",
+      "requisition_id": "R14096",
       "title": "Applied Value Engineer",
       "company_name": "Celonis",
-      "first_published": "2026-03-30T06:12:53-04:00",
+      "first_published": "2026-04-22T06:04:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/6285258003?gh_jid=6285258003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5083252003,
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Madhumanti Roy Choudhury",
+            "email": "m.roychoudhury@celonis.com",
+            "user_id": 4580479003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 6285258003,
+      "updated_at": "2026-05-06T00:57:36-04:00",
+      "requisition_id": "R11081",
+      "title": "Applied Value Engineer",
+      "company_name": "Celonis",
+      "first_published": "2026-04-30T09:02:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2483,7 +2710,7 @@
         }
       ],
       "id": 7662738003,
-      "updated_at": "2026-04-30T10:57:04-04:00",
+      "updated_at": "2026-05-11T05:12:04-04:00",
       "requisition_id": "600x",
       "title": "Associate Applied AI Engineer (APAC) - Orbit Program",
       "company_name": "Celonis",
@@ -2596,7 +2823,7 @@
         }
       ],
       "id": 7662718003,
-      "updated_at": "2026-04-30T10:57:04-04:00",
+      "updated_at": "2026-05-11T05:12:04-04:00",
       "requisition_id": "598x",
       "title": "Associate Applied AI Engineer (Japan) - Orbit Program",
       "company_name": "Celonis",
@@ -2709,7 +2936,7 @@
         }
       ],
       "id": 7669112003,
-      "updated_at": "2026-04-30T10:57:04-04:00",
+      "updated_at": "2026-05-11T05:12:04-04:00",
       "requisition_id": "598x",
       "title": "Associate Applied AI Engineer (Madrid/Spain) - Orbit Program",
       "company_name": "Celonis",
@@ -3161,7 +3388,7 @@
         }
       ],
       "id": 7627728003,
-      "updated_at": "2026-04-30T10:57:03-04:00",
+      "updated_at": "2026-05-11T05:12:03-04:00",
       "requisition_id": "581x",
       "title": "Business Development Representative (SaaS Sales)",
       "company_name": "Celonis",
@@ -3275,7 +3502,7 @@
         }
       ],
       "id": 7627752003,
-      "updated_at": "2026-04-30T10:57:03-04:00",
+      "updated_at": "2026-05-11T05:12:03-04:00",
       "requisition_id": "582x",
       "title": "Business Development Representative (SaaS Sales)",
       "company_name": "Celonis",
@@ -3393,119 +3620,6 @@
       "title": "Client Account Lead - AI-Driven Transformation & Process Intelligence",
       "company_name": "Celonis",
       "first_published": "2026-05-03T14:02:17-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7715421003?gh_jid=7715421003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682927003,
-      "location": {
-        "name": "Munich, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7715421003,
-      "updated_at": "2026-05-03T15:24:02-04:00",
-      "requisition_id": "R13292",
-      "title": "Client Account Lead - Manufacturing / Automotive",
-      "company_name": "Celonis",
-      "first_published": "2026-04-27T15:48:38-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3845,119 +3959,6 @@
       "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence",
       "company_name": "Celonis",
       "first_published": "2026-03-30T08:08:55-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7540412003?gh_jid=7540412003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682927003,
-      "location": {
-        "name": "Munich, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7540412003,
-      "updated_at": "2026-05-03T15:24:02-04:00",
-      "requisition_id": "R13292",
-      "title": "Client Engagement Partner - Manufacturing / Automotive",
-      "company_name": "Celonis",
-      "first_published": "2025-11-26T08:35:25-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4414,119 +4415,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7539083003?gh_jid=7539083003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682927003,
-      "location": {
-        "name": "Munich, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7539083003,
-      "updated_at": "2026-05-03T15:24:02-04:00",
-      "requisition_id": "R13292",
-      "title": "Client Value Partner (CVP) - Manufacturing / Automotive",
-      "company_name": "Celonis",
-      "first_published": "2025-11-26T08:34:05-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003",
       "data_compliance": [
         {
@@ -4753,119 +4641,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7545451003?gh_jid=7545451003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682921003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": "Selected (Agency)",
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": "PO-00012371",
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7545451003,
-      "updated_at": "2026-05-05T13:35:09-04:00",
-      "requisition_id": "R13283",
-      "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
-      "company_name": "Celonis",
-      "first_published": "2025-12-02T15:42:53-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7539033003?gh_jid=7539033003",
       "data_compliance": [
         {
@@ -4975,6 +4750,119 @@
       "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
       "company_name": "Celonis",
       "first_published": "2025-12-02T09:53:04-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7545451003?gh_jid=7545451003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5682921003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Mitch Mitchell",
+            "email": "br.mitchell@celonis.com",
+            "user_id": 5482166003,
+            "employee_id": "08607"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": "Selected (Agency)",
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": "PO-00012371",
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7545451003,
+      "updated_at": "2026-05-05T13:35:09-04:00",
+      "requisition_id": "R13283",
+      "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
+      "company_name": "Celonis",
+      "first_published": "2025-12-02T15:42:53-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5201,6 +5089,119 @@
       "title": "Client Value Partner - Energy",
       "company_name": "Celonis",
       "first_published": "2026-05-08T11:06:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725808003?gh_jid=7725808003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5760916003,
+      "location": {
+        "name": "Munich, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "James Leonard",
+            "email": "j.leonard.ext@celonis.com",
+            "user_id": 5534331003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "N/A",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7725808003,
+      "updated_at": "2026-05-11T07:59:41-04:00",
+      "requisition_id": "653x",
+      "title": "Client Value Partner - (Insurance / Financial Services)",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T07:53:35-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5555,6 +5556,7 @@
           "demographic_data_consent_applies": true
         }
       ],
+      "education": "education_required",
       "internal_job_id": 5758609003,
       "location": {
         "name": "New York, US, New York"
@@ -5648,7 +5650,7 @@
         }
       ],
       "id": 7721140003,
-      "updated_at": "2026-05-07T13:32:28-04:00",
+      "updated_at": "2026-05-12T08:47:24-04:00",
       "requisition_id": "R14513",
       "title": "Client Value Partner - Retail",
       "company_name": "Celonis",
@@ -6213,7 +6215,7 @@
         }
       ],
       "id": 7620469003,
-      "updated_at": "2026-05-06T13:47:27-04:00",
+      "updated_at": "2026-05-11T09:24:47-04:00",
       "requisition_id": "R13764",
       "title": "Director of Professional Services",
       "company_name": "Celonis",
@@ -6778,9 +6780,9 @@
         }
       ],
       "id": 7714633003,
-      "updated_at": "2026-05-08T09:10:51-04:00",
+      "updated_at": "2026-05-12T10:00:17-04:00",
       "requisition_id": "R14504",
-      "title": "Enterprise Account Executive Benelux - CPG / Retail",
+      "title": "Enterprise Account Executive Benelux - High Tech/Manufacturing",
       "company_name": "Celonis",
       "first_published": "2026-04-29T07:28:23-04:00",
       "language": "en",
@@ -6900,7 +6902,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7681585003?gh_jid=7681585003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7693182003?gh_jid=7693182003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6913,7 +6915,7 @@
       ],
       "internal_job_id": 5741130003,
       "location": {
-        "name": "Munich, Germany"
+        "name": "Stockholm, Sweden"
       },
       "metadata": [
         {
@@ -7003,12 +7005,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7681585003,
-      "updated_at": "2026-04-09T03:18:45-04:00",
+      "id": 7693182003,
+      "updated_at": "2026-04-09T03:18:50-04:00",
       "requisition_id": "R14184",
       "title": "Enterprise Architect Director",
       "company_name": "Celonis",
-      "first_published": "2026-04-09T03:18:45-04:00",
+      "first_published": "2026-04-09T03:18:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7235,119 +7237,6 @@
       "title": "Enterprise Architect Director",
       "company_name": "Celonis",
       "first_published": "2026-04-09T03:18:51-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7693182003?gh_jid=7693182003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5741130003,
-      "location": {
-        "name": "Stockholm, Sweden"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Maria Kershaw",
-            "email": "m.kershaw@celonis.com",
-            "user_id": 4190215003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7693182003,
-      "updated_at": "2026-04-09T03:18:50-04:00",
-      "requisition_id": "R14184",
-      "title": "Enterprise Architect Director",
-      "company_name": "Celonis",
-      "first_published": "2026-04-09T03:18:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7691,7 +7580,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7719404003?gh_jid=7719404003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7681585003?gh_jid=7681585003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7702,9 +7591,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5757869003,
+      "internal_job_id": 5741130003,
       "location": {
-        "name": "New York, US, New York"
+        "name": "Munich, Germany"
       },
       "metadata": [
         {
@@ -7735,10 +7624,10 @@
           "id": 4080290003,
           "name": "Recruiter",
           "value": {
-            "name": "Carrie Miller",
-            "email": "c.miller@celonis.com",
-            "user_id": 4862625003,
-            "employee_id": "05913"
+            "name": "Maria Kershaw",
+            "email": "m.kershaw@celonis.com",
+            "user_id": 4190215003,
+            "employee_id": null
           },
           "value_type": "user"
         },
@@ -7778,7 +7667,7 @@
         {
           "id": 9155214003,
           "name": "Job Function",
-          "value": null,
+          "value": "Orbit",
           "value_type": "single_select"
         },
         {
@@ -7794,12 +7683,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7719404003,
-      "updated_at": "2026-05-04T04:05:32-04:00",
-      "requisition_id": "R14480",
-      "title": "Executive Assistant",
+      "id": 7681585003,
+      "updated_at": "2026-04-09T03:18:45-04:00",
+      "requisition_id": "R14184",
+      "title": "Enterprise Architect Director",
       "company_name": "Celonis",
-      "first_published": "2026-04-30T15:59:09-04:00",
+      "first_published": "2026-04-09T03:18:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7917,6 +7806,232 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7719404003?gh_jid=7719404003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5757869003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Carrie Miller",
+            "email": "c.miller@celonis.com",
+            "user_id": 4862625003,
+            "employee_id": "05913"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7719404003,
+      "updated_at": "2026-05-04T04:05:32-04:00",
+      "requisition_id": "R14480",
+      "title": "Executive Assistant",
+      "company_name": "Celonis",
+      "first_published": "2026-04-30T15:59:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7661789003?gh_jid=7661789003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5730744003,
+      "location": {
+        "name": "Munich, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Intern - Fixed Term - Trainee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Interns/Working Students",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7661789003,
+      "updated_at": "2026-05-12T05:22:44-04:00",
+      "requisition_id": "R13794",
+      "title": "Executive Briefing Center Intern",
+      "company_name": "Celonis",
+      "first_published": "2026-04-08T04:58:16-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7643337003?gh_jid=7643337003",
       "data_compliance": [
         {
@@ -8030,119 +8145,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7643335003?gh_jid=7643335003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5718617003,
-      "location": {
-        "name": "Raleigh, US, North Carolina"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Jake Piccoli",
-            "email": "j.piccoli@celonis.com",
-            "user_id": 4303832003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7643335003,
-      "updated_at": "2026-03-03T21:25:04-05:00",
-      "requisition_id": "R13756",
-      "title": "Field CTO",
-      "company_name": "Celonis",
-      "first_published": "2026-02-24T11:36:58-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7631132003?gh_jid=7631132003",
       "data_compliance": [
         {
@@ -8252,6 +8254,119 @@
       "title": "Field CTO",
       "company_name": "Celonis",
       "first_published": "2026-02-20T10:43:56-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7643335003?gh_jid=7643335003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5718617003,
+      "location": {
+        "name": "Raleigh, US, North Carolina"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Jake Piccoli",
+            "email": "j.piccoli@celonis.com",
+            "user_id": 4303832003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7643335003,
+      "updated_at": "2026-03-03T21:25:04-05:00",
+      "requisition_id": "R13756",
+      "title": "Field CTO",
+      "company_name": "Celonis",
+      "first_published": "2026-02-24T11:36:58-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8478,6 +8593,120 @@
       "title": "Field CTO - AI & Enterprise Modernization ",
       "company_name": "Celonis",
       "first_published": "2026-05-06T09:35:07-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7703852003?gh_jid=7703852003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5751914003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Working Student",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7703852003,
+      "updated_at": "2026-05-12T05:23:03-04:00",
+      "requisition_id": "R14277",
+      "title": "Global Events Working Student",
+      "company_name": "Celonis",
+      "first_published": "2026-04-22T09:26:36-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -9152,11 +9381,125 @@
         }
       ],
       "id": 7712052003,
-      "updated_at": "2026-04-30T10:57:10-04:00",
+      "updated_at": "2026-05-11T05:12:08-04:00",
       "requisition_id": "R14499",
       "title": "Intern Learning & Leadership Development",
       "company_name": "Celonis",
       "first_published": "2026-04-29T10:07:11-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7710189003?gh_jid=7710189003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5754392003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Intern - Fixed Term - Trainee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7710189003,
+      "updated_at": "2026-05-12T05:12:25-04:00",
+      "requisition_id": "R14459",
+      "title": "Intern Marketing Database Operations",
+      "company_name": "Celonis",
+      "first_published": "2026-04-22T10:30:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -9843,6 +10186,234 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7599937003?gh_jid=7599937003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5705688003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Intern - Fixed Term - Trainee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bella Jahn",
+            "email": "b.jahn@celonis.com",
+            "user_id": 5290631003,
+            "employee_id": "06727"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Interns/Working Students",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7599937003,
+      "updated_at": "2026-05-12T08:42:39-04:00",
+      "requisition_id": "R13807",
+      "title": "Intern Value Engineering Strategy & Operations",
+      "company_name": "Celonis",
+      "first_published": "2026-05-12T08:17:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7731930003?gh_jid=7731930003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5705688003,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Intern - Fixed Term - Trainee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bella Jahn",
+            "email": "b.jahn@celonis.com",
+            "user_id": 5290631003,
+            "employee_id": "06727"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Interns/Working Students",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7731930003,
+      "updated_at": "2026-05-12T08:43:09-04:00",
+      "requisition_id": "R13807",
+      "title": "Intern Value Engineering Strategy & Operations",
+      "company_name": "Celonis",
+      "first_published": "2026-05-12T08:43:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7702273003?gh_jid=7702273003",
       "data_compliance": [
         {
@@ -10065,6 +10636,119 @@
       "title": "IT Service Engineer",
       "company_name": "Celonis",
       "first_published": "2026-04-20T02:59:44-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7730729003?gh_jid=7730729003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5763408003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Pablo Camporino",
+            "email": "p.camporino@celonis.com",
+            "user_id": 5502166003,
+            "employee_id": "08835"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7730729003,
+      "updated_at": "2026-05-12T17:06:34-04:00",
+      "requisition_id": "R14434",
+      "title": "IT Service Engineer",
+      "company_name": "Celonis",
+      "first_published": "2026-05-12T11:22:28-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10625,9 +11309,9 @@
         }
       ],
       "id": 7635142003,
-      "updated_at": "2026-04-13T12:27:21-04:00",
+      "updated_at": "2026-05-11T02:55:10-04:00",
       "requisition_id": "R14110",
-      "title": "Lead Applied AI Engineer (Value Engineering) - Scale",
+      "title": "Lead Applied Value Engineer",
       "company_name": "Celonis",
       "first_published": "2026-03-26T03:46:24-04:00",
       "language": "en",
@@ -10747,119 +11431,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7600096003?gh_jid=7600096003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5705762003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Bryan Lauer",
-            "email": "b.nicholaslauer@celonis.com",
-            "user_id": 5510872003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Backend",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7600096003,
-      "updated_at": "2026-04-02T12:09:21-04:00",
-      "requisition_id": "R13484",
-      "title": "Lead Consultant",
-      "company_name": "Celonis",
-      "first_published": "2026-03-16T10:18:15-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7665961003?gh_jid=7665961003",
       "data_compliance": [
         {
@@ -10969,6 +11540,119 @@
       "title": "Lead Consultant",
       "company_name": "Celonis",
       "first_published": "2026-03-16T10:18:16-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7600096003?gh_jid=7600096003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5705762003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bryan Lauer",
+            "email": "b.nicholaslauer@celonis.com",
+            "user_id": 5510872003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Backend",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7600096003,
+      "updated_at": "2026-04-02T12:09:21-04:00",
+      "requisition_id": "R13484",
+      "title": "Lead Consultant",
+      "company_name": "Celonis",
+      "first_published": "2026-03-16T10:18:15-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11538,6 +12222,348 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7731437003?gh_jid=7731437003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5760918003,
+      "location": {
+        "name": "Remote, US, Texas"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Mitch Mitchell",
+            "email": "br.mitchell@celonis.com",
+            "user_id": 5482166003,
+            "employee_id": "08607"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7731437003,
+      "updated_at": "2026-05-12T09:33:20-04:00",
+      "requisition_id": "R14545",
+      "title": "Lead Value Engineer - Energy",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T16:48:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725826003?gh_jid=7725826003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5760918003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Mitch Mitchell",
+            "email": "br.mitchell@celonis.com",
+            "user_id": 5482166003,
+            "employee_id": "08607"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7725826003,
+      "updated_at": "2026-05-12T15:11:15-04:00",
+      "requisition_id": "R14545",
+      "title": "Lead Value Engineer - Energy",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T16:44:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7725818003?gh_jid=7725818003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5760917003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Mitch Mitchell",
+            "email": "br.mitchell@celonis.com",
+            "user_id": 5482166003,
+            "employee_id": "08607"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7725818003,
+      "updated_at": "2026-05-12T15:08:25-04:00",
+      "requisition_id": "R14542",
+      "title": "Lead Value Engineer - Financial Services",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T16:31:55-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7635342003?gh_jid=7635342003",
       "data_compliance": [
         {
@@ -11877,119 +12903,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7683734003?gh_jid=7683734003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5741129003,
-      "location": {
-        "name": "Copenhagen, Denmark"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Greenhouse Customer Success Admin",
-            "email": "scrubbed_email_vbt3cdfge9v1p3epujnlja@example.com",
-            "user_id": 4004076003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7683734003,
-      "updated_at": "2026-05-03T11:40:25-04:00",
-      "requisition_id": "R14048",
-      "title": "Manager, Pre-Sales and Solution Engineering - Nordics",
-      "company_name": "Celonis",
-      "first_published": "2026-03-30T10:25:24-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7681577003?gh_jid=7681577003",
       "data_compliance": [
         {
@@ -12103,6 +13016,119 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7683734003?gh_jid=7683734003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5741129003,
+      "location": {
+        "name": "Copenhagen, Denmark"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Greenhouse Customer Success Admin",
+            "email": "scrubbed_email_vbt3cdfge9v1p3epujnlja@example.com",
+            "user_id": 4004076003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7683734003,
+      "updated_at": "2026-05-03T11:40:25-04:00",
+      "requisition_id": "R14048",
+      "title": "Manager, Pre-Sales and Solution Engineering - Nordics",
+      "company_name": "Celonis",
+      "first_published": "2026-03-30T10:25:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7687716003?gh_jid=7687716003",
       "data_compliance": [
         {
@@ -12212,6 +13238,119 @@
       "title": "Manager, Product Management - Data Pipeline & Integration",
       "company_name": "Celonis",
       "first_published": "2026-04-17T09:21:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7727306003?gh_jid=7727306003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5761479003,
+      "location": {
+        "name": "Munich, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "James Leonard",
+            "email": "j.leonard.ext@celonis.com",
+            "user_id": 5534331003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "N/A",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": "",
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7727306003,
+      "updated_at": "2026-05-11T07:59:15-04:00",
+      "requisition_id": "654x",
+      "title": "Manager, Services Consulting - (Contract Opportunity)",
+      "company_name": "Celonis",
+      "first_published": "2026-05-11T07:57:01-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13120,119 +14259,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7694626003?gh_jid=7694626003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682928003,
-      "location": {
-        "name": "Remote, Germany, Duesseldorf"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7694626003,
-      "updated_at": "2026-04-24T11:22:49-04:00",
-      "requisition_id": "R13290",
-      "title": "Principal Client Value Partner",
-      "company_name": "Celonis",
-      "first_published": "2026-04-09T04:35:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7693390003?gh_jid=7693390003",
       "data_compliance": [
         {
@@ -13342,6 +14368,119 @@
       "title": "Principal Client Value Partner",
       "company_name": "Celonis",
       "first_published": "2026-04-08T08:25:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7694626003?gh_jid=7694626003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5682928003,
+      "location": {
+        "name": "Remote, Germany, Duesseldorf"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Daniel Toth",
+            "email": "d.toth@celonis.de",
+            "user_id": 4903644003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7694626003,
+      "updated_at": "2026-04-24T11:22:49-04:00",
+      "requisition_id": "R13290",
+      "title": "Principal Client Value Partner",
+      "company_name": "Celonis",
+      "first_published": "2026-04-09T04:35:59-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13459,119 +14598,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7548628003?gh_jid=7548628003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5682923003,
-      "location": {
-        "name": "London, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Maria Kershaw",
-            "email": "m.kershaw@celonis.com",
-            "user_id": 4190215003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7548628003,
-      "updated_at": "2026-04-07T09:52:30-04:00",
-      "requisition_id": "R13169",
-      "title": "Principal Enterprise Architect",
-      "company_name": "Celonis",
-      "first_published": "2025-12-05T10:40:24-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7618692003?gh_jid=7618692003",
       "data_compliance": [
         {
@@ -13616,9 +14642,9 @@
           "id": 4080290003,
           "name": "Recruiter",
           "value": {
-            "name": "Himani Rikhari",
-            "email": "h.rikhari.ext@celonis.com",
-            "user_id": 5439819003,
+            "name": "Sakshi Nigam",
+            "email": "s.nigam.ext@celonis.com",
+            "user_id": 5558895003,
             "employee_id": null
           },
           "value_type": "user"
@@ -13676,7 +14702,7 @@
         }
       ],
       "id": 7618692003,
-      "updated_at": "2026-04-13T12:27:32-04:00",
+      "updated_at": "2026-05-13T02:10:11-04:00",
       "requisition_id": "R13745",
       "title": "Principal Enterprise Architect",
       "company_name": "Celonis",
@@ -13907,6 +14933,119 @@
       "title": "Principal Enterprise Architect",
       "company_name": "Celonis",
       "first_published": "2026-04-22T14:42:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7548628003?gh_jid=7548628003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5682923003,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Maria Kershaw",
+            "email": "m.kershaw@celonis.com",
+            "user_id": 4190215003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7548628003,
+      "updated_at": "2026-05-11T07:33:44-04:00",
+      "requisition_id": "R13169",
+      "title": "Principal Enterprise Architect",
+      "company_name": "Celonis",
+      "first_published": "2025-12-05T10:40:24-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -14359,119 +15498,6 @@
       "title": " Principal Enterprise Architect (public sector)",
       "company_name": "Celonis",
       "first_published": "2026-04-22T14:46:04-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7660843003?gh_jid=7660843003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5730343003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7660843003,
-      "updated_at": "2026-05-08T12:20:21-04:00",
-      "requisition_id": "R14000",
-      "title": "Principal Value Engineer - Consumer Packaged Goods (CPG) Industry",
-      "company_name": "Celonis",
-      "first_published": "2026-03-13T11:40:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15493,6 +16519,119 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7661631003?gh_jid=7661631003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5657750003,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Daniel Toth",
+            "email": "d.toth@celonis.de",
+            "user_id": 4903644003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7661631003,
+      "updated_at": "2026-04-26T11:26:47-04:00",
+      "requisition_id": "R12792",
+      "title": "Senior Applied AI Solutions Architect - Process Intelligence",
+      "company_name": "Celonis",
+      "first_published": "2026-03-11T12:01:17-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7695040003?gh_jid=7695040003",
       "data_compliance": [
         {
@@ -15715,119 +16854,6 @@
       "title": "Senior Applied AI Solutions Architect - Process Intelligence",
       "company_name": "Celonis",
       "first_published": "2026-04-09T12:24:27-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7661631003?gh_jid=7661631003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5657750003,
-      "location": {
-        "name": "Amsterdam, Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7661631003,
-      "updated_at": "2026-04-26T11:26:47-04:00",
-      "requisition_id": "R12792",
-      "title": "Senior Applied AI Solutions Architect - Process Intelligence",
-      "company_name": "Celonis",
-      "first_published": "2026-03-11T12:01:17-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -16058,119 +17084,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7695043003?gh_jid=7695043003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5524784003,
-      "location": {
-        "name": "Copenhagen, Denmark"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Daniel Toth",
-            "email": "d.toth@celonis.de",
-            "user_id": 4903644003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7695043003,
-      "updated_at": "2026-05-03T16:05:39-04:00",
-      "requisition_id": "R12836",
-      "title": "Senior Applied AI Solutions Consultant ",
-      "company_name": "Celonis",
-      "first_published": "2026-04-09T12:22:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7695048003?gh_jid=7695048003",
       "data_compliance": [
         {
@@ -16280,6 +17193,119 @@
       "title": "Senior Applied AI Solutions Consultant ",
       "company_name": "Celonis",
       "first_published": "2026-04-09T12:25:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7695043003?gh_jid=7695043003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5524784003,
+      "location": {
+        "name": "Copenhagen, Denmark"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Daniel Toth",
+            "email": "d.toth@celonis.de",
+            "user_id": 4903644003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Orbit",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7695043003,
+      "updated_at": "2026-05-03T16:05:39-04:00",
+      "requisition_id": "R12836",
+      "title": "Senior Applied AI Solutions Consultant ",
+      "company_name": "Celonis",
+      "first_published": "2026-04-09T12:22:58-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17075,119 +18101,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7584475003?gh_jid=7584475003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5699057003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Bryan Lauer",
-            "email": "b.nicholaslauer@celonis.com",
-            "user_id": 5510872003,
-            "employee_id": null
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Backend",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7584475003,
-      "updated_at": "2026-03-31T10:12:50-04:00",
-      "requisition_id": "566X",
-      "title": "Senior Consultant",
-      "company_name": "Celonis",
-      "first_published": "2026-01-12T09:31:28-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7586387003?gh_jid=7586387003",
       "data_compliance": [
         {
@@ -17297,6 +18210,119 @@
       "title": "Senior Consultant",
       "company_name": "Celonis",
       "first_published": "2026-01-12T09:31:30-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7584475003?gh_jid=7584475003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5699057003,
+      "location": {
+        "name": "New York, US, New York"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bryan Lauer",
+            "email": "b.nicholaslauer@celonis.com",
+            "user_id": 5510872003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Backend",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7584475003,
+      "updated_at": "2026-03-31T10:12:50-04:00",
+      "requisition_id": "566X",
+      "title": "Senior Consultant",
+      "company_name": "Celonis",
+      "first_published": "2026-01-12T09:31:28-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17640,6 +18666,119 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7708453003?gh_jid=7708453003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5685046003,
+      "location": {
+        "name": "Raleigh, US, North Carolina"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Bryan Lauer",
+            "email": "b.nicholaslauer@celonis.com",
+            "user_id": 5510872003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Backend",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7708453003,
+      "updated_at": "2026-04-20T14:00:40-04:00",
+      "requisition_id": "R13382",
+      "title": "Senior Customer Support Engineer",
+      "company_name": "Celonis",
+      "first_published": "2026-04-20T14:00:40-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7544809003?gh_jid=7544809003",
       "data_compliance": [
         {
@@ -17753,7 +18892,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7708453003?gh_jid=7708453003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7731772003?gh_jid=7731772003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -17764,9 +18903,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5685046003,
+      "internal_job_id": 5751290003,
       "location": {
-        "name": "Raleigh, US, North Carolina"
+        "name": "Madrid, Spain"
       },
       "metadata": [
         {
@@ -17797,10 +18936,10 @@
           "id": 4080290003,
           "name": "Recruiter",
           "value": {
-            "name": "Bryan Lauer",
-            "email": "b.nicholaslauer@celonis.com",
-            "user_id": 5510872003,
-            "employee_id": null
+            "name": "Pablo Camporino",
+            "email": "p.camporino@celonis.com",
+            "user_id": 5502166003,
+            "employee_id": "08835"
           },
           "value_type": "user"
         },
@@ -17840,7 +18979,7 @@
         {
           "id": 9155214003,
           "name": "Job Function",
-          "value": "Backend",
+          "value": null,
           "value_type": "single_select"
         },
         {
@@ -17856,12 +18995,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7708453003,
-      "updated_at": "2026-04-20T14:00:40-04:00",
-      "requisition_id": "R13382",
-      "title": "Senior Customer Support Engineer",
+      "id": 7731772003,
+      "updated_at": "2026-05-12T03:34:11-04:00",
+      "requisition_id": "R14414",
+      "title": "Senior Integration & Automation Engineer",
       "company_name": "Celonis",
-      "first_published": "2026-04-20T14:00:40-04:00",
+      "first_published": "2026-05-12T03:34:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -19213,7 +20352,7 @@
         }
       ],
       "id": 7712675003,
-      "updated_at": "2026-04-29T03:49:28-04:00",
+      "updated_at": "2026-05-12T03:25:55-04:00",
       "requisition_id": "R14503",
       "title": "Senior Software Engineer - Provisioning and Licensing",
       "company_name": "Celonis",
@@ -19326,7 +20465,7 @@
         }
       ],
       "id": 7559294003,
-      "updated_at": "2026-04-30T10:57:00-04:00",
+      "updated_at": "2026-05-11T05:12:01-04:00",
       "requisition_id": "R13537",
       "title": "Senior Software Engineer -  SAP ABAP",
       "company_name": "Celonis",
@@ -20353,462 +21492,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7620436003?gh_jid=7620436003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 5714333003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7620436003,
-      "updated_at": "2026-05-08T12:27:11-04:00",
-      "requisition_id": "R13761",
-      "title": "Senior Value Engineer - Energy Industry",
-      "company_name": "Celonis",
-      "first_published": "2026-03-10T18:01:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7680930003?gh_jid=7680930003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 5714333003,
-      "location": {
-        "name": "Remote, US, Texas"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7680930003,
-      "updated_at": "2026-04-27T08:42:11-04:00",
-      "requisition_id": "R13761",
-      "title": "Senior Value Engineer - Energy Industry",
-      "company_name": "Celonis",
-      "first_published": "2026-03-26T16:32:51-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7681051003?gh_jid=7681051003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 5714333003,
-      "location": {
-        "name": "Raleigh, US, North Carolina"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7681051003,
-      "updated_at": "2026-04-24T08:33:30-04:00",
-      "requisition_id": "R13761",
-      "title": "Senior Value Engineer - Energy Industry",
-      "company_name": "Celonis",
-      "first_published": "2026-03-26T16:39:41-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7620444003?gh_jid=7620444003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 5714334003,
-      "location": {
-        "name": "New York, US, New York"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": "Professional Hire",
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Mitch Mitchell",
-            "email": "br.mitchell@celonis.com",
-            "user_id": 5482166003,
-            "employee_id": "08607"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": "Orbit",
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7620444003,
-      "updated_at": "2026-04-27T08:44:04-04:00",
-      "requisition_id": "R13824",
-      "title": "Senior Value Engineer- Healthcare Distribution",
-      "company_name": "Celonis",
-      "first_published": "2026-02-26T09:00:23-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7633846003?gh_jid=7633846003",
       "data_compliance": [
         {
@@ -21264,119 +21947,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7607677003?gh_jid=7607677003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5708911003,
-      "location": {
-        "name": "Munich, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4008575003,
-          "name": "Employment Type",
-          "value": "Regular - Unlimited",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13879587003,
-          "name": "Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 5699689003,
-          "name": "Company",
-          "value": "Celonis",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4072205003,
-          "name": "Language",
-          "value": "English",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4080290003,
-          "name": "Recruiter",
-          "value": {
-            "name": "Susanne Sassenfeld",
-            "email": "s.sassenfeld@celonis.com",
-            "user_id": 4614629003,
-            "employee_id": "03812"
-          },
-          "value_type": "user"
-        },
-        {
-          "id": 4080387003,
-          "name": "Referral Reward",
-          "value": {
-            "unit": "USD",
-            "amount": "1500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 7427826003,
-          "name": "agency engaged deleted",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7465144003,
-          "name": "Agency Engaged",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 7427840003,
-          "name": "Agency Name",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 7427842003,
-          "name": "Agency PO-Number",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 9155214003,
-          "name": "Job Function",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 38472466003,
-          "name": "Workday - Integration Date",
-          "value": null,
-          "value_type": "date"
-        },
-        {
-          "id": 11620923003,
-          "name": "Recruitment Campaign",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7607677003,
-      "updated_at": "2026-02-27T15:58:01-05:00",
-      "requisition_id": "R13827",
-      "title": "Strategic Account Executive / Client Partner - Manufacturing ",
-      "company_name": "Celonis",
-      "first_published": "2026-02-13T13:11:07-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7631651003?gh_jid=7631651003",
       "data_compliance": [
         {
@@ -21486,6 +22056,119 @@
       "title": "Strategic Account Executive / Client Partner - Manufacturing ",
       "company_name": "Celonis",
       "first_published": "2026-02-13T13:12:05-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7607677003?gh_jid=7607677003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5708911003,
+      "location": {
+        "name": "Munich, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Regular - Unlimited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Susanne Sassenfeld",
+            "email": "s.sassenfeld@celonis.com",
+            "user_id": 4614629003,
+            "employee_id": "03812"
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "USD",
+            "amount": "1500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7607677003,
+      "updated_at": "2026-02-27T15:58:01-05:00",
+      "requisition_id": "R13827",
+      "title": "Strategic Account Executive / Client Partner - Manufacturing ",
+      "company_name": "Celonis",
+      "first_published": "2026-02-13T13:11:07-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -22281,7 +22964,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7707724003?gh_jid=7707724003",
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7686306003?gh_jid=7686306003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -22292,22 +22975,21 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "education": "education_required",
-      "internal_job_id": 5753546003,
+      "internal_job_id": 5743544003,
       "location": {
-        "name": "Please Update Office Field"
+        "name": "Munich, Germany"
       },
       "metadata": [
         {
           "id": 4008575003,
           "name": "Employment Type",
-          "value": null,
+          "value": "Intern - Fixed Term - Trainee",
           "value_type": "single_select"
         },
         {
           "id": 13879587003,
           "name": "Type",
-          "value": null,
+          "value": "Early Professional Hire",
           "value_type": "single_select"
         },
         {
@@ -22326,10 +23008,10 @@
           "id": 4080290003,
           "name": "Recruiter",
           "value": {
-            "name": "Guadalupe Cubero Ordoñez",
-            "email": "g.cuberoordonez@celonis.com",
-            "user_id": 5308994003,
-            "employee_id": "06885"
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
           },
           "value_type": "user"
         },
@@ -22338,7 +23020,7 @@
           "name": "Referral Reward",
           "value": {
             "unit": "EUR",
-            "amount": "0.0"
+            "amount": "750.0"
           },
           "value_type": "currency"
         },
@@ -22375,7 +23057,7 @@
         {
           "id": 38472466003,
           "name": "Workday - Integration Date",
-          "value": "",
+          "value": null,
           "value_type": "date"
         },
         {
@@ -22385,12 +23067,238 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7707724003,
-      "updated_at": "2026-05-06T13:21:29-04:00",
-      "requisition_id": "642x",
-      "title": "xReq - ADA BDR FRANCE - Guadalupe",
+      "id": 7686306003,
+      "updated_at": "2026-05-12T05:24:09-04:00",
+      "requisition_id": "R14314",
+      "title": "Working Student Learning Experience Design",
       "company_name": "Celonis",
-      "first_published": "2026-05-06T13:21:29-04:00",
+      "first_published": "2026-04-10T03:56:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7692052003?gh_jid=7692052003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5747282003,
+      "location": {
+        "name": "Madrid, Spain"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Working Student",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7692052003,
+      "updated_at": "2026-05-12T05:22:23-04:00",
+      "requisition_id": "R14227",
+      "title": "Working Student Tax",
+      "company_name": "Celonis",
+      "first_published": "2026-04-16T11:22:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/celonis/jobs/7691023003?gh_jid=7691023003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5746853003,
+      "location": {
+        "name": "Munich, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4008575003,
+          "name": "Employment Type",
+          "value": "Working Student",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13879587003,
+          "name": "Type",
+          "value": "Early Professional Hire",
+          "value_type": "single_select"
+        },
+        {
+          "id": 5699689003,
+          "name": "Company",
+          "value": "Celonis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4072205003,
+          "name": "Language",
+          "value": "English",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4080290003,
+          "name": "Recruiter",
+          "value": {
+            "name": "Helena Hoyer",
+            "email": "h.hoyer@celonis.de",
+            "user_id": 5403387003,
+            "employee_id": null
+          },
+          "value_type": "user"
+        },
+        {
+          "id": 4080387003,
+          "name": "Referral Reward",
+          "value": {
+            "unit": "EUR",
+            "amount": "750.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 7427826003,
+          "name": "agency engaged deleted",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7465144003,
+          "name": "Agency Engaged",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 7427840003,
+          "name": "Agency Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 7427842003,
+          "name": "Agency PO-Number",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 9155214003,
+          "name": "Job Function",
+          "value": "Interns/Working Students",
+          "value_type": "single_select"
+        },
+        {
+          "id": 38472466003,
+          "name": "Workday - Integration Date",
+          "value": null,
+          "value_type": "date"
+        },
+        {
+          "id": 11620923003,
+          "name": "Recruitment Campaign",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7691023003,
+      "updated_at": "2026-05-12T05:23:36-04:00",
+      "requisition_id": "R14139",
+      "title": "Working Student Trust (Third-Party Risk Management)",
+      "company_name": "Celonis",
+      "first_published": "2026-04-10T09:43:34-04:00",
       "language": "en",
       "application_deadline": null
     }
