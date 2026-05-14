@@ -1,10 +1,10 @@
 {
   "company": "serviceexpress",
-  "fetched_at": "2026-04-26T05:40:34.885455",
-  "job_count": 1,
+  "fetched_at": "2026-05-14T06:26:22.022508",
+  "job_count": 2,
   "jobs": [
     {
-      "absolute_url": "https://ats.comparably.com/api/v1/gh/serviceexpress/jobs/8485612002?gh_jid=8485612002",
+      "absolute_url": "https://ats.comparably.com/api/v1/gh/serviceexpress/jobs/8543855002?gh_jid=8543855002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -17,9 +17,9 @@
       ],
       "education": "education_optional",
       "employment": "employment_optional",
-      "internal_job_id": 6389454002,
+      "internal_job_id": 6412643002,
       "location": {
-        "name": "Bentonville, AR"
+        "name": "Dallas, TX"
       },
       "metadata": [
         {
@@ -35,13 +35,55 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8485612002,
-      "updated_at": "2026-04-01T09:37:52-04:00",
-      "requisition_id": "22358",
+      "id": 8543855002,
+      "updated_at": "2026-05-13T11:47:50-04:00",
+      "requisition_id": "22359",
       "title": "Field Service Engineer",
       "company_name": "Service Express",
-      "first_published": "2026-03-30T15:17:48-04:00",
-      "language": "en"
+      "first_published": "2026-05-11T11:37:33-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://ats.comparably.com/api/v1/gh/serviceexpress/jobs/8547826002?gh_jid=8547826002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "employment": "employment_optional",
+      "internal_job_id": 6414228002,
+      "location": {
+        "name": "Cleveland, OH"
+      },
+      "metadata": [
+        {
+          "id": 10240128002,
+          "name": "Apply Now \"Thank You\" Page Name",
+          "value": "careers/apply-thank-you",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10270842002,
+          "name": "Apply Now Landing Page",
+          "value": "careers/apply-now",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8547826002,
+      "updated_at": "2026-05-13T14:58:21-04:00",
+      "requisition_id": "22360",
+      "title": "Research & Development Lab Engineer",
+      "company_name": "Service Express",
+      "first_published": "2026-05-13T12:16:49-04:00",
+      "language": "en",
+      "application_deadline": null
     }
   ]
 }
