@@ -1,7 +1,7 @@
 {
   "company": "aurorainnovation",
-  "fetched_at": "2026-05-18T07:09:45.537400",
-  "job_count": 165,
+  "fetched_at": "2026-05-21T07:06:43.549906",
+  "job_count": 172,
   "jobs": [
     {
       "absolute_url": "https://aurora.tech/jobs/8391240002?gh_jid=8391240002",
@@ -51,7 +51,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8432103002?gh_jid=8432103002",
+      "absolute_url": "https://aurora.tech/jobs/8390269002?gh_jid=8390269002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -64,7 +64,7 @@
       ],
       "internal_job_id": 6349604002,
       "location": {
-        "name": "Bozeman, Montana"
+        "name": "Mountain View, California"
       },
       "metadata": [
         {
@@ -86,12 +86,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8432103002,
+      "id": 8390269002,
       "updated_at": "2026-05-11T18:10:38-04:00",
       "requisition_id": "R-102617",
       "title": "Cadence PCB Librarian",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-02-20T16:53:25-05:00",
+      "first_published": "2026-02-20T16:53:22-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -141,7 +141,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8390269002?gh_jid=8390269002",
+      "absolute_url": "https://aurora.tech/jobs/8432103002?gh_jid=8432103002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -154,7 +154,7 @@
       ],
       "internal_job_id": 6349604002,
       "location": {
-        "name": "Mountain View, California"
+        "name": "Bozeman, Montana"
       },
       "metadata": [
         {
@@ -176,12 +176,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8390269002,
+      "id": 8432103002,
       "updated_at": "2026-05-11T18:10:38-04:00",
       "requisition_id": "R-102617",
       "title": "Cadence PCB Librarian",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-02-20T16:53:22-05:00",
+      "first_published": "2026-02-20T16:53:25-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -588,7 +588,7 @@
         }
       ],
       "id": 8204386002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "updated_at": "2026-05-18T17:30:45-04:00",
       "requisition_id": "R-102367",
       "title": "Graphics Pipeline Engineer",
       "company_name": "Aurora Innovation",
@@ -687,51 +687,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8301849002?gh_jid=8301849002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6313679002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8301849002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102492",
-      "title": "Machine Learning Engineering TL, Behavior Planning",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-01-05T20:23:24-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8360046002?gh_jid=8360046002",
       "data_compliance": [
         {
@@ -773,6 +728,51 @@
       "title": "Machine Learning Engineering TL, Behavior Planning",
       "company_name": "Aurora Innovation",
       "first_published": "2026-01-05T20:24:10-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8301849002?gh_jid=8301849002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6313679002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8301849002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102492",
+      "title": "Machine Learning Engineering TL, Behavior Planning",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-01-05T20:23:24-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -952,7 +952,7 @@
         }
       ],
       "id": 8435094002,
-      "updated_at": "2026-05-13T19:16:03-04:00",
+      "updated_at": "2026-05-18T18:31:07-04:00",
       "requisition_id": "R-102696",
       "title": "Mid-Level 3D Technical Director",
       "company_name": "Aurora Innovation",
@@ -1145,51 +1145,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8373348002?gh_jid=8373348002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6343103002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Hardware Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8373348002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102605",
-      "title": "Quality Engineer II",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-01-28T14:30:28-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8394494002?gh_jid=8394494002",
       "data_compliance": [
         {
@@ -1235,7 +1190,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8508542002?gh_jid=8508542002",
+      "absolute_url": "https://aurora.tech/jobs/8373348002?gh_jid=8373348002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1246,7 +1201,52 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6398873002,
+      "internal_job_id": 6343103002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Addition > Budgeted",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Hardware Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8373348002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102605",
+      "title": "Quality Engineer II",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-01-28T14:30:28-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8554823002?gh_jid=8554823002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417039002,
       "location": {
         "name": "Pittsburgh, Pennsylvania"
       },
@@ -1266,16 +1266,16 @@
         {
           "id": 14714666002,
           "name": "Career Site Category",
-          "value": "Hardware Engineering",
+          "value": "Finance",
           "value_type": "single_select"
         }
       ],
-      "id": 8508542002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102780",
-      "title": "Quality Engineer II - HW Systems",
+      "id": 8554823002,
+      "updated_at": "2026-05-20T18:55:50-04:00",
+      "requisition_id": "R-102818",
+      "title": "Senior Accountant II",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-04-20T18:03:29-04:00",
+      "first_published": "2026-05-20T18:55:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1507,51 +1507,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8343038002?gh_jid=8343038002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6326357002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Security",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8343038002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102512",
-      "title": "Senior Cloud Security Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-12-16T23:36:27-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8329868002?gh_jid=8329868002",
       "data_compliance": [
         {
@@ -1642,6 +1597,51 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8343038002?gh_jid=8343038002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6326357002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8343038002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102512",
+      "title": "Senior Cloud Security Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2025-12-16T23:36:27-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8512525002?gh_jid=8512525002",
       "data_compliance": [
         {
@@ -1678,7 +1678,7 @@
         }
       ],
       "id": 8512525002,
-      "updated_at": "2026-05-14T16:19:55-04:00",
+      "updated_at": "2026-05-20T12:56:26-04:00",
       "requisition_id": "R-102639",
       "title": "Senior Data Analyst, Workforce Strategy",
       "company_name": "Aurora Innovation",
@@ -1777,6 +1777,54 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8430477002?gh_jid=8430477002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6367326002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Addition > Budgeted",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8430477002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102672",
+      "title": "Senior Identity Management Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-02-19T23:29:29-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8430074002?gh_jid=8430074002",
       "data_compliance": [
         {
@@ -1869,54 +1917,6 @@
       "title": "Senior Identity Management Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-02-19T23:29:27-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8430477002?gh_jid=8430477002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6367326002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ",
-            "SEA1"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Security",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8430477002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102672",
-      "title": "Senior Identity Management Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-02-19T23:29:29-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2106,51 +2106,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8343954002?gh_jid=8343954002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6326341002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8343954002,
-      "updated_at": "2026-05-14T14:57:29-04:00",
-      "requisition_id": "R-102501",
-      "title": "Senior Product Security Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-12-18T11:57:06-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8539948002?gh_jid=8539948002",
       "data_compliance": [
         {
@@ -2187,7 +2142,7 @@
         }
       ],
       "id": 8539948002,
-      "updated_at": "2026-05-14T14:58:18-04:00",
+      "updated_at": "2026-05-20T01:28:15-04:00",
       "requisition_id": "R-102501",
       "title": "Senior Product Security Engineer",
       "company_name": "Aurora Innovation",
@@ -2196,7 +2151,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8329835002?gh_jid=8329835002",
+      "absolute_url": "https://aurora.tech/jobs/8343954002?gh_jid=8343954002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2209,7 +2164,7 @@
       ],
       "internal_job_id": 6326341002,
       "location": {
-        "name": "Mountain View, California"
+        "name": "Seattle, Washington"
       },
       "metadata": [
         {
@@ -2231,12 +2186,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8329835002,
-      "updated_at": "2026-05-14T14:56:49-04:00",
+      "id": 8343954002,
+      "updated_at": "2026-05-20T01:27:32-04:00",
       "requisition_id": "R-102501",
       "title": "Senior Product Security Engineer",
       "company_name": "Aurora Innovation",
-      "first_published": "2025-12-18T11:57:04-05:00",
+      "first_published": "2025-12-18T11:57:06-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2277,11 +2232,56 @@
         }
       ],
       "id": 8343953002,
-      "updated_at": "2026-05-14T14:57:16-04:00",
+      "updated_at": "2026-05-20T01:27:01-04:00",
       "requisition_id": "R-102501",
       "title": "Senior Product Security Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2025-12-18T11:57:05-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8329835002?gh_jid=8329835002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6326341002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8329835002,
+      "updated_at": "2026-05-20T01:26:14-04:00",
+      "requisition_id": "R-102501",
+      "title": "Senior Product Security Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2025-12-18T11:57:04-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2333,6 +2333,53 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8549662002?gh_jid=8549662002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6414910002,
+      "location": {
+        "name": "Bozeman, Montana; Mountain View, California; Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PIT3 - SPA"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "People & Workplace",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8549662002,
+      "updated_at": "2026-05-19T10:38:12-04:00",
+      "requisition_id": "R-102822",
+      "title": "Senior Recruiter",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T10:38:12-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8397428002?gh_jid=8397428002",
       "data_compliance": [
         {
@@ -2369,7 +2416,7 @@
         }
       ],
       "id": 8397428002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "updated_at": "2026-05-19T12:16:13-04:00",
       "requisition_id": "R-102627",
       "title": "Senior Software Engineer - Compute",
       "company_name": "Aurora Innovation",
@@ -2697,6 +2744,100 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8559063002?gh_jid=8559063002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417739002,
+      "location": {
+        "name": "San Francisco, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Marketing & Communications",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8559063002,
+      "updated_at": "2026-05-20T20:48:37-04:00",
+      "requisition_id": "R-102819",
+      "title": "Senior Staff Internal Communications",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-20T20:48:37-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8556485002?gh_jid=8556485002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417739002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Marketing & Communications",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8556485002,
+      "updated_at": "2026-05-20T20:48:36-04:00",
+      "requisition_id": "R-102819",
+      "title": "Senior Staff Internal Communications",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-20T20:48:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8452860002?gh_jid=8452860002",
       "data_compliance": [
         {
@@ -2738,53 +2879,6 @@
       "title": "Senior Staff Optical Packaging Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-04-23T10:04:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8541464002?gh_jid=8541464002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6411046002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8541464002,
-      "updated_at": "2026-05-13T11:16:33-04:00",
-      "requisition_id": "R-102807",
-      "title": "Senior Staff Product Designer - Customer Experience",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-08T16:39:49-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2836,6 +2930,197 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8541464002?gh_jid=8541464002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6411046002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Product",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8541464002,
+      "updated_at": "2026-05-13T11:16:33-04:00",
+      "requisition_id": "R-102807",
+      "title": "Senior Staff Product Designer - Customer Experience",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-08T16:39:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8557490002?gh_jid=8557490002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417317002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8557490002,
+      "updated_at": "2026-05-19T23:12:30-04:00",
+      "requisition_id": "R-102810",
+      "title": "Senior Staff Software Engineer (Security)",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T22:26:08-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8557492002?gh_jid=8557492002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417317002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8557492002,
+      "updated_at": "2026-05-19T23:12:44-04:00",
+      "requisition_id": "R-102810",
+      "title": "Senior Staff Software Engineer (Security)",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T22:26:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8555472002?gh_jid=8555472002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417317002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8555472002,
+      "updated_at": "2026-05-19T23:12:14-04:00",
+      "requisition_id": "R-102810",
+      "title": "Senior Staff Software Engineer (Security)",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T22:26:07-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8219544002?gh_jid=8219544002",
       "data_compliance": [
         {
@@ -2877,6 +3162,51 @@
       "title": "Senior Staff Tech Lead Manager Customer & Partner Integrations",
       "company_name": "Aurora Innovation",
       "first_published": "2025-10-20T17:19:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8394873002?gh_jid=8394873002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6255090002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Addition > Budgeted",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8394873002,
+      "updated_at": "2026-05-12T12:22:06-04:00",
+      "requisition_id": "R-102384",
+      "title": "Senior Staff Tech Lead Manager Customer & Partner Integrations",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-01-28T13:40:03-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2967,51 +3297,6 @@
       "title": "Senior Staff Tech Lead Manager Customer & Partner Integrations",
       "company_name": "Aurora Innovation",
       "first_published": "2025-10-20T17:19:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8394873002?gh_jid=8394873002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6255090002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8394873002,
-      "updated_at": "2026-05-12T12:22:06-04:00",
-      "requisition_id": "R-102384",
-      "title": "Senior Staff Tech Lead Manager Customer & Partner Integrations",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-01-28T13:40:03-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3376,51 +3661,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8192053002?gh_jid=8192053002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6246900002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": null,
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8192053002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102363",
-      "title": "Software Engineer, Functional Architecture",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-10-29T14:48:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
       "data_compliance": [
         {
@@ -3648,7 +3888,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8040957002?gh_jid=8040957002",
+      "absolute_url": "https://aurora.tech/jobs/8557485002?gh_jid=8557485002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3659,7 +3899,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6182611002,
+      "internal_job_id": 6417209002,
       "location": {
         "name": "Pittsburgh, Pennsylvania"
       },
@@ -3667,7 +3907,9 @@
         {
           "id": 116429135002,
           "name": "Additional Locations",
-          "value": null,
+          "value": [
+            "SEA1"
+          ],
           "value_type": "multi_select"
         },
         {
@@ -3679,16 +3921,110 @@
         {
           "id": 14714666002,
           "name": "Career Site Category",
-          "value": "Software Engineering",
+          "value": "Security",
           "value_type": "single_select"
         }
       ],
-      "id": 8040957002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102066",
-      "title": "Software Engineer II, Controls Data & Simulation",
+      "id": 8557485002,
+      "updated_at": "2026-05-19T23:14:59-04:00",
+      "requisition_id": "R-102823",
+      "title": "Software Engineer II (Security)",
       "company_name": "Aurora Innovation",
-      "first_published": "2025-08-11T17:20:58-04:00",
+      "first_published": "2026-05-19T22:24:20-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8555225002?gh_jid=8555225002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417209002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8555225002,
+      "updated_at": "2026-05-19T23:14:33-04:00",
+      "requisition_id": "R-102823",
+      "title": "Software Engineer II (Security)",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T22:24:18-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8557484002?gh_jid=8557484002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6417209002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8557484002,
+      "updated_at": "2026-05-19T23:14:48-04:00",
+      "requisition_id": "R-102823",
+      "title": "Software Engineer II (Security)",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-19T22:24:19-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3828,6 +4164,51 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8250339002?gh_jid=8250339002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6251868002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Addition > Budgeted",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8250339002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102371",
+      "title": "Software Engineer, Mapping",
+      "company_name": "Aurora Innovation",
+      "first_published": "2025-11-07T18:54:49-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8204392002?gh_jid=8204392002",
       "data_compliance": [
         {
@@ -3914,51 +4295,6 @@
       "title": "Software Engineer, Mapping",
       "company_name": "Aurora Innovation",
       "first_published": "2025-11-13T19:31:11-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8250339002?gh_jid=8250339002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6251868002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8250339002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102371",
-      "title": "Software Engineer, Mapping",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-11-07T18:54:49-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4094,6 +4430,56 @@
       "title": "Software Engineer, Planner Architecture",
       "company_name": "Aurora Innovation",
       "first_published": "2026-05-06T15:26:59-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8539943002?gh_jid=8539943002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6338902002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "BZN4",
+            "DFW1",
+            "PITHQ",
+            "SEA1"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Corporate IT",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8539943002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102603",
+      "title": "Staff Client Platform Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-07T14:15:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4248,56 +4634,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8539943002?gh_jid=8539943002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6338902002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "BZN4",
-            "DFW1",
-            "PITHQ",
-            "SEA1"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Corporate IT",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8539943002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102603",
-      "title": "Staff Client Platform Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-07T14:15:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8495796002?gh_jid=8495796002",
       "data_compliance": [
         {
@@ -4392,51 +4728,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8436444002?gh_jid=8436444002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6232919002,
-      "location": {
-        "name": "Dallas, Texas"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Finance",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8436444002,
-      "updated_at": "2026-05-14T14:45:43-04:00",
-      "requisition_id": "R-102277",
-      "title": "Staff Global Supply Manager",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-03-02T11:51:18-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8158152002?gh_jid=8158152002",
       "data_compliance": [
         {
@@ -4482,7 +4773,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8102750002?gh_jid=8102750002",
+      "absolute_url": "https://aurora.tech/jobs/8436444002?gh_jid=8436444002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4493,9 +4784,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6209478002,
+      "internal_job_id": 6232919002,
       "location": {
-        "name": "Mountain View, California"
+        "name": "Dallas, Texas"
       },
       "metadata": [
         {
@@ -4517,12 +4808,57 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8102750002,
+      "id": 8436444002,
+      "updated_at": "2026-05-14T14:45:43-04:00",
+      "requisition_id": "R-102277",
+      "title": "Staff Global Supply Manager",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-03-02T11:51:18-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8140170002?gh_jid=8140170002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6209478002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Finance",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8140170002,
       "updated_at": "2026-05-11T18:10:38-04:00",
       "requisition_id": "R-102179",
       "title": "Staff Global Supply Manager ",
       "company_name": "Aurora Innovation",
-      "first_published": "2025-08-06T11:33:23-04:00",
+      "first_published": "2025-08-26T22:10:31-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4617,7 +4953,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8140170002?gh_jid=8140170002",
+      "absolute_url": "https://aurora.tech/jobs/8102750002?gh_jid=8102750002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4630,7 +4966,7 @@
       ],
       "internal_job_id": 6209478002,
       "location": {
-        "name": "Pittsburgh, Pennsylvania"
+        "name": "Mountain View, California"
       },
       "metadata": [
         {
@@ -4652,12 +4988,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8140170002,
+      "id": 8102750002,
       "updated_at": "2026-05-11T18:10:38-04:00",
       "requisition_id": "R-102179",
       "title": "Staff Global Supply Manager ",
       "company_name": "Aurora Innovation",
-      "first_published": "2025-08-26T22:10:31-04:00",
+      "first_published": "2025-08-06T11:33:23-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4748,6 +5084,54 @@
       "title": "Staff Hardware System Validation Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-03-22T15:17:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8540049002?gh_jid=8540049002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6406505002,
+      "location": {
+        "name": "San Francisco, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Hardware Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8540049002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102798",
+      "title": "Staff Industrial Designer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-08T12:57:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4844,54 +5228,6 @@
       "title": "Staff Industrial Designer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-05-08T12:57:40-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8540049002?gh_jid=8540049002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6406505002,
-      "location": {
-        "name": "San Francisco, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ",
-            "SFO3"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Hardware Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8540049002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102798",
-      "title": "Staff Industrial Designer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-08T12:57:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5178,100 +5514,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8529822002?gh_jid=8529822002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6395216002,
-      "location": {
-        "name": "Pittsburgh, Pennsylvania"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8529822002,
-      "updated_at": "2026-05-13T11:31:23-04:00",
-      "requisition_id": "R-102771",
-      "title": "Staff Product Program Manager",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-04-30T11:52:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8499754002?gh_jid=8499754002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6395216002,
-      "location": {
-        "name": "Mountain View, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8499754002,
-      "updated_at": "2026-05-13T11:31:22-04:00",
-      "requisition_id": "R-102771",
-      "title": "Staff Product Program Manager",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-04-30T11:52:45-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8541480002?gh_jid=8541480002",
       "data_compliance": [
         {
@@ -5315,53 +5557,6 @@
       "title": "Staff Product Program Manager",
       "company_name": "Aurora Innovation",
       "first_published": "2026-05-08T14:47:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8541479002?gh_jid=8541479002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6401878002,
-      "location": {
-        "name": "San Francisco, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "SFO3"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Product",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8541479002,
-      "updated_at": "2026-05-13T11:16:28-04:00",
-      "requisition_id": "R-102783",
-      "title": "Staff Product Program Manager",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-08T14:47:05-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5413,6 +5608,53 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8499754002?gh_jid=8499754002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6395216002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8499754002,
+      "updated_at": "2026-05-13T11:31:22-04:00",
+      "requisition_id": "R-102771",
+      "title": "Staff Product Program Manager",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-04-30T11:52:45-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8529806002?gh_jid=8529806002",
       "data_compliance": [
         {
@@ -5460,6 +5702,100 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://aurora.tech/jobs/8529822002?gh_jid=8529822002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6395216002,
+      "location": {
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8529822002,
+      "updated_at": "2026-05-13T11:31:23-04:00",
+      "requisition_id": "R-102771",
+      "title": "Staff Product Program Manager",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-04-30T11:52:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8541479002?gh_jid=8541479002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6401878002,
+      "location": {
+        "name": "San Francisco, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Product",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8541479002,
+      "updated_at": "2026-05-13T11:16:28-04:00",
+      "requisition_id": "R-102783",
+      "title": "Staff Product Program Manager",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-08T14:47:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://aurora.tech/jobs/8284188002?gh_jid=8284188002",
       "data_compliance": [
         {
@@ -5496,60 +5832,11 @@
         }
       ],
       "id": 8284188002,
-      "updated_at": "2026-05-18T01:17:38-04:00",
+      "updated_at": "2026-05-19T12:53:22-04:00",
       "requisition_id": "R-102467",
       "title": "Staff Safety Data Scientist, Safety Analysis",
       "company_name": "Aurora Innovation",
       "first_published": "2025-11-12T17:20:06-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8539470002?gh_jid=8539470002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6409647002,
-      "location": {
-        "name": "San Francisco, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "DTW1",
-            "PITHQ",
-            "SFO3"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Security",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8539470002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102808",
-      "title": "Staff Security Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-08T15:00:06-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5599,6 +5886,55 @@
       "title": "Staff Security Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-05-08T15:00:07-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8539470002?gh_jid=8539470002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6409647002,
+      "location": {
+        "name": "San Francisco, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "DTW1",
+            "PITHQ",
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8539470002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102808",
+      "title": "Staff Security Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-08T15:00:06-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5749,54 +6085,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8539500002?gh_jid=8539500002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6410082002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ",
-            "SFO3"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Security",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8539500002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102809",
-      "title": "Staff Security Platform Engineer",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-08T16:51:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8539501002?gh_jid=8539501002",
       "data_compliance": [
         {
@@ -5841,6 +6129,54 @@
       "title": "Staff Security Platform Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-05-08T16:51:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8539500002?gh_jid=8539500002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6410082002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ",
+            "SFO3"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Security",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8539500002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102809",
+      "title": "Staff Security Platform Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-05-08T16:51:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6023,11 +6359,58 @@
         }
       ],
       "id": 8432303002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "updated_at": "2026-05-19T14:46:27-04:00",
       "requisition_id": "R-102691",
       "title": "Staff Software Engineer",
       "company_name": "Aurora Innovation",
       "first_published": "2026-02-24T00:12:24-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8427571002?gh_jid=8427571002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6366076002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8427571002,
+      "updated_at": "2026-05-20T13:59:33-04:00",
+      "requisition_id": "R-102691",
+      "title": "Staff Software Engineer",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-02-24T00:12:12-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6079,51 +6462,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8222830002?gh_jid=8222830002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6258713002,
-      "location": {
-        "name": "Mountain View, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8222830002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102382",
-      "title": "Staff Software Engineer, Continuous Learning",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-10-24T21:26:21-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8445783002?gh_jid=8445783002",
       "data_compliance": [
         {
@@ -6165,6 +6503,51 @@
       "title": "Staff Software Engineer, Continuous Learning",
       "company_name": "Aurora Innovation",
       "first_published": "2026-03-03T02:02:26-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8222830002?gh_jid=8222830002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6258713002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8222830002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102382",
+      "title": "Staff Software Engineer, Continuous Learning",
+      "company_name": "Aurora Innovation",
+      "first_published": "2025-10-24T21:26:21-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6214,51 +6597,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8190418002?gh_jid=8190418002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6235781002,
-      "location": {
-        "name": "Seattle, Washington"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Replacement > Replacement",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8190418002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102298",
-      "title": "Staff Software Engineer, Performance and Optimization",
-      "company_name": "Aurora Innovation",
-      "first_published": "2025-09-30T18:56:57-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://aurora.tech/jobs/8190421002?gh_jid=8190421002",
       "data_compliance": [
         {
@@ -6300,6 +6638,51 @@
       "title": "Staff Software Engineer, Performance and Optimization",
       "company_name": "Aurora Innovation",
       "first_published": "2025-09-30T18:56:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8190418002?gh_jid=8190418002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6235781002,
+      "location": {
+        "name": "Seattle, Washington"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Replacement > Replacement",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8190418002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102298",
+      "title": "Staff Software Engineer, Performance and Optimization",
+      "company_name": "Aurora Innovation",
+      "first_published": "2025-09-30T18:56:57-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6443,7 +6826,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8535410002?gh_jid=8535410002",
+      "absolute_url": "https://aurora.tech/jobs/8174071002?gh_jid=8174071002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6456,7 +6839,7 @@
       ],
       "internal_job_id": 6239512002,
       "location": {
-        "name": "Pittsburgh, Pennsylvania"
+        "name": "Mountain View, California"
       },
       "metadata": [
         {
@@ -6478,12 +6861,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8535410002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "id": 8174071002,
+      "updated_at": "2026-05-19T17:07:18-04:00",
       "requisition_id": "R-102318",
       "title": "Staff Technical Lead Manager (TLM), IT Systems Engineering",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-05-04T23:26:44-04:00",
+      "first_published": "2025-11-05T11:46:52-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6524,7 +6907,7 @@
         }
       ],
       "id": 8301517002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "updated_at": "2026-05-19T17:07:18-04:00",
       "requisition_id": "R-102318",
       "title": "Staff Technical Lead Manager (TLM), IT Systems Engineering",
       "company_name": "Aurora Innovation",
@@ -6533,7 +6916,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8174071002?gh_jid=8174071002",
+      "absolute_url": "https://aurora.tech/jobs/8535410002?gh_jid=8535410002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6546,7 +6929,7 @@
       ],
       "internal_job_id": 6239512002,
       "location": {
-        "name": "Mountain View, California"
+        "name": "Pittsburgh, Pennsylvania"
       },
       "metadata": [
         {
@@ -6568,59 +6951,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8174071002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
+      "id": 8535410002,
+      "updated_at": "2026-05-19T17:07:18-04:00",
       "requisition_id": "R-102318",
       "title": "Staff Technical Lead Manager (TLM), IT Systems Engineering",
       "company_name": "Aurora Innovation",
-      "first_published": "2025-11-05T11:46:52-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8467289002?gh_jid=8467289002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6382286002,
-      "location": {
-        "name": "Mountain View, California"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": [
-            "PITHQ"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8467289002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102724",
-      "title": "Staff Technical Product Operations Manager",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-03-19T09:47:24-04:00",
+      "first_published": "2026-05-04T23:26:44-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6668,6 +7004,53 @@
       "title": "Staff Technical Product Operations Manager",
       "company_name": "Aurora Innovation",
       "first_published": "2026-03-19T09:48:11-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://aurora.tech/jobs/8467289002?gh_jid=8467289002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6382286002,
+      "location": {
+        "name": "Mountain View, California"
+      },
+      "metadata": [
+        {
+          "id": 116429135002,
+          "name": "Additional Locations",
+          "value": [
+            "PITHQ"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 116428671002,
+          "name": "Opening Reason",
+          "value": "Addition > Budgeted",
+          "value_type": "long_text"
+        },
+        {
+          "id": 14714666002,
+          "name": "Career Site Category",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8467289002,
+      "updated_at": "2026-05-11T18:10:38-04:00",
+      "requisition_id": "R-102724",
+      "title": "Staff Technical Product Operations Manager",
+      "company_name": "Aurora Innovation",
+      "first_published": "2026-03-19T09:47:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6857,7 +7240,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8359479002?gh_jid=8359479002",
+      "absolute_url": "https://aurora.tech/jobs/8369655002?gh_jid=8369655002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6870,7 +7253,7 @@
       ],
       "internal_job_id": 6337995002,
       "location": {
-        "name": "Mountain View, California"
+        "name": "San Francisco, California"
       },
       "metadata": [
         {
@@ -6894,12 +7277,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8359479002,
+      "id": 8369655002,
       "updated_at": "2026-05-14T19:31:01-04:00",
       "requisition_id": "R-102592",
       "title": "Strategic Workforce Planning Lead",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-01-10T00:23:16-05:00",
+      "first_published": "2026-01-10T00:23:15-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6951,7 +7334,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://aurora.tech/jobs/8369655002?gh_jid=8369655002",
+      "absolute_url": "https://aurora.tech/jobs/8359479002?gh_jid=8359479002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6964,7 +7347,7 @@
       ],
       "internal_job_id": 6337995002,
       "location": {
-        "name": "San Francisco, California"
+        "name": "Mountain View, California"
       },
       "metadata": [
         {
@@ -6988,12 +7371,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8369655002,
+      "id": 8359479002,
       "updated_at": "2026-05-14T19:31:01-04:00",
       "requisition_id": "R-102592",
       "title": "Strategic Workforce Planning Lead",
       "company_name": "Aurora Innovation",
-      "first_published": "2026-01-10T00:23:15-05:00",
+      "first_published": "2026-01-10T00:23:16-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7184,51 +7567,6 @@
       "title": "Systems and Safety Engineer, Autonomy Sensing ",
       "company_name": "Aurora Innovation",
       "first_published": "2026-03-10T11:33:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://aurora.tech/jobs/8442578002?gh_jid=8442578002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6372393002,
-      "location": {
-        "name": "Dallas, Texas"
-      },
-      "metadata": [
-        {
-          "id": 116429135002,
-          "name": "Additional Locations",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 116428671002,
-          "name": "Opening Reason",
-          "value": "Addition > Budgeted",
-          "value_type": "long_text"
-        },
-        {
-          "id": 14714666002,
-          "name": "Career Site Category",
-          "value": "Vehicle Operations",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8442578002,
-      "updated_at": "2026-05-11T18:10:38-04:00",
-      "requisition_id": "R-102676",
-      "title": "Tactical Development Truck Operator",
-      "company_name": "Aurora Innovation",
-      "first_published": "2026-05-11T12:30:55-04:00",
       "language": "en",
       "application_deadline": null
     },
