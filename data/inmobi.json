@@ -1,6 +1,6 @@
 {
   "company": "inmobi",
-  "fetched_at": "2026-05-22T06:53:56.933904",
+  "fetched_at": "2026-05-25T07:16:48.055714",
   "job_count": 81,
   "jobs": [
     {
@@ -510,9 +510,10 @@
           "demographic_data_consent_applies": false
         }
       ],
+      "education": "education_optional",
       "internal_job_id": 3394542,
       "location": {
-        "name": "New York"
+        "name": "New York, NY"
       },
       "metadata": [
         {
@@ -545,7 +546,7 @@
         }
       ],
       "id": 7737109,
-      "updated_at": "2026-05-05T20:03:49-04:00",
+      "updated_at": "2026-05-22T18:20:10-04:00",
       "requisition_id": "10613",
       "title": "Director, Business Development",
       "company_name": "InMobi ",
@@ -3363,6 +3364,62 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/inmobi/jobs/7703789",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3385761,
+      "location": {
+        "name": "India"
+      },
+      "metadata": [
+        {
+          "id": 164841,
+          "name": "Base Country",
+          "value": [
+            "India"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4655336,
+          "name": "Backfill ID",
+          "value": [
+            "NA"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 29368,
+          "name": "Employment Type",
+          "value": "Full Time Employee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4617518,
+          "name": "Department Name (Career Site)",
+          "value": "Content & Platforms",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7703789,
+      "updated_at": "2026-05-25T02:37:26-04:00",
+      "requisition_id": "10584",
+      "title": "Senior Associate - AI Content Strategist ",
+      "company_name": "InMobi ",
+      "first_published": "2026-05-12T03:26:12-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/inmobi/jobs/7618774",
       "data_compliance": [
         {
@@ -3414,62 +3471,6 @@
       "title": "Senior Associate - Compliance",
       "company_name": "InMobi ",
       "first_published": "2026-03-17T12:50:32-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/inmobi/jobs/7703789",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3385761,
-      "location": {
-        "name": "India"
-      },
-      "metadata": [
-        {
-          "id": 164841,
-          "name": "Base Country",
-          "value": [
-            "India"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 4655336,
-          "name": "Backfill ID",
-          "value": [
-            "NA"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 29368,
-          "name": "Employment Type",
-          "value": "Full Time Employee",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4617518,
-          "name": "Department Name (Career Site)",
-          "value": "Content & Platforms",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7703789,
-      "updated_at": "2026-05-13T00:26:41-04:00",
-      "requisition_id": "10584",
-      "title": "Senior Associate - Content Writing",
-      "company_name": "InMobi ",
-      "first_published": "2026-05-12T03:26:12-04:00",
       "language": "en",
       "application_deadline": null
     },
