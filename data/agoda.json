@@ -1,7 +1,7 @@
 {
   "company": "agoda",
-  "fetched_at": "2026-05-23T06:08:31.593618",
-  "job_count": 308,
+  "fetched_at": "2026-05-26T06:47:33.227976",
+  "job_count": 303,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7849054",
@@ -121,6 +121,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7801117",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3406618,
+      "location": {
+        "name": "Chicago, IL"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7801117,
+      "updated_at": "2026-05-26T00:58:00-04:00",
+      "requisition_id": "6238",
+      "title": "Accounting Manager (Rocket Travel by Agoda)",
+      "company_name": "Agoda",
+      "first_published": "2026-04-09T14:35:52-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7841308",
       "data_compliance": [
         {
@@ -156,6 +195,45 @@
       "title": "Accounting Senior Analyst (Bangkok Based, No Relocation Support)",
       "company_name": "Agoda",
       "first_published": "2026-04-23T00:30:22-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7938190",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3448859,
+      "location": {
+        "name": "Tokyo, Japan"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Supply Market Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7938190,
+      "updated_at": "2026-05-24T20:11:30-04:00",
+      "requisition_id": "6306",
+      "title": "Account Manager",
+      "company_name": "Agoda",
+      "first_published": "2026-05-24T20:11:30-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -199,45 +277,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7305109",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3223343,
-      "location": {
-        "name": "Cairo, Egypt"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Supply Market Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7305109,
-      "updated_at": "2026-04-27T04:32:43-04:00",
-      "requisition_id": "6126",
-      "title": "Account Manager – French Speaking (Cairo-Based)",
-      "company_name": "Agoda",
-      "first_published": "2025-10-07T10:16:30-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7587849",
       "data_compliance": [
         {
@@ -273,45 +312,6 @@
       "title": "Account Manager - Homes, Japan  ",
       "company_name": "Agoda",
       "first_published": "2026-02-04T01:26:21-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7945939",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3223343,
-      "location": {
-        "name": "Cairo, Egypt"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Supply Market Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7945939,
-      "updated_at": "2026-05-20T03:02:41-04:00",
-      "requisition_id": "6126",
-      "title": "Account Manager – Italian Speaking (Cairo-Based)",
-      "company_name": "Agoda",
-      "first_published": "2026-05-20T03:02:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -550,45 +550,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7698486",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3384068,
-      "location": {
-        "name": "Manila"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Supply Market Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7698486,
-      "updated_at": "2026-03-30T00:55:59-04:00",
-      "requisition_id": "6206",
-      "title": "Account Team Lead",
-      "company_name": "Agoda",
-      "first_published": "2026-03-17T03:32:50-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7848998",
       "data_compliance": [
         {
@@ -663,45 +624,6 @@
       "title": "Account Team Lead, Growth – Europe (Cairo-Based)",
       "company_name": "Agoda",
       "first_published": "2025-11-24T02:22:14-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7361567",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3283003,
-      "location": {
-        "name": "Cairo, Egypt"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Supply Market Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7361567,
-      "updated_at": "2026-03-30T00:55:59-04:00",
-      "requisition_id": "6137",
-      "title": "Account Team Lead, Growth – Middle East (Cairo-Based)",
-      "company_name": "Agoda",
-      "first_published": "2025-11-24T02:20:58-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1490,6 +1412,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7139669",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3212039,
+      "location": {
+        "name": "Gurgaon, India"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Supply Market Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7139669,
+      "updated_at": "2026-05-25T05:57:02-04:00",
+      "requisition_id": "6173",
+      "title": "Area Manager – Gurgaon Based ",
+      "company_name": "Agoda",
+      "first_published": "2025-08-13T00:11:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7613199",
       "data_compliance": [
         {
@@ -2193,6 +2154,162 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7668079",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3374794,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Strategic Partnerships",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7668079,
+      "updated_at": "2026-05-26T01:37:32-04:00",
+      "requisition_id": null,
+      "title": "Associate Manager / Manager - Disputes, Finance Operations",
+      "company_name": "Agoda",
+      "first_published": "2026-03-10T00:53:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7956997",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3374794,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Strategic Partnerships",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7956997,
+      "updated_at": "2026-05-26T01:41:07-04:00",
+      "requisition_id": null,
+      "title": "Associate Manager / Manager - Finance Operations Excellence",
+      "company_name": "Agoda",
+      "first_published": "2026-05-26T01:41:07-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7956994",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3374794,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Strategic Partnerships",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7956994,
+      "updated_at": "2026-05-26T01:40:27-04:00",
+      "requisition_id": null,
+      "title": "Associate Manager / Manager - Financial Operations",
+      "company_name": "Agoda",
+      "first_published": "2026-05-26T01:40:27-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7956993",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3374794,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Strategic Partnerships",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7956993,
+      "updated_at": "2026-05-26T01:39:10-04:00",
+      "requisition_id": null,
+      "title": "Associate Manager / Manager - Partner Finance Operations",
+      "company_name": "Agoda",
+      "first_published": "2026-05-26T01:39:10-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/4390360",
       "data_compliance": [
         {
@@ -2457,7 +2574,7 @@
         }
       ],
       "id": 7881015,
-      "updated_at": "2026-05-22T18:00:00-04:00",
+      "updated_at": "2026-05-25T01:27:41-04:00",
       "requisition_id": null,
       "title": "Back End Lead Software Engineer - Accommodation/Flights/Supply/FinTech(Bangkok based - Relocation provided)",
       "company_name": "Agoda",
@@ -2775,45 +2892,6 @@
       "title": "Collections Senior Analyst (Bangkok based, relocated provided)",
       "company_name": "Agoda",
       "first_published": "2026-04-23T00:36:02-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7653748",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3283003,
-      "location": {
-        "name": "Cairo, Egypt"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Supply Market Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7653748,
-      "updated_at": "2026-03-30T00:55:59-04:00",
-      "requisition_id": "6137",
-      "title": "Commercial Team Lead, Growth Accounts – MEA (Cairo-Based)",
-      "company_name": "Agoda",
-      "first_published": "2026-02-25T09:59:14-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3754,45 +3832,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7912162",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3439731,
-      "location": {
-        "name": "Chicago, Illinois, United States"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "People and Organization Development",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7912162,
-      "updated_at": "2026-05-20T05:11:12-04:00",
-      "requisition_id": null,
-      "title": "Global Mobility Specialist - Chicago, IL Based",
-      "company_name": "Agoda",
-      "first_published": "2026-05-15T06:10:51-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7537551",
       "data_compliance": [
         {
@@ -3984,45 +4023,6 @@
       "title": " Head of Pay-in — Accounts Receivable Operations (Bangkok Based - Relocation Provided)",
       "company_name": "Agoda",
       "first_published": "2026-02-19T23:06:14-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7845745",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3419989,
-      "location": {
-        "name": "Gurgaon, India"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "NHA Market Development (NHA)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7845745,
-      "updated_at": "2026-05-21T06:26:30-04:00",
-      "requisition_id": "6266",
-      "title": "Homes Manager",
-      "company_name": "Agoda",
-      "first_published": "2026-04-29T06:16:07-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4257,45 +4257,6 @@
       "title": "[ITO] (GSD) Workday Specialist - Payroll Module (Bangkok/Indian/Malaysia-based, relocation provided)",
       "company_name": "Agoda",
       "first_published": "2026-03-10T06:13:46-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7590769",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3355388,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "IT Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7590769,
-      "updated_at": "2026-04-10T00:14:19-04:00",
-      "requisition_id": null,
-      "title": "[ITO] (Infra) Software Engineering Manager (Bangkok-based, relocation provided)",
-      "company_name": "Agoda",
-      "first_published": "2026-02-09T05:26:12-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4720,7 +4681,7 @@
         }
       ],
       "id": 6603735,
-      "updated_at": "2026-05-22T18:00:00-04:00",
+      "updated_at": "2026-05-25T01:28:00-04:00",
       "requisition_id": null,
       "title": "Lead Software Engineer (Backend / Distributed Systems) — Bangkok Relocation Provided",
       "company_name": "Agoda",
@@ -4798,7 +4759,7 @@
         }
       ],
       "id": 7548382,
-      "updated_at": "2026-05-21T15:00:02-04:00",
+      "updated_at": "2026-05-25T15:00:00-04:00",
       "requisition_id": null,
       "title": "Lead Software Engineer, DevOps Domain (Bangkok based, relocation provided)",
       "company_name": "Agoda",
@@ -4954,7 +4915,7 @@
         }
       ],
       "id": 7309653,
-      "updated_at": "2026-05-20T00:16:51-04:00",
+      "updated_at": "2026-05-25T09:01:43-04:00",
       "requisition_id": "5891",
       "title": "Lead Software Engineer - iOS (Bangkok based, Relocation provided)",
       "company_name": "Agoda",
@@ -5032,7 +4993,7 @@
         }
       ],
       "id": 7548081,
-      "updated_at": "2026-05-21T03:27:31-04:00",
+      "updated_at": "2026-05-25T13:19:17-04:00",
       "requisition_id": "6099",
       "title": "Lead/Staff Software Engineer - Android  (Bangkok based, Relocation provided)",
       "company_name": "Agoda",
@@ -5193,45 +5154,6 @@
       "title": "Manager, B2B Marketing (Bangkok-based, relocation provided)",
       "company_name": "Agoda",
       "first_published": "2026-02-25T07:08:15-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7668079",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3374794,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Strategic Partnerships",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7668079,
-      "updated_at": "2026-05-22T22:50:34-04:00",
-      "requisition_id": null,
-      "title": "Manager - Disputes, Finance Operations",
-      "company_name": "Agoda",
-      "first_published": "2026-03-10T00:53:05-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5627,7 +5549,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/5681882",
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7130135",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5635,12 +5557,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
       "internal_job_id": 2781481,
       "location": {
-        "name": "Bangkok (Central World Office)"
+        "name": "Bangkok"
       },
       "metadata": [
         {
@@ -5656,12 +5578,12 @@
           "value_type": "yes_no"
         }
       ],
-      "id": 5681882,
-      "updated_at": "2026-05-22T03:09:29-04:00",
+      "id": 7130135,
+      "updated_at": "2026-05-24T23:52:33-04:00",
       "requisition_id": null,
-      "title": "Manager / Senior Manager, Corporate Strategy (Bangkok Based)",
+      "title": "Manager/Senior Manager, Corporate Strategy (Bangkok Based)",
       "company_name": "Agoda",
-      "first_published": "2024-02-12T23:37:19-05:00",
+      "first_published": "2025-08-03T15:21:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6134,6 +6056,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7955976",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3279739,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Performance Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7955976,
+      "updated_at": "2026-05-25T00:55:13-04:00",
+      "requisition_id": "5915",
+      "title": "Marketing Growth Strategy & Analytics (Bangkok-based, relocation provided)",
+      "company_name": "Agoda",
+      "first_published": "2026-05-25T00:55:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/4892446",
       "data_compliance": [
         {
@@ -6325,45 +6286,6 @@
       "title": "Marketing Strategy Analyst, B2B Content (Bangkok Based, relocation provided)",
       "company_name": "Agoda",
       "first_published": "2025-05-08T02:54:53-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7920342",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3268514,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7920342,
-      "updated_at": "2026-05-13T03:15:15-04:00",
-      "requisition_id": null,
-      "title": "Oracle Fusion Functional Financial Consultant (Bangkok Based - Relocation Provided) ",
-      "company_name": "Agoda",
-      "first_published": "2026-05-13T03:15:15-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8124,6 +8046,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7953600",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3453276,
+      "location": {
+        "name": "Bangkok"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Legal",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7953600,
+      "updated_at": "2026-05-25T23:57:02-04:00",
+      "requisition_id": null,
+      "title": "Senior Counsel, Privacy (Fintech Area)",
+      "company_name": "Agoda",
+      "first_published": "2026-05-24T23:19:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/5465165",
       "data_compliance": [
         {
@@ -8739,7 +8700,7 @@
         }
       ],
       "id": 7903512,
-      "updated_at": "2026-05-19T05:57:34-04:00",
+      "updated_at": "2026-05-24T23:41:16-04:00",
       "requisition_id": "6284",
       "title": "Senior Lead/Senior Manager, Commercial Excellence (Bangkok-based)",
       "company_name": "Agoda",
@@ -8817,7 +8778,7 @@
         }
       ],
       "id": 7920714,
-      "updated_at": "2026-05-14T07:31:21-04:00",
+      "updated_at": "2026-05-24T23:40:59-04:00",
       "requisition_id": null,
       "title": "Senior Manager, B2B Analytics & Insights (Strategic Partnerships), (Bangkok Based)",
       "company_name": "Agoda",
@@ -9246,7 +9207,7 @@
         }
       ],
       "id": 7656848,
-      "updated_at": "2026-05-14T07:35:11-04:00",
+      "updated_at": "2026-05-24T23:44:39-04:00",
       "requisition_id": null,
       "title": "Senior Manager, Strategic Partnerships - Centre of Excellence (Bangkok based)",
       "company_name": "Agoda",
@@ -9530,45 +9491,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/3317373",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 1897454,
-      "location": {
-        "name": "Bangkok (Central World Office)"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Product",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 3317373,
-      "updated_at": "2026-05-07T04:50:34-04:00",
-      "requisition_id": null,
-      "title": "Senior Product Manager (Japan)",
-      "company_name": "Agoda",
-      "first_published": "2024-08-09T06:50:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/3317370",
       "data_compliance": [
         {
@@ -9604,6 +9526,45 @@
       "title": "Senior Product Manager (Japan)",
       "company_name": "Agoda",
       "first_published": "2024-08-09T06:50:51-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/3317373",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 1897454,
+      "location": {
+        "name": "Bangkok (Central World Office)"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "Product",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 3317373,
+      "updated_at": "2026-05-07T04:50:34-04:00",
+      "requisition_id": null,
+      "title": "Senior Product Manager (Japan)",
+      "company_name": "Agoda",
+      "first_published": "2024-08-09T06:50:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10115,6 +10076,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7956285",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3298094,
+      "location": {
+        "name": "Bangkok"
+      },
+      "metadata": [
+        {
+          "id": 7640309,
+          "name": "Sub Department",
+          "value": "People and Organization Development",
+          "value_type": "single_select"
+        },
+        {
+          "id": 55461,
+          "name": "Visa sponsored",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7956285,
+      "updated_at": "2026-05-25T06:45:21-04:00",
+      "requisition_id": null,
+      "title": "Senior Talent Acquisition Partner, Customer Experience Group",
+      "company_name": "Agoda",
+      "first_published": "2026-05-25T06:45:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/5774342",
       "data_compliance": [
         {
@@ -10189,45 +10189,6 @@
       "title": "Specialist, Business Process & Risk Control (SOX)",
       "company_name": "Agoda",
       "first_published": "2026-04-28T23:26:12-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7309903",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3268514,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7309903,
-      "updated_at": "2026-03-30T00:55:59-04:00",
-      "requisition_id": null,
-      "title": "Specialist - Fintech & Data Automation (Bangkok Based - Relocation Provided)",
-      "company_name": "Agoda",
-      "first_published": "2025-10-15T21:57:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10574,50 +10535,11 @@
         }
       ],
       "id": 6775382,
-      "updated_at": "2026-03-30T00:55:59-04:00",
+      "updated_at": "2026-05-26T00:10:04-04:00",
       "requisition_id": "5793",
       "title": "Staff Software Engineer - Back End (Bangkok based, Relocation provided)",
       "company_name": "Agoda",
       "first_published": "2025-04-22T07:22:25-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/6822823",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3127967,
-      "location": {
-        "name": "Gurugram"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "IT Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 6822823,
-      "updated_at": "2026-05-20T22:13:47-04:00",
-      "requisition_id": "5571",
-      "title": "Staff Software Engineer - Back End (Gurugram based)",
-      "company_name": "Agoda",
-      "first_published": "2025-04-23T01:58:39-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10847,7 +10769,7 @@
         }
       ],
       "id": 7923655,
-      "updated_at": "2026-05-14T00:37:01-04:00",
+      "updated_at": "2026-05-26T00:16:00-04:00",
       "requisition_id": "5793",
       "title": "Staff Software Engineer (L4) - Back End (Bangkok based, Relocation provided)",
       "company_name": "Agoda",
@@ -11480,86 +11402,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7366585",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3284894,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Corporate Strategy Department",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7366585,
-      "updated_at": "2026-04-22T02:48:45-04:00",
-      "requisition_id": "5932",
-      "title": "[Summer Internship 2026] Corporate Strategy Intern (Bangkok Based)",
-      "company_name": "Agoda",
-      "first_published": "2025-11-27T21:05:40-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7393252",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3284889,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Finance",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7393252,
-      "updated_at": "2026-03-30T00:55:59-04:00",
-      "requisition_id": "5929",
-      "title": "[Summer Internship 2026] Finance Intern, RPA (Bangkok Based)",
-      "company_name": "Agoda",
-      "first_published": "2025-11-13T23:10:45-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
       "data_compliance": [
         {
@@ -11907,45 +11749,6 @@
       "title": "WFM Capacity/ Senior Capacity Planner (KUL Based Only)",
       "company_name": "Agoda",
       "first_published": "2026-03-21T01:43:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/agoda/jobs/7805449",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3410072,
-      "location": {
-        "name": "Bangkok, Kuala Lumpur or Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 7640309,
-          "name": "Sub Department",
-          "value": "Global Service Verticals (GSV)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 55461,
-          "name": "Visa sponsored",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7805449,
-      "updated_at": "2026-05-21T01:06:20-04:00",
-      "requisition_id": "6241",
-      "title": "WFM Schedule Planner/Senior Schedule Planner (BKK,KUL or Gurgoan based)",
-      "company_name": "Agoda",
-      "first_published": "2026-04-16T21:57:46-04:00",
       "language": "en",
       "application_deadline": null
     },
