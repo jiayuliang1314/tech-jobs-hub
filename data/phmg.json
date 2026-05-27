@@ -1,7 +1,7 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-05-24T06:44:28.667074",
-  "job_count": 23,
+  "fetched_at": "2026-05-27T07:11:15.218397",
+  "job_count": 24,
   "jobs": [
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8561875002",
@@ -631,6 +631,58 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8564409002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5568848002,
+      "location": {
+        "name": "Pheonix, AZ"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Contract",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": null,
+            "amount": "40000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8564409002,
+      "updated_at": "2026-05-26T09:45:36-04:00",
+      "requisition_id": "812",
+      "title": "Office Coordinator - 3 Month FTC",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-05-26T09:16:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8558092002",
       "data_compliance": [
         {
@@ -787,58 +839,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8530991002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5272233002,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "40000.0",
-            "min_value": "40000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": null,
-            "amount": "90000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8530991002,
-      "updated_at": "2026-05-11T16:51:00-04:00",
-      "requisition_id": "537",
-      "title": "Sales Development Representative",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-04-30T07:34:07-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8542476002",
       "data_compliance": [
         {
@@ -887,6 +887,58 @@
       "title": "Sales Development Representative",
       "company_name": "PHMG Careers",
       "first_published": "2026-05-11T03:46:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8530991002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5272233002,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": null,
+            "amount": "90000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8530991002,
+      "updated_at": "2026-05-11T16:51:00-04:00",
+      "requisition_id": "537",
+      "title": "Sales Development Representative",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-04-30T07:34:07-04:00",
       "language": "en",
       "application_deadline": null
     },
