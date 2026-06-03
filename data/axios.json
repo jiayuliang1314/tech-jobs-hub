@@ -1,53 +1,8 @@
 {
   "company": "axios",
-  "fetched_at": "2026-05-31T07:07:09.450581",
-  "job_count": 24,
+  "fetched_at": "2026-06-03T08:24:11.525541",
+  "job_count": 23,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7428702",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3305873,
-      "location": {
-        "name": "New York City metro"
-      },
-      "metadata": [
-        {
-          "id": 26750791,
-          "name": "Location",
-          "value": "USA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 26750529,
-          "name": "Remote Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32609674,
-          "name": "Reason for Hire",
-          "value": "New Headcount",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7428702,
-      "updated_at": "2026-05-06T12:32:37-04:00",
-      "requisition_id": "REQ-100219",
-      "title": "Account Executive, Pro Deals",
-      "company_name": "Axios",
-      "first_published": "2025-12-04T12:46:19-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7819261",
       "data_compliance": [
@@ -364,6 +319,51 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7964836",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3457975,
+      "location": {
+        "name": "Remote"
+      },
+      "metadata": [
+        {
+          "id": 26750791,
+          "name": "Location",
+          "value": "USA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 26750529,
+          "name": "Remote Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32609674,
+          "name": "Reason for Hire",
+          "value": "New Headcount",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7964836,
+      "updated_at": "2026-06-01T21:50:14-04:00",
+      "requisition_id": "REQ-100296",
+      "title": "Director, Accounting",
+      "company_name": "Axios",
+      "first_published": "2026-06-01T21:50:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7674069",
       "data_compliance": [
         {
@@ -499,51 +499,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7822505",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3414830,
-      "location": {
-        "name": "Atlanta, GA"
-      },
-      "metadata": [
-        {
-          "id": 26750791,
-          "name": "Location",
-          "value": "USA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 26750529,
-          "name": "Remote Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32609674,
-          "name": "Reason for Hire",
-          "value": "New Headcount",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7822505,
-      "updated_at": "2026-05-13T10:18:23-04:00",
-      "requisition_id": "REQ-100280",
-      "title": "Local Advertising Account Executive",
-      "company_name": "Axios",
-      "first_published": "2026-04-17T15:30:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7822493",
       "data_compliance": [
         {
@@ -585,6 +540,51 @@
       "title": "Local Advertising Account Executive",
       "company_name": "Axios",
       "first_published": "2026-04-17T15:30:33-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7822505",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3414830,
+      "location": {
+        "name": "Atlanta, GA"
+      },
+      "metadata": [
+        {
+          "id": 26750791,
+          "name": "Location",
+          "value": "USA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 26750529,
+          "name": "Remote Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32609674,
+          "name": "Reason for Hire",
+          "value": "New Headcount",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7822505,
+      "updated_at": "2026-05-13T10:18:23-04:00",
+      "requisition_id": "REQ-100280",
+      "title": "Local Advertising Account Executive",
+      "company_name": "Axios",
+      "first_published": "2026-04-17T15:30:47-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -850,56 +850,11 @@
         }
       ],
       "id": 7819072,
-      "updated_at": "2026-05-06T12:32:38-04:00",
+      "updated_at": "2026-06-02T16:34:44-04:00",
       "requisition_id": "REQ-100271",
       "title": "Producer, Data Visualization & Automation, Axios Local (Temporary)",
       "company_name": "Axios",
       "first_published": "2026-04-15T17:38:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/axios/jobs/7406400",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3299879,
-      "location": {
-        "name": "Remote"
-      },
-      "metadata": [
-        {
-          "id": 26750791,
-          "name": "Location",
-          "value": "USA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 26750529,
-          "name": "Remote Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32609674,
-          "name": "Reason for Hire",
-          "value": "New Headcount",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7406400,
-      "updated_at": "2026-05-06T12:32:37-04:00",
-      "requisition_id": "REQ-100215",
-      "title": "Reporter, Axios Local (Cincinnati)",
-      "company_name": "Axios",
-      "first_published": "2025-11-18T14:03:32-05:00",
       "language": "en",
       "application_deadline": null
     },
