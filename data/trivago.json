@@ -1,7 +1,7 @@
 {
   "company": "trivago",
-  "fetched_at": "2026-06-02T07:30:41.449244",
-  "job_count": 9,
+  "fetched_at": "2026-06-05T07:12:27.067637",
+  "job_count": 11,
   "jobs": [
     {
       "absolute_url": "https://careers.trivago.com/job/r8464320002?gh_jid=8464320002",
@@ -132,7 +132,7 @@
         }
       ],
       "id": 8464320002,
-      "updated_at": "2026-05-15T11:16:17-04:00",
+      "updated_at": "2026-06-02T06:18:53-04:00",
       "requisition_id": "R0004089",
       "title": "Data Scientist - AI Search & Ranking",
       "company_name": "trivago",
@@ -269,7 +269,7 @@
         }
       ],
       "id": 8401443002,
-      "updated_at": "2026-05-22T09:34:03-04:00",
+      "updated_at": "2026-06-02T06:18:52-04:00",
       "requisition_id": "R0004062",
       "title": "Data Scientist - Price",
       "company_name": "trivago",
@@ -406,7 +406,7 @@
         }
       ],
       "id": 8554686002,
-      "updated_at": "2026-05-29T16:26:51-04:00",
+      "updated_at": "2026-06-02T06:18:53-04:00",
       "requisition_id": "R0004114",
       "title": "Fullstack Engineer (Product Minded)- Ai-first - Marketing",
       "company_name": "trivago",
@@ -543,7 +543,7 @@
         }
       ],
       "id": 8520520002,
-      "updated_at": "2026-04-23T11:40:39-04:00",
+      "updated_at": "2026-06-02T06:18:53-04:00",
       "requisition_id": "R0004110",
       "title": "Media Buyer",
       "company_name": "trivago",
@@ -552,7 +552,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.trivago.com/job/r8542488002?gh_jid=8542488002",
+      "absolute_url": "https://careers.trivago.com/job/r8570571002?gh_jid=8570571002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -563,7 +563,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6412366002,
+      "internal_job_id": 6381040002,
       "location": {
         "name": "Düsseldorf"
       },
@@ -571,25 +571,25 @@
         {
           "id": 20470910002,
           "name": "Job Family Group",
-          "value": "Product & UX",
+          "value": "Analytics",
           "value_type": "single_select"
         },
         {
           "id": 4938509002,
           "name": "Job Profile",
-          "value": "Product Manager A&I",
+          "value": "Data Scientist II",
           "value_type": "single_select"
         },
         {
           "id": 28189797002,
           "name": "Career Level",
-          "value": "JP-3676",
+          "value": "JP-3473",
           "value_type": "short_text"
         },
         {
           "id": 4938500002,
           "name": "Job Family",
-          "value": "Product Management",
+          "value": "Data Science",
           "value_type": "single_select"
         },
         {
@@ -601,7 +601,7 @@
         {
           "id": 4938402002,
           "name": "Experience level required",
-          "value": "Intern",
+          "value": "Mid Level",
           "value_type": "single_select"
         },
         {
@@ -679,12 +679,149 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8542488002,
-      "updated_at": "2026-05-21T05:08:46-04:00",
-      "requisition_id": "R0004113",
-      "title": "Product Management Internship - Monetization & Retention",
+      "id": 8570571002,
+      "updated_at": "2026-06-02T08:26:18-04:00",
+      "requisition_id": "R0004089",
+      "title": "Senior Data Scientist – AI Search & Machine Learning (m/w/d)",
       "company_name": "trivago",
-      "first_published": "2026-05-15T05:02:41-04:00",
+      "first_published": "2026-06-02T08:26:18-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.trivago.com/job/r8570574002?gh_jid=8570574002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6364704002,
+      "location": {
+        "name": "Düsseldorf"
+      },
+      "metadata": [
+        {
+          "id": 20470910002,
+          "name": "Job Family Group",
+          "value": "Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938509002,
+          "name": "Job Profile",
+          "value": "Systems Engineer III",
+          "value_type": "single_select"
+        },
+        {
+          "id": 28189797002,
+          "name": "Career Level",
+          "value": "JP-3588",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4938500002,
+          "name": "Job Family",
+          "value": "Infrastructure & Solutions Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938400002,
+          "name": "Time Type - DO NOT CHANGE",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938402002,
+          "name": "Experience level required",
+          "value": "Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938403002,
+          "name": "Job Language",
+          "value": [
+            "English"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4938510002,
+          "name": "Team Size",
+          "value": "10.0",
+          "value_type": "number"
+        },
+        {
+          "id": 109790462002,
+          "name": "Post to StSt",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 109790522002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790523002,
+          "name": "Language",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790564002,
+          "name": "Company Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 109790565002,
+          "name": "Recruiter",
+          "value": null,
+          "value_type": "user"
+        },
+        {
+          "id": 109790566002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109790567002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109910884002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109912446002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109912447002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8570574002,
+      "updated_at": "2026-06-02T08:25:29-04:00",
+      "requisition_id": "R0004070",
+      "title": "Senior Systems Engineer / DevOps Infrastructure Engineer (m/w/d)",
+      "company_name": "trivago",
+      "first_published": "2026-06-02T08:25:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -952,7 +1089,7 @@
         }
       ],
       "id": 8438830002,
-      "updated_at": "2026-05-27T06:22:24-04:00",
+      "updated_at": "2026-06-02T06:18:52-04:00",
       "requisition_id": "R0004080",
       "title": "Strategy and Growth Manager - Marketing Strategy and Intelligence",
       "company_name": "trivago",
@@ -1089,11 +1226,148 @@
         }
       ],
       "id": 8452302002,
-      "updated_at": "2026-05-26T11:33:36-04:00",
+      "updated_at": "2026-06-02T06:18:53-04:00",
       "requisition_id": "R0004084",
       "title": "Strategy & Growth Manager Internship",
       "company_name": "trivago",
       "first_published": "2026-03-10T04:46:40-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.trivago.com/job/r8566119002?gh_jid=8566119002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6370952002,
+      "location": {
+        "name": "Düsseldorf"
+      },
+      "metadata": [
+        {
+          "id": 20470910002,
+          "name": "Job Family Group",
+          "value": "Analytics",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938509002,
+          "name": "Job Profile",
+          "value": "Strategy & Growth Manager III",
+          "value_type": "single_select"
+        },
+        {
+          "id": 28189797002,
+          "name": "Career Level",
+          "value": "JP-3446",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4938500002,
+          "name": "Job Family",
+          "value": "Business Analysis",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938400002,
+          "name": "Time Type - DO NOT CHANGE",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938402002,
+          "name": "Experience level required",
+          "value": "Senior",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4938403002,
+          "name": "Job Language",
+          "value": [
+            "English"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4938510002,
+          "name": "Team Size",
+          "value": "9.0",
+          "value_type": "number"
+        },
+        {
+          "id": 109790462002,
+          "name": "Post to StSt",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 109790522002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790523002,
+          "name": "Language",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109790564002,
+          "name": "Company Name",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 109790565002,
+          "name": "Recruiter",
+          "value": null,
+          "value_type": "user"
+        },
+        {
+          "id": 109790566002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109790567002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109910884002,
+          "name": "Product",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 109912446002,
+          "name": "Salary",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 109912447002,
+          "name": "Salary Period",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8566119002,
+      "updated_at": "2026-06-02T08:25:55-04:00",
+      "requisition_id": "R0004080",
+      "title": "Strategy und Growth Manager - Marketing Strategy und Intelligence (m/w/d)",
+      "company_name": "trivago",
+      "first_published": "2026-06-02T08:25:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1226,7 +1500,7 @@
         }
       ],
       "id": 8424124002,
-      "updated_at": "2026-05-18T02:45:59-04:00",
+      "updated_at": "2026-06-02T06:18:52-04:00",
       "requisition_id": "R0004070",
       "title": "Systems Engineer",
       "company_name": "trivago",
