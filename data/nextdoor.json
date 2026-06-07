@@ -1,8 +1,34 @@
 {
   "company": "nextdoor",
-  "fetched_at": "2026-06-05T07:12:06.611573",
+  "fetched_at": "2026-06-07T07:18:39.652526",
   "job_count": 17,
   "jobs": [
+    {
+      "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=7931238",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3446273,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": null,
+      "id": 7931238,
+      "updated_at": "2026-06-05T13:12:56-04:00",
+      "requisition_id": null,
+      "title": "Client Platform Engineer, AI & Automation",
+      "company_name": "Nextdoor",
+      "first_published": "2026-06-05T13:12:56-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=7589341",
       "data_compliance": [
@@ -264,32 +290,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=7647029",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2761175,
-      "location": {
-        "name": "US Remote"
-      },
-      "metadata": null,
-      "id": 7647029,
-      "updated_at": "2026-05-12T13:27:48-04:00",
-      "requisition_id": null,
-      "title": "Senior Data Scientist - Fraud Prevention",
-      "company_name": "Nextdoor",
-      "first_published": "2026-02-23T12:34:55-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=6005888",
       "data_compliance": [
         {
@@ -344,33 +344,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=2080930",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 1286283,
-      "location": {
-        "name": "San Francisco, CA"
-      },
-      "metadata": null,
-      "id": 2080930,
-      "updated_at": "2026-05-27T13:10:57-04:00",
-      "requisition_id": null,
-      "title": "Senior Software Engineer - Backend",
-      "company_name": "Nextdoor",
-      "first_published": "2020-02-06T19:29:41-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=4980947",
       "data_compliance": [
         {
@@ -394,6 +367,33 @@
       "title": "Senior Software Engineer - Backend",
       "company_name": "Nextdoor",
       "first_published": "2023-04-07T16:58:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://about.nextdoor.com/careers-list/?gh_jid=2080930",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 1286283,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": null,
+      "id": 2080930,
+      "updated_at": "2026-05-27T13:10:57-04:00",
+      "requisition_id": null,
+      "title": "Senior Software Engineer - Backend",
+      "company_name": "Nextdoor",
+      "first_published": "2020-02-06T19:29:41-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -441,7 +441,7 @@
       },
       "metadata": null,
       "id": 7540015,
-      "updated_at": "2026-05-15T20:32:43-04:00",
+      "updated_at": "2026-06-05T12:32:28-04:00",
       "requisition_id": null,
       "title": "Software Engineer - iOS",
       "company_name": "Nextdoor",
