@@ -1,7 +1,7 @@
 {
   "company": "tripactions",
-  "fetched_at": "2026-06-05T07:19:56.143698",
-  "job_count": 214,
+  "fetched_at": "2026-06-08T07:44:28.510772",
+  "job_count": 208,
   "jobs": [
     {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7743126",
@@ -78,39 +78,35 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=4921918",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6913451",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 180,
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 2498357,
+      "internal_job_id": 3154313,
       "location": {
-        "name": "London, UK"
+        "name": "Austin, TX"
       },
       "metadata": [
         {
           "id": 5493347,
           "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
+          "value": null,
           "value_type": "currency_range"
         }
       ],
-      "id": 4921918,
-      "updated_at": "2026-05-22T12:28:28-04:00",
-      "requisition_id": "3072",
+      "id": 6913451,
+      "updated_at": "2026-06-04T16:17:27-04:00",
+      "requisition_id": "5084",
       "title": "Account Manager, Commercial",
       "company_name": "Navan",
-      "first_published": "2023-03-10T05:04:48-05:00",
+      "first_published": "2025-05-28T01:15:19-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -148,35 +144,39 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6913451",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=4921918",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 180,
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3154313,
+      "internal_job_id": 2498357,
       "location": {
-        "name": "Austin, TX"
+        "name": "London, UK"
       },
       "metadata": [
         {
           "id": 5493347,
           "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
           "value_type": "currency_range"
         }
       ],
-      "id": 6913451,
-      "updated_at": "2026-06-04T16:17:27-04:00",
-      "requisition_id": "5084",
+      "id": 4921918,
+      "updated_at": "2026-05-22T12:28:28-04:00",
+      "requisition_id": "3072",
       "title": "Account Manager, Commercial",
       "company_name": "Navan",
-      "first_published": "2025-05-28T01:15:19-04:00",
+      "first_published": "2023-03-10T05:04:48-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -214,39 +214,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6978785",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3170325,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 6978785,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5139",
-      "title": "Account Manager, Mid-Market",
-      "company_name": "Navan",
-      "first_published": "2025-06-13T14:24:30-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=6978762",
       "data_compliance": [
         {
@@ -276,6 +243,39 @@
       "title": "Account Manager, Mid-Market",
       "company_name": "Navan",
       "first_published": "2025-06-13T14:23:52-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6978785",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3170325,
+      "location": {
+        "name": "Palo Alto, CA or San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 6978785,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5139",
+      "title": "Account Manager, Mid-Market",
+      "company_name": "Navan",
+      "first_published": "2025-06-13T14:24:30-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -450,39 +450,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7467509",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3316978,
-      "location": {
-        "name": "San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7467509,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6019",
-      "title": "Associate Account Executive",
-      "company_name": "Navan",
-      "first_published": "2025-12-16T13:33:25-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=6988906",
       "data_compliance": [
         {
@@ -545,6 +512,39 @@
       "title": "Associate Account Executive",
       "company_name": "Navan",
       "first_published": "2026-05-06T10:22:34-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7467509",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3316978,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7467509,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6019",
+      "title": "Associate Account Executive",
+      "company_name": "Navan",
+      "first_published": "2025-12-16T13:33:25-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -648,39 +648,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7834421",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3417540,
-      "location": {
-        "name": "Austin, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7834421,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6786",
-      "title": "Associate Account Manager",
-      "company_name": "Navan",
-      "first_published": "2026-05-19T16:25:32-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7834422",
       "data_compliance": [
         {
@@ -710,6 +677,39 @@
       "title": "Associate Account Manager",
       "company_name": "Navan",
       "first_published": "2026-05-19T16:31:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7834421",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3417540,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7834421,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6786",
+      "title": "Associate Account Manager",
+      "company_name": "Navan",
+      "first_published": "2026-05-19T16:25:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1085,40 +1085,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7815302",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3412708,
-      "location": {
-        "name": "Bengaluru, IN"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7815302,
-      "updated_at": "2026-06-03T16:27:01-04:00",
-      "requisition_id": "6625",
-      "title": "Business Travel Consultant II",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T16:27:01-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7815202",
       "data_compliance": [
         {
@@ -1149,6 +1115,40 @@
       "title": "Business Travel Consultant II",
       "company_name": "Navan",
       "first_published": "2026-06-03T16:26:48-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7815302",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3412708,
+      "location": {
+        "name": "Bengaluru, IN"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7815302,
+      "updated_at": "2026-06-03T16:27:01-04:00",
+      "requisition_id": "6625",
+      "title": "Business Travel Consultant II",
+      "company_name": "Navan",
+      "first_published": "2026-06-03T16:27:01-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1388,39 +1388,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6611290",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3068229,
-      "location": {
-        "name": "Austin, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 6611290,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "4634",
-      "title": "Commercial Account Executive",
-      "company_name": "Navan",
-      "first_published": "2025-02-24T18:17:31-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=4883381",
       "data_compliance": [
         {
@@ -1458,7 +1425,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7979569",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6611290",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1469,73 +1436,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3455001,
-      "location": {
-        "name": "Dallas, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7979569,
-      "updated_at": "2026-06-04T13:50:54-04:00",
-      "requisition_id": "6839",
-      "title": "Commercial Counsel",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T12:06:25-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7979571",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3455001,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7979571,
-      "updated_at": "2026-06-04T13:50:54-04:00",
-      "requisition_id": "6839",
-      "title": "Commercial Counsel",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T12:06:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7957731",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3455001,
+      "internal_job_id": 3068229,
       "location": {
         "name": "Austin, TX"
       },
@@ -1547,78 +1448,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 7957731,
-      "updated_at": "2026-06-04T13:50:54-04:00",
-      "requisition_id": "6839",
-      "title": "Commercial Counsel",
+      "id": 6611290,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "4634",
+      "title": "Commercial Account Executive",
       "company_name": "Navan",
-      "first_published": "2026-06-03T12:06:23-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7979565",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3455001,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7979565,
-      "updated_at": "2026-06-04T13:50:54-04:00",
-      "requisition_id": "6839",
-      "title": "Commercial Counsel",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T12:06:24-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7979554",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3455001,
-      "location": {
-        "name": "Boston, MA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7979554,
-      "updated_at": "2026-06-04T13:50:54-04:00",
-      "requisition_id": "6839",
-      "title": "Commercial Counsel",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T12:06:23-04:00",
+      "first_published": "2025-02-24T18:17:31-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1690,40 +1525,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7774079",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3404039,
-      "location": {
-        "name": "Bengaluru, IN"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7774079,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6603",
-      "title": "Customer Care Lead Consultant",
-      "company_name": "Navan",
-      "first_published": "2026-04-13T04:24:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7807537",
       "data_compliance": [
         {
@@ -1754,6 +1555,40 @@
       "title": "Customer Care Lead Consultant",
       "company_name": "Navan",
       "first_published": "2026-04-11T14:05:17-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7774079",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3404039,
+      "location": {
+        "name": "Bengaluru, IN"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7774079,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6603",
+      "title": "Customer Care Lead Consultant",
+      "company_name": "Navan",
+      "first_published": "2026-04-13T04:24:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1825,39 +1660,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7861912",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3423605,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7861912,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6717",
-      "title": "Director, Account Management Revenue Operations",
-      "company_name": "Navan",
-      "first_published": "2026-04-28T15:12:11-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7826595",
       "data_compliance": [
         {
@@ -1887,6 +1689,39 @@
       "title": "Director, Account Management Revenue Operations",
       "company_name": "Navan",
       "first_published": "2026-04-20T17:30:52-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7861912",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3423605,
+      "location": {
+        "name": "New York, NY"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7861912,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6717",
+      "title": "Director, Account Management Revenue Operations",
+      "company_name": "Navan",
+      "first_published": "2026-04-28T15:12:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2122,6 +1957,80 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=5436420",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2700279,
+      "location": {
+        "name": "Paris, FR"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 5436420,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "3404",
+      "title": "Enterprise Account Executive",
+      "company_name": "Navan",
+      "first_published": "2024-07-22T15:51:54-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=4850079",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2470878,
+      "location": {
+        "name": "Palo Alto, CA or San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 4850079,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "2919",
+      "title": "Enterprise Account Executive",
+      "company_name": "Navan",
+      "first_published": "2023-02-10T13:52:51-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=4850077",
       "data_compliance": [
         {
@@ -2196,43 +2105,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=4850079",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2470878,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 4850079,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "2919",
-      "title": "Enterprise Account Executive",
-      "company_name": "Navan",
-      "first_published": "2023-02-10T13:52:51-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=5037746",
       "data_compliance": [
         {
@@ -2266,43 +2138,6 @@
       "title": "Enterprise Account Executive",
       "company_name": "Navan",
       "first_published": "2023-10-26T09:53:42-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=5436420",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2700279,
-      "location": {
-        "name": "Paris, FR"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 5436420,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "3404",
-      "title": "Enterprise Account Executive",
-      "company_name": "Navan",
-      "first_published": "2024-07-22T15:51:54-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2414,6 +2249,43 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6779381",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2505560,
+      "location": {
+        "name": "New York, NY"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 6779381,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "3095",
+      "title": "Enterprise Customer Success Manager",
+      "company_name": "Navan",
+      "first_published": "2025-04-04T17:22:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=4921963",
       "data_compliance": [
         {
@@ -2480,43 +2352,6 @@
       "title": "Enterprise Customer Success Manager",
       "company_name": "Navan",
       "first_published": "2026-06-01T18:49:33-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6779381",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2505560,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": "USD",
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 6779381,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "3095",
-      "title": "Enterprise Customer Success Manager",
-      "company_name": "Navan",
-      "first_published": "2025-04-04T17:22:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2694,39 +2529,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7161344",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3217333,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7161344,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5443",
-      "title": "Enterprise Solutions Consultant",
-      "company_name": "Navan",
-      "first_published": "2025-08-12T13:42:24-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7161345",
       "data_compliance": [
         {
@@ -2789,6 +2591,39 @@
       "title": "Enterprise Solutions Consultant",
       "company_name": "Navan",
       "first_published": "2025-08-12T13:42:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7161344",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3217333,
+      "location": {
+        "name": "New York, NY"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7161344,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5443",
+      "title": "Enterprise Solutions Consultant",
+      "company_name": "Navan",
+      "first_published": "2025-08-12T13:42:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2926,6 +2761,39 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7952224",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3450943,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7952224,
+      "updated_at": "2026-06-01T17:46:01-04:00",
+      "requisition_id": "6812",
+      "title": "Global Mobility Program Manager",
+      "company_name": "Navan",
+      "first_published": "2026-05-21T23:07:03-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7944488",
       "data_compliance": [
         {
@@ -2988,39 +2856,6 @@
       "title": "Global Mobility Program Manager",
       "company_name": "Navan",
       "first_published": "2026-06-01T17:45:22-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7952224",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3450943,
-      "location": {
-        "name": "Austin, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7952224,
-      "updated_at": "2026-06-01T17:46:01-04:00",
-      "requisition_id": "6812",
-      "title": "Global Mobility Program Manager",
-      "company_name": "Navan",
-      "first_published": "2026-05-21T23:07:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3124,39 +2959,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7732003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3393058,
-      "location": {
-        "name": "San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7732003,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6498",
-      "title": "GTM Engineer",
-      "company_name": "Navan",
-      "first_published": "2026-03-19T18:35:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7736983",
       "data_compliance": [
         {
@@ -3186,6 +2988,39 @@
       "title": "GTM Engineer",
       "company_name": "Navan",
       "first_published": "2026-03-19T18:35:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7732003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3393058,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7732003,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6498",
+      "title": "GTM Engineer",
+      "company_name": "Navan",
+      "first_published": "2026-03-19T18:35:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3322,40 +3157,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7951283",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3452839,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7951283,
-      "updated_at": "2026-06-03T12:31:58-04:00",
-      "requisition_id": "6859",
-      "title": "Income Tax Manager",
-      "company_name": "Navan",
-      "first_published": "2026-06-03T12:31:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7979703",
       "data_compliance": [
         {
@@ -3386,6 +3187,40 @@
       "title": "Income Tax Manager",
       "company_name": "Navan",
       "first_published": "2026-06-03T12:32:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7951283",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3452839,
+      "location": {
+        "name": "Palo Alto, CA or San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7951283,
+      "updated_at": "2026-06-03T12:31:58-04:00",
+      "requisition_id": "6859",
+      "title": "Income Tax Manager",
+      "company_name": "Navan",
+      "first_published": "2026-06-03T12:31:58-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3423,39 +3258,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7255690",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3248509,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7255690,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5634",
-      "title": "Integrations Manager",
-      "company_name": "Navan",
-      "first_published": "2025-09-30T13:41:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7288089",
       "data_compliance": [
         {
@@ -3489,20 +3291,20 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7825192",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7255690",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3415329,
+      "internal_job_id": 3248509,
       "location": {
-        "name": "Paris, FR"
+        "name": "New York, NY"
       },
       "metadata": [
         {
@@ -3512,12 +3314,49 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 7825192,
+      "id": 7255690,
       "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6709",
-      "title": "IT Supports Engineer ",
+      "requisition_id": "5634",
+      "title": "Integrations Manager",
       "company_name": "Navan",
-      "first_published": "2026-04-27T13:58:10-04:00",
+      "first_published": "2025-09-30T13:41:03-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=4851829",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2470878,
+      "location": {
+        "name": "Palo Alto, CA or San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 4851829,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "2919",
+      "title": "Major Enterprise Account Executive",
+      "company_name": "Navan",
+      "first_published": "2026-04-26T21:35:59-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3592,43 +3431,6 @@
       "title": "Major Enterprise Account Executive",
       "company_name": "Navan",
       "first_published": "2026-04-26T21:35:49-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=4851829",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2470878,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 4851829,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "2919",
-      "title": "Major Enterprise Account Executive",
-      "company_name": "Navan",
-      "first_published": "2026-04-26T21:35:59-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3965,43 +3767,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=4883363",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2484260,
-      "location": {
-        "name": "New York, NY"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": {
-            "unit": null,
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 4883363,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "2955",
-      "title": "Mid-Market Account Executive",
-      "company_name": "Navan",
-      "first_published": "2023-02-22T11:27:23-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=5442484",
       "data_compliance": [
         {
@@ -4039,7 +3804,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=4883346",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7392387",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4050,9 +3815,42 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 2484254,
+      "internal_job_id": 3294797,
       "location": {
-        "name": "Austin, TX"
+        "name": "Boston, MA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7392387,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5873",
+      "title": "Mid-Market Account Executive",
+      "company_name": "Navan",
+      "first_published": "2025-11-19T16:53:50-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=4883363",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2484260,
+      "location": {
+        "name": "New York, NY"
       },
       "metadata": [
         {
@@ -4066,12 +3864,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 4883346,
+      "id": 4883363,
       "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "2953",
+      "requisition_id": "2955",
       "title": "Mid-Market Account Executive",
       "company_name": "Navan",
-      "first_published": "2023-02-21T15:21:39-05:00",
+      "first_published": "2023-02-22T11:27:23-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4113,39 +3911,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7392387",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3294797,
-      "location": {
-        "name": "Boston, MA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7392387,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5873",
-      "title": "Mid-Market Account Executive",
-      "company_name": "Navan",
-      "first_published": "2025-11-19T16:53:50-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7255273",
       "data_compliance": [
         {
@@ -4179,6 +3944,43 @@
       "title": "Mid-Market Account Executive",
       "company_name": "Navan",
       "first_published": "2025-09-16T15:32:19-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=4883346",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2484254,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 4883346,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "2953",
+      "title": "Mid-Market Account Executive",
+      "company_name": "Navan",
+      "first_published": "2023-02-21T15:21:39-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4282,39 +4084,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7008462",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3178313,
-      "location": {
-        "name": "Palo Alto, CA or San Francisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7008462,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5198",
-      "title": "Mid-Market Solutions Consultant - Expense",
-      "company_name": "Navan",
-      "first_published": "2025-07-01T17:03:31-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7009122",
       "data_compliance": [
         {
@@ -4344,6 +4113,39 @@
       "title": "Mid-Market Solutions Consultant - Expense",
       "company_name": "Navan",
       "first_published": "2025-07-01T17:03:34-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7008462",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3178313,
+      "location": {
+        "name": "Palo Alto, CA or San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7008462,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5198",
+      "title": "Mid-Market Solutions Consultant - Expense",
+      "company_name": "Navan",
+      "first_published": "2025-07-01T17:03:31-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4612,7 +4414,7 @@
         }
       ],
       "id": 7779326,
-      "updated_at": "2026-05-21T18:22:53-04:00",
+      "updated_at": "2026-06-05T10:53:36-04:00",
       "requisition_id": "6584",
       "title": "Revenue Accounting Manager",
       "company_name": "Navan",
@@ -4621,7 +4423,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6790552",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6790593",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4632,9 +4434,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3119655,
+      "internal_job_id": 3119659,
       "location": {
-        "name": "London, UK"
+        "name": "Paris, FR"
       },
       "metadata": [
         {
@@ -4644,12 +4446,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 6790552,
+      "id": 6790593,
       "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "4905",
+      "requisition_id": "4906",
       "title": "Sales Development Representative",
       "company_name": "Navan",
-      "first_published": "2025-04-14T04:09:14-04:00",
+      "first_published": "2025-04-14T04:09:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4687,7 +4489,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=6790593",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=6790552",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4698,9 +4500,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3119659,
+      "internal_job_id": 3119655,
       "location": {
-        "name": "Paris, FR"
+        "name": "London, UK"
       },
       "metadata": [
         {
@@ -4710,12 +4512,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 6790593,
+      "id": 6790552,
       "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "4906",
+      "requisition_id": "4905",
       "title": "Sales Development Representative",
       "company_name": "Navan",
-      "first_published": "2025-04-14T04:09:41-04:00",
+      "first_published": "2025-04-14T04:09:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5091,39 +4893,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7974949",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3414398,
-      "location": {
-        "name": "Austin, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7974949,
-      "updated_at": "2026-06-01T19:52:20-04:00",
-      "requisition_id": "6641",
-      "title": "Senior Commercial Solutions Consultant",
-      "company_name": "Navan",
-      "first_published": "2026-06-01T17:33:27-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7974946",
       "data_compliance": [
         {
@@ -5153,6 +4922,39 @@
       "title": "Senior Commercial Solutions Consultant",
       "company_name": "Navan",
       "first_published": "2026-06-01T17:32:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7974949",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3414398,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7974949,
+      "updated_at": "2026-06-01T19:52:20-04:00",
+      "requisition_id": "6641",
+      "title": "Senior Commercial Solutions Consultant",
+      "company_name": "Navan",
+      "first_published": "2026-06-01T17:33:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5389,40 +5191,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7587407",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3354075,
-      "location": {
-        "name": "Bengaluru, IN"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7587407,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "6344",
-      "title": "Senior Fullstack Engineer",
-      "company_name": "Navan",
-      "first_published": "2026-02-20T03:37:21-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7938970",
       "data_compliance": [
         {
@@ -5487,6 +5255,40 @@
       "title": "Senior Fullstack Engineer",
       "company_name": "Navan",
       "first_published": "2026-03-19T04:15:06-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7587407",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3354075,
+      "location": {
+        "name": "Bengaluru, IN"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7587407,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "6344",
+      "title": "Senior Fullstack Engineer",
+      "company_name": "Navan",
+      "first_published": "2026-02-20T03:37:21-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6120,7 +5922,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7819107",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7819109",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6133,7 +5935,7 @@
       ],
       "internal_job_id": 3412564,
       "location": {
-        "name": "Austin, TX"
+        "name": "New York, NY"
       },
       "metadata": [
         {
@@ -6143,12 +5945,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 7819107,
+      "id": 7819109,
       "updated_at": "2026-05-21T18:22:53-04:00",
       "requisition_id": "6637",
       "title": "Senior Product Security Engineer",
       "company_name": "Navan",
-      "first_published": "2026-04-15T14:44:27-04:00",
+      "first_published": "2026-04-15T14:45:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6186,7 +5988,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7819109",
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7819107",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -6199,7 +6001,7 @@
       ],
       "internal_job_id": 3412564,
       "location": {
-        "name": "New York, NY"
+        "name": "Austin, TX"
       },
       "metadata": [
         {
@@ -6209,12 +6011,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 7819109,
+      "id": 7819107,
       "updated_at": "2026-05-21T18:22:53-04:00",
       "requisition_id": "6637",
       "title": "Senior Product Security Engineer",
       "company_name": "Navan",
-      "first_published": "2026-04-15T14:45:09-04:00",
+      "first_published": "2026-04-15T14:44:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6252,39 +6054,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7255604",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3247530,
-      "location": {
-        "name": "Austin, TX"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7255604,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5621",
-      "title": "Senior Revenue Operations Analyst, Data Quality",
-      "company_name": "Navan",
-      "first_published": "2025-09-16T16:57:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7253232",
       "data_compliance": [
         {
@@ -6314,6 +6083,39 @@
       "title": "Senior Revenue Operations Analyst, Data Quality",
       "company_name": "Navan",
       "first_published": "2025-09-16T16:55:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7255604",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3247530,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7255604,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5621",
+      "title": "Senior Revenue Operations Analyst, Data Quality",
+      "company_name": "Navan",
+      "first_published": "2025-09-16T16:57:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6384,39 +6186,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7896395",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3432317,
-      "location": {
-        "name": "Tel-Aviv, Israel"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7896395,
-      "updated_at": "2026-05-24T06:16:17-04:00",
-      "requisition_id": null,
-      "title": "Senior Software Engineer",
-      "company_name": "Navan",
-      "first_published": "2026-05-24T06:16:17-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7874424",
       "data_compliance": [
         {
@@ -6446,6 +6215,39 @@
       "title": "Senior Software Engineer",
       "company_name": "Navan",
       "first_published": "2026-05-11T23:38:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7896395",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3432317,
+      "location": {
+        "name": "Tel-Aviv, Israel"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7896395,
+      "updated_at": "2026-05-24T06:16:17-04:00",
+      "requisition_id": null,
+      "title": "Senior Software Engineer",
+      "company_name": "Navan",
+      "first_published": "2026-05-24T06:16:17-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7013,39 +6815,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://navan.com/careers/openings?gh_jid=7306763",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3267303,
-      "location": {
-        "name": "London, UK"
-      },
-      "metadata": [
-        {
-          "id": 5493347,
-          "name": "NY Pay Rate Range (LEGACY)",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7306763,
-      "updated_at": "2026-05-21T18:22:53-04:00",
-      "requisition_id": "5749",
-      "title": "Travel Payments Consultant",
-      "company_name": "Navan",
-      "first_published": "2025-10-08T08:25:22-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://navan.com/careers/openings?gh_jid=7599892",
       "data_compliance": [
         {
@@ -7075,6 +6844,39 @@
       "title": "Travel Payments Consultant",
       "company_name": "Navan",
       "first_published": "2026-02-09T14:15:03-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://navan.com/careers/openings?gh_jid=7306763",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3267303,
+      "location": {
+        "name": "London, UK"
+      },
+      "metadata": [
+        {
+          "id": 5493347,
+          "name": "NY Pay Rate Range (LEGACY)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7306763,
+      "updated_at": "2026-05-21T18:22:53-04:00",
+      "requisition_id": "5749",
+      "title": "Travel Payments Consultant",
+      "company_name": "Navan",
+      "first_published": "2025-10-08T08:25:22-04:00",
       "language": "en",
       "application_deadline": null
     },

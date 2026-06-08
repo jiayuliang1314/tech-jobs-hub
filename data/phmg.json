@@ -1,7 +1,7 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-06-05T07:14:41.509907",
-  "job_count": 22,
+  "fetched_at": "2026-06-08T07:39:13.619556",
+  "job_count": 23,
   "jobs": [
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8570597002",
@@ -577,6 +577,59 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8580073002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6427088002,
+      "location": {
+        "name": "Manchester"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "70000.0",
+            "min_value": "70000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "GBP",
+            "amount": "77000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8580073002,
+      "updated_at": "2026-06-05T09:15:27-04:00",
+      "requisition_id": "1097",
+      "title": "Data Scientist ",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-06-05T09:15:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8532733002",
       "data_compliance": [
         {
@@ -786,58 +839,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8571038002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5423263002,
-      "location": {
-        "name": "Manchester"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "GBP",
-            "max_value": "30000.0",
-            "min_value": "28000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": null,
-            "amount": "60000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8571038002,
-      "updated_at": "2026-05-29T11:12:51-04:00",
-      "requisition_id": "738",
-      "title": "Sales Development Representative",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-05-29T11:12:51-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8570479002",
       "data_compliance": [
         {
@@ -938,6 +939,58 @@
       "title": "Sales Development Representative",
       "company_name": "PHMG Careers",
       "first_published": "2026-05-07T09:29:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8571038002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5423263002,
+      "location": {
+        "name": "Manchester"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "30000.0",
+            "min_value": "28000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": null,
+            "amount": "60000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8571038002,
+      "updated_at": "2026-05-29T11:12:51-04:00",
+      "requisition_id": "738",
+      "title": "Sales Development Representative",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-05-29T11:12:51-04:00",
       "language": "en",
       "application_deadline": null
     },
