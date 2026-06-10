@@ -1,7 +1,7 @@
 {
   "company": "manychat",
-  "fetched_at": "2026-06-07T07:16:31.405787",
-  "job_count": 9,
+  "fetched_at": "2026-06-10T07:16:43.677195",
+  "job_count": 11,
   "jobs": [
     {
       "absolute_url": "https://boards.greenhouse.io/manychat/jobs/8503557002?gh_jid=8503557002",
@@ -70,18 +70,51 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/manychat/jobs/8514789002?gh_jid=8514789002",
+      "absolute_url": "https://boards.greenhouse.io/manychat/jobs/8579974002?gh_jid=8579974002",
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": false,
+          "requires_consent": true,
           "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
+          "requires_retention_consent": true,
+          "retention_period": 28,
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6401296002,
+      "internal_job_id": 6425078002,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 27586828002,
+          "name": "Functions",
+          "value": "Tech & Operations",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8579974002,
+      "updated_at": "2026-06-09T08:46:49-04:00",
+      "requisition_id": "642",
+      "title": "Cyber Security Lead ",
+      "company_name": "Manychat",
+      "first_published": "2026-06-09T08:46:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/manychat/jobs/8579930002?gh_jid=8579930002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 28,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6425078002,
       "location": {
         "name": "Barcelona, Spain"
       },
@@ -89,16 +122,16 @@
         {
           "id": 27586828002,
           "name": "Functions",
-          "value": "Technology",
+          "value": "Tech & Operations",
           "value_type": "single_select"
         }
       ],
-      "id": 8514789002,
-      "updated_at": "2026-04-23T13:11:49-04:00",
-      "requisition_id": "630",
-      "title": "IT Helpdesk Specialist",
+      "id": 8579930002,
+      "updated_at": "2026-06-09T08:45:35-04:00",
+      "requisition_id": "642",
+      "title": "Cyber Security Lead ",
       "company_name": "Manychat",
-      "first_published": "2026-04-20T11:00:40-04:00",
+      "first_published": "2026-06-09T08:44:22-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -132,6 +165,39 @@
       "title": "Office Manager ",
       "company_name": "Manychat",
       "first_published": "2026-06-05T05:57:32-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/manychat/jobs/8575092002?gh_jid=8575092002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6425113002,
+      "location": {
+        "name": "Barcelona, Spain"
+      },
+      "metadata": [
+        {
+          "id": 27586828002,
+          "name": "Functions",
+          "value": "Product Design",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8575092002,
+      "updated_at": "2026-06-08T05:15:19-04:00",
+      "requisition_id": "643",
+      "title": "Principal Designer, Ecosystem & Innovation",
+      "company_name": "Manychat",
+      "first_published": "2026-06-08T05:15:19-04:00",
       "language": "en",
       "application_deadline": null
     },
