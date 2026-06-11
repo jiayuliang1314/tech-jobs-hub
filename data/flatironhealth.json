@@ -1,8 +1,53 @@
 {
   "company": "flatironhealth",
-  "fetched_at": "2026-06-08T07:39:18.360751",
-  "job_count": 20,
+  "fetched_at": "2026-06-11T07:38:13.697542",
+  "job_count": 22,
   "jobs": [
+    {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7905200",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3436455,
+      "location": {
+        "name": "NY Office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "Remote - US general",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Entry-level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7905200,
+      "updated_at": "2026-06-08T13:57:35-04:00",
+      "requisition_id": "JR101967",
+      "title": "Associate, Content Marketing (Contractor)",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-06-08T13:57:35-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7980232",
       "data_compliance": [
@@ -338,9 +383,9 @@
         }
       ],
       "id": 7844431,
-      "updated_at": "2026-06-05T12:21:58-04:00",
+      "updated_at": "2026-06-09T16:01:07-04:00",
       "requisition_id": "JR101949",
-      "title": "Forward Deployed Software Engineer ",
+      "title": "Data Engineer, Customer Data Solutions",
       "company_name": "Flatiron Health",
       "first_published": "2026-04-24T16:42:34-04:00",
       "language": "en",
@@ -396,7 +441,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7600045",
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7989188",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -407,41 +452,41 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3357848,
+      "internal_job_id": 3466305,
       "location": {
-        "name": "Durham office"
+        "name": "Remote (Deutschland)"
       },
       "metadata": [
         {
           "id": 6571036,
           "name": "Job Compensation Range",
           "value": {
-            "unit": "USD",
-            "max_value": "141900.0",
-            "min_value": "103200.0"
+            "unit": "EUR",
+            "max_value": "53835.0",
+            "min_value": "37830.0"
           },
           "value_type": "currency_range"
         },
         {
           "id": 12077150,
           "name": "Preferred Primary Location",
-          "value": "Durham office",
+          "value": "Remote - DE",
           "value_type": "single_select"
         },
         {
           "id": 14772347,
           "name": "Experience Level",
-          "value": "Mid-level",
+          "value": "Entry-level",
           "value_type": "single_select"
         }
       ],
-      "id": 7600045,
-      "updated_at": "2026-05-27T13:06:59-04:00",
-      "requisition_id": "JR101881",
-      "title": "Manager, Compliance",
+      "id": 7989188,
+      "updated_at": "2026-06-10T05:12:03-04:00",
+      "requisition_id": "JR101930",
+      "title": "Medizinischer Dokumentar:in/Tumordokumentar:in (m/w/d)",
       "company_name": "Flatiron Health",
-      "first_published": "2026-02-10T19:45:00-05:00",
-      "language": "en",
+      "first_published": "2026-06-10T05:01:48-04:00",
+      "language": "de",
       "application_deadline": null
     },
     {
@@ -784,6 +829,55 @@
       "title": "Senior Research Scientist (RWE) - Custom Solutions and Services",
       "company_name": "Flatiron Health",
       "first_published": "2026-05-21T12:42:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7811773",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3411745,
+      "location": {
+        "name": "NY office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "209000.0",
+            "min_value": "152000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "NY office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Mid-level",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7811773,
+      "updated_at": "2026-06-09T12:37:40-04:00",
+      "requisition_id": "JR101919",
+      "title": "Senior Software Engineer, Academics",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-05-01T16:38:09-04:00",
       "language": "en",
       "application_deadline": null
     },

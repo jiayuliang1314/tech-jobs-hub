@@ -1,8 +1,75 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-06-08T07:41:48.637428",
-  "job_count": 15,
+  "fetched_at": "2026-06-11T07:40:44.689659",
+  "job_count": 16,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7985973",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3465429,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Individual Contributor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "80000.0",
+            "min_value": "75000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7985973,
+      "updated_at": "2026-06-10T19:41:13-04:00",
+      "requisition_id": "454",
+      "title": "Assessment Services Specialist (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-06-08T17:58:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7756408",
       "data_compliance": [
@@ -62,9 +129,9 @@
         }
       ],
       "id": 7756408,
-      "updated_at": "2026-06-01T14:20:00-04:00",
+      "updated_at": "2026-06-08T19:17:03-04:00",
       "requisition_id": "412",
-      "title": "Contract: AI Operations Specialist ",
+      "title": "Contract: Machine Learning Operations Specialist ",
       "company_name": "Newsela",
       "first_published": "2026-03-30T15:23:15-04:00",
       "language": "en",
@@ -196,7 +263,7 @@
         }
       ],
       "id": 7976784,
-      "updated_at": "2026-06-04T23:18:28-04:00",
+      "updated_at": "2026-06-10T19:41:12-04:00",
       "requisition_id": "449",
       "title": "Contract: Senior Software Engineer, Writing (Remote, LATAM)",
       "company_name": "Newsela",
@@ -263,7 +330,7 @@
         }
       ],
       "id": 7818607,
-      "updated_at": "2026-06-01T14:20:00-04:00",
+      "updated_at": "2026-06-10T19:25:02-04:00",
       "requisition_id": "426",
       "title": "Contract: Sr. Analytics Engineer - Internal Data ",
       "company_name": "Newsela",
@@ -537,6 +604,73 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7985966",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3465426,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Manager"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "110000.0",
+            "min_value": "90000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 7985966,
+      "updated_at": "2026-06-10T19:41:12-04:00",
+      "requisition_id": "452",
+      "title": "Manager, Assessment Services (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-06-08T17:44:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7823060",
       "data_compliance": [
         {
@@ -600,73 +734,6 @@
       "title": "Manager, Talent Acquisition (Remote, US)",
       "company_name": "Newsela",
       "first_published": "2026-04-27T22:54:57-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7859663",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3423168,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Temp/Contractor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Non-Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "ATS (Add To Staff)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7859663,
-      "updated_at": "2026-06-01T14:20:00-04:00",
-      "requisition_id": "433",
-      "title": "Project Based Freelance Contributor - Assessment Item Specialist, English Language Arts (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-04-28T21:09:22-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -863,7 +930,7 @@
         }
       ],
       "id": 7922810,
-      "updated_at": "2026-06-02T14:17:48-04:00",
+      "updated_at": "2026-06-08T15:08:56-04:00",
       "requisition_id": "441",
       "title": "Sales Development Representative (Remote, US)",
       "company_name": "Newsela",
