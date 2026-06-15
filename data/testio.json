@@ -1,41 +1,8 @@
 {
   "company": "testio",
-  "fetched_at": "2026-06-12T07:31:20.026366",
-  "job_count": 7,
+  "fetched_at": "2026-06-15T09:06:24.269045",
+  "job_count": 6,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/4001932002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4002234002,
-      "location": {
-        "name": "Seattle"
-      },
-      "metadata": [
-        {
-          "id": 4001919002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 4001932002,
-      "updated_at": "2025-04-11T16:38:14-04:00",
-      "requisition_id": "2",
-      "title": "Backend Sftware Engineering Ninja",
-      "company_name": "Termfront job board",
-      "first_published": null,
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8225672002",
       "data_compliance": [
@@ -104,39 +71,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8461671002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 4335923002,
-      "location": {
-        "name": "San Fransisco, CA"
-      },
-      "metadata": [
-        {
-          "id": 4001919002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8461671002,
-      "updated_at": "2026-03-12T21:41:37-04:00",
-      "requisition_id": null,
-      "title": "Data Science Manager of Things, Analytics",
-      "company_name": "Termfront job board",
-      "first_published": "2026-03-12T21:41:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8461659002",
       "data_compliance": [
         {
@@ -166,6 +100,39 @@
       "title": "Data Science Manager of Things, Analytics",
       "company_name": "Termfront job board",
       "first_published": "2026-03-12T20:48:43-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8461671002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4335923002,
+      "location": {
+        "name": "San Fransisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 4001919002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8461671002,
+      "updated_at": "2026-03-12T21:41:37-04:00",
+      "requisition_id": null,
+      "title": "Data Science Manager of Things, Analytics",
+      "company_name": "Termfront job board",
+      "first_published": "2026-03-12T21:41:37-04:00",
       "language": "en",
       "application_deadline": null
     },
