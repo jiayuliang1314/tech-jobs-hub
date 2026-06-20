@@ -1,6 +1,6 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-06-17T08:41:03.253525",
+  "fetched_at": "2026-06-20T07:13:28.353262",
   "job_count": 16,
   "jobs": [
     {
@@ -138,73 +138,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7976784",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3462050,
-      "location": {
-        "name": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Individual Contributor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "N/A or International"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "RPL (Replacement)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "6000.0",
-            "min_value": "4000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7976784,
-      "updated_at": "2026-06-16T13:00:12-04:00",
-      "requisition_id": "449",
-      "title": "Contract: Senior Software Engineer, Writing (Remote, LATAM)",
-      "company_name": "Newsela",
-      "first_published": "2026-06-04T23:18:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7818607",
       "data_compliance": [
         {
@@ -268,6 +201,73 @@
       "title": "Contract: Sr. Analytics Engineer - Internal Data ",
       "company_name": "Newsela",
       "first_published": "2026-05-26T17:21:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8011141",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3473418,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Director"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "132000.0",
+            "min_value": "115000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": true,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8011141,
+      "updated_at": "2026-06-18T13:09:08-04:00",
+      "requisition_id": "460",
+      "title": "Director, Professional Learning (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-06-18T13:09:08-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -537,7 +537,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7950900",
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8011854",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -548,7 +548,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3452712,
+      "internal_job_id": 3473630,
       "location": {
         "name": "Remote - US"
       },
@@ -573,7 +573,7 @@
           "id": 2134589,
           "name": "Add To Staff  (ATS) / Replacement (RPL)",
           "value": [
-            "RPL (Replacement)"
+            "ATS (Add To Staff)"
           ],
           "value_type": "multi_select"
         },
@@ -582,7 +582,7 @@
           "name": "Base Compensation Recruiting Range",
           "value": {
             "unit": "USD",
-            "max_value": "70000.0",
+            "max_value": "62500.0",
             "min_value": "60000.0"
           },
           "value_type": "currency_range"
@@ -594,12 +594,80 @@
           "value_type": "yes_no"
         }
       ],
-      "id": 7950900,
-      "updated_at": "2026-06-16T13:00:12-04:00",
-      "requisition_id": "444",
-      "title": "Learning Experience Designer, Supplemental ELA (Remote, US)",
+      "id": 8011854,
+      "updated_at": "2026-06-18T00:35:47-04:00",
+      "requisition_id": "463",
+      "title": "Expression of Interest: School Sales Representative (Remote, US)",
       "company_name": "Newsela",
-      "first_published": "2026-05-21T16:43:56-04:00",
+      "first_published": "2026-06-18T00:34:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8011837",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3473621,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Individual Contributor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)",
+            "RPL (Replacement)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "101200.0",
+            "min_value": "85000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8011837,
+      "updated_at": "2026-06-17T23:48:06-04:00",
+      "requisition_id": "462",
+      "title": "Expression of Interest: Strategic Account Executive (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-06-17T23:45:40-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -667,73 +735,6 @@
       "title": "Manager, Assessment Services (Remote, US)",
       "company_name": "Newsela",
       "first_published": "2026-06-08T17:44:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7723755",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3391174,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Individual Contributor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Non-Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "ATS (Add To Staff)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7723755,
-      "updated_at": "2026-06-16T13:00:12-04:00",
-      "requisition_id": "409",
-      "title": "Project Based Freelance Contributor - Assessment Item Specialist, Science (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-03-19T13:41:33-04:00",
       "language": "en",
       "application_deadline": null
     },
