@@ -1,8 +1,41 @@
 {
   "company": "upwork",
-  "fetched_at": "2026-06-20T07:12:50.468200",
-  "job_count": 11,
+  "fetched_at": "2026-06-23T06:58:00.222602",
+  "job_count": 12,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/upwork/jobs/7778873003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5783521003,
+      "location": {
+        "name": "Palo Alto, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 16824727003,
+          "name": "Business Unit",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7778873003,
+      "updated_at": "2026-06-22T14:54:21-04:00",
+      "requisition_id": "JR-1419",
+      "title": "Chief of Staff to the COO & GM of Marketplace ",
+      "company_name": "Upwork",
+      "first_published": "2026-06-22T14:54:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/upwork/jobs/5480839003",
       "data_compliance": [
@@ -37,39 +70,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/upwork/jobs/7741845003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5320564003,
-      "location": {
-        "name": "Lisbon, Portugal"
-      },
-      "metadata": [
-        {
-          "id": 16824727003,
-          "name": "Business Unit",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7741845003,
-      "updated_at": "2026-05-21T05:37:51-04:00",
-      "requisition_id": "JR-972",
-      "title": "Lead AI Engineer, NLQ & Agentic Systems",
-      "company_name": "Upwork",
-      "first_published": "2026-05-20T13:35:54-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/upwork/jobs/7741903003",
       "data_compliance": [
         {
@@ -99,6 +99,39 @@
       "title": "Lead AI Engineer, NLQ & Agentic Systems",
       "company_name": "Upwork",
       "first_published": "2026-05-20T13:36:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/upwork/jobs/7741845003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5320564003,
+      "location": {
+        "name": "Lisbon, Portugal"
+      },
+      "metadata": [
+        {
+          "id": 16824727003,
+          "name": "Business Unit",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7741845003,
+      "updated_at": "2026-05-21T05:37:51-04:00",
+      "requisition_id": "JR-972",
+      "title": "Lead AI Engineer, NLQ & Agentic Systems",
+      "company_name": "Upwork",
+      "first_published": "2026-05-20T13:35:54-04:00",
       "language": "en",
       "application_deadline": null
     },
