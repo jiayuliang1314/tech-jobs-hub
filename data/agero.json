@@ -1,8 +1,47 @@
 {
   "company": "agero",
-  "fetched_at": "2026-06-23T06:48:49.777800",
-  "job_count": 10,
+  "fetched_at": "2026-06-26T06:52:38.666780",
+  "job_count": 12,
   "jobs": [
+    {
+      "absolute_url": "https://www.agero.com/available-jobs?gh_jid=8596208002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6433409002,
+      "location": {
+        "name": "Clarksville, Tennessee, On Site"
+      },
+      "metadata": [
+        {
+          "id": 4007202002,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4009747002,
+          "name": "Travel",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8596208002,
+      "updated_at": "2026-06-24T11:14:58-04:00",
+      "requisition_id": "1663",
+      "title": "Associate Systems Engineer",
+      "company_name": "Agero",
+      "first_published": "2026-06-23T09:57:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://www.agero.com/available-jobs?gh_jid=8556651002",
       "data_compliance": [
@@ -312,6 +351,45 @@
       "title": "Senior Data Product Manager ",
       "company_name": "Agero",
       "first_published": "2026-05-22T15:50:52-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.agero.com/available-jobs?gh_jid=8579279002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6426744002,
+      "location": {
+        "name": "Remote"
+      },
+      "metadata": [
+        {
+          "id": 4007202002,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4009747002,
+          "name": "Travel",
+          "value": "N/A",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8579279002,
+      "updated_at": "2026-06-25T15:28:32-04:00",
+      "requisition_id": "1658",
+      "title": "Software Architect",
+      "company_name": "Agero",
+      "first_published": "2026-06-25T14:43:38-04:00",
       "language": "en",
       "application_deadline": null
     },
