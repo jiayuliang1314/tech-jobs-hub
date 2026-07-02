@@ -1,8 +1,42 @@
 {
   "company": "invoca",
-  "fetched_at": "2026-06-29T07:37:50.803713",
-  "job_count": 14,
+  "fetched_at": "2026-07-02T06:46:59.123514",
+  "job_count": 15,
   "jobs": [
+    {
+      "absolute_url": "https://www.invoca.com/company/job-listings/?gh_jid=8617170002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6441527002,
+      "location": {
+        "name": "US-Remote"
+      },
+      "metadata": [
+        {
+          "id": 4047915002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8617170002,
+      "updated_at": "2026-07-01T19:27:04-04:00",
+      "requisition_id": "INV-353",
+      "title": "Customer Success Manager",
+      "company_name": "Invoca",
+      "first_published": "2026-07-01T19:27:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://www.invoca.com/company/job-listings/?gh_jid=8580544002",
       "data_compliance": [
@@ -232,7 +266,7 @@
         }
       ],
       "id": 8467841002,
-      "updated_at": "2026-05-28T13:38:59-04:00",
+      "updated_at": "2026-06-29T13:38:41-04:00",
       "requisition_id": "INV-228",
       "title": "Senior Platform Technical Product Manager",
       "company_name": "Invoca",
