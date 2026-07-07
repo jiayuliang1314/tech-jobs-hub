@@ -1,8 +1,66 @@
 {
   "company": "theeyedoctors",
-  "fetched_at": "2026-07-04T06:22:52.498182",
-  "job_count": 14,
+  "fetched_at": "2026-07-07T06:49:29.256529",
+  "job_count": 15,
   "jobs": [
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8571953002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6423805002,
+      "location": {
+        "name": "Topeka"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Assistant Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8571953002,
+      "updated_at": "2026-07-06T16:56:58-04:00",
+      "requisition_id": "21567",
+      "title": "Assistant Office Manager",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-05-29T16:25:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8581207002",
       "data_compliance": [
@@ -62,64 +120,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8582757002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5844620002,
-      "location": {
-        "name": "Emporia, KS"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "The EyeDoctors",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kansas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8582757002,
-      "updated_at": "2026-06-08T16:32:06-04:00",
-      "requisition_id": "14922",
-      "title": "Comprehensive Optometrist",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-06-08T16:32:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8582749002",
       "data_compliance": [
         {
@@ -174,6 +174,64 @@
       "title": "Comprehensive Optometrist",
       "company_name": "The Eye Doctors",
       "first_published": "2026-06-08T16:30:20-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8582757002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5844620002,
+      "location": {
+        "name": "Emporia, KS"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8582757002,
+      "updated_at": "2026-06-08T16:32:06-04:00",
+      "requisition_id": "14922",
+      "title": "Comprehensive Optometrist",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-06-08T16:32:06-04:00",
       "language": "en",
       "application_deadline": null
     },
