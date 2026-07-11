@@ -1,7 +1,7 @@
 {
   "company": "contentful",
-  "fetched_at": "2026-07-08T06:03:50.531510",
-  "job_count": 32,
+  "fetched_at": "2026-07-11T05:53:50.165599",
+  "job_count": 33,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7859228",
@@ -514,6 +514,57 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/8050574",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3478557,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4110 Engineering Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1EN1ojBQ3lQ4sQnSoA0E04B5giYcNny1aecK9nUiu0wA/edit?usp=sharing",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "London",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 8050574,
+      "updated_at": "2026-07-08T10:57:09-04:00",
+      "requisition_id": "R26_000183",
+      "title": "Engineering Manager - Content API (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2026-07-08T10:57:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/8023842",
       "data_compliance": [
         {
@@ -556,7 +607,7 @@
         }
       ],
       "id": 8023842,
-      "updated_at": "2026-06-24T14:05:08-04:00",
+      "updated_at": "2026-07-08T05:24:22-04:00",
       "requisition_id": "R26_000183",
       "title": "Engineering Manager - Content API (f/m/d)",
       "company_name": "Contentful",
@@ -667,57 +718,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7557586",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3342825,
-      "location": {
-        "name": "Dublin, Dublin, Ireland"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4111 Development",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1UOaysdI1RWDdRSJwOCak_pweCbg8QoDnP87kP2cYvTE/edit?tab=t.0",
-          "value_type": "long_text"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "UK / IRE / Berlin",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7557586,
-      "updated_at": "2026-06-24T14:02:30-04:00",
-      "requisition_id": "R26_000049",
-      "title": "Fullstack Software Engineer (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2026-01-22T11:11:29-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7557597",
       "data_compliance": [
         {
@@ -765,6 +765,57 @@
       "title": "Fullstack Software Engineer (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2026-01-22T11:11:27-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7557586",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3342825,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4111 Development",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1UOaysdI1RWDdRSJwOCak_pweCbg8QoDnP87kP2cYvTE/edit?tab=t.0",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "UK / IRE / Berlin",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7557586,
+      "updated_at": "2026-06-24T14:02:30-04:00",
+      "requisition_id": "R26_000049",
+      "title": "Fullstack Software Engineer (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2026-01-22T11:11:29-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1126,57 +1177,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7776562",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3398612,
-      "location": {
-        "name": "London, England, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4111 Development",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1yBtzvg_C6vJr-HU7fzwYc-mhVrlAvlN1xK7rvGPjnpk/edit?tab=t.0#heading=h.qnzf4gg4zli1",
-          "value_type": "long_text"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "UK, Ireland",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7776562,
-      "updated_at": "2026-05-29T12:32:50-04:00",
-      "requisition_id": "R26_000128",
-      "title": "Senior Backend Engineer - AI Platform (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2026-04-02T18:08:00-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7753183",
       "data_compliance": [
         {
@@ -1224,6 +1224,57 @@
       "title": "Senior Backend Engineer - AI Platform (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2026-04-02T15:28:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7776562",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3398612,
+      "location": {
+        "name": "London, England, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4111 Development",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1yBtzvg_C6vJr-HU7fzwYc-mhVrlAvlN1xK7rvGPjnpk/edit?tab=t.0#heading=h.qnzf4gg4zli1",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "UK, Ireland",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7776562,
+      "updated_at": "2026-05-29T12:32:50-04:00",
+      "requisition_id": "R26_000128",
+      "title": "Senior Backend Engineer - AI Platform (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2026-04-02T18:08:00-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1483,57 +1534,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7557680",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3322252,
-      "location": {
-        "name": "Dublin, Dublin, Ireland"
-      },
-      "metadata": [
-        {
-          "id": 9206164,
-          "name": "Is this role part of our Hire Champion Initiative?",
-          "value": true,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 2430211,
-          "name": "Team (cost center)",
-          "value": "4111 Development",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14571614,
-          "name": "Job Description Link",
-          "value": "https://docs.google.com/document/d/1s-cVanSHrmAUKTLWmH0bc6NmfmE-binScJ_3quU1pd0/edit?tab=t.0#heading=h.qnzf4gg4zli1",
-          "value_type": "long_text"
-        },
-        {
-          "id": 22674273,
-          "name": "Job posting locations/Entities",
-          "value": "UK / IRE \n\nIRE banding Euro - 102,000 - 120,000 - 138,000",
-          "value_type": "long_text"
-        }
-      ],
-      "id": 7557680,
-      "updated_at": "2026-06-24T14:02:07-04:00",
-      "requisition_id": "R25_000563",
-      "title": " Senior Software Engineer - Machine Learning (f/m/d)",
-      "company_name": "Contentful",
-      "first_published": "2026-01-22T11:24:19-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7487850",
       "data_compliance": [
         {
@@ -1581,6 +1581,57 @@
       "title": " Senior Software Engineer - Machine Learning (f/m/d)",
       "company_name": "Contentful",
       "first_published": "2026-01-22T11:24:18-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7557680",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3322252,
+      "location": {
+        "name": "Dublin, Dublin, Ireland"
+      },
+      "metadata": [
+        {
+          "id": 9206164,
+          "name": "Is this role part of our Hire Champion Initiative?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 2430211,
+          "name": "Team (cost center)",
+          "value": "4111 Development",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14571614,
+          "name": "Job Description Link",
+          "value": "https://docs.google.com/document/d/1s-cVanSHrmAUKTLWmH0bc6NmfmE-binScJ_3quU1pd0/edit?tab=t.0#heading=h.qnzf4gg4zli1",
+          "value_type": "long_text"
+        },
+        {
+          "id": 22674273,
+          "name": "Job posting locations/Entities",
+          "value": "UK / IRE \n\nIRE banding Euro - 102,000 - 120,000 - 138,000",
+          "value_type": "long_text"
+        }
+      ],
+      "id": 7557680,
+      "updated_at": "2026-06-24T14:02:07-04:00",
+      "requisition_id": "R25_000563",
+      "title": " Senior Software Engineer - Machine Learning (f/m/d)",
+      "company_name": "Contentful",
+      "first_published": "2026-01-22T11:24:19-05:00",
       "language": "en",
       "application_deadline": null
     },
