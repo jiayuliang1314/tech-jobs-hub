@@ -1,8 +1,49 @@
 {
   "company": "flexport",
-  "fetched_at": "2026-07-12T05:47:37.142371",
-  "job_count": 144,
+  "fetched_at": "2026-07-15T05:22:15.749868",
+  "job_count": 146,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8052691",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3485609,
+      "location": {
+        "name": "Atlanta Warehouse; Chicago Warehouse; Dallas Warehouse; New York City, New York, United States; Phillipsburg Warehouse; San Bernardino Warehouse"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "432 Omni - Warehouse Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8052691,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": null,
+      "title": "4PL Area Manager",
+      "company_name": "Flexport",
+      "first_published": "2026-07-08T19:24:54-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8052720",
       "data_compliance": [
@@ -45,7 +86,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8052691",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8009198",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -56,15 +97,15 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3485609,
+      "internal_job_id": 3472585,
       "location": {
-        "name": "Atlanta Warehouse; Chicago Warehouse; Dallas Warehouse; New York City, New York, United States; Phillipsburg Warehouse; San Bernardino Warehouse"
+        "name": "Atlanta, Georgia, United States"
       },
       "metadata": [
         {
           "id": 3462015,
           "name": "Workday Cost Center",
-          "value": "432 Omni - Warehouse Operations",
+          "value": "528 NAM Demand",
           "value_type": "single_select"
         },
         {
@@ -76,12 +117,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8052691,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": null,
-      "title": "4PL Area Manager",
+      "id": 8009198,
+      "updated_at": "2026-07-14T11:35:25-04:00",
+      "requisition_id": "P-11390",
+      "title": "Account Executive ",
       "company_name": "Flexport",
-      "first_published": "2026-07-08T19:24:54-04:00",
+      "first_published": "2026-06-25T10:50:08-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -127,47 +168,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7564342",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3346166,
-      "location": {
-        "name": "Frankfurt, Germany; Hamburg, Germany"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "531 EMEA Demand",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "Backfill"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7564342,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-10987",
-      "title": "Account Executive, Enterprise",
-      "company_name": "Flexport",
-      "first_published": "2026-03-11T11:57:53-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7372929",
       "data_compliance": [
         {
@@ -209,6 +209,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7564342",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3346166,
+      "location": {
+        "name": "Frankfurt, Germany; Hamburg, Germany"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "531 EMEA Demand",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "Backfill"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7564342,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-10987",
+      "title": "Account Executive, Enterprise",
+      "company_name": "Flexport",
+      "first_published": "2026-03-11T11:57:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/6893746",
       "data_compliance": [
         {
@@ -246,47 +287,6 @@
       "title": "Account Executive, Enterprise",
       "company_name": "Flexport",
       "first_published": "2025-05-19T04:33:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8009198",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3472585,
-      "location": {
-        "name": "Atlanta, Georgia, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "528 NAM Demand",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8009198,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11390",
-      "title": "Account Executive III (Farmer)",
-      "company_name": "Flexport",
-      "first_published": "2026-06-25T10:50:08-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -455,47 +455,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8010901",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3473323,
-      "location": {
-        "name": "Bellevue, Washington, United States; New York City, New York, United States; San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "117 Capital",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8010901,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11400",
-      "title": "Account Manager, Flexport Capital",
-      "company_name": "Flexport",
-      "first_published": "2026-06-24T16:02:41-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8027188",
       "data_compliance": [
         {
@@ -528,6 +487,47 @@
         }
       ],
       "id": 8027188,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-11400",
+      "title": "Account Manager, Flexport Capital",
+      "company_name": "Flexport",
+      "first_published": "2026-06-24T16:02:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8010901",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3473323,
+      "location": {
+        "name": "Bellevue, Washington, United States; New York City, New York, United States; San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "117 Capital",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8010901,
       "updated_at": "2026-07-09T19:28:21-04:00",
       "requisition_id": "P-11400",
       "title": "Account Manager, Flexport Capital",
@@ -865,6 +865,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7858830",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3422865,
+      "location": {
+        "name": "Pleasant Prairie, Wisconsin, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "432 Omni - Warehouse Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7858830,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": null,
+      "title": "Area Manager",
+      "company_name": "Flexport",
+      "first_published": "2026-04-27T14:19:43-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8029374",
       "data_compliance": [
         {
@@ -947,47 +988,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7858830",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3422865,
-      "location": {
-        "name": "Pleasant Prairie, Wisconsin, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "432 Omni - Warehouse Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7858830,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": null,
-      "title": "Area Manager",
-      "company_name": "Flexport",
-      "first_published": "2026-04-27T14:19:43-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7698283",
       "data_compliance": [
         {
@@ -1025,6 +1025,47 @@
       "title": "Area Manager ",
       "company_name": "Flexport",
       "first_published": "2026-03-12T11:16:01-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8065784",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3383970,
+      "location": {
+        "name": "Phillipsburg Warehouse"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "432 Omni - Warehouse Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8065784,
+      "updated_at": "2026-07-14T19:15:59-04:00",
+      "requisition_id": "P-11089",
+      "title": "Area Manager - New Grad",
+      "company_name": "Flexport",
+      "first_published": "2026-07-14T19:15:59-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1228,7 +1269,7 @@
         }
       ],
       "id": 8015840,
-      "updated_at": "2026-07-09T19:28:21-04:00",
+      "updated_at": "2026-07-13T13:45:29-04:00",
       "requisition_id": "P-11473",
       "title": "Automation Engineer I",
       "company_name": "Flexport",
@@ -1564,7 +1605,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7954920",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8031531",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1577,7 +1618,7 @@
       ],
       "internal_job_id": 3453786,
       "location": {
-        "name": "Salt Lake City, Utah, United States"
+        "name": "Phoenix, Arizona, United States"
       },
       "metadata": [
         {
@@ -1595,12 +1636,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7954920,
+      "id": 8031531,
       "updated_at": "2026-07-09T19:28:21-04:00",
       "requisition_id": "P-11233",
       "title": "Enterprise Account Executive",
       "company_name": "Flexport",
-      "first_published": "2026-06-08T13:41:22-04:00",
+      "first_published": "2026-06-26T16:20:17-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1646,7 +1687,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8031531",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7954920",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1659,7 +1700,7 @@
       ],
       "internal_job_id": 3453786,
       "location": {
-        "name": "Phoenix, Arizona, United States"
+        "name": "Salt Lake City, Utah, United States"
       },
       "metadata": [
         {
@@ -1677,17 +1718,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8031531,
+      "id": 7954920,
       "updated_at": "2026-07-09T19:28:21-04:00",
       "requisition_id": "P-11233",
       "title": "Enterprise Account Executive",
       "company_name": "Flexport",
-      "first_published": "2026-06-26T16:20:17-04:00",
+      "first_published": "2026-06-08T13:41:22-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8029024",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7843084",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1698,9 +1739,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3480646,
+      "internal_job_id": 3419363,
       "location": {
-        "name": "Toronto, Ontario, Canada; Vancouver, British Columbia, Canada"
+        "name": "Toronto, Ontario, Canada"
       },
       "metadata": [
         {
@@ -1718,12 +1759,53 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8029024,
+      "id": 7843084,
       "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11387",
+      "requisition_id": "P-11174",
       "title": "Enterprise Account Executive ",
       "company_name": "Flexport",
-      "first_published": "2026-06-30T12:26:45-04:00",
+      "first_published": "2026-04-29T12:10:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7977805",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3462443,
+      "location": {
+        "name": "Atlanta, Georgia, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "528 NAM Demand",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "Backfill"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7977805,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-11308",
+      "title": "Enterprise Account Executive ",
+      "company_name": "Flexport",
+      "first_published": "2026-06-09T15:04:17-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1810,7 +1892,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7977805",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8029024",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1821,50 +1903,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3462443,
+      "internal_job_id": 3480646,
       "location": {
-        "name": "Atlanta, Georgia, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "528 NAM Demand",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "Backfill"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7977805,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11308",
-      "title": "Enterprise Account Executive ",
-      "company_name": "Flexport",
-      "first_published": "2026-06-09T15:04:17-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7843084",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3419363,
-      "location": {
-        "name": "Toronto, Ontario, Canada"
+        "name": "Toronto, Ontario, Canada; Vancouver, British Columbia, Canada"
       },
       "metadata": [
         {
@@ -1882,12 +1923,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7843084,
+      "id": 8029024,
       "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11174",
+      "requisition_id": "P-11387",
       "title": "Enterprise Account Executive ",
       "company_name": "Flexport",
-      "first_published": "2026-04-29T12:10:49-04:00",
+      "first_published": "2026-06-30T12:26:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1974,7 +2015,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7311915",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7311906",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1985,9 +2026,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3269326,
+      "internal_job_id": 3269322,
       "location": {
-        "name": "Warsaw, Poland"
+        "name": "Paris, France"
       },
       "metadata": [
         {
@@ -2005,12 +2046,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7311915,
+      "id": 7311906,
       "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-10195",
+      "requisition_id": "P-10191",
       "title": "Global Operations Associate",
       "company_name": "Flexport",
-      "first_published": "2026-02-02T11:23:19-05:00",
+      "first_published": "2026-02-02T11:44:23-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2056,7 +2097,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7311906",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7311915",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2067,9 +2108,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3269322,
+      "internal_job_id": 3269326,
       "location": {
-        "name": "Paris, France"
+        "name": "Warsaw, Poland"
       },
       "metadata": [
         {
@@ -2087,12 +2128,53 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7311906,
+      "id": 7311915,
       "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-10191",
+      "requisition_id": "P-10195",
       "title": "Global Operations Associate",
       "company_name": "Flexport",
-      "first_published": "2026-02-02T11:44:23-05:00",
+      "first_published": "2026-02-02T11:23:19-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7450554",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3309950,
+      "location": {
+        "name": "Los Angeles, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "631 NAM Air Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "Backfill"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7450554,
+      "updated_at": "2026-07-13T20:04:25-04:00",
+      "requisition_id": "0120261",
+      "title": "Global Operations Specialist",
+      "company_name": "Flexport",
+      "first_published": "2025-12-10T18:34:35-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2426,6 +2508,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8001973",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3469641,
+      "location": {
+        "name": "Miami, Florida, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "146 Compliance",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8001973,
+      "updated_at": "2026-07-14T01:13:51-04:00",
+      "requisition_id": "P-11372",
+      "title": "Manager, Supply Chain Protection & Loss Intelligence",
+      "company_name": "Flexport",
+      "first_published": "2026-07-14T01:13:51-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7273081",
       "data_compliance": [
         {
@@ -2463,250 +2584,6 @@
       "title": "Ocean Gateway Associate",
       "company_name": "Flexport",
       "first_published": "2025-09-24T21:16:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7312100",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3269416,
-      "location": {
-        "name": "Taipei, Taiwan"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7312100,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": null,
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2025-11-21T02:57:38-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8009241",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3472604,
-      "location": {
-        "name": "Bangkok, Thailand"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8009241,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "621",
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-07-07T23:03:57-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7981654",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3463947,
-      "location": {
-        "name": "Shenzhen, China"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "Backfill"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7981654,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11329",
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-06-15T21:55:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8022727",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3478023,
-      "location": {
-        "name": "Shanghai, China"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8022727,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "622",
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-06-24T23:13:02-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7708188",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3387145,
-      "location": {
-        "name": "Jakarta, Indonesia"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7708188,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "595",
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-03-12T21:49:33-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8011890",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3473646,
-      "location": {
-        "name": "Qingdao, China"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8011890,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11451",
-      "title": "Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-06-25T03:46:07-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2752,7 +2629,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7994556",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8022727",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2763,7 +2640,172 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3467920,
+      "internal_job_id": 3478023,
+      "location": {
+        "name": "Shanghai, China"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8022727,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "622",
+      "title": "Ocean Operations Associate",
+      "company_name": "Flexport",
+      "first_published": "2026-06-24T23:13:02-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8037843",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3484042,
+      "location": {
+        "name": "Manila, Philippines"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8037843,
+      "updated_at": "2026-07-14T03:08:13-04:00",
+      "requisition_id": "624",
+      "title": "Ocean Operations Associate",
+      "company_name": "Flexport",
+      "first_published": "2026-07-14T03:08:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8009241",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3472604,
+      "location": {
+        "name": "Bangkok, Thailand"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8009241,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "621",
+      "title": "Ocean Operations Associate",
+      "company_name": "Flexport",
+      "first_published": "2026-07-07T23:03:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7708188",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3387145,
+      "location": {
+        "name": "Jakarta, Indonesia"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7708188,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "595",
+      "title": "Ocean Operations Associate",
+      "company_name": "Flexport",
+      "first_published": "2026-03-12T21:49:33-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7312100",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3269416,
       "location": {
         "name": "Taipei, Taiwan"
       },
@@ -2783,17 +2825,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7994556,
+      "id": 7312100,
       "updated_at": "2026-07-09T19:28:21-04:00",
       "requisition_id": null,
-      "title": "Ocean Operations Specialist",
+      "title": "Ocean Operations Associate",
       "company_name": "Flexport",
-      "first_published": "2026-06-10T01:52:50-04:00",
+      "first_published": "2025-11-21T02:57:38-05:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7774367",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8011890",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2804,32 +2846,30 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3404128,
+      "internal_job_id": 3473646,
       "location": {
-        "name": "Phnom Penh, Cambodia"
+        "name": "Qingdao, China"
       },
       "metadata": [
         {
           "id": 3462015,
           "name": "Workday Cost Center",
-          "value": "637 APAC Regional Ocean Ops",
+          "value": "638 APAC Gateway Ocean Ops",
           "value_type": "single_select"
         },
         {
           "id": 27836963,
           "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
+          "value": null,
           "value_type": "multi_select"
         }
       ],
-      "id": 7774367,
+      "id": 8011890,
       "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "605",
-      "title": "Ocean Operations Specialist",
+      "requisition_id": "P-11451",
+      "title": "Ocean Operations Associate",
       "company_name": "Flexport",
-      "first_published": "2026-04-01T22:58:06-04:00",
+      "first_published": "2026-06-25T03:46:07-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2871,6 +2911,47 @@
       "title": "Ocean Operations Specialist",
       "company_name": "Flexport",
       "first_published": "2026-03-12T21:49:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7994556",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3467920,
+      "location": {
+        "name": "Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7994556,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": null,
+      "title": "Ocean Operations Specialist",
+      "company_name": "Flexport",
+      "first_published": "2026-06-10T01:52:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3035,47 +3116,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7968127",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3456766,
-      "location": {
-        "name": "Pleasant Prairie, Wisconsin, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "16 People Ops & Services",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7968127,
-      "updated_at": "2026-07-10T15:15:08-04:00",
-      "requisition_id": "P-11282",
-      "title": "People Operations Coordinator",
-      "company_name": "Flexport",
-      "first_published": "2026-05-29T18:38:35-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7961522",
       "data_compliance": [
         {
@@ -3113,6 +3153,47 @@
       "title": "People Operations Coordinator",
       "company_name": "Flexport",
       "first_published": "2026-05-29T18:37:07-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7968127",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3456766,
+      "location": {
+        "name": "Pleasant Prairie, Wisconsin, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "16 People Ops & Services",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7968127,
+      "updated_at": "2026-07-10T15:15:08-04:00",
+      "requisition_id": "P-11282",
+      "title": "People Operations Coordinator",
+      "company_name": "Flexport",
+      "first_published": "2026-05-29T18:38:35-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3281,47 +3362,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8031661",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3481665,
-      "location": {
-        "name": "Chicago, Illinois, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "110 Recruiting",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8031661,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "623",
-      "title": "Recruiter",
-      "company_name": "Flexport",
-      "first_published": "2026-06-26T17:31:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8031647",
       "data_compliance": [
         {
@@ -3359,6 +3399,47 @@
       "title": "Recruiter",
       "company_name": "Flexport",
       "first_published": "2026-06-26T17:30:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8031661",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3481665,
+      "location": {
+        "name": "Chicago, Illinois, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "110 Recruiting",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8031661,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "623",
+      "title": "Recruiter",
+      "company_name": "Flexport",
+      "first_published": "2026-06-26T17:31:28-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3732,6 +3813,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7416435",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3303222,
+      "location": {
+        "name": "San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "529 NAM Management & Other",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7416435,
+      "updated_at": "2026-07-13T19:33:50-04:00",
+      "requisition_id": "P-11236",
+      "title": "Sales Leader",
+      "company_name": "Flexport",
+      "first_published": "2025-12-05T15:28:09-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7971771",
       "data_compliance": [
         {
@@ -3773,47 +3895,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7734785",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3344891,
-      "location": {
-        "name": "Antwerpen, Belgium"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "531 EMEA Demand",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "Backfill"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7734785,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-10971",
-      "title": "Senior Account Manager",
-      "company_name": "Flexport",
-      "first_published": "2026-03-19T05:25:22-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7559949",
       "data_compliance": [
         {
@@ -3851,6 +3932,47 @@
       "title": "Senior Account Manager",
       "company_name": "Flexport",
       "first_published": "2026-03-05T08:53:41-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7734785",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3344891,
+      "location": {
+        "name": "Antwerpen, Belgium"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "531 EMEA Demand",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "Backfill"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7734785,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-10971",
+      "title": "Senior Account Manager",
+      "company_name": "Flexport",
+      "first_published": "2026-03-19T05:25:22-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4303,47 +4425,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7733171",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3392531,
-      "location": {
-        "name": "New York City, New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "145 Brand",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7733171,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "599",
-      "title": "Senior Manager, PR & Communications",
-      "company_name": "Flexport",
-      "first_published": "2026-03-18T15:09:21-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7729693",
       "data_compliance": [
         {
@@ -4381,6 +4462,47 @@
       "title": "Senior Manager, PR & Communications",
       "company_name": "Flexport",
       "first_published": "2026-03-17T19:28:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7733171",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3392531,
+      "location": {
+        "name": "New York City, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "145 Brand",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7733171,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "599",
+      "title": "Senior Manager, PR & Communications",
+      "company_name": "Flexport",
+      "first_published": "2026-03-18T15:09:21-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4549,47 +4671,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7981628",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3463934,
-      "location": {
-        "name": "Tokyo, Japan"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "638 APAC Gateway Ocean Ops",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7981628,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11321",
-      "title": "Senior Ocean Operations Associate",
-      "company_name": "Flexport",
-      "first_published": "2026-07-01T03:15:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7981653",
       "data_compliance": [
         {
@@ -4711,6 +4792,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7981628",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3463934,
+      "location": {
+        "name": "Tokyo, Japan"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "638 APAC Gateway Ocean Ops",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7981628,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-11321",
+      "title": "Senior Ocean Operations Associate",
+      "company_name": "Flexport",
+      "first_published": "2026-07-01T03:15:03-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8014269",
       "data_compliance": [
         {
@@ -4818,13 +4940,15 @@
         {
           "id": 27836963,
           "name": "Position Reason (Workday)",
-          "value": null,
+          "value": [
+            "Backfill"
+          ],
           "value_type": "multi_select"
         }
       ],
       "id": 7992009,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11347",
+      "updated_at": "2026-07-14T13:28:55-04:00",
+      "requisition_id": "P-11631",
       "title": "Senior Payroll Associate",
       "company_name": "Flexport",
       "first_published": "2026-07-07T11:33:57-04:00",
@@ -4910,47 +5034,6 @@
       "title": "Senior Sales Executive",
       "company_name": "Flexport",
       "first_published": "2026-05-25T02:26:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7416435",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3303222,
-      "location": {
-        "name": "San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "529 NAM Management & Other",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7416435,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11236",
-      "title": "Senior Sales Manager",
-      "company_name": "Flexport",
-      "first_published": "2025-12-05T15:28:09-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5119,7 +5202,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7654863",
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7921068",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5130,73 +5213,32 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3371128,
+      "internal_job_id": 3443216,
       "location": {
-        "name": "Phillipsburg Warehouse"
+        "name": "Amsterdam, Netherlands"
       },
       "metadata": [
         {
           "id": 3462015,
           "name": "Workday Cost Center",
-          "value": "432 Omni - Warehouse Operations",
+          "value": "126 Engineering Platform-ENG",
           "value_type": "single_select"
         },
         {
           "id": 27836963,
           "name": "Position Reason (Workday)",
           "value": [
-            "Backfill"
+            "New"
           ],
           "value_type": "multi_select"
         }
       ],
-      "id": 7654863,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11062",
-      "title": "Site Leader",
+      "id": 7921068,
+      "updated_at": "2026-07-13T08:32:12-04:00",
+      "requisition_id": "P-11219",
+      "title": "Senior Software Engineer: Platform",
       "company_name": "Flexport",
-      "first_published": "2026-02-26T20:04:54-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8054644",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3486548,
-      "location": {
-        "name": "New York City, New York, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "530 NAM Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "Backfill"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8054644,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11622",
-      "title": "Social Media & Content Manager",
-      "company_name": "Flexport",
-      "first_published": "2026-07-09T19:07:14-04:00",
+      "first_published": "2026-05-26T07:11:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5238,6 +5280,47 @@
       "title": "Social Media & Content Manager",
       "company_name": "Flexport",
       "first_published": "2026-07-09T19:07:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8054644",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3486548,
+      "location": {
+        "name": "New York City, New York, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "530 NAM Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "Backfill"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8054644,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-11622",
+      "title": "Social Media & Content Manager",
+      "company_name": "Flexport",
+      "first_published": "2026-07-09T19:07:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5406,47 +5489,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/5745289",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 2802242,
-      "location": {
-        "name": "Shanghai, China"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "268 Engineering Ops Tech FFA-ENG",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 5745289,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "620",
-      "title": "Software Engineer II",
-      "company_name": "Flexport",
-      "first_published": "2024-02-23T03:02:13-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7994947",
       "data_compliance": [
         {
@@ -5529,6 +5571,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/5745289",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 2802242,
+      "location": {
+        "name": "Shanghai, China"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "268 Engineering Ops Tech FFA-ENG",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 5745289,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "620",
+      "title": "Software Engineer II",
+      "company_name": "Flexport",
+      "first_published": "2024-02-23T03:02:13-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7839346",
       "data_compliance": [
         {
@@ -5570,47 +5653,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7740288",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3395334,
-      "location": {
-        "name": "Bellevue, Washington, United States; San Francisco, California, United States"
-      },
-      "metadata": [
-        {
-          "id": 3462015,
-          "name": "Workday Cost Center",
-          "value": "749 Engineering Freight Planning, BM and OM-ENG",
-          "value_type": "single_select"
-        },
-        {
-          "id": 27836963,
-          "name": "Position Reason (Workday)",
-          "value": [
-            "New"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7740288,
-      "updated_at": "2026-07-09T19:28:21-04:00",
-      "requisition_id": "P-11128",
-      "title": "Staff Product Manager",
-      "company_name": "Flexport",
-      "first_published": "2026-04-13T13:44:34-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/8022960",
       "data_compliance": [
         {
@@ -5648,6 +5690,47 @@
       "title": "Staff Product Manager",
       "company_name": "Flexport",
       "first_published": "2026-06-23T05:00:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flexport/jobs/7740288",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3395334,
+      "location": {
+        "name": "Bellevue, Washington, United States; San Francisco, California, United States"
+      },
+      "metadata": [
+        {
+          "id": 3462015,
+          "name": "Workday Cost Center",
+          "value": "749 Engineering Freight Planning, BM and OM-ENG",
+          "value_type": "single_select"
+        },
+        {
+          "id": 27836963,
+          "name": "Position Reason (Workday)",
+          "value": [
+            "New"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7740288,
+      "updated_at": "2026-07-09T19:28:21-04:00",
+      "requisition_id": "P-11128",
+      "title": "Staff Product Manager",
+      "company_name": "Flexport",
+      "first_published": "2026-04-13T13:44:34-04:00",
       "language": "en",
       "application_deadline": null
     },
