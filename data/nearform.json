@@ -1,7 +1,7 @@
 {
   "company": "nearform",
-  "fetched_at": "2026-07-26T06:11:31.444941",
-  "job_count": 33,
+  "fetched_at": "2026-07-29T06:03:01.691064",
+  "job_count": 28,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7758311003",
@@ -45,47 +45,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7619114003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5713801003,
-      "location": {
-        "name": "United States"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote + Travel"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7619114003,
-      "updated_at": "2026-07-21T07:21:25-04:00",
-      "requisition_id": "613",
-      "title": "Forward Deployed Engineer",
-      "company_name": " Nearform",
-      "first_published": "2026-02-04T13:07:27-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7795871003",
       "data_compliance": [
         {
@@ -123,6 +82,47 @@
       "title": "Forward Deployed Engineer",
       "company_name": " Nearform",
       "first_published": "2026-07-06T10:06:08-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7619114003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5713801003,
+      "location": {
+        "name": "United States"
+      },
+      "metadata": [
+        {
+          "id": 4024007003,
+          "name": "Employment Type",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 41647541003,
+          "name": "Work Type",
+          "value": [
+            "Remote + Travel"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7619114003,
+      "updated_at": "2026-07-21T07:21:25-04:00",
+      "requisition_id": "613",
+      "title": "Forward Deployed Engineer",
+      "company_name": " Nearform",
+      "first_published": "2026-02-04T13:07:27-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -235,13 +235,13 @@
           "id": 41647541003,
           "name": "Work Type",
           "value": [
-            "Remote"
+            "Remote + Travel"
           ],
           "value_type": "multi_select"
         }
       ],
       "id": 7799525003,
-      "updated_at": "2026-07-21T11:52:51-04:00",
+      "updated_at": "2026-07-27T09:58:27-04:00",
       "requisition_id": "683",
       "title": "Knowledge Graph Engineer ",
       "company_name": " Nearform",
@@ -275,21 +275,23 @@
         {
           "id": 41647541003,
           "name": "Work Type",
-          "value": null,
+          "value": [
+            "Remote"
+          ],
           "value_type": "multi_select"
         }
       ],
       "id": 6437769003,
-      "updated_at": "2026-07-24T05:59:02-04:00",
+      "updated_at": "2026-07-27T10:52:26-04:00",
       "requisition_id": "399",
-      "title": "Senior Data Engineer (Poland, Contract)",
+      "title": "Senior Data Engineer ",
       "company_name": " Nearform",
       "first_published": "2025-02-13T08:23:12-05:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7666146003",
+      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7481731003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -300,15 +302,15 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5733068003,
+      "internal_job_id": 5659374003,
       "location": {
-        "name": "Ireland"
+        "name": "Ireland; UK"
       },
       "metadata": [
         {
           "id": 4024007003,
           "name": "Employment Type",
-          "value": "Permanent",
+          "value": "Permanent or Contract",
           "value_type": "single_select"
         },
         {
@@ -320,53 +322,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7666146003,
-      "updated_at": "2026-07-21T11:50:02-04:00",
-      "requisition_id": "629",
-      "title": "Senior DevOps Engineer",
+      "id": 7481731003,
+      "updated_at": "2026-07-27T11:34:35-04:00",
+      "requisition_id": "550",
+      "title": "Senior Product Designer",
       "company_name": " Nearform",
-      "first_published": "2026-03-16T12:19:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7666151003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5733070003,
-      "location": {
-        "name": "UK"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7666151003,
-      "updated_at": "2026-07-21T11:55:45-04:00",
-      "requisition_id": "630",
-      "title": "Senior DevOps Engineer ",
-      "company_name": " Nearform",
-      "first_published": "2026-03-16T12:22:19-04:00",
+      "first_published": "2025-09-29T15:00:34-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -408,47 +369,6 @@
       "title": "Senior Software Engineer - Java",
       "company_name": " Nearform",
       "first_published": "2026-07-01T08:34:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7768471003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5779381003,
-      "location": {
-        "name": "UK"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Hybrid"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7768471003,
-      "updated_at": "2026-07-21T11:54:33-04:00",
-      "requisition_id": "671",
-      "title": "Senior Software Engineer - Javascript or Python ",
-      "company_name": " Nearform",
-      "first_published": "2026-06-10T13:00:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -576,47 +496,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7680355003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5740397003,
-      "location": {
-        "name": "Romania"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Contract",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7680355003,
-      "updated_at": "2026-07-21T11:36:04-04:00",
-      "requisition_id": "638",
-      "title": "Senior Software Engineer - Python & AI",
-      "company_name": " Nearform",
-      "first_published": "2026-03-26T09:21:05-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7793508003",
       "data_compliance": [
         {
@@ -658,6 +537,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7653769003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5727552003,
+      "location": {
+        "name": "Ireland"
+      },
+      "metadata": [
+        {
+          "id": 4024007003,
+          "name": "Employment Type",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 41647541003,
+          "name": "Work Type",
+          "value": [
+            "Remote + Travel"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7653769003,
+      "updated_at": "2026-07-27T10:55:22-04:00",
+      "requisition_id": "625",
+      "title": "Senior Software Engineer - Python & AI",
+      "company_name": " Nearform",
+      "first_published": "2026-03-05T10:38:03-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7677599003",
       "data_compliance": [
         {
@@ -695,47 +615,6 @@
       "title": "Senior Software Engineer - Python & AI",
       "company_name": " Nearform",
       "first_published": "2026-03-24T14:40:23-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7653769003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5727552003,
-      "location": {
-        "name": "Ireland"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote + Travel"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7653769003,
-      "updated_at": "2026-07-21T11:48:59-04:00",
-      "requisition_id": "625",
-      "title": "Senior Software Engineer - Python & AI",
-      "company_name": " Nearform",
-      "first_published": "2026-03-05T10:38:03-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -904,47 +783,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7702718003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5751488003,
-      "location": {
-        "name": "UK"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7702718003,
-      "updated_at": "2026-07-21T11:57:54-04:00",
-      "requisition_id": "645",
-      "title": "Tech Lead ",
-      "company_name": " Nearform",
-      "first_published": "2026-04-17T06:34:10-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7561009003",
       "data_compliance": [
         {
@@ -1068,7 +906,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7786569003",
+      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7742643003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1079,9 +917,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5786881003,
+      "internal_job_id": 5769464003,
       "location": {
-        "name": "UK"
+        "name": "Canada"
       },
       "metadata": [
         {
@@ -1099,12 +937,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7786569003,
-      "updated_at": "2026-07-21T11:58:43-04:00",
-      "requisition_id": "675",
-      "title": "Tech Lead - Python & Azure",
+      "id": 7742643003,
+      "updated_at": "2026-07-21T12:01:14-04:00",
+      "requisition_id": "663",
+      "title": "Tech Lead - React ",
       "company_name": " Nearform",
-      "first_published": "2026-06-26T05:13:41-04:00",
+      "first_published": "2026-05-21T09:44:04-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1146,47 +984,6 @@
       "title": "Tech Lead - React ",
       "company_name": " Nearform",
       "first_published": "2026-07-03T09:50:00-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/nearform/jobs/7742643003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5769464003,
-      "location": {
-        "name": "Canada"
-      },
-      "metadata": [
-        {
-          "id": 4024007003,
-          "name": "Employment Type",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 41647541003,
-          "name": "Work Type",
-          "value": [
-            "Remote"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7742643003,
-      "updated_at": "2026-07-21T12:01:14-04:00",
-      "requisition_id": "663",
-      "title": "Tech Lead - React ",
-      "company_name": " Nearform",
-      "first_published": "2026-05-21T09:44:04-04:00",
       "language": "en",
       "application_deadline": null
     },
