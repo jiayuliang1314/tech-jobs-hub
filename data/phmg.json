@@ -1,7 +1,7 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-08-04T05:55:14.909718",
-  "job_count": 16,
+  "fetched_at": "2026-08-07T05:03:38.735116",
+  "job_count": 18,
   "jobs": [
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8613731002",
@@ -56,7 +56,59 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8627773002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8670987002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5272235002,
+      "location": {
+        "name": "Manchester"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "30000.0",
+            "min_value": "28000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "GBP",
+            "amount": "60000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8670987002,
+      "updated_at": "2026-08-05T03:25:16-04:00",
+      "requisition_id": "538",
+      "title": "Business Development Executive",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-08-04T04:58:54-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8687376002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -98,12 +150,12 @@
           "value_type": "currency"
         }
       ],
-      "id": 8627773002,
-      "updated_at": "2026-07-17T17:42:24-04:00",
+      "id": 8687376002,
+      "updated_at": "2026-08-06T12:18:38-04:00",
       "requisition_id": "550",
       "title": "Business Development Executive ",
       "company_name": "PHMG Careers",
-      "first_published": "2026-07-10T04:40:43-04:00",
+      "first_published": "2026-08-06T12:18:38-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -677,6 +729,58 @@
       "title": "Sales Development Representative",
       "company_name": "PHMG Careers",
       "first_published": "2026-08-03T03:52:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8675664002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6410422002,
+      "location": {
+        "name": "Tampa"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": null,
+            "amount": "90000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8675664002,
+      "updated_at": "2026-08-04T09:06:21-04:00",
+      "requisition_id": "1094",
+      "title": "Sales Development Representative",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-08-04T09:04:54-04:00",
       "language": "en",
       "application_deadline": null
     },
