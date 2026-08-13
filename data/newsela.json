@@ -1,73 +1,8 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-08-10T04:40:25.087275",
+  "fetched_at": "2026-08-13T05:03:09.848684",
   "job_count": 20,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8093332",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3506030,
-      "location": {
-        "name": "Remote - New York; Connecticut; New Jersey"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "RPL (Replacement)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "75000.0",
-            "min_value": "70000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8093332,
-      "updated_at": "2026-08-05T17:28:07-04:00",
-      "requisition_id": "488",
-      "title": "Account Executive, BOCES (Remote, NY)",
-      "company_name": "Newsela",
-      "first_published": "2026-08-05T17:28:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8093317",
       "data_compliance": [
@@ -127,7 +62,7 @@
         }
       ],
       "id": 8093317,
-      "updated_at": "2026-08-05T17:07:45-04:00",
+      "updated_at": "2026-08-12T18:03:09-04:00",
       "requisition_id": "487",
       "title": "Account Executive, East (Remote, US)",
       "company_name": "Newsela",
@@ -472,74 +407,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8052475",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3490048,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Director"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "ATS (Add To Staff)",
-            "RPL (Replacement)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "150000.0",
-            "min_value": "130000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": true,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8052475,
-      "updated_at": "2026-07-16T17:02:42-04:00",
-      "requisition_id": "474",
-      "title": "Creative Director (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-07-16T17:02:42-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/7985789",
       "data_compliance": [
         {
@@ -603,6 +470,73 @@
       "title": "Data Engineer ",
       "company_name": "Newsela",
       "first_published": "2026-06-23T17:34:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8017802",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3475991,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Director"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "RPL (Replacement)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "144000.0",
+            "min_value": "120000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8017802,
+      "updated_at": "2026-08-11T09:42:37-04:00",
+      "requisition_id": "466",
+      "title": "Director, Scaled Customer Success (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-06-30T14:55:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1141,73 +1075,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8093345",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3506035,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Individual Contributor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Non-Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "RPL (Replacement)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "55000.0",
-            "min_value": "55000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8093345,
-      "updated_at": "2026-08-05T21:46:42-04:00",
-      "requisition_id": "489",
-      "title": "Sales Development Representative (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-07-30T21:16:23-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8051486",
       "data_compliance": [
         {
@@ -1275,6 +1142,140 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8093345",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3506035,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Individual Contributor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Non-Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "RPL (Replacement)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "55000.0",
+            "min_value": "55000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8093345,
+      "updated_at": "2026-08-05T21:46:42-04:00",
+      "requisition_id": "489",
+      "title": "Sales Development Representative (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-07-30T21:16:23-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8120805",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3517315,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Individual Contributor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "75000.0",
+            "min_value": "70000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8120805,
+      "updated_at": "2026-08-12T18:01:47-04:00",
+      "requisition_id": "492",
+      "title": "Sales Representative, SMB (Remote, US)",
+      "company_name": "Newsela",
+      "first_published": "2026-08-12T17:58:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8078358",
       "data_compliance": [
         {
@@ -1334,7 +1335,7 @@
         }
       ],
       "id": 8078358,
-      "updated_at": "2026-07-24T15:24:57-04:00",
+      "updated_at": "2026-08-12T17:00:12-04:00",
       "requisition_id": "481",
       "title": "School Sales Representative (Remote, US)",
       "company_name": "Newsela",

@@ -1,7 +1,7 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-08-10T04:22:25.237774",
-  "job_count": 50,
+  "fetched_at": "2026-08-13T04:44:30.724175",
+  "job_count": 52,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8102509",
@@ -34,7 +34,7 @@
         }
       ],
       "id": 8102509,
-      "updated_at": "2026-08-03T10:36:37-04:00",
+      "updated_at": "2026-08-10T04:54:51-04:00",
       "requisition_id": "P-8125045215",
       "title": "Account Manager, French art market (maternity cover)",
       "company_name": "Catawiki",
@@ -43,7 +43,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8106252",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8119918",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -68,57 +68,18 @@
         {
           "id": 1349264,
           "name": "Earliest Hire Date",
-          "value": "2026-09-04",
-          "value_type": "date"
-        }
-      ],
-      "id": 8106252,
-      "updated_at": "2026-08-05T02:00:20-04:00",
-      "requisition_id": null,
-      "title": "Backend Engineer",
-      "company_name": "Catawiki",
-      "first_published": "2026-08-05T02:00:20-04:00",
-      "language": "en",
-      "application_deadline": "2026-08-14T12:00:00-04:00"
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7979265",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3463057,
-      "location": {
-        "name": "Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
           "value": "",
           "value_type": "date"
         }
       ],
-      "id": 7979265,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": "P-6097758815",
-      "title": "Business Development Intern ",
+      "id": 8119918,
+      "updated_at": "2026-08-11T10:05:00-04:00",
+      "requisition_id": null,
+      "title": "Backend Engineer",
       "company_name": "Catawiki",
-      "first_published": "2026-06-10T08:28:04-04:00",
+      "first_published": "2026-08-11T02:00:05-04:00",
       "language": "en",
-      "application_deadline": null
+      "application_deadline": "2026-08-21T12:00:00-04:00"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566301",
@@ -199,45 +160,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7541003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3314343,
-      "location": {
-        "name": "France; Italy; Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 7541003,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": "P-8757452689",
-      "title": "Category Manager E-Commerce",
-      "company_name": "Catawiki",
-      "first_published": "2026-01-15T05:44:57-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7566371",
       "data_compliance": [
         {
@@ -273,6 +195,45 @@
       "title": "Category Manager E-Commerce",
       "company_name": "Catawiki",
       "first_published": "2026-01-27T05:18:46-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7541003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3314343,
+      "location": {
+        "name": "France; Italy; Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 7541003,
+      "updated_at": "2026-07-29T10:08:01-04:00",
+      "requisition_id": "P-8757452689",
+      "title": "Category Manager E-Commerce",
+      "company_name": "Catawiki",
+      "first_published": "2026-01-15T05:44:57-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -346,7 +307,7 @@
         }
       ],
       "id": 8064201,
-      "updated_at": "2026-07-29T10:08:01-04:00",
+      "updated_at": "2026-08-10T06:41:04-04:00",
       "requisition_id": "P-8691840854",
       "title": "Classical & Modern Art Expert",
       "company_name": "Catawiki",
@@ -468,45 +429,6 @@
       "title": "Customer Service Representative - Dutch and English (Interim)",
       "company_name": "Catawiki",
       "first_published": "2026-08-07T09:37:57-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8114020",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 443215,
-      "location": {
-        "name": "Lisbon, Portugal"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": null,
-          "value_type": "date"
-        }
-      ],
-      "id": 8114020,
-      "updated_at": "2026-08-07T09:39:19-04:00",
-      "requisition_id": null,
-      "title": "Customer Service Representative - French and English (Interim)",
-      "company_name": "Catawiki",
-      "first_published": "2026-08-07T09:39:19-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -667,45 +589,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/2338337",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 1427963,
-      "location": {
-        "name": "Amsterdam, Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 2338337,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": null,
-      "title": "Data Scientist - Machine Learning ",
-      "company_name": "Catawiki",
-      "first_published": "2020-09-15T08:21:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8088238",
       "data_compliance": [
         {
@@ -741,6 +624,45 @@
       "title": "Data Scientist - Machine Learning ",
       "company_name": "Catawiki",
       "first_published": "2026-07-27T08:52:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/2338337",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 1427963,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 2338337,
+      "updated_at": "2026-07-29T10:08:01-04:00",
+      "requisition_id": null,
+      "title": "Data Scientist - Machine Learning ",
+      "company_name": "Catawiki",
+      "first_published": "2020-09-15T08:21:38-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1126,7 +1048,7 @@
         }
       ],
       "id": 7988849,
-      "updated_at": "2026-07-29T10:08:01-04:00",
+      "updated_at": "2026-08-12T04:07:19-04:00",
       "requisition_id": "P-4380069785",
       "title": "Expert Post War Art & Prints",
       "company_name": "Catawiki",
@@ -1165,7 +1087,7 @@
         }
       ],
       "id": 8043054,
-      "updated_at": "2026-07-29T10:08:01-04:00",
+      "updated_at": "2026-08-12T04:15:11-04:00",
       "requisition_id": "P-3093926678",
       "title": "Expert Stamps Benelux",
       "company_name": "Catawiki",
@@ -1213,7 +1135,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8106344",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8119939",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1242,14 +1164,53 @@
           "value_type": "date"
         }
       ],
-      "id": 8106344,
-      "updated_at": "2026-08-05T02:00:20-04:00",
+      "id": 8119939,
+      "updated_at": "2026-08-11T10:05:07-04:00",
       "requisition_id": null,
       "title": "Frontend Engineer",
       "company_name": "Catawiki",
-      "first_published": "2026-08-05T02:00:20-04:00",
+      "first_published": "2026-08-11T02:00:05-04:00",
       "language": "en",
-      "application_deadline": "2026-08-14T12:00:00-04:00"
+      "application_deadline": "2026-08-21T12:00:00-04:00"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8104844",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3510193,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8104844,
+      "updated_at": "2026-08-10T04:55:57-04:00",
+      "requisition_id": "P-3598938312",
+      "title": "Junior Business Developer",
+      "company_name": "Catawiki",
+      "first_published": "2026-08-04T03:09:04-04:00",
+      "language": "en",
+      "application_deadline": null
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8102485",
@@ -1282,7 +1243,7 @@
         }
       ],
       "id": 8102485,
-      "updated_at": "2026-08-04T03:08:32-04:00",
+      "updated_at": "2026-08-11T07:39:51-04:00",
       "requisition_id": "P-3598938312",
       "title": "Junior Business Developer",
       "company_name": "Catawiki",
@@ -1326,6 +1287,45 @@
       "title": "Junior Commercial Operations Project Manager",
       "company_name": "Catawiki",
       "first_published": "2026-04-21T03:24:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8110728",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3513517,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8110728,
+      "updated_at": "2026-08-10T05:28:13-04:00",
+      "requisition_id": "P-4900657043",
+      "title": "Key Account Manager Benelux",
+      "company_name": "Catawiki",
+      "first_published": "2026-08-10T05:28:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1408,7 +1408,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8041201",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8121584",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1419,9 +1419,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3485422,
+      "internal_job_id": 3270914,
       "location": {
-        "name": "Netherlands"
+        "name": "Lisbon, Portugal"
       },
       "metadata": [
         {
@@ -1437,17 +1437,17 @@
           "value_type": "date"
         }
       ],
-      "id": 8041201,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": "P-1322783692",
-      "title": "Paralegal Intern ",
+      "id": 8121584,
+      "updated_at": "2026-08-11T10:07:47-04:00",
+      "requisition_id": null,
+      "title": "Platform Engineer",
       "company_name": "Catawiki",
-      "first_published": "2026-07-02T03:09:28-04:00",
+      "first_published": "2026-08-11T10:07:47-04:00",
       "language": "en",
-      "application_deadline": null
+      "application_deadline": "2026-08-21T12:00:00-04:00"
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8028096",
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8121488",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1458,9 +1458,9 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3442997,
+      "internal_job_id": 3019627,
       "location": {
-        "name": "Netherlands"
+        "name": "Amsterdam, Netherlands"
       },
       "metadata": [
         {
@@ -1476,14 +1476,14 @@
           "value_type": "date"
         }
       ],
-      "id": 8028096,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": "P-4090666952",
-      "title": "Partnership Specialist - Category Marketing",
+      "id": 8121488,
+      "updated_at": "2026-08-11T10:05:56-04:00",
+      "requisition_id": null,
+      "title": "Platform Engineer",
       "company_name": "Catawiki",
-      "first_published": "2026-06-25T07:46:15-04:00",
+      "first_published": "2026-08-11T09:55:57-04:00",
       "language": "en",
-      "application_deadline": null
+      "application_deadline": "2026-08-21T12:00:00-04:00"
     },
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8110732",
@@ -1516,7 +1516,7 @@
         }
       ],
       "id": 8110732,
-      "updated_at": "2026-08-06T02:37:04-04:00",
+      "updated_at": "2026-08-10T10:50:35-04:00",
       "requisition_id": "P-5149548830",
       "title": "Sales Commercial Intern - Italian Speaker",
       "company_name": "Catawiki",
@@ -1603,45 +1603,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8038191",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3484165,
-      "location": {
-        "name": "Amsterdam, Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 8038191,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": null,
-      "title": "Senior Financial Accountant",
-      "company_name": "Catawiki",
-      "first_published": "2026-06-30T09:07:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7946476",
       "data_compliance": [
         {
@@ -1677,6 +1638,45 @@
       "title": "Senior Financial Accountant",
       "company_name": "Catawiki",
       "first_published": "2026-06-01T09:53:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8038191",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3484165,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8038191,
+      "updated_at": "2026-07-29T10:08:01-04:00",
+      "requisition_id": null,
+      "title": "Senior Financial Accountant",
+      "company_name": "Catawiki",
+      "first_published": "2026-06-30T09:07:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1755,6 +1755,84 @@
       "title": "Senior Jewellery Expert",
       "company_name": "Catawiki",
       "first_published": "2026-07-29T06:14:42-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8118938",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3516595,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8118938,
+      "updated_at": "2026-08-10T05:22:15-04:00",
+      "requisition_id": "P-5526095427",
+      "title": "Senior Key Business Developer Japan",
+      "company_name": "Catawiki",
+      "first_published": "2026-08-10T05:21:54-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8119043",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3516595,
+      "location": {
+        "name": "Japan"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8119043,
+      "updated_at": "2026-08-10T05:22:46-04:00",
+      "requisition_id": "P-5526095427",
+      "title": "Senior Key Business Developer Japan",
+      "company_name": "Catawiki",
+      "first_published": "2026-08-10T05:22:46-04:00",
       "language": "en",
       "application_deadline": null
     },

@@ -1,7 +1,7 @@
 {
   "company": "liveperson",
-  "fetched_at": "2026-08-10T04:30:09.176603",
-  "job_count": 17,
+  "fetched_at": "2026-08-13T04:52:46.008598",
+  "job_count": 19,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/7635444",
@@ -103,6 +103,39 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8125603",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3384620,
+      "location": {
+        "name": "New York, New York"
+      },
+      "metadata": [
+        {
+          "id": 9194882,
+          "name": "Bonus",
+          "value": "17050.0",
+          "value_type": "number"
+        }
+      ],
+      "id": 8125603,
+      "updated_at": "2026-08-12T10:18:56-04:00",
+      "requisition_id": "LP16158",
+      "title": "Java Backend Engineer",
+      "company_name": "LivePerson",
+      "first_published": "2026-08-12T10:18:56-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8077051",
       "data_compliance": [
         {
@@ -132,39 +165,6 @@
       "title": "Messaging Agent",
       "company_name": "LivePerson",
       "first_published": "2026-07-23T05:46:21-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8023649",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3478468,
-      "location": {
-        "name": "Bulgaria"
-      },
-      "metadata": [
-        {
-          "id": 9194882,
-          "name": "Bonus",
-          "value": "42750.0",
-          "value_type": "number"
-        }
-      ],
-      "id": 8023649,
-      "updated_at": "2026-06-30T01:09:44-04:00",
-      "requisition_id": "LP18414",
-      "title": "Observability DevOps III",
-      "company_name": "LivePerson",
-      "first_published": "2026-06-25T03:21:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -334,7 +334,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8042054",
+      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8121730",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -347,7 +347,7 @@
       ],
       "internal_job_id": 3485753,
       "location": {
-        "name": "Dallas, Texas"
+        "name": "New York, New York"
       },
       "metadata": [
         {
@@ -357,12 +357,78 @@
           "value_type": "number"
         }
       ],
-      "id": 8042054,
-      "updated_at": "2026-07-24T13:00:40-04:00",
+      "id": 8121730,
+      "updated_at": "2026-08-11T11:02:27-04:00",
       "requisition_id": "LP18628",
-      "title": "Senior Cloud Architect",
+      "title": "Senior Cloud Architect (Network & SRE)",
       "company_name": "LivePerson",
-      "first_published": "2026-07-24T13:00:40-04:00",
+      "first_published": "2026-08-11T11:02:27-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8125683",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3478468,
+      "location": {
+        "name": "Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 9194882,
+          "name": "Bonus",
+          "value": "42750.0",
+          "value_type": "number"
+        }
+      ],
+      "id": 8125683,
+      "updated_at": "2026-08-12T11:44:38-04:00",
+      "requisition_id": "LP18414",
+      "title": "Senior DevOps Lead",
+      "company_name": "LivePerson",
+      "first_published": "2026-08-12T10:58:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/liveperson/jobs/8125662",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3478468,
+      "location": {
+        "name": "Sofia, Sofiya, Bulgaria"
+      },
+      "metadata": [
+        {
+          "id": 9194882,
+          "name": "Bonus",
+          "value": "42750.0",
+          "value_type": "number"
+        }
+      ],
+      "id": 8125662,
+      "updated_at": "2026-08-12T11:44:22-04:00",
+      "requisition_id": "LP18414",
+      "title": "Senior DevOps Lead",
+      "company_name": "LivePerson",
+      "first_published": "2026-08-12T10:51:42-04:00",
       "language": "en",
       "application_deadline": null
     },
