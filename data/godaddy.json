@@ -1,7 +1,7 @@
 {
   "company": "godaddy",
-  "fetched_at": "2026-08-14T04:54:35.311248",
-  "job_count": 22,
+  "fetched_at": "2026-08-17T03:53:23.935401",
+  "job_count": 23,
   "jobs": [
     {
       "absolute_url": "https://careers.godaddy/jobs?gh_jid=7728168003",
@@ -3943,6 +3943,266 @@
       "title": "Senior Software Development Engineer",
       "company_name": "GoDaddy",
       "first_published": "2026-06-24T11:29:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.godaddy/jobs?gh_jid=7820541003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5802282003,
+      "location": {
+        "name": "Canada"
+      },
+      "metadata": [
+        {
+          "id": 4178754003,
+          "name": "Job Posting Department",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4178755003,
+          "name": "Job Posting Team/Specialty",
+          "value": "Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4043771003,
+          "name": "Country",
+          "value": "Canada",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4081785003,
+          "name": "Remote Job",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 4183987003,
+          "name": "Additional Job Posting Locations",
+          "value": "British Columbia - Remote",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4169134003,
+          "name": "Primary Posting Location",
+          "value": ",Ontario,Canada",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4169135003,
+          "name": "Additional Posting Locations",
+          "value": "British Columbia - Remote,British Columbia,Canada",
+          "value_type": "short_text"
+        },
+        {
+          "id": 13343439003,
+          "name": "GeoA Range Lower",
+          "value": {
+            "unit": "USD",
+            "amount": "128500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343468003,
+          "name": "GeoA Range Upper",
+          "value": {
+            "unit": "USD",
+            "amount": "192500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824535003,
+          "name": "GeoB Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824550003,
+          "name": "GeoB Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 13343469003,
+          "name": "GeoC Range Lower",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 13343484003,
+          "name": "GeoC Range Upper",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 8824461003,
+          "name": "GeoE Range Lower",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 8824491003,
+          "name": "GeoE Range Upper",
+          "value": {
+            "unit": null,
+            "amount": "0.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 22719917003,
+          "name": "GeoA Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719982003,
+          "name": "GeoA Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719983003,
+          "name": "GeoB Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22719984003,
+          "name": "GeoB Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720000003,
+          "name": "GeoC Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720015003,
+          "name": "GeoC Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720017003,
+          "name": "GeoE Range Lower Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 22720018003,
+          "name": "GeoE Range Upper Hourly",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 38444584003,
+          "name": "Geo A Salary Currency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "192500.0",
+            "min_value": "128500.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38444585003,
+          "name": "Geo B Salary Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38444608003,
+          "name": "Geo C Salary Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38444609003,
+          "name": "Geo E Salary Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38445020003,
+          "name": "Geo A Hourly Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38445021003,
+          "name": "Geo B Hourly Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38445022003,
+          "name": "Geo C Hourly Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 38445038003,
+          "name": "Geo E Hourly Currency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 17958670003,
+          "name": "Is this a US PERM/Immigration requisition?",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 24574593003,
+          "name": "HerKey Skills for Job Postings (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 24790415003,
+          "name": "HerKey Minimum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        },
+        {
+          "id": 24833529003,
+          "name": "HerKey Maximum Years of Experience (INDIA JOBS ONLY)",
+          "value": null,
+          "value_type": "number"
+        }
+      ],
+      "id": 7820541003,
+      "updated_at": "2026-08-16T13:11:14-04:00",
+      "requisition_id": "R023907",
+      "title": "Senior Software Development Engineer",
+      "company_name": "GoDaddy",
+      "first_published": "2026-08-16T13:10:45-04:00",
       "language": "en",
       "application_deadline": null
     },
