@@ -1,7 +1,7 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-08-16T03:58:07.982914",
-  "job_count": 19,
+  "fetched_at": "2026-08-19T03:57:17.513425",
+  "job_count": 21,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8093317",
@@ -62,7 +62,7 @@
         }
       ],
       "id": 8093317,
-      "updated_at": "2026-08-12T18:03:09-04:00",
+      "updated_at": "2026-08-18T17:22:54-04:00",
       "requisition_id": "487",
       "title": "Account Executive, East (Remote, US)",
       "company_name": "Newsela",
@@ -129,11 +129,78 @@
         }
       ],
       "id": 8011545,
-      "updated_at": "2026-07-31T13:36:29-04:00",
+      "updated_at": "2026-08-18T17:20:26-04:00",
       "requisition_id": "461",
       "title": "Account Executive, West (Remote, US)",
       "company_name": "Newsela",
       "first_published": "2026-06-26T14:33:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8130985",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3520851,
+      "location": {
+        "name": "Remote -  Argentina; Brazil;Chile; Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Contractor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "N/A or International"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8130985,
+      "updated_at": "2026-08-18T23:56:02-04:00",
+      "requisition_id": "494",
+      "title": "Contractor: IT Operations Specialist",
+      "company_name": "Newsela",
+      "first_published": "2026-08-18T23:56:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -336,6 +403,71 @@
       "title": "Contractor: Sales Development Representative (Remote - Argentina; Brazil; Chile; Colombia; Costa Rica)",
       "company_name": "Newsela",
       "first_published": "2026-06-22T19:53:56-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8131011",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3520863,
+      "location": {
+        "name": "Remote - Argentina; Brazil;Chile; Costa Rica"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "N/A or International"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "RPL (Replacement)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8131011,
+      "updated_at": "2026-08-18T14:03:36-04:00",
+      "requisition_id": "495",
+      "title": "Contractor: Senior Quality Engineer",
+      "company_name": "Newsela",
+      "first_published": "2026-08-18T14:03:36-04:00",
       "language": "en",
       "application_deadline": null
     },
