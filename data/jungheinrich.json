@@ -1,8 +1,47 @@
 {
   "company": "jungheinrich",
-  "fetched_at": "2026-08-20T03:54:01.344174",
+  "fetched_at": "2026-08-23T03:58:09.145928",
   "job_count": 10,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/8071405",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3491067,
+      "location": {
+        "name": "Derby"
+      },
+      "metadata": [
+        {
+          "id": 93170,
+          "name": "RA Number",
+          "value": "RA107",
+          "value_type": "short_text"
+        },
+        {
+          "id": 93171,
+          "name": "Job Title",
+          "value": "Field Service Engieer",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8071405,
+      "updated_at": "2026-07-31T07:39:33-04:00",
+      "requisition_id": null,
+      "title": "Field Service Engineer",
+      "company_name": "Jungheinrich UK",
+      "first_published": "2026-07-20T07:19:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/7650246",
       "data_compliance": [
@@ -117,45 +156,6 @@
       "title": "Field Service Engineer",
       "company_name": "Jungheinrich UK",
       "first_published": "2026-05-08T10:12:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/8071405",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3491067,
-      "location": {
-        "name": "Derby"
-      },
-      "metadata": [
-        {
-          "id": 93170,
-          "name": "RA Number",
-          "value": "RA107",
-          "value_type": "short_text"
-        },
-        {
-          "id": 93171,
-          "name": "Job Title",
-          "value": "Field Service Engieer",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8071405,
-      "updated_at": "2026-07-31T07:39:33-04:00",
-      "requisition_id": null,
-      "title": "Field Service Engineer",
-      "company_name": "Jungheinrich UK",
-      "first_published": "2026-07-20T07:19:49-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -316,45 +316,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/8050440",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3489140,
-      "location": {
-        "name": "Doncaster"
-      },
-      "metadata": [
-        {
-          "id": 93170,
-          "name": "RA Number",
-          "value": "RA106",
-          "value_type": "short_text"
-        },
-        {
-          "id": 93171,
-          "name": "Job Title",
-          "value": "Site Support Engineer",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8050440,
-      "updated_at": "2026-07-20T11:05:47-04:00",
-      "requisition_id": "473",
-      "title": "Site Support Engineer",
-      "company_name": "Jungheinrich UK",
-      "first_published": "2026-07-20T11:05:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/8071464",
       "data_compliance": [
         {
@@ -390,6 +351,45 @@
       "title": "Site Support Engineer",
       "company_name": "Jungheinrich UK",
       "first_published": "2026-08-03T08:28:32-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/jungheinrich/jobs/8050440",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3489140,
+      "location": {
+        "name": "Doncaster"
+      },
+      "metadata": [
+        {
+          "id": 93170,
+          "name": "RA Number",
+          "value": "RA106",
+          "value_type": "short_text"
+        },
+        {
+          "id": 93171,
+          "name": "Job Title",
+          "value": "Site Support Engineer",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8050440,
+      "updated_at": "2026-07-20T11:05:47-04:00",
+      "requisition_id": "473",
+      "title": "Site Support Engineer",
+      "company_name": "Jungheinrich UK",
+      "first_published": "2026-07-20T11:05:47-04:00",
       "language": "en",
       "application_deadline": null
     }
