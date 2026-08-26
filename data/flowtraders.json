@@ -1,65 +1,8 @@
 {
   "company": "flowtraders",
-  "fetched_at": "2026-08-23T03:56:21.103521",
-  "job_count": 47,
+  "fetched_at": "2026-08-26T04:00:03.938969",
+  "job_count": 45,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8090609",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3505214,
-      "location": {
-        "name": "Amsterdam"
-      },
-      "metadata": [
-        {
-          "id": 154575,
-          "name": "Contact",
-          "value": "Flow Traders Careers\n+31 (0)20 799 6799 \nrecruitment.europe@flowtraders.com",
-          "value_type": "long_text"
-        },
-        {
-          "id": 10142200,
-          "name": "Start Date",
-          "value": "2026-09-01",
-          "value_type": "date"
-        },
-        {
-          "id": 13763368,
-          "name": "Division",
-          "value": "Technology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15473164,
-          "name": "High priority",
-          "value": "High priority",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16792934,
-          "name": "Application form required",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8090609,
-      "updated_at": "2026-07-31T10:01:09-04:00",
-      "requisition_id": "1665",
-      "title": "AI Engineer",
-      "company_name": "Flow Traders",
-      "first_published": "2026-07-29T09:13:00-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8143537",
       "data_compliance": [
@@ -109,7 +52,7 @@
         }
       ],
       "id": 8143537,
-      "updated_at": "2026-08-21T09:24:07-04:00",
+      "updated_at": "2026-08-25T09:02:28-04:00",
       "requisition_id": "1681",
       "title": "Communications Specialist",
       "company_name": "Flow Traders",
@@ -622,68 +565,11 @@
         }
       ],
       "id": 8066903,
-      "updated_at": "2026-08-21T08:53:21-04:00",
+      "updated_at": "2026-08-25T09:02:52-04:00",
       "requisition_id": "1662",
       "title": "Event Specialist",
       "company_name": "Flow Traders",
       "first_published": "2026-08-21T08:52:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8131776",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3521185,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 154575,
-          "name": "Contact",
-          "value": "Mike Mancuso\nRecruiter\nNew York Office\n(917) 210-5000\ncareers.newyork@us.flowtraders.com",
-          "value_type": "long_text"
-        },
-        {
-          "id": 10142200,
-          "name": "Start Date",
-          "value": "2027-01-11",
-          "value_type": "date"
-        },
-        {
-          "id": 13763368,
-          "name": "Division",
-          "value": "Trading",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15473164,
-          "name": "High priority",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 16792934,
-          "name": "Application form required",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8131776,
-      "updated_at": "2026-08-17T10:10:24-04:00",
-      "requisition_id": "1680",
-      "title": "Experienced Quantitative Researcher",
-      "company_name": "Flow Traders",
-      "first_published": "2026-08-17T10:10:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -741,6 +627,63 @@
       "title": "Experienced Quantitative Researcher",
       "company_name": "Flow Traders",
       "first_published": "2022-03-04T00:31:35-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8131776",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3521185,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 154575,
+          "name": "Contact",
+          "value": "Mike Mancuso\nRecruiter\nNew York Office\n(917) 210-5000\ncareers.newyork@us.flowtraders.com",
+          "value_type": "long_text"
+        },
+        {
+          "id": 10142200,
+          "name": "Start Date",
+          "value": "2027-01-11",
+          "value_type": "date"
+        },
+        {
+          "id": 13763368,
+          "name": "Division",
+          "value": "Trading",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15473164,
+          "name": "High priority",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 16792934,
+          "name": "Application form required",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8131776,
+      "updated_at": "2026-08-17T10:10:24-04:00",
+      "requisition_id": "1680",
+      "title": "Experienced Quantitative Researcher",
+      "company_name": "Flow Traders",
+      "first_published": "2026-08-17T10:10:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -916,64 +859,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7507482",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3327799,
-      "location": {
-        "name": "Amsterdam"
-      },
-      "metadata": [
-        {
-          "id": 154575,
-          "name": "Contact",
-          "value": "Flow Traders Recruitment Team\nAmsterdam\n+31 20 799 6799\ncareers.europe@flowtraders.com",
-          "value_type": "long_text"
-        },
-        {
-          "id": 10142200,
-          "name": "Start Date",
-          "value": "2026-06-01",
-          "value_type": "date"
-        },
-        {
-          "id": 13763368,
-          "name": "Division",
-          "value": "Trading",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15473164,
-          "name": "High priority",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 16792934,
-          "name": "Application form required",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7507482,
-      "updated_at": "2026-07-29T06:01:08-04:00",
-      "requisition_id": "1573",
-      "title": "Graduate Trader",
-      "company_name": "Flow Traders",
-      "first_published": "2026-01-30T05:33:49-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4782837",
       "data_compliance": [
         {
@@ -1032,7 +917,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8040915",
+      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7507482",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1043,7 +928,8 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3485298,
+      "education": "education_required",
+      "internal_job_id": 3327799,
       "location": {
         "name": "Amsterdam"
       },
@@ -1051,13 +937,13 @@
         {
           "id": 154575,
           "name": "Contact",
-          "value": "Flow Traders Recruitment Team\n+31 (0)20 799 6799\ncareers.europe@flowtraders.com",
+          "value": "Flow Traders Recruitment Team\nAmsterdam\n+31 20 799 6799\ncareers.europe@flowtraders.com",
           "value_type": "long_text"
         },
         {
           "id": 10142200,
           "name": "Start Date",
-          "value": "2026-10-01",
+          "value": "2026-06-01",
           "value_type": "date"
         },
         {
@@ -1069,7 +955,7 @@
         {
           "id": 15473164,
           "name": "High priority",
-          "value": "High priority",
+          "value": null,
           "value_type": "single_select"
         },
         {
@@ -1079,12 +965,12 @@
           "value_type": "yes_no"
         }
       ],
-      "id": 8040915,
+      "id": 7507482,
       "updated_at": "2026-07-29T06:01:08-04:00",
-      "requisition_id": "1655",
-      "title": "Institutional Sales - Nordic Region ",
+      "requisition_id": "1573",
+      "title": "Graduate Trader",
       "company_name": "Flow Traders",
-      "first_published": "2026-07-01T03:47:42-04:00",
+      "first_published": "2026-01-30T05:33:49-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1203,6 +1089,63 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8059329",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3492865,
+      "location": {
+        "name": "Amsterdam"
+      },
+      "metadata": [
+        {
+          "id": 154575,
+          "name": "Contact",
+          "value": "Flow Traders Recruitment Team\n+31 (0)20 799 6799\ncareers.europe@flowtraders.com",
+          "value_type": "long_text"
+        },
+        {
+          "id": 10142200,
+          "name": "Start Date",
+          "value": "2026-10-01",
+          "value_type": "date"
+        },
+        {
+          "id": 13763368,
+          "name": "Division",
+          "value": "Business Support",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15473164,
+          "name": "High priority",
+          "value": "High priority",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16792934,
+          "name": "Application form required",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8059329,
+      "updated_at": "2026-08-25T06:54:19-04:00",
+      "requisition_id": "1660",
+      "title": "Junior Market Risk Manager",
+      "company_name": "Flow Traders",
+      "first_published": "2026-07-14T03:03:26-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/6492219",
       "data_compliance": [
         {
@@ -1252,69 +1195,11 @@
         }
       ],
       "id": 6492219,
-      "updated_at": "2026-08-20T08:02:17-04:00",
+      "updated_at": "2026-08-25T09:06:31-04:00",
       "requisition_id": "1382",
       "title": "Junior Quantitative Researcher ",
       "company_name": "Flow Traders",
       "first_published": "2024-12-24T05:39:36-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7931072",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3446220,
-      "location": {
-        "name": "New York"
-      },
-      "metadata": [
-        {
-          "id": 154575,
-          "name": "Contact",
-          "value": "Mike Mancuso\nRecruiter\nNew York Office\n+1 917 210 5000\ncareers.newyork@us.flowtraders.com",
-          "value_type": "long_text"
-        },
-        {
-          "id": 10142200,
-          "name": "Start Date",
-          "value": "2026-07-13",
-          "value_type": "date"
-        },
-        {
-          "id": 13763368,
-          "name": "Division",
-          "value": "COO Office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15473164,
-          "name": "High priority",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 16792934,
-          "name": "Application form required",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 7931072,
-      "updated_at": "2026-07-29T06:01:08-04:00",
-      "requisition_id": "1636",
-      "title": "Middle Office Operations Analyst",
-      "company_name": "Flow Traders",
-      "first_published": "2026-05-15T14:22:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1776,6 +1661,63 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3467203,
+      "location": {
+        "name": "Amsterdam"
+      },
+      "metadata": [
+        {
+          "id": 154575,
+          "name": "Contact",
+          "value": "Flow Traders Recruitment Team\n+31 (0)20 799 6799\ncareers.europe@flowtraders.com",
+          "value_type": "long_text"
+        },
+        {
+          "id": 10142200,
+          "name": "Start Date",
+          "value": "2026-09-01",
+          "value_type": "date"
+        },
+        {
+          "id": 13763368,
+          "name": "Division",
+          "value": "Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 15473164,
+          "name": "High priority",
+          "value": "High priority",
+          "value_type": "single_select"
+        },
+        {
+          "id": 16792934,
+          "name": "Application form required",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8025933,
+      "updated_at": "2026-07-29T06:01:08-04:00",
+      "requisition_id": "1647",
+      "title": "Senior Software Engineer, C++",
+      "company_name": "Flow Traders",
+      "first_published": "2026-06-24T09:57:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
       "data_compliance": [
         {
@@ -2000,63 +1942,6 @@
       "title": "Senior Software Engineer, C++",
       "company_name": "Flow Traders",
       "first_published": "2026-07-09T10:33:30-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3467203,
-      "location": {
-        "name": "Amsterdam"
-      },
-      "metadata": [
-        {
-          "id": 154575,
-          "name": "Contact",
-          "value": "Flow Traders Recruitment Team\n+31 (0)20 799 6799\ncareers.europe@flowtraders.com",
-          "value_type": "long_text"
-        },
-        {
-          "id": 10142200,
-          "name": "Start Date",
-          "value": "2026-09-01",
-          "value_type": "date"
-        },
-        {
-          "id": 13763368,
-          "name": "Division",
-          "value": "Technology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 15473164,
-          "name": "High priority",
-          "value": "High priority",
-          "value_type": "single_select"
-        },
-        {
-          "id": 16792934,
-          "name": "Application form required",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8025933,
-      "updated_at": "2026-07-29T06:01:08-04:00",
-      "requisition_id": "1647",
-      "title": "Senior Software Engineer, C++",
-      "company_name": "Flow Traders",
-      "first_published": "2026-06-24T09:57:36-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2491,7 +2376,7 @@
         {
           "id": 13763368,
           "name": "Division",
-          "value": "Technology",
+          "value": "Events",
           "value_type": "single_select"
         },
         {
@@ -2508,7 +2393,7 @@
         }
       ],
       "id": 8026227,
-      "updated_at": "2026-08-06T19:19:33-04:00",
+      "updated_at": "2026-08-24T07:36:55-04:00",
       "requisition_id": "1652",
       "title": "Talent Pool: Trading Systems Engineer",
       "company_name": "Flow Traders",
