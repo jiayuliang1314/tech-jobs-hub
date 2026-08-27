@@ -1,66 +1,8 @@
 {
   "company": "theeyedoctors",
-  "fetched_at": "2026-08-24T03:57:06.514833",
+  "fetched_at": "2026-08-27T13:35:55.412267",
   "job_count": 23,
   "jobs": [
-    {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8646460002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6453087002,
-      "location": {
-        "name": "Topeka, KS"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Assistant Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "The EyeDoctors",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kansas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Office Manager/Assistant Manager (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8646460002,
-      "updated_at": "2026-08-07T17:28:52-04:00",
-      "requisition_id": "22043",
-      "title": "Assistant Office Manager",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-07-22T19:35:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8722306002",
       "data_compliance": [
@@ -178,64 +120,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8721958002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6449395002,
-      "location": {
-        "name": "Lawrence, Kansas"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "The EyeDoctors",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kansas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8721958002,
-      "updated_at": "2026-08-17T14:42:24-04:00",
-      "requisition_id": "21966",
-      "title": "Comprehensive Optometrist ",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-08-17T14:42:24-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8631634002",
       "data_compliance": [
         {
@@ -290,6 +174,64 @@
       "title": "Comprehensive Optometrist ",
       "company_name": "The Eye Doctors",
       "first_published": "2026-07-13T13:53:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8721958002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6449395002,
+      "location": {
+        "name": "Lawrence, Kansas"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8721958002,
+      "updated_at": "2026-08-17T14:42:24-04:00",
+      "requisition_id": "21966",
+      "title": "Comprehensive Optometrist ",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-08-17T14:42:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -410,64 +352,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8728650002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6489694002,
-      "location": {
-        "name": "Olathe, KS"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "The EyeDoctors",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kansas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8728650002,
-      "updated_at": "2026-08-18T19:13:04-04:00",
-      "requisition_id": "22281",
-      "title": "Eyecare Assistant - Willing to Train!",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-08-18T19:13:04-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8654477002",
       "data_compliance": [
         {
@@ -522,6 +406,64 @@
       "title": "Front Desk / Optical Technician- Training Provided!",
       "company_name": "The Eye Doctors",
       "first_published": "2026-07-28T18:25:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8716139002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6483847002,
+      "location": {
+        "name": "Lawrence, KS"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Front Office Specialist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Front Desk (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8716139002,
+      "updated_at": "2026-08-14T14:03:16-04:00",
+      "requisition_id": "22242",
+      "title": "Front Office Specialist - Training Provided!",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-08-14T14:03:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -584,7 +526,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8716139002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753631002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -596,15 +538,15 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6483847002,
+      "internal_job_id": 6501196002,
       "location": {
-        "name": "Lawrence, KS"
+        "name": "Manhattan, KS"
       },
       "metadata": [
         {
           "id": 4122753002,
           "name": "Title",
-          "value": "Front Office Specialist",
+          "value": "Optometric Technician",
           "value_type": "single_select"
         },
         {
@@ -622,7 +564,7 @@
         {
           "id": 10823239002,
           "name": "Bucket Title",
-          "value": "Front Desk (OPT)",
+          "value": "Optometric Technician (OPT)",
           "value_type": "single_select"
         },
         {
@@ -632,12 +574,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8716139002,
-      "updated_at": "2026-08-14T14:03:16-04:00",
-      "requisition_id": "22242",
-      "title": "Front Office Specialist - Training Provided!",
+      "id": 8753631002,
+      "updated_at": "2026-08-26T20:44:09-04:00",
+      "requisition_id": "22344",
+      "title": "Medical Assistant - Training Provided!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-08-14T14:03:16-04:00",
+      "first_published": "2026-08-26T20:44:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -758,7 +700,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8639396002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8716148002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -770,9 +712,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6450427002,
+      "internal_job_id": 6457620002,
       "location": {
-        "name": "Olathe, KS"
+        "name": "Lawrence, KS"
       },
       "metadata": [
         {
@@ -806,70 +748,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8639396002,
-      "updated_at": "2026-08-07T15:08:22-04:00",
-      "requisition_id": "21991",
+      "id": 8716148002,
+      "updated_at": "2026-08-14T14:05:32-04:00",
+      "requisition_id": "22096",
       "title": "Optical Sales Associate / Optician - Training Provided!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-07-17T17:22:00-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8659037002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6457607002,
-      "location": {
-        "name": "Ottawa, KS"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optical Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "The EyeDoctors",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Kansas",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8659037002,
-      "updated_at": "2026-08-07T15:08:22-04:00",
-      "requisition_id": "22095",
-      "title": "Optical Sales Associate / Optician - Training Provided!",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-07-30T13:24:06-04:00",
+      "first_published": "2026-08-14T14:05:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -932,7 +816,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8716148002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753607002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -944,9 +828,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6457620002,
+      "internal_job_id": 6501189002,
       "location": {
-        "name": "Lawrence, KS"
+        "name": "Topeka, KS"
       },
       "metadata": [
         {
@@ -980,70 +864,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8716148002,
-      "updated_at": "2026-08-14T14:05:32-04:00",
-      "requisition_id": "22096",
+      "id": 8753607002,
+      "updated_at": "2026-08-26T20:32:39-04:00",
+      "requisition_id": "22343",
       "title": "Optical Sales Associate / Optician - Training Provided!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-08-14T14:05:32-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8702781002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6477681002,
-      "location": {
-        "name": "St. Joseph, MO"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "Clarkson Eyecare",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "Missouri",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optical Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8702781002,
-      "updated_at": "2026-08-12T17:48:36-04:00",
-      "requisition_id": "22222",
-      "title": "Optical Sales Associate / Optician - Willing to Train!",
-      "company_name": "The Eye Doctors",
-      "first_published": "2026-08-12T17:48:36-04:00",
+      "first_published": "2026-08-26T20:32:39-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1106,7 +932,65 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8646477002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8702781002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6477681002,
+      "location": {
+        "name": "St. Joseph, MO"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "Clarkson Eyecare",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Missouri",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8702781002,
+      "updated_at": "2026-08-12T17:48:36-04:00",
+      "requisition_id": "22222",
+      "title": "Optical Sales Associate / Optician - Willing to Train!",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-08-12T17:48:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753652002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1154,17 +1038,17 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8646477002,
-      "updated_at": "2026-08-07T15:08:22-04:00",
+      "id": 8753652002,
+      "updated_at": "2026-08-26T20:53:31-04:00",
       "requisition_id": "22046",
       "title": "Optometric Technician - Training Provided!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-07-22T19:44:05-04:00",
+      "first_published": "2026-08-26T20:53:31-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8728647002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753624002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1176,9 +1060,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6489694002,
+      "internal_job_id": 6501196002,
       "location": {
-        "name": "Olathe, KS"
+        "name": "Manhattan, KS"
       },
       "metadata": [
         {
@@ -1212,12 +1096,70 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8728647002,
-      "updated_at": "2026-08-18T19:11:36-04:00",
-      "requisition_id": "22281",
+      "id": 8753624002,
+      "updated_at": "2026-08-26T20:43:13-04:00",
+      "requisition_id": "22344",
+      "title": "Optometric Technician - Training Provided!",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-08-26T20:43:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8702784002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6477696002,
+      "location": {
+        "name": "Lawrence, KS"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8702784002,
+      "updated_at": "2026-08-12T17:52:37-04:00",
+      "requisition_id": "22223",
       "title": "Optometric Technician - Willing to Train!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-08-18T19:11:36-04:00",
+      "first_published": "2026-08-12T17:52:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1280,7 +1222,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8702784002",
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753213002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1292,15 +1234,15 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6477696002,
+      "internal_job_id": 6450427002,
       "location": {
-        "name": "Lawrence, KS"
+        "name": "Olathe, KS"
       },
       "metadata": [
         {
           "id": 4122753002,
           "name": "Title",
-          "value": "Optometric Technician",
+          "value": "Optical Technician",
           "value_type": "single_select"
         },
         {
@@ -1318,7 +1260,7 @@
         {
           "id": 10823239002,
           "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
+          "value": "Optical Technician (OPT)",
           "value_type": "single_select"
         },
         {
@@ -1328,12 +1270,70 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8702784002,
-      "updated_at": "2026-08-12T17:52:37-04:00",
-      "requisition_id": "22223",
-      "title": "Optometric Technician - Willing to Train!",
+      "id": 8753213002,
+      "updated_at": "2026-08-26T18:35:48-04:00",
+      "requisition_id": "21991",
+      "title": "Sales Associate / Optician - Training Provided!",
       "company_name": "The Eye Doctors",
-      "first_published": "2026-08-12T17:52:37-04:00",
+      "first_published": "2026-08-26T18:35:48-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.theeyedoctors.net/careers/?gh_jid=8753653002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6457607002,
+      "location": {
+        "name": "Ottawa, KS"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "The EyeDoctors",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "Kansas",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8753653002,
+      "updated_at": "2026-08-26T20:56:53-04:00",
+      "requisition_id": "22095",
+      "title": "Sales Associate / Optician - Training Provided!",
+      "company_name": "The Eye Doctors",
+      "first_published": "2026-08-26T20:56:53-04:00",
       "language": "en",
       "application_deadline": null
     }
