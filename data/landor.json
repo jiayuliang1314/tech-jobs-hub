@@ -1,7 +1,7 @@
 {
   "company": "landor",
-  "fetched_at": "2026-09-07T07:55:45.378363",
-  "job_count": 45,
+  "fetched_at": "2026-09-10T07:53:33.734644",
+  "job_count": 50,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7818130",
@@ -39,6 +39,45 @@
       "title": "Artworker",
       "company_name": "Landor",
       "first_published": "2026-04-15T07:57:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8185567",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3542196,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8185567,
+      "updated_at": "2026-09-08T12:24:08-04:00",
+      "requisition_id": "571",
+      "title": "Business Director",
+      "company_name": "Landor",
+      "first_published": "2026-09-08T12:22:34-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -121,7 +160,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8020362",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/6688200",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -132,15 +171,15 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3477129,
+      "internal_job_id": 3090323,
       "location": {
-        "name": "Mumbai"
+        "name": "Paris"
       },
       "metadata": [
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": "Full Time",
+          "value": "Intern",
           "value_type": "single_select"
         },
         {
@@ -150,12 +189,51 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 8020362,
-      "updated_at": "2026-06-25T13:57:07-04:00",
+      "id": 6688200,
+      "updated_at": "2026-09-08T04:53:16-04:00",
       "requisition_id": null,
-      "title": "Client Director",
+      "title": "Chef de projet (stagiaire)",
       "company_name": "Landor",
-      "first_published": "2026-06-22T22:07:03-04:00",
+      "first_published": "2025-03-06T09:21:32-05:00",
+      "language": "fr",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8185577",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3542200,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Permanent",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8185577,
+      "updated_at": "2026-09-08T09:21:53-04:00",
+      "requisition_id": "572",
+      "title": "Client Coordinator",
+      "company_name": "Landor",
+      "first_published": "2026-09-08T09:09:34-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -195,6 +273,45 @@
       "title": "Client Director",
       "company_name": "Landor",
       "first_published": "2026-06-24T03:03:32-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8020362",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3477129,
+      "location": {
+        "name": "Mumbai"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8020362,
+      "updated_at": "2026-06-25T13:57:07-04:00",
+      "requisition_id": null,
+      "title": "Client Director",
+      "company_name": "Landor",
+      "first_published": "2026-06-22T22:07:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -511,45 +628,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8145808",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3525083,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 64591694,
-          "name": "EUPT Job post Salary",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 8145808,
-      "updated_at": "2026-08-20T16:16:48-04:00",
-      "requisition_id": "740",
-      "title": "Designer",
-      "company_name": "Landor",
-      "first_published": "2026-08-20T16:16:09-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8166516",
       "data_compliance": [
         {
@@ -628,6 +706,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8145808",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3525083,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8145808,
+      "updated_at": "2026-08-20T16:16:48-04:00",
+      "requisition_id": "740",
+      "title": "Designer",
+      "company_name": "Landor",
+      "first_published": "2026-08-20T16:16:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8034882",
       "data_compliance": [
         {
@@ -663,6 +780,45 @@
       "title": "Designer (Mid-Weight)",
       "company_name": "Landor",
       "first_published": "2026-06-29T01:59:17-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8190084",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3544107,
+      "location": {
+        "name": "Shanghai"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8190084,
+      "updated_at": "2026-09-09T23:05:00-04:00",
+      "requisition_id": null,
+      "title": "Design Intern",
+      "company_name": "Landor",
+      "first_published": "2026-09-09T23:05:00-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -741,6 +897,45 @@
       "title": "Executive Assistant",
       "company_name": "Landor",
       "first_published": "2026-08-05T08:29:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8187308",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3542862,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Freelancer_LongTerm",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8187308,
+      "updated_at": "2026-09-08T17:52:26-04:00",
+      "requisition_id": "573",
+      "title": "Freelance Brand Performance Director ",
+      "company_name": "Landor",
+      "first_published": "2026-09-08T17:52:26-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -983,7 +1178,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7334920",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8185559",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -991,18 +1186,18 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3273293,
+      "internal_job_id": 3542190,
       "location": {
-        "name": "Delhi"
+        "name": "London"
       },
       "metadata": [
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": null,
+          "value": "Permanent",
           "value_type": "single_select"
         },
         {
@@ -1012,12 +1207,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 7334920,
-      "updated_at": "2026-06-25T13:57:07-04:00",
-      "requisition_id": null,
-      "title": "Senior Artworker",
+      "id": 8185559,
+      "updated_at": "2026-09-08T09:27:32-04:00",
+      "requisition_id": "570",
+      "title": "Senior Client Manager",
       "company_name": "Landor",
-      "first_published": "2025-10-15T07:41:56-04:00",
+      "first_published": "2026-09-08T09:25:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1061,6 +1256,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8028377",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3480398,
+      "location": {
+        "name": "New York"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8028377,
+      "updated_at": "2026-08-25T13:17:56-04:00",
+      "requisition_id": "532",
+      "title": "Senior Designer",
+      "company_name": "Landor",
+      "first_published": "2026-08-25T13:17:56-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7851419",
       "data_compliance": [
         {
@@ -1096,45 +1330,6 @@
       "title": "Senior Designer",
       "company_name": "Landor",
       "first_published": "2026-04-28T05:01:19-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7171537",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3220430,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": "Permanent",
-          "value_type": "single_select"
-        },
-        {
-          "id": 64591694,
-          "name": "EUPT Job post Salary",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 7171537,
-      "updated_at": "2026-06-25T13:57:07-04:00",
-      "requisition_id": "429",
-      "title": "Senior Designer",
-      "company_name": "Landor",
-      "first_published": "2025-08-15T09:25:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1178,7 +1373,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8028377",
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7171537",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1186,18 +1381,18 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": false
+          "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3480398,
+      "internal_job_id": 3220430,
       "location": {
-        "name": "New York"
+        "name": "London"
       },
       "metadata": [
         {
           "id": 42316,
           "name": "Employment Type (N/A)",
-          "value": "Full Time",
+          "value": "Permanent",
           "value_type": "single_select"
         },
         {
@@ -1207,12 +1402,12 @@
           "value_type": "currency_range"
         }
       ],
-      "id": 8028377,
-      "updated_at": "2026-08-25T13:17:56-04:00",
-      "requisition_id": "532",
+      "id": 7171537,
+      "updated_at": "2026-06-25T13:57:07-04:00",
+      "requisition_id": "429",
       "title": "Senior Designer",
       "company_name": "Landor",
-      "first_published": "2026-08-25T13:17:56-04:00",
+      "first_published": "2025-08-15T09:25:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1291,45 +1486,6 @@
       "title": "Senior Designer (Consumer Packaging)",
       "company_name": "Landor",
       "first_published": "2026-09-02T07:50:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/8009409",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3472682,
-      "location": {
-        "name": "Mumbai"
-      },
-      "metadata": [
-        {
-          "id": 42316,
-          "name": "Employment Type (N/A)",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 64591694,
-          "name": "EUPT Job post Salary",
-          "value": null,
-          "value_type": "currency_range"
-        }
-      ],
-      "id": 8009409,
-      "updated_at": "2026-06-25T13:57:07-04:00",
-      "requisition_id": null,
-      "title": "Senior Designer - Corporate Branding",
-      "company_name": "Landor",
-      "first_published": "2026-06-17T02:47:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1604,6 +1760,45 @@
       "company_name": "Landor",
       "first_published": "2026-09-04T12:41:17-04:00",
       "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/landor/jobs/7439807",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3309138,
+      "location": {
+        "name": "Paris"
+      },
+      "metadata": [
+        {
+          "id": 42316,
+          "name": "Employment Type (N/A)",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 64591694,
+          "name": "EUPT Job post Salary",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 7439807,
+      "updated_at": "2026-09-07T11:09:29-04:00",
+      "requisition_id": null,
+      "title": "Strategist (Internship)",
+      "company_name": "Landor",
+      "first_published": "2025-12-03T03:37:00-05:00",
+      "language": "fr",
       "application_deadline": null
     },
     {
