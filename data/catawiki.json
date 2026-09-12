@@ -1,7 +1,7 @@
 {
   "company": "catawiki",
-  "fetched_at": "2026-09-09T07:41:26.893246",
-  "job_count": 44,
+  "fetched_at": "2026-09-12T07:27:44.990665",
+  "job_count": 43,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8177623",
@@ -78,6 +78,45 @@
       "title": "Backend Engineer",
       "company_name": "Catawiki",
       "first_published": "2026-09-04T05:12:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8184728",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3541821,
+      "location": {
+        "name": "Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8184728,
+      "updated_at": "2026-09-11T10:07:36-04:00",
+      "requisition_id": "P-3180417073",
+      "title": "Campaigns & Activations Specialist - Category Marketing",
+      "company_name": "Catawiki",
+      "first_published": "2026-09-11T10:07:36-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -355,45 +394,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8163960",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3533134,
-      "location": {
-        "name": "Lisbon, Portugal"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 8163960,
-      "updated_at": "2026-08-28T05:53:57-04:00",
-      "requisition_id": null,
-      "title": "Customer Service Representative - Hindi and English (Interim)",
-      "company_name": "Catawiki",
-      "first_published": "2026-08-28T05:52:57-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8184712",
       "data_compliance": [
         {
@@ -433,45 +433,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/2338337",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 1427963,
-      "location": {
-        "name": "Amsterdam, Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 2338337,
-      "updated_at": "2026-09-02T12:42:31-04:00",
-      "requisition_id": null,
-      "title": "Data Scientist - Machine Learning ",
-      "company_name": "Catawiki",
-      "first_published": "2020-09-15T08:21:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8088238",
       "data_compliance": [
         {
@@ -507,6 +468,45 @@
       "title": "Data Scientist - Machine Learning ",
       "company_name": "Catawiki",
       "first_published": "2026-07-27T08:52:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/2338337",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 1427963,
+      "location": {
+        "name": "Amsterdam, Netherlands"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 2338337,
+      "updated_at": "2026-09-02T12:42:31-04:00",
+      "requisition_id": null,
+      "title": "Data Scientist - Machine Learning ",
+      "company_name": "Catawiki",
+      "first_published": "2020-09-15T08:21:38-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -940,45 +940,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8110728",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3513517,
-      "location": {
-        "name": "Netherlands"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 8110728,
-      "updated_at": "2026-08-10T05:28:13-04:00",
-      "requisition_id": "P-4900657043",
-      "title": "Key Account Manager Benelux",
-      "company_name": "Catawiki",
-      "first_published": "2026-08-10T05:28:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7957523",
       "data_compliance": [
         {
@@ -1243,7 +1204,7 @@
         }
       ],
       "id": 8173192,
-      "updated_at": "2026-09-03T05:48:31-04:00",
+      "updated_at": "2026-09-09T05:12:57-04:00",
       "requisition_id": "P-2294242331",
       "title": "(Senior) Accounting & Reporting Manager ",
       "company_name": "Catawiki",
@@ -1360,7 +1321,7 @@
         }
       ],
       "id": 8158595,
-      "updated_at": "2026-09-02T12:42:42-04:00",
+      "updated_at": "2026-09-09T07:54:52-04:00",
       "requisition_id": "P-6777440923",
       "title": "Senior Data Scientist - Product Insights",
       "company_name": "Catawiki",
@@ -1486,45 +1447,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8093969",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": true,
-          "requires_retention_consent": true,
-          "retention_period": 365,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3506342,
-      "location": {
-        "name": "Italy"
-      },
-      "metadata": [
-        {
-          "id": 1349263,
-          "name": "Time Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1349264,
-          "name": "Earliest Hire Date",
-          "value": "",
-          "value_type": "date"
-        }
-      ],
-      "id": 8093969,
-      "updated_at": "2026-07-29T10:08:01-04:00",
-      "requisition_id": null,
-      "title": "Senior Jewellery Expert",
-      "company_name": "Catawiki",
-      "first_published": "2026-07-29T06:14:42-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/7348691",
       "data_compliance": [
         {
@@ -1560,6 +1482,45 @@
       "title": "Senior Jewellery Expert",
       "company_name": "Catawiki",
       "first_published": "2025-10-22T05:24:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/catawiki/jobs/8093969",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": true,
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3506342,
+      "location": {
+        "name": "Italy"
+      },
+      "metadata": [
+        {
+          "id": 1349263,
+          "name": "Time Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1349264,
+          "name": "Earliest Hire Date",
+          "value": "",
+          "value_type": "date"
+        }
+      ],
+      "id": 8093969,
+      "updated_at": "2026-07-29T10:08:01-04:00",
+      "requisition_id": null,
+      "title": "Senior Jewellery Expert",
+      "company_name": "Catawiki",
+      "first_published": "2026-07-29T06:14:42-04:00",
       "language": "en",
       "application_deadline": null
     },
