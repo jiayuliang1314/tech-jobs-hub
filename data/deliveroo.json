@@ -1,10 +1,10 @@
 {
   "company": "deliveroo",
-  "fetched_at": "2026-09-19T07:52:09.058720",
-  "job_count": 123,
+  "fetched_at": "2026-09-22T08:17:32.088154",
+  "job_count": 129,
   "jobs": [
     {
-      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202437",
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206649",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12,24 +12,24 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3549997,
+      "internal_job_id": 3551854,
       "location": {
-        "name": "London, United Kingdom - Deliveroo"
+        "name": "Paris, France"
       },
       "metadata": [
         {
           "id": 875125,
           "name": "Availability Date",
-          "value": "2024-01-28",
+          "value": "2026-09-15",
           "value_type": "date"
         },
         {
           "id": 875200,
           "name": "Earliest Hire Date",
-          "value": "2024-01-28",
+          "value": "2026-09-28",
           "value_type": "date"
         },
         {
@@ -47,7 +47,7 @@
         {
           "id": 172948,
           "name": "Entity",
-          "value": "RooFoods Ltd",
+          "value": "Deliveroo France SAS",
           "value_type": "single_select"
         },
         {
@@ -65,7 +65,7 @@
         {
           "id": 172717,
           "name": "Job Location",
-          "value": "London - The River Building HQ",
+          "value": "Paris - Main Office",
           "value_type": "single_select"
         },
         {
@@ -77,7 +77,7 @@
         {
           "id": 923113,
           "name": "Hiring Manager with Job Title",
-          "value": null,
+          "value": "Regional Accounts Paris (Gabriella Dabbaghian) - Regional Director, Paris",
           "value_type": "single_select"
         },
         {
@@ -89,13 +89,19 @@
         {
           "id": 32781020,
           "name": "US1 - Base Salary Band Midpoint",
-          "value": null,
+          "value": {
+            "unit": "USD",
+            "amount": "180000.0"
+          },
           "value_type": "currency"
         },
         {
           "id": 32794284,
           "name": "US4 - Base Salary Band Minimum",
-          "value": null,
+          "value": {
+            "unit": "USD",
+            "amount": "122400.0"
+          },
           "value_type": "currency"
         },
         {
@@ -107,13 +113,21 @@
         {
           "id": 32796921,
           "name": "USA: Pay Transparency Range",
-          "value": null,
+          "value": {
+            "unit": "USD",
+            "max_value": "180000.0",
+            "min_value": "122400.0"
+          },
           "value_type": "currency_range"
         },
         {
           "id": 33181307,
           "name": "Canada: Pay Transparency Range",
-          "value": null,
+          "value": {
+            "unit": "CAD",
+            "max_value": "180000.0",
+            "min_value": "144000.0"
+          },
           "value_type": "currency_range"
         },
         {
@@ -147,12 +161,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8202437,
-      "updated_at": "2026-09-18T10:52:12-04:00",
-      "requisition_id": "EV4205",
-      "title": "Account Manager",
+      "id": 8206649,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08829",
+      "title": "Account Management Lead - Editions France",
       "company_name": "Deliveroo ",
-      "first_published": "2026-09-18T09:56:43-04:00",
+      "first_published": "2026-09-21T11:56:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -315,11 +329,164 @@
         }
       ],
       "id": 8206126,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08809",
       "title": "Account Manager",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:53:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202437",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3549997,
+      "location": {
+        "name": "London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2024-01-28",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2024-01-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "SMB Account Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8202437,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "EV4205",
+      "title": "Account Manager",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-18T09:56:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -468,9 +635,9 @@
         }
       ],
       "id": 8202576,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3033",
-      "title": "Account Manager - French Speaking (L1/I2)",
+      "title": "Account Manager - French Speaking ",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:56:12-04:00",
       "language": "en",
@@ -635,7 +802,7 @@
         }
       ],
       "id": 8206611,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08837",
       "title": "Account Manager - Groceries & Retail",
       "company_name": "Deliveroo ",
@@ -788,7 +955,7 @@
         }
       ],
       "id": 8202351,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3035",
       "title": "Account Manager - Italian Speaking",
       "company_name": "Deliveroo ",
@@ -941,7 +1108,7 @@
         }
       ],
       "id": 8202556,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4041",
       "title": "Account Manager - Liguria",
       "company_name": "Deliveroo ",
@@ -1094,7 +1261,7 @@
         }
       ],
       "id": 8202327,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4038",
       "title": "Account Manager - Piemonte",
       "company_name": "Deliveroo ",
@@ -1247,7 +1414,7 @@
         }
       ],
       "id": 8202390,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3097",
       "title": "Account Manager - Retail",
       "company_name": "Deliveroo ",
@@ -1414,7 +1581,7 @@
         }
       ],
       "id": 8206309,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08596",
       "title": "Analytics Engineering Manager",
       "company_name": "Deliveroo ",
@@ -1581,11 +1748,178 @@
         }
       ],
       "id": 8206635,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08751",
       "title": "B2B Demand Generation Manager",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:49:35-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220737",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3551721,
+      "location": {
+        "name": "London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-21",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-21",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Engineering II (Swaroop Deval) - Engineering Manager II",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "192000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "130600.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "192000.0",
+            "min_value": "130600.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "150000.0",
+            "min_value": "120000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8220737,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08638",
+      "title": "Backend Engineer, Home Page & Merchandising Platform",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-21T12:07:57-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1748,7 +2082,7 @@
         }
       ],
       "id": 8206175,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08806",
       "title": "Business Development Manager",
       "company_name": "Deliveroo ",
@@ -1901,7 +2235,7 @@
         }
       ],
       "id": 8202564,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4204",
       "title": "Business Development Manager - Bologna/Parma/Modena",
       "company_name": "Deliveroo ",
@@ -2068,7 +2402,7 @@
         }
       ],
       "id": 8205894,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08703",
       "title": "Business Development Manager - Bristol (L2)",
       "company_name": "Deliveroo ",
@@ -2221,7 +2555,7 @@
         }
       ],
       "id": 8202625,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3017",
       "title": "Business Development Manager - Core London",
       "company_name": "Deliveroo ",
@@ -2374,7 +2708,7 @@
         }
       ],
       "id": 8202444,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3018",
       "title": "Business Development Manager - Greater London",
       "company_name": "Deliveroo ",
@@ -2541,7 +2875,7 @@
         }
       ],
       "id": 8206021,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08917",
       "title": "Business Development Manager - Lazio (Fixed- Term)",
       "company_name": "Deliveroo ",
@@ -2708,7 +3042,7 @@
         }
       ],
       "id": 8206507,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08815",
       "title": "Business Development Manager - Montpellier - CDI",
       "company_name": "Deliveroo ",
@@ -2861,7 +3195,7 @@
         }
       ],
       "id": 8202409,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4027",
       "title": "Business Development Manager - Napoli (FTC - 12 months)",
       "company_name": "Deliveroo ",
@@ -3028,7 +3362,7 @@
         }
       ],
       "id": 8206335,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-22T04:13:56-04:00",
       "requisition_id": "2026.08691",
       "title": "Business Development Manager - Newcastle",
       "company_name": "Deliveroo ",
@@ -3181,7 +3515,7 @@
         }
       ],
       "id": 8202566,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4084",
       "title": "Business Development Manager - Paris",
       "company_name": "Deliveroo ",
@@ -3348,7 +3682,7 @@
         }
       ],
       "id": 8205928,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08824",
       "title": "Business Development Manager - Strasbourg",
       "company_name": "Deliveroo ",
@@ -3501,11 +3835,178 @@
         }
       ],
       "id": 8202339,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4020",
       "title": "Business Development Manager - Varese  ( tempo determinato 12 mesi)",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:58:11-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206643",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551851,
+      "location": {
+        "name": "Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "People Technology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Workforce Management & Absence (Jo O'Mahony) - Sr. Manager, Workforce and Payroll.",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "123000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "83700.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "123000.0",
+            "min_value": "83700.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8206643,
+      "updated_at": "2026-09-21T16:18:23-04:00",
+      "requisition_id": "2026.08518",
+      "title": "Business Systems Analyst - Workday Time Tracking & Absence Management",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-21T06:28:58-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3654,7 +4155,7 @@
         }
       ],
       "id": 8202584,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2755",
       "title": "City Manager, Yorkshire",
       "company_name": "Deliveroo ",
@@ -3821,7 +4322,7 @@
         }
       ],
       "id": 8205987,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08422",
       "title": "Client Partner - Advertising",
       "company_name": "Deliveroo ",
@@ -3974,7 +4475,7 @@
         }
       ],
       "id": 8205852,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08484",
       "title": "Commercial Merchant Support Agent",
       "company_name": "Deliveroo ",
@@ -4141,7 +4642,7 @@
         }
       ],
       "id": 8205914,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08976",
       "title": "Commercial Project Manager",
       "company_name": "Deliveroo ",
@@ -4308,7 +4809,7 @@
         }
       ],
       "id": 8206065,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08423",
       "title": "Corporate Business Development Associate",
       "company_name": "Deliveroo ",
@@ -4475,11 +4976,164 @@
         }
       ],
       "id": 8206419,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08971",
       "title": "Corporate Commercial Manager, Abu Dhabi",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:47:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206585",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551822,
+      "location": {
+        "name": "Paris, France"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "Deliveroo LLC",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Brand Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "Paris - Main Office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Senior Creative Operations Manager (Emma Codrington) - PMO Lead",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8206585,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08849",
+      "title": "Creative Project Manager (H/F)",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-21T04:53:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4628,7 +5282,7 @@
         }
       ],
       "id": 8205780,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08434",
       "title": "Customer Service Agent (Italian Speaking) - Inbound B2B",
       "company_name": "Deliveroo ",
@@ -4781,7 +5435,7 @@
         }
       ],
       "id": 8202485,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4049",
       "title": "Data Science Manager",
       "company_name": "Deliveroo ",
@@ -4948,7 +5602,7 @@
         }
       ],
       "id": 8206537,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08677",
       "title": "Digital Marketing Manager - Programmatic - FTC",
       "company_name": "Deliveroo ",
@@ -5115,7 +5769,7 @@
         }
       ],
       "id": 8206525,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08941",
       "title": "Digital Marketing Specialist",
       "company_name": "Deliveroo ",
@@ -5268,7 +5922,7 @@
         }
       ],
       "id": 8202419,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2983",
       "title": "Emiratization",
       "company_name": "Deliveroo ",
@@ -5421,7 +6075,7 @@
         }
       ],
       "id": 8202580,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3093",
       "title": "Engineering Manager",
       "company_name": "Deliveroo ",
@@ -5588,7 +6242,7 @@
         }
       ],
       "id": 8206281,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08796",
       "title": "Enterprise Client Partner - Deliveroo for Work",
       "company_name": "Deliveroo ",
@@ -5755,7 +6409,7 @@
         }
       ],
       "id": 8206075,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08901",
       "title": "Field-Based Business Development Representative Limerick & Galway",
       "company_name": "Deliveroo ",
@@ -5922,7 +6576,7 @@
         }
       ],
       "id": 8206073,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T18:41:42-04:00",
       "requisition_id": "2026.08902",
       "title": "Field Sales Executive, Dublin (12 month FTC)",
       "company_name": "Deliveroo ",
@@ -6089,7 +6743,7 @@
         }
       ],
       "id": 8206587,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T17:31:58-04:00",
       "requisition_id": "2026.08898",
       "title": "Field Sales Executive, New Verticals Commuter Dublin",
       "company_name": "Deliveroo ",
@@ -6242,11 +6896,178 @@
         }
       ],
       "id": 8202464,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4011",
       "title": "Finance and Strategy Senior Associate",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:56:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205868",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551480,
+      "location": {
+        "name": "London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Accounting",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Financial Reporting Europe (Alice Walpole (Inherited)) - Financial Controller",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "145000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "98600.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "145000.0",
+            "min_value": "98600.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "132000.0",
+            "min_value": "105500.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8205868,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08497",
+      "title": "Finance Manager",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-21T06:21:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6409,178 +7230,11 @@
         }
       ],
       "id": 8206555,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08487",
       "title": "Finance Manager - 12-month FTC",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:54:27-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206393",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3551726,
-      "location": {
-        "name": "Bristol, United Kingdom"
-      },
-      "metadata": [
-        {
-          "id": 875125,
-          "name": "Availability Date",
-          "value": "2026-09-15",
-          "value_type": "date"
-        },
-        {
-          "id": 875200,
-          "name": "Earliest Hire Date",
-          "value": "2026-09-28",
-          "value_type": "date"
-        },
-        {
-          "id": 170345,
-          "name": "Business Line",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 170346,
-          "name": "Market",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 172948,
-          "name": "Entity",
-          "value": "RooFoods Ltd",
-          "value_type": "single_select"
-        },
-        {
-          "id": 174556,
-          "name": "Job Family",
-          "value": "Enterprise Account Management",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1495483,
-          "name": "Engineering Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 172717,
-          "name": "Job Location",
-          "value": "Bristol - Victoria St",
-          "value_type": "single_select"
-        },
-        {
-          "id": 875215,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 923113,
-          "name": "Hiring Manager with Job Title",
-          "value": "Casual Dining & Key Accounts (Tom Price) - Senior Director - Enterprise Merchants",
-          "value_type": "single_select"
-        },
-        {
-          "id": 172248,
-          "name": "Careers Page Sorting: Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32781020,
-          "name": "US1 - Base Salary Band Midpoint",
-          "value": {
-            "unit": "USD",
-            "amount": "131500.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 32794284,
-          "name": "US4 - Base Salary Band Minimum",
-          "value": {
-            "unit": "USD",
-            "amount": "89400.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 32794304,
-          "name": "US1 - Equity Band Midpoint",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 32796921,
-          "name": "USA: Pay Transparency Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "131500.0",
-            "min_value": "89400.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 33181307,
-          "name": "Canada: Pay Transparency Range",
-          "value": {
-            "unit": "CAD",
-            "max_value": "105000.0",
-            "min_value": "84000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 40636812,
-          "name": "Umbrella Corp:",
-          "value": "Deliveroo",
-          "value_type": "single_select"
-        },
-        {
-          "id": 40689956,
-          "name": "Wolt: Careers Site Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 50331873,
-          "name": "Business Title",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 54550527,
-          "name": "Fountain HVH",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54550663,
-          "name": "Fountain Opening ID",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8206393,
-      "updated_at": "2026-09-18T10:52:13-04:00",
-      "requisition_id": "2026.08707",
-      "title": "Franchisee Manager, Enterprise QSR",
-      "company_name": "Deliveroo ",
-      "first_published": "2026-09-18T09:47:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6743,11 +7397,178 @@
         }
       ],
       "id": 8206421,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08706",
       "title": "Franchisee Manager, Enterprise QSR",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:47:44-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206393",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551726,
+      "location": {
+        "name": "Bristol, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Enterprise Account Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "Bristol - Victoria St",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Casual Dining & Key Accounts (Tom Price) - Senior Director - Enterprise Merchants",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "131500.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "89400.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "131500.0",
+            "min_value": "89400.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "105000.0",
+            "min_value": "84000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8206393,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08707",
+      "title": "Franchisee Manager, Enterprise QSR",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-18T09:47:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6896,7 +7717,7 @@
         }
       ],
       "id": 8202370,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3060",
       "title": "French SDR Inbound (LE)",
       "company_name": "Deliveroo ",
@@ -7063,7 +7884,7 @@
         }
       ],
       "id": 8206365,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08935",
       "title": "F&S Associate - UAE National",
       "company_name": "Deliveroo ",
@@ -7230,7 +8051,7 @@
         }
       ],
       "id": 8206607,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08798",
       "title": "Global Advertising Manager",
       "company_name": "Deliveroo ",
@@ -7397,7 +8218,7 @@
         }
       ],
       "id": 8206315,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08587",
       "title": "Group Product Manager, Regulatory Finance",
       "company_name": "Deliveroo ",
@@ -7564,9 +8385,9 @@
         }
       ],
       "id": 8206539,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08813",
-      "title": "Head of Merchant Marketing, France - L6",
+      "title": "Head of Partner Marketing, France",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:54:30-04:00",
       "language": "en",
@@ -7731,7 +8552,7 @@
         }
       ],
       "id": 8206625,
-      "updated_at": "2026-09-18T11:14:28-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08909",
       "title": "Integrated Marketing Manager",
       "company_name": "Deliveroo ",
@@ -7898,7 +8719,7 @@
         }
       ],
       "id": 8206037,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08973",
       "title": "Junior Designer - Kuwaiti National Only",
       "company_name": "Deliveroo ",
@@ -8065,7 +8886,7 @@
         }
       ],
       "id": 8206567,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08831",
       "title": "Key Account Associate (H/F)",
       "company_name": "Deliveroo ",
@@ -8218,7 +9039,7 @@
         }
       ],
       "id": 8202609,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2980",
       "title": "Key Account Manager - Restaurants",
       "company_name": "Deliveroo ",
@@ -8371,7 +9192,7 @@
         }
       ],
       "id": 8202399,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4003",
       "title": "Machine Learning Engineer - Growth & Personalisation",
       "company_name": "Deliveroo ",
@@ -8538,7 +9359,7 @@
         }
       ],
       "id": 8206469,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08489",
       "title": "Manager Engineering, Accounting Data and Systems",
       "company_name": "Deliveroo ",
@@ -8705,7 +9526,7 @@
         }
       ],
       "id": 8206597,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08938",
       "title": "Marketing Executive, Value & Promotions",
       "company_name": "Deliveroo ",
@@ -8714,7 +9535,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206373",
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206631",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -8722,12 +9543,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3551716,
+      "internal_job_id": 3551845,
       "location": {
-        "name": "Dubai, United Arab Emirates"
+        "name": "Milan, Italy"
       },
       "metadata": [
         {
@@ -8757,13 +9578,13 @@
         {
           "id": 172948,
           "name": "Entity",
-          "value": "Roofoods Food Delivery LLC",
+          "value": "Deliveroo Italy S.R.L.",
           "value_type": "single_select"
         },
         {
           "id": 174556,
           "name": "Job Family",
-          "value": "Brand Marketing",
+          "value": "Growth Marketing",
           "value_type": "single_select"
         },
         {
@@ -8775,7 +9596,7 @@
         {
           "id": 172717,
           "name": "Job Location",
-          "value": "Dubai - Main Office",
+          "value": "Milan - Main Office",
           "value_type": "single_select"
         },
         {
@@ -8787,7 +9608,7 @@
         {
           "id": 923113,
           "name": "Hiring Manager with Job Title",
-          "value": "Local Integrated Marketing, ME (Ekin Veral) - Senior Marketing Manager",
+          "value": "Restaurant & Grocery Marketing - Italy (Flavia Zoppi) - Head of Merchant, Regional, and Promo IT",
           "value_type": "single_select"
         },
         {
@@ -8871,12 +9692,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8206373,
-      "updated_at": "2026-09-18T10:52:13-04:00",
-      "requisition_id": "2026.08942",
-      "title": "Marketing Manager, Brand",
+      "id": 8206631,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08908",
+      "title": "Marketing Manager, Merchant Marketing IT",
       "company_name": "Deliveroo ",
-      "first_published": "2026-09-18T09:53:42-04:00",
+      "first_published": "2026-09-21T05:01:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -9039,7 +9860,7 @@
         }
       ],
       "id": 8205993,
-      "updated_at": "2026-09-19T03:44:37-04:00",
+      "updated_at": "2026-09-22T04:03:05-04:00",
       "requisition_id": "2026.08943",
       "title": "Marketing Manager, Promotions and Incentives",
       "company_name": "Deliveroo ",
@@ -9206,7 +10027,7 @@
         }
       ],
       "id": 8206163,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08959",
       "title": "Mid Market Account Manager - Dubai",
       "company_name": "Deliveroo ",
@@ -9359,7 +10180,7 @@
         }
       ],
       "id": 8202613,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3043",
       "title": "New Partner Experience Advisor (Dutch/Flemish Speaking) - Belgium Market",
       "company_name": "Deliveroo ",
@@ -9512,9 +10333,9 @@
         }
       ],
       "id": 8202544,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3034",
-      "title": "New Partner Experience Advisor - French Speaking (NPX Team) - LE",
+      "title": "New Partner Experience Advisor - French Speaking  ",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:56:24-04:00",
       "language": "en",
@@ -9665,7 +10486,7 @@
         }
       ],
       "id": 8202392,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3036",
       "title": "New Partner Experience Advisor - Italian Speaking",
       "company_name": "Deliveroo ",
@@ -9818,7 +10639,7 @@
         }
       ],
       "id": 8202431,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3006",
       "title": "New Partner Experience Advisor (UKI Market)",
       "company_name": "Deliveroo ",
@@ -9985,178 +10806,11 @@
         }
       ],
       "id": 8206397,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08968",
       "title": "New Verticals Associate",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:53:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205916",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3551504,
-      "location": {
-        "name": "Paris, France"
-      },
-      "metadata": [
-        {
-          "id": 875125,
-          "name": "Availability Date",
-          "value": "2026-09-15",
-          "value_type": "date"
-        },
-        {
-          "id": 875200,
-          "name": "Earliest Hire Date",
-          "value": "2026-09-28",
-          "value_type": "date"
-        },
-        {
-          "id": 170345,
-          "name": "Business Line",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 170346,
-          "name": "Market",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 172948,
-          "name": "Entity",
-          "value": "Deliveroo France SAS",
-          "value_type": "single_select"
-        },
-        {
-          "id": 174556,
-          "name": "Job Family",
-          "value": "Strategy & Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1495483,
-          "name": "Engineering Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 172717,
-          "name": "Job Location",
-          "value": "Paris - Main Office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 875215,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 923113,
-          "name": "Hiring Manager with Job Title",
-          "value": "Planning & Strategy - France (Paul Caupin) - Head of Regional Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 172248,
-          "name": "Careers Page Sorting: Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32781020,
-          "name": "US1 - Base Salary Band Midpoint",
-          "value": {
-            "unit": "USD",
-            "amount": "128000.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 32794284,
-          "name": "US4 - Base Salary Band Minimum",
-          "value": {
-            "unit": "USD",
-            "amount": "87000.0"
-          },
-          "value_type": "currency"
-        },
-        {
-          "id": 32794304,
-          "name": "US1 - Equity Band Midpoint",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 32796921,
-          "name": "USA: Pay Transparency Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "128000.0",
-            "min_value": "87000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 33181307,
-          "name": "Canada: Pay Transparency Range",
-          "value": {
-            "unit": "CAD",
-            "max_value": "121000.0",
-            "min_value": "97000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 40636812,
-          "name": "Umbrella Corp:",
-          "value": "Deliveroo",
-          "value_type": "single_select"
-        },
-        {
-          "id": 40689956,
-          "name": "Wolt: Careers Site Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 50331873,
-          "name": "Business Title",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 54550527,
-          "name": "Fountain HVH",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54550663,
-          "name": "Fountain Opening ID",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8205916,
-      "updated_at": "2026-09-18T10:52:13-04:00",
-      "requisition_id": "2026.08842",
-      "title": "Operations Manager - L4",
-      "company_name": "Deliveroo ",
-      "first_published": "2026-09-18T09:49:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10319,7 +10973,7 @@
         }
       ],
       "id": 8206029,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08783",
       "title": "Partner Operations Manager",
       "company_name": "Deliveroo ",
@@ -10486,7 +11140,7 @@
         }
       ],
       "id": 8205880,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08936",
       "title": "People Services Advisor - Middle East - FTC",
       "company_name": "Deliveroo ",
@@ -10653,7 +11307,7 @@
         }
       ],
       "id": 8205858,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08578",
       "title": "Product Manager, Double Order",
       "company_name": "Deliveroo ",
@@ -10806,7 +11460,7 @@
         }
       ],
       "id": 8202333,
-      "updated_at": "2026-09-18T11:15:11-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3222",
       "title": "Regional Growth Senior Manager - Marketing",
       "company_name": "Deliveroo ",
@@ -10959,7 +11613,7 @@
         }
       ],
       "id": 8202572,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3042",
       "title": "Restaurant Launch Assistant - Dutch Speaking",
       "company_name": "Deliveroo ",
@@ -11126,7 +11780,7 @@
         }
       ],
       "id": 8206405,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08768",
       "title": "Rider Onboarding Associate - (6 Months FTC)",
       "company_name": "Deliveroo ",
@@ -11279,7 +11933,7 @@
         }
       ],
       "id": 8202388,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3005",
       "title": "Sales Development Representative",
       "company_name": "Deliveroo ",
@@ -11432,7 +12086,7 @@
         }
       ],
       "id": 8202483,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4047",
       "title": "Sales Development Representative (Italian Speaking)",
       "company_name": "Deliveroo ",
@@ -11599,7 +12253,7 @@
         }
       ],
       "id": 8206071,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08962",
       "title": "Sales Operations Analyst - UAE National",
       "company_name": "Deliveroo ",
@@ -11752,7 +12406,7 @@
         }
       ],
       "id": 8202401,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4029",
       "title": "Sales Representative - Brescia",
       "company_name": "Deliveroo ",
@@ -11919,7 +12573,7 @@
         }
       ],
       "id": 8205836,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08758",
       "title": "Senior B2B Marketing Operations Executive",
       "company_name": "Deliveroo ",
@@ -12086,7 +12740,7 @@
         }
       ],
       "id": 8206001,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08531",
       "title": "Senior Corporate Security Engineer",
       "company_name": "Deliveroo ",
@@ -12239,7 +12893,7 @@
         }
       ],
       "id": 8202372,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3058",
       "title": "Senior Data Scientist",
       "company_name": "Deliveroo ",
@@ -12392,11 +13046,178 @@
         }
       ],
       "id": 8202582,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4089",
       "title": "Senior Data Scientist - Business Operations",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:56:06-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206451",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551755,
+      "location": {
+        "name": "London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Lucio Codeghini - Cloud FinOps Lead",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "235000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "159800.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "235000.0",
+            "min_value": "159800.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "187000.0",
+            "min_value": "149500.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8206451,
+      "updated_at": "2026-09-22T03:47:30-04:00",
+      "requisition_id": "2026.08543",
+      "title": "Senior DevOps Engineer",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-22T03:47:30-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12559,11 +13380,178 @@
         }
       ],
       "id": 8205832,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08494",
       "title": "Senior Engineer, Accounting Infrastructure and Systems",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:54:20-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206449",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3551754,
+      "location": {
+        "name": "London, England; London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2026-09-15",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2026-09-28",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": "Sandeep Taneja - Director, Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": {
+            "unit": "USD",
+            "amount": "340000.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": {
+            "unit": "USD",
+            "amount": "231200.0"
+          },
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "340000.0",
+            "min_value": "231200.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": {
+            "unit": "CAD",
+            "max_value": "276000.0",
+            "min_value": "221000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8206449,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "2026.08657",
+      "title": "Senior Engineering Manager, Brand Ads and Promotions",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-21T06:36:54-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12726,7 +13714,7 @@
         }
       ],
       "id": 8206575,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08486",
       "title": "Senior Finance Manager",
       "company_name": "Deliveroo ",
@@ -12879,7 +13867,7 @@
         }
       ],
       "id": 8202386,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4078",
       "title": "Senior Finance & Strategy Manager",
       "company_name": "Deliveroo ",
@@ -13046,7 +14034,7 @@
         }
       ],
       "id": 8206417,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08814",
       "title": "Senior Integrated Marketing Strategy & Planning Manager",
       "company_name": "Deliveroo ",
@@ -13199,7 +14187,7 @@
         }
       ],
       "id": 8202532,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4004",
       "title": "Senior Machine Learning Engineer",
       "company_name": "Deliveroo ",
@@ -13366,7 +14354,7 @@
         }
       ],
       "id": 8206082,
-      "updated_at": "2026-09-18T19:15:32-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08492",
       "title": "Senior Manager, Accounting",
       "company_name": "Deliveroo ",
@@ -13533,7 +14521,7 @@
         }
       ],
       "id": 8206007,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08709",
       "title": "Senior Manager, Commercial Enablement",
       "company_name": "Deliveroo ",
@@ -13700,7 +14688,7 @@
         }
       ],
       "id": 8206517,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08488",
       "title": "Senior Manager, Corporate Services Sourcing",
       "company_name": "Deliveroo ",
@@ -13867,7 +14855,7 @@
         }
       ],
       "id": 8206291,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T16:18:36-04:00",
       "requisition_id": "2026.08522",
       "title": "Senior Manager, Global HR Compliance",
       "company_name": "Deliveroo ",
@@ -14034,7 +15022,7 @@
         }
       ],
       "id": 8205934,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08683",
       "title": "Senior Marketing Manager, Search and App - Europe",
       "company_name": "Deliveroo ",
@@ -14201,7 +15189,7 @@
         }
       ],
       "id": 8205864,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08712",
       "title": "Senior National Account Manager",
       "company_name": "Deliveroo ",
@@ -14354,7 +15342,7 @@
         }
       ],
       "id": 8202380,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2986",
       "title": "Senior National Account Manager",
       "company_name": "Deliveroo ",
@@ -14521,7 +15509,7 @@
         }
       ],
       "id": 8205924,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08552",
       "title": "Senior Platform Engineer, Developer Platform",
       "company_name": "Deliveroo ",
@@ -14688,7 +15676,7 @@
         }
       ],
       "id": 8206031,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08577",
       "title": "Senior Product Manager",
       "company_name": "Deliveroo ",
@@ -14855,7 +15843,7 @@
         }
       ],
       "id": 8206559,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T16:18:27-04:00",
       "requisition_id": "2026.08519",
       "title": "Senior Product Manager, Core People Technology",
       "company_name": "Deliveroo ",
@@ -15022,7 +16010,7 @@
         }
       ],
       "id": 8206045,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08575",
       "title": "Senior Product Manager, New Verticals",
       "company_name": "Deliveroo ",
@@ -15189,7 +16177,7 @@
         }
       ],
       "id": 8206035,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08576",
       "title": "Senior Product Manager, Retail",
       "company_name": "Deliveroo ",
@@ -15356,7 +16344,7 @@
         }
       ],
       "id": 8206657,
-      "updated_at": "2026-09-18T11:16:07-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08926",
       "title": "Senior Regional Operations Manager",
       "company_name": "Deliveroo ",
@@ -15509,7 +16497,7 @@
         }
       ],
       "id": 8202407,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2939",
       "title": "Senior Software Engineer",
       "company_name": "Deliveroo ",
@@ -15662,7 +16650,7 @@
         }
       ],
       "id": 8202417,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3055",
       "title": "Senior Software Engineer - Android",
       "company_name": "Deliveroo ",
@@ -15829,7 +16817,7 @@
         }
       ],
       "id": 8206363,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08544",
       "title": "Senior Software Engineer, Android SDUI",
       "company_name": "Deliveroo ",
@@ -15996,7 +16984,7 @@
         }
       ],
       "id": 8206057,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08546",
       "title": "Senior Software Engineer, Event Streaming Systems",
       "company_name": "Deliveroo ",
@@ -16149,7 +17137,7 @@
         }
       ],
       "id": 8202536,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3015",
       "title": "Senior Software Engineer - Full-Stack",
       "company_name": "Deliveroo ",
@@ -16302,7 +17290,7 @@
         }
       ],
       "id": 8202448,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4026",
       "title": "Senior Software Engineer - iOS",
       "company_name": "Deliveroo ",
@@ -16469,7 +17457,7 @@
         }
       ],
       "id": 8206049,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08529",
       "title": "Senior Software Engineer, Proactive Security",
       "company_name": "Deliveroo ",
@@ -16622,7 +17610,7 @@
         }
       ],
       "id": 8206124,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08961",
       "title": "SMB Account Manager - Dubai",
       "company_name": "Deliveroo ",
@@ -16775,7 +17763,7 @@
         }
       ],
       "id": 8202542,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3007",
       "title": "SMB Account Manager - UKI",
       "company_name": "Deliveroo ",
@@ -16942,7 +17930,7 @@
         }
       ],
       "id": 8205822,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08713",
       "title": "SMB Program Manager",
       "company_name": "Deliveroo ",
@@ -17095,7 +18083,7 @@
         }
       ],
       "id": 8202489,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2938",
       "title": "Software Engineer",
       "company_name": "Deliveroo ",
@@ -17262,7 +18250,7 @@
         }
       ],
       "id": 8206351,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08616",
       "title": "Software Engineer",
       "company_name": "Deliveroo ",
@@ -17429,7 +18417,7 @@
         }
       ],
       "id": 8206463,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08541",
       "title": "Software Engineer, Backend (BI Platform)",
       "company_name": "Deliveroo ",
@@ -17596,7 +18584,7 @@
         }
       ],
       "id": 8206423,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08557",
       "title": "Software Engineer, GenAI Platform",
       "company_name": "Deliveroo ",
@@ -17749,7 +18737,7 @@
         }
       ],
       "id": 8202568,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV3003",
       "title": "Software Engineer II - Full-Stack",
       "company_name": "Deliveroo ",
@@ -17902,7 +18890,7 @@
         }
       ],
       "id": 8202627,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4061",
       "title": "Software Engineer, New Grad",
       "company_name": "Deliveroo ",
@@ -18069,7 +19057,7 @@
         }
       ],
       "id": 8206645,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08649",
       "title": "Staff Machine Learning Engineer - Ads Bidding",
       "company_name": "Deliveroo ",
@@ -18222,7 +19210,7 @@
         }
       ],
       "id": 8202562,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4066",
       "title": "Staff Product Designer",
       "company_name": "Deliveroo ",
@@ -18375,7 +19363,7 @@
         }
       ],
       "id": 8202607,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4083",
       "title": "Staff Product Designer (12-Month FTC)",
       "company_name": "Deliveroo ",
@@ -18542,164 +19530,11 @@
         }
       ],
       "id": 8205774,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T16:18:14-04:00",
       "requisition_id": "2026.08421",
       "title": "Staff Product Manager, People Product",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:45:49-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202586",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3550070,
-      "location": {
-        "name": "London, United Kingdom - Deliveroo"
-      },
-      "metadata": [
-        {
-          "id": 875125,
-          "name": "Availability Date",
-          "value": "2024-07-31",
-          "value_type": "date"
-        },
-        {
-          "id": 875200,
-          "name": "Earliest Hire Date",
-          "value": "2024-07-31",
-          "value_type": "date"
-        },
-        {
-          "id": 170345,
-          "name": "Business Line",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 170346,
-          "name": "Market",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 172948,
-          "name": "Entity",
-          "value": "RooFoods Ltd",
-          "value_type": "single_select"
-        },
-        {
-          "id": 174556,
-          "name": "Job Family",
-          "value": "Software Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1495483,
-          "name": "Engineering Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        },
-        {
-          "id": 172717,
-          "name": "Job Location",
-          "value": "London - The River Building HQ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 875215,
-          "name": "Time Type",
-          "value": "Full time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 923113,
-          "name": "Hiring Manager with Job Title",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 172248,
-          "name": "Careers Page Sorting: Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 32781020,
-          "name": "US1 - Base Salary Band Midpoint",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 32794284,
-          "name": "US4 - Base Salary Band Minimum",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 32794304,
-          "name": "US1 - Equity Band Midpoint",
-          "value": null,
-          "value_type": "currency"
-        },
-        {
-          "id": 32796921,
-          "name": "USA: Pay Transparency Range",
-          "value": null,
-          "value_type": "currency_range"
-        },
-        {
-          "id": 33181307,
-          "name": "Canada: Pay Transparency Range",
-          "value": null,
-          "value_type": "currency_range"
-        },
-        {
-          "id": 40636812,
-          "name": "Umbrella Corp:",
-          "value": "Deliveroo",
-          "value_type": "single_select"
-        },
-        {
-          "id": 40689956,
-          "name": "Wolt: Careers Site Department",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 50331873,
-          "name": "Business Title",
-          "value": null,
-          "value_type": "short_text"
-        },
-        {
-          "id": 54550527,
-          "name": "Fountain HVH",
-          "value": null,
-          "value_type": "yes_no"
-        },
-        {
-          "id": 54550663,
-          "name": "Fountain Opening ID",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8202586,
-      "updated_at": "2026-09-18T10:52:12-04:00",
-      "requisition_id": "EV3053",
-      "title": "Staff Software Engineer",
-      "company_name": "Deliveroo ",
-      "first_published": "2026-09-18T09:56:44-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -18848,11 +19683,164 @@
         }
       ],
       "id": 8202442,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV2920",
       "title": "Staff Software Engineer",
       "company_name": "Deliveroo ",
       "first_published": "2026-09-18T09:57:44-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202586",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3550070,
+      "location": {
+        "name": "London, United Kingdom - Deliveroo"
+      },
+      "metadata": [
+        {
+          "id": 875125,
+          "name": "Availability Date",
+          "value": "2024-07-31",
+          "value_type": "date"
+        },
+        {
+          "id": 875200,
+          "name": "Earliest Hire Date",
+          "value": "2024-07-31",
+          "value_type": "date"
+        },
+        {
+          "id": 170345,
+          "name": "Business Line",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 170346,
+          "name": "Market",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172948,
+          "name": "Entity",
+          "value": "RooFoods Ltd",
+          "value_type": "single_select"
+        },
+        {
+          "id": 174556,
+          "name": "Job Family",
+          "value": "Software Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1495483,
+          "name": "Engineering Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        },
+        {
+          "id": 172717,
+          "name": "Job Location",
+          "value": "London - The River Building HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 875215,
+          "name": "Time Type",
+          "value": "Full time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 923113,
+          "name": "Hiring Manager with Job Title",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 172248,
+          "name": "Careers Page Sorting: Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 32781020,
+          "name": "US1 - Base Salary Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794284,
+          "name": "US4 - Base Salary Band Minimum",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32794304,
+          "name": "US1 - Equity Band Midpoint",
+          "value": null,
+          "value_type": "currency"
+        },
+        {
+          "id": 32796921,
+          "name": "USA: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 33181307,
+          "name": "Canada: Pay Transparency Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40636812,
+          "name": "Umbrella Corp:",
+          "value": "Deliveroo",
+          "value_type": "single_select"
+        },
+        {
+          "id": 40689956,
+          "name": "Wolt: Careers Site Department",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 50331873,
+          "name": "Business Title",
+          "value": null,
+          "value_type": "short_text"
+        },
+        {
+          "id": 54550527,
+          "name": "Fountain HVH",
+          "value": null,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 54550663,
+          "name": "Fountain Opening ID",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8202586,
+      "updated_at": "2026-09-21T15:51:43-04:00",
+      "requisition_id": "EV3053",
+      "title": "Staff Software Engineer",
+      "company_name": "Deliveroo ",
+      "first_published": "2026-09-18T09:56:44-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -19015,7 +20003,7 @@
         }
       ],
       "id": 8206509,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08539",
       "title": "Staff Software Engineer, Dev Environments",
       "company_name": "Deliveroo ",
@@ -19168,7 +20156,7 @@
         }
       ],
       "id": 8202560,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4086",
       "title": "Staff Software Engineer - Full-Stack",
       "company_name": "Deliveroo ",
@@ -19335,7 +20323,7 @@
         }
       ],
       "id": 8206375,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08452",
       "title": "Strategy & Operations Manager – Emerging Fraud & Abuse",
       "company_name": "Deliveroo ",
@@ -19502,7 +20490,7 @@
         }
       ],
       "id": 8206371,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08453",
       "title": "Strategy & Operations Manager - Payments Risk & Fraud",
       "company_name": "Deliveroo ",
@@ -19669,7 +20657,7 @@
         }
       ],
       "id": 8206577,
-      "updated_at": "2026-09-18T10:52:13-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "2026.08523",
       "title": "Technical Sourcer (FTC)",
       "company_name": "Deliveroo ",
@@ -19822,7 +20810,7 @@
         }
       ],
       "id": 8202615,
-      "updated_at": "2026-09-18T10:52:12-04:00",
+      "updated_at": "2026-09-21T15:51:43-04:00",
       "requisition_id": "EV4064",
       "title": "Vendor / Category Manager - Deliveroo Hop UAE",
       "company_name": "Deliveroo ",

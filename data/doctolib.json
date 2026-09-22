@@ -1,7 +1,7 @@
 {
   "company": "doctolib",
-  "fetched_at": "2026-09-19T07:39:38.103400",
-  "job_count": 155,
+  "fetched_at": "2026-09-22T08:04:28.703138",
+  "job_count": 154,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7583949003",
@@ -957,20 +957,21 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/6600535003",
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7517409003",
       "data_compliance": [
         {
           "type": "gdpr",
           "requires_consent": true,
           "requires_processing_consent": false,
           "requires_retention_consent": true,
-          "retention_period": 730,
+          "retention_period": 180,
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5224113003,
+      "education": "education_optional",
+      "internal_job_id": 5674144003,
       "location": {
-        "name": "Nantes"
+        "name": "Berlin, Berlin, Germany"
       },
       "metadata": [
         {
@@ -986,13 +987,13 @@
           "value_type": "single_select"
         }
       ],
-      "id": 6600535003,
-      "updated_at": "2026-09-08T06:50:34-04:00",
+      "id": 7517409003,
+      "updated_at": "2026-08-05T09:37:56-04:00",
       "requisition_id": null,
-      "title": "Customer Support / Support Technique B2B – Nantes (x/f/m)",
+      "title": "Engineering Manager - Observability & Reliability Engineering Obsession (x/f/m)",
       "company_name": "Doctolib",
-      "first_published": "2025-06-05T09:04:38-04:00",
-      "language": "fr",
+      "first_published": "2026-01-26T08:23:45-05:00",
+      "language": "de",
       "application_deadline": null
     },
     {
@@ -1036,46 +1037,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7517409003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5674144003,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "France",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7517409003,
-      "updated_at": "2026-08-05T09:37:56-04:00",
-      "requisition_id": null,
-      "title": "Engineering Manager - Observability & Reliability Engineering Obsession (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-01-26T08:23:45-05:00",
-      "language": "de",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7885520003",
       "data_compliance": [
         {
@@ -1115,45 +1076,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7832191003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5674144003,
-      "location": {
-        "name": "Berlin, Berlin, Germany; Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "France",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7832191003,
-      "updated_at": "2026-08-06T10:47:45-04:00",
-      "requisition_id": null,
-      "title": "Engineering Manager - Site Reliability & Observability (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-08-06T10:47:45-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7832182003",
       "data_compliance": [
         {
@@ -1189,6 +1111,45 @@
       "title": "Engineering Manager - Site Reliability & Observability (x/f/m)",
       "company_name": "Doctolib",
       "first_published": "2026-08-06T10:43:42-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7832191003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5674144003,
+      "location": {
+        "name": "Berlin, Berlin, Germany; Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "France",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7832191003,
+      "updated_at": "2026-08-06T10:47:45-04:00",
+      "requisition_id": null,
+      "title": "Engineering Manager - Site Reliability & Observability (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-08-06T10:47:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1973,7 +1934,7 @@
         }
       ],
       "id": 7741649003,
-      "updated_at": "2026-08-12T09:21:08-04:00",
+      "updated_at": "2026-09-21T11:40:23-04:00",
       "requisition_id": null,
       "title": "Lead Marketing Data Analyst (x/f/m)",
       "company_name": "Doctolib",
@@ -2091,7 +2052,7 @@
         }
       ],
       "id": 7995384003,
-      "updated_at": "2026-09-16T07:59:26-04:00",
+      "updated_at": "2026-09-21T06:17:26-04:00",
       "requisition_id": null,
       "title": "Performance projects analyst Intern (x/f/m)",
       "company_name": "Doctolib",
@@ -2452,46 +2413,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7697898003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5749844003,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "Germany",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7697898003,
-      "updated_at": "2026-08-28T02:49:30-04:00",
-      "requisition_id": null,
-      "title": "Sales Development Representative - Berlin (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-04-16T08:32:51-04:00",
-      "language": "de",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7989747003",
       "data_compliance": [
         {
@@ -2572,46 +2493,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7726912003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5695559003,
-      "location": {
-        "name": "Münster; Osnabrück"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "Germany",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7726912003,
-      "updated_at": "2026-09-09T04:55:10-04:00",
-      "requisition_id": null,
-      "title": "Sales Manager (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-05-07T04:33:24-04:00",
-      "language": "de",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7987833003",
       "data_compliance": [
         {
@@ -2648,6 +2529,46 @@
       "title": "Sales Manager (x/f/m)",
       "company_name": "Doctolib",
       "first_published": "2026-09-07T05:49:56-04:00",
+      "language": "de",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7726912003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5695559003,
+      "location": {
+        "name": "Münster; Osnabrück"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "Germany",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7726912003,
+      "updated_at": "2026-09-09T04:55:10-04:00",
+      "requisition_id": null,
+      "title": "Sales Manager (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-05-07T04:33:24-04:00",
       "language": "de",
       "application_deadline": null
     },
@@ -2886,45 +2807,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7985252003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5789784003,
-      "location": {
-        "name": "Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "Germany",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7985252003,
-      "updated_at": "2026-09-03T08:47:56-04:00",
-      "requisition_id": null,
-      "title": "Senior AI Specialist (Operations) (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-09-03T08:23:30-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7793643003",
       "data_compliance": [
         {
@@ -2961,6 +2843,45 @@
       "company_name": "Doctolib",
       "first_published": "2026-07-06T04:30:03-04:00",
       "language": "de",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7985252003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5789784003,
+      "location": {
+        "name": "Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "Germany",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7985252003,
+      "updated_at": "2026-09-03T08:47:56-04:00",
+      "requisition_id": null,
+      "title": "Senior AI Specialist (Operations) (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-09-03T08:23:30-04:00",
+      "language": "en",
       "application_deadline": null
     },
     {
@@ -3668,45 +3589,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7819133003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5659227003,
-      "location": {
-        "name": "Berlin, Berlin, Germany; Berlin, Berlin, Germany"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "Germany",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7819133003,
-      "updated_at": "2026-09-15T10:46:40-04:00",
-      "requisition_id": null,
-      "title": "Senior Site Reliability Engineer (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-07-28T09:56:24-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7819134003",
       "data_compliance": [
         {
@@ -3742,6 +3624,45 @@
       "title": "Senior Site Reliability Engineer (x/f/m)",
       "company_name": "Doctolib",
       "first_published": "2026-07-28T09:56:23-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7819133003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5659227003,
+      "location": {
+        "name": "Berlin, Berlin, Germany; Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "Germany",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7819133003,
+      "updated_at": "2026-09-15T10:46:40-04:00",
+      "requisition_id": null,
+      "title": "Senior Site Reliability Engineer (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-07-28T09:56:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4089,7 +4010,7 @@
         }
       ],
       "id": 7562692003,
-      "updated_at": "2026-09-18T08:53:59-04:00",
+      "updated_at": "2026-09-21T05:43:49-04:00",
       "requisition_id": null,
       "title": "Staff AI Data Engineer (x/f/m)",
       "company_name": "Doctolib",
@@ -4215,45 +4136,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7853982003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 180,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5659227003,
-      "location": {
-        "name": "Paris, Paris, France"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "Germany",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Unlimited Contract",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7853982003,
-      "updated_at": "2026-09-15T10:46:41-04:00",
-      "requisition_id": null,
-      "title": "Staff Site Reliability Engineer (x/f/m)",
-      "company_name": "Doctolib",
-      "first_published": "2026-08-11T08:59:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7853980003",
       "data_compliance": [
         {
@@ -4289,6 +4171,45 @@
       "title": "Staff Site Reliability Engineer (x/f/m)",
       "company_name": "Doctolib",
       "first_published": "2026-08-11T08:59:43-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7853982003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5659227003,
+      "location": {
+        "name": "Paris, Paris, France"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "Germany",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7853982003,
+      "updated_at": "2026-09-15T10:46:41-04:00",
+      "requisition_id": null,
+      "title": "Staff Site Reliability Engineer (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-08-11T08:59:59-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4533,6 +4454,46 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7999286003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 730,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5887690003,
+      "location": {
+        "name": "Paris, Paris, France"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "France",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7999286003,
+      "updated_at": "2026-09-21T05:06:08-04:00",
+      "requisition_id": "POS10990",
+      "title": "Stage - Assistant Conformité & Modération de Contenu (x/f/m) - janvier 2027",
+      "company_name": "Doctolib",
+      "first_published": "2026-09-21T03:41:07-04:00",
+      "language": "fr",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7994327003",
       "data_compliance": [
         {
@@ -4644,7 +4605,7 @@
         }
       ],
       "id": 7996070003,
-      "updated_at": "2026-09-17T07:49:51-04:00",
+      "updated_at": "2026-09-21T03:57:32-04:00",
       "requisition_id": "POS9480",
       "title": "Stage - Business Data Analyst (x/f/m) - janvier 2027",
       "company_name": "Doctolib",
@@ -4764,7 +4725,7 @@
         }
       ],
       "id": 7995580003,
-      "updated_at": "2026-09-17T07:45:38-04:00",
+      "updated_at": "2026-09-22T03:54:03-04:00",
       "requisition_id": "POS10167",
       "title": "Stage - Chargé de Communication Corporate (x/f/m) - janvier 2027",
       "company_name": "Doctolib",
@@ -4809,46 +4770,6 @@
       "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
       "company_name": "Doctolib",
       "first_published": "2026-09-17T07:46:16-04:00",
-      "language": "fr",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7802416003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": true,
-          "requires_processing_consent": false,
-          "requires_retention_consent": true,
-          "retention_period": 730,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5794195003,
-      "location": {
-        "name": "Paris, Paris, France"
-      },
-      "metadata": [
-        {
-          "id": 4031212003,
-          "name": "Job Posting Country",
-          "value": "France",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4018295003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7802416003,
-      "updated_at": "2026-08-05T09:37:56-04:00",
-      "requisition_id": null,
-      "title": "Stage - Community Engagement Associate (x/f/m) - Octobre 2026",
-      "company_name": "Doctolib",
-      "first_published": "2026-07-15T09:40:40-04:00",
       "language": "fr",
       "application_deadline": null
     },
@@ -5688,6 +5609,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7999006003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": true,
+          "requires_processing_consent": false,
+          "requires_retention_consent": true,
+          "retention_period": 180,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5887591003,
+      "location": {
+        "name": "Berlin, Berlin, Germany"
+      },
+      "metadata": [
+        {
+          "id": 4031212003,
+          "name": "Job Posting Country",
+          "value": "Germany",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4018295003,
+          "name": "Employment Type",
+          "value": "Unlimited Contract",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7999006003,
+      "updated_at": "2026-09-21T13:08:04-04:00",
+      "requisition_id": null,
+      "title": "Team Lead Sales Enablement (x/f/m)",
+      "company_name": "Doctolib",
+      "first_published": "2026-09-21T13:03:43-04:00",
+      "language": "de",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/doctolib/jobs/7511809003",
       "data_compliance": [
         {
@@ -6071,9 +6031,9 @@
         }
       ],
       "id": 7993872003,
-      "updated_at": "2026-09-18T07:38:00-04:00",
+      "updated_at": "2026-09-21T10:30:13-04:00",
       "requisition_id": null,
-      "title": " Workplace Experience Partner (x/f/m)",
+      "title": " Workplace Experience & Mobility Associate (x/f/m)",
       "company_name": "Doctolib",
       "first_published": "2026-09-14T07:28:03-04:00",
       "language": "de",
