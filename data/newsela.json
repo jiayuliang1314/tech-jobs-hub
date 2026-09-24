@@ -1,75 +1,8 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-09-21T08:42:28.821358",
-  "job_count": 12,
+  "fetched_at": "2026-09-24T08:17:27.449377",
+  "job_count": 11,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8130985",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3520851,
-      "location": {
-        "name": "Remote -  Argentina; Brazil;Chile; Costa Rica"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Contractor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "N/A or International"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "ATS (Add To Staff)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": null,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8130985,
-      "updated_at": "2026-09-11T16:00:16-04:00",
-      "requisition_id": "494",
-      "title": "Contractor: IT Operations Specialist",
-      "company_name": "Newsela",
-      "first_published": "2026-08-18T23:56:02-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8080744",
       "data_compliance": [
@@ -267,6 +200,73 @@
       "title": "Data Engineer ",
       "company_name": "Newsela",
       "first_published": "2026-06-23T17:34:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8211995",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3553946,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [
+            "Individual Contributor"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "120000.0",
+            "min_value": "110000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8211995,
+      "updated_at": "2026-09-21T11:22:33-04:00",
+      "requisition_id": "505",
+      "title": "Educational Data Analyst ",
+      "company_name": "Newsela",
+      "first_published": "2026-09-21T11:22:33-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -470,140 +470,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8077953",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3499770,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Individual Contributor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "ATS (Add To Staff)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "70000.0",
-            "min_value": "60000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8077953,
-      "updated_at": "2026-09-11T16:00:16-04:00",
-      "requisition_id": "479",
-      "title": "Learning Experience Designer, ELA Multilingual Learning (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-07-22T15:58:36-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8148676",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3526207,
-      "location": {
-        "name": "Remote - US"
-      },
-      "metadata": [
-        {
-          "id": 36666,
-          "name": "Job Level",
-          "value": [
-            "Individual Contributor"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134583,
-          "name": "Exemption Status",
-          "value": [
-            "Non-Exempt"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 2134589,
-          "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [
-            "RPL (Replacement)"
-          ],
-          "value_type": "multi_select"
-        },
-        {
-          "id": 57783940,
-          "name": "Base Compensation Recruiting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "55000.0",
-            "min_value": "55000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 15447084,
-          "name": "Bonus Eligible",
-          "value": false,
-          "value_type": "yes_no"
-        }
-      ],
-      "id": 8148676,
-      "updated_at": "2026-09-11T16:00:16-04:00",
-      "requisition_id": "496",
-      "title": "Sales Development Representative (Remote, US)",
-      "company_name": "Newsela",
-      "first_published": "2026-08-24T19:51:11-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8189841",
       "data_compliance": [
         {
@@ -802,6 +668,71 @@
       "title": "School Sales Representative (Remote, US)",
       "company_name": "Newsela",
       "first_published": "2026-07-24T15:24:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8211355",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3553740,
+      "location": {
+        "name": "Remote - US"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "Exempt"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [
+            "ATS (Add To Staff)"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "108550.0",
+            "min_value": "82600.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": false,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8211355,
+      "updated_at": "2026-09-21T11:21:44-04:00",
+      "requisition_id": "504",
+      "title": "Senior Marketing Operations Analyst",
+      "company_name": "Newsela",
+      "first_published": "2026-09-21T11:21:44-04:00",
       "language": "en",
       "application_deadline": null
     }
