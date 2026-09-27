@@ -1,8 +1,35 @@
 {
   "company": "boingo",
-  "fetched_at": "2026-09-24T08:06:51.027150",
+  "fetched_at": "2026-09-27T08:51:28.800999",
   "job_count": 9,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8222011",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3558390,
+      "location": {
+        "name": "Frisco, TX"
+      },
+      "metadata": null,
+      "id": 8222011,
+      "updated_at": "2026-09-24T19:01:15-04:00",
+      "requisition_id": "2026052",
+      "title": "Director Compliance and Security",
+      "company_name": "Boingo",
+      "first_published": "2026-09-22T15:46:20-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8173788",
       "data_compliance": [
@@ -22,7 +49,7 @@
       },
       "metadata": null,
       "id": 8173788,
-      "updated_at": "2026-09-23T18:12:56-04:00",
+      "updated_at": "2026-09-24T17:40:30-04:00",
       "requisition_id": "2026048",
       "title": "Field Technician",
       "company_name": "Boingo",
@@ -54,60 +81,6 @@
       "title": "Project Manager",
       "company_name": "Boingo",
       "first_published": "2026-06-22T15:01:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8186996",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3542758,
-      "location": {
-        "name": "Orlando, FL"
-      },
-      "metadata": null,
-      "id": 8186996,
-      "updated_at": "2026-09-17T15:04:55-04:00",
-      "requisition_id": "2026051",
-      "title": "Sales Manager",
-      "company_name": "Boingo",
-      "first_published": "2026-09-14T16:43:34-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8187000",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 3542758,
-      "location": {
-        "name": "Los Angeles, CA"
-      },
-      "metadata": null,
-      "id": 8187000,
-      "updated_at": "2026-09-14T16:50:11-04:00",
-      "requisition_id": "2026051",
-      "title": "Sales Manager",
-      "company_name": "Boingo",
-      "first_published": "2026-09-14T16:50:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -220,7 +193,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8105886",
+      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8187000",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -232,17 +205,44 @@
         }
       ],
       "education": "education_required",
-      "internal_job_id": 3511550,
+      "internal_job_id": 3542758,
       "location": {
-        "name": "Frisco, TX"
+        "name": "Los Angeles, CA"
       },
       "metadata": null,
-      "id": 8105886,
-      "updated_at": "2026-08-10T16:01:12-04:00",
-      "requisition_id": "2026047",
-      "title": "Sr Director Sales",
+      "id": 8187000,
+      "updated_at": "2026-09-14T16:50:11-04:00",
+      "requisition_id": "2026051",
+      "title": "Sales Manager",
       "company_name": "Boingo",
-      "first_published": "2026-08-07T15:46:04-04:00",
+      "first_published": "2026-09-14T16:50:11-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/boingo/jobs/8186996",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 3542758,
+      "location": {
+        "name": "Orlando, FL"
+      },
+      "metadata": null,
+      "id": 8186996,
+      "updated_at": "2026-09-17T15:04:55-04:00",
+      "requisition_id": "2026051",
+      "title": "Sales Manager",
+      "company_name": "Boingo",
+      "first_published": "2026-09-14T16:43:34-04:00",
       "language": "en",
       "application_deadline": null
     }
