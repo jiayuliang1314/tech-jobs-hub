@@ -1,8 +1,63 @@
 {
   "company": "flatironhealth",
-  "fetched_at": "2026-10-06T09:52:47.429752",
-  "job_count": 25,
+  "fetched_at": "2026-10-09T10:05:03.357042",
+  "job_count": 23,
   "jobs": [
+    {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8249709",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3569230,
+      "location": {
+        "name": "Berlin office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": {
+            "unit": "EUR",
+            "max_value": "104500.0",
+            "min_value": "76000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "Berlin office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Entry-level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 8906496,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8249709,
+      "updated_at": "2026-10-07T10:39:38-04:00",
+      "requisition_id": "JR102155",
+      "title": "Applied AI Data Scientist",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-10-07T10:39:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=7611841",
       "data_compliance": [
@@ -431,7 +486,7 @@
         }
       ],
       "id": 8201111,
-      "updated_at": "2026-10-02T13:08:17-04:00",
+      "updated_at": "2026-10-07T07:31:31-04:00",
       "requisition_id": "JR102078",
       "title": "Manager, Life Sciences Partnerships",
       "company_name": "Flatiron Health",
@@ -656,61 +711,6 @@
       "title": "Product Manager (Clinical Workflows)",
       "company_name": "Flatiron Health",
       "first_published": "2026-08-06T13:34:59-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8092475",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3505682,
-      "location": {
-        "name": "NY office"
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "187000.0",
-            "min_value": "136000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "NY office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Mid-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8092475,
-      "updated_at": "2026-10-02T13:08:17-04:00",
-      "requisition_id": "JR102066",
-      "title": "Product Manager, Real World Evidence (Data Generation and QA Systems)",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-08-14T09:29:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -981,7 +981,7 @@
         }
       ],
       "id": 8013372,
-      "updated_at": "2026-10-02T13:07:12-04:00",
+      "updated_at": "2026-10-06T09:59:22-04:00",
       "requisition_id": "JR101999",
       "title": "Senior Software Engineer (m/w/d)",
       "company_name": "Flatiron Health",
@@ -1097,116 +1097,6 @@
       "company_name": "Flatiron Health",
       "first_published": "2026-08-05T11:59:06-04:00",
       "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8128712",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3520030,
-      "location": {
-        "name": "Remote (Germany)"
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "EUR",
-            "max_value": "0.0",
-            "min_value": "0.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "Remote - DE",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Entry-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8128712,
-      "updated_at": "2026-10-02T13:07:14-04:00",
-      "requisition_id": "JR102088",
-      "title": "Werkstudent",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-08-18T08:20:16-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8097934",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3508154,
-      "location": {
-        "name": "リモート(東京)"
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "JPY",
-            "max_value": "7950000.0",
-            "min_value": "5400000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "Tokyo office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Entry-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8097934,
-      "updated_at": "2026-10-02T13:07:13-04:00",
-      "requisition_id": "JR102075",
-      "title": "アブストラクター(契約社員)",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-08-18T06:46:48-04:00",
-      "language": "ja",
       "application_deadline": null
     },
     {
