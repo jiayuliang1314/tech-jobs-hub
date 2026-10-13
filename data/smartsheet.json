@@ -1,48 +1,8 @@
 {
   "company": "smartsheet",
-  "fetched_at": "2026-10-10T09:26:28.243139",
-  "job_count": 94,
+  "fetched_at": "2026-10-13T10:06:02.510970",
+  "job_count": 95,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8142243",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3523794,
-      "location": {
-        "name": "Bellevue, WA, USA"
-      },
-      "metadata": [
-        {
-          "id": 2870472,
-          "name": "Working Location",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 8784352,
-          "name": "Job Profile Code",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8142243,
-      "updated_at": "2026-10-05T16:47:56-04:00",
-      "requisition_id": null,
-      "title": "Account Executive, Commercial - Mid Market (West)",
-      "company_name": "Smartsheet",
-      "first_published": "2026-08-19T14:16:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8167386",
       "data_compliance": [
@@ -120,6 +80,46 @@
       "title": "Account Executive, Commercial - Mid Market (West)",
       "company_name": "Smartsheet",
       "first_published": "2026-08-19T14:16:59-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8142243",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3523794,
+      "location": {
+        "name": "Bellevue, WA, USA"
+      },
+      "metadata": [
+        {
+          "id": 2870472,
+          "name": "Working Location",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 8784352,
+          "name": "Job Profile Code",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8142243,
+      "updated_at": "2026-10-05T16:47:56-04:00",
+      "requisition_id": null,
+      "title": "Account Executive, Commercial - Mid Market (West)",
+      "company_name": "Smartsheet",
+      "first_published": "2026-08-19T14:16:58-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -282,46 +282,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8143342",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3524131,
-      "location": {
-        "name": "Singapore, SGP"
-      },
-      "metadata": [
-        {
-          "id": 2870472,
-          "name": "Working Location",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 8784352,
-          "name": "Job Profile Code",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8143342,
-      "updated_at": "2026-10-05T16:47:56-04:00",
-      "requisition_id": null,
-      "title": "Account Executive, Strategic - Asia (12 month FTC)",
-      "company_name": "Smartsheet",
-      "first_published": "2026-08-20T00:33:16-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/5702573",
       "data_compliance": [
         {
@@ -358,6 +318,46 @@
       "title": "Account Executive, Strategic - Asia (12 month FTC)",
       "company_name": "Smartsheet",
       "first_published": "2024-02-12T22:55:30-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8143342",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 3524131,
+      "location": {
+        "name": "Singapore, SGP"
+      },
+      "metadata": [
+        {
+          "id": 2870472,
+          "name": "Working Location",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 8784352,
+          "name": "Job Profile Code",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8143342,
+      "updated_at": "2026-10-05T16:47:56-04:00",
+      "requisition_id": null,
+      "title": "Account Executive, Strategic - Asia (12 month FTC)",
+      "company_name": "Smartsheet",
+      "first_published": "2026-08-20T00:33:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1111,7 +1111,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8262170",
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8262162",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1125,7 +1125,7 @@
       "education": "education_optional",
       "internal_job_id": 3545091,
       "location": {
-        "name": "Boise, ID, USA"
+        "name": "San Francisco, CA, USA"
       },
       "metadata": [
         {
@@ -1141,12 +1141,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8262170,
-      "updated_at": "2026-10-07T13:42:20-04:00",
+      "id": 8262162,
+      "updated_at": "2026-10-07T13:40:20-04:00",
       "requisition_id": null,
       "title": "Enterprise Account Executive - State/Local Government (PNW)",
       "company_name": "Smartsheet",
-      "first_published": "2026-10-07T13:42:20-04:00",
+      "first_published": "2026-10-07T13:40:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1191,7 +1191,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8262162",
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8262170",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1205,7 +1205,7 @@
       "education": "education_optional",
       "internal_job_id": 3545091,
       "location": {
-        "name": "San Francisco, CA, USA"
+        "name": "Boise, ID, USA"
       },
       "metadata": [
         {
@@ -1221,12 +1221,12 @@
           "value_type": "short_text"
         }
       ],
-      "id": 8262162,
-      "updated_at": "2026-10-07T13:40:20-04:00",
+      "id": 8262170,
+      "updated_at": "2026-10-07T13:42:20-04:00",
       "requisition_id": null,
       "title": "Enterprise Account Executive - State/Local Government (PNW)",
       "company_name": "Smartsheet",
-      "first_published": "2026-10-07T13:40:20-04:00",
+      "first_published": "2026-10-07T13:42:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1427,6 +1427,45 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8212528",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3554173,
+      "location": {
+        "name": "San Jose, CR"
+      },
+      "metadata": [
+        {
+          "id": 2870472,
+          "name": "Working Location",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 8784352,
+          "name": "Job Profile Code",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8212528,
+      "updated_at": "2026-10-11T12:40:56-04:00",
+      "requisition_id": null,
+      "title": " Order Operations Specialist (Remote Elegible - Costa Rica)",
+      "company_name": "Smartsheet",
+      "first_published": "2026-09-24T10:49:22-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8238040",
       "data_compliance": [
         {
@@ -1579,6 +1618,45 @@
       "title": "Principal AI Engineer - Hybrid in Bangalore",
       "company_name": "Smartsheet",
       "first_published": "2026-09-18T01:19:17-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8273586",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3579615,
+      "location": {
+        "name": "London, UK"
+      },
+      "metadata": [
+        {
+          "id": 2870472,
+          "name": "Working Location",
+          "value": null,
+          "value_type": "single_select"
+        },
+        {
+          "id": 8784352,
+          "name": "Job Profile Code",
+          "value": null,
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8273586,
+      "updated_at": "2026-10-12T08:35:03-04:00",
+      "requisition_id": null,
+      "title": "Principal Channel Account Manager",
+      "company_name": "Smartsheet",
+      "first_published": "2026-10-12T04:48:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1895,46 +1973,6 @@
       "title": "Principal Technical Product Marketing Manager — AI",
       "company_name": "Smartsheet",
       "first_published": "2026-09-18T14:38:49-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8265320",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 3576271,
-      "location": {
-        "name": " -REMOTE, USA-"
-      },
-      "metadata": [
-        {
-          "id": 2870472,
-          "name": "Working Location",
-          "value": null,
-          "value_type": "single_select"
-        },
-        {
-          "id": 8784352,
-          "name": "Job Profile Code",
-          "value": null,
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8265320,
-      "updated_at": "2026-10-08T18:51:05-04:00",
-      "requisition_id": null,
-      "title": "Product Operations Manager (Remote Eligible)",
-      "company_name": "Smartsheet",
-      "first_published": "2026-10-08T18:51:05-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2838,7 +2876,7 @@
         }
       ],
       "id": 8056301,
-      "updated_at": "2026-10-05T16:47:56-04:00",
+      "updated_at": "2026-10-12T13:57:57-04:00",
       "requisition_id": null,
       "title": "Sr. Data Scientist II (Remote Eligible)",
       "company_name": "Smartsheet",
@@ -3232,7 +3270,7 @@
         }
       ],
       "id": 8258836,
-      "updated_at": "2026-10-09T04:38:21-04:00",
+      "updated_at": "2026-10-12T02:10:03-04:00",
       "requisition_id": null,
       "title": "Sr. Software Engineer II",
       "company_name": "Smartsheet",
