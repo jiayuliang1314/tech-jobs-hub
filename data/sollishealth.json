@@ -1,6 +1,6 @@
 {
   "company": "sollishealth",
-  "fetched_at": "2026-10-12T10:23:54.959792",
+  "fetched_at": "2026-10-15T08:14:57.183756",
   "job_count": 34,
   "jobs": [
     {
@@ -724,7 +724,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7980372003",
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7763990003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -735,9 +735,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5879631003,
+      "internal_job_id": 5777357003,
       "location": {
-        "name": "1005 Van Ness Ave, San Francisco, CA 94109"
+        "name": "760 Montauk Hwy #2c, Water Mill, NY 11976"
       },
       "metadata": [
         {
@@ -749,19 +749,19 @@
         {
           "id": 6319083003,
           "name": "Job Location Address",
-          "value": "1005 Van Ness Ave, San Francisco, CA 94109",
+          "value": "760 Montauk Hwy, Bldg 2, Unit C, Water Mill, NY 11976",
           "value_type": "short_text"
         },
         {
           "id": 8190409003,
           "name": "Job Family",
-          "value": "Administrative Support",
+          "value": "Nursing",
           "value_type": "single_select"
         },
         {
           "id": 4260663003,
           "name": "Employment Type",
-          "value": "Part Time",
+          "value": "Per Diem W2",
           "value_type": "single_select"
         },
         {
@@ -770,7 +770,7 @@
           "value": {
             "unit": "USD",
             "max_value": "30.0",
-            "min_value": "25.0"
+            "min_value": "20.0"
           },
           "value_type": "currency_range"
         },
@@ -783,13 +783,13 @@
         {
           "id": 6318465003,
           "name": "Shift Time",
-          "value": "M-F 11P-7A , Sat/Sun 7P-7A",
+          "value": "7a-7p",
           "value_type": "short_text"
         },
         {
           "id": 6471226003,
           "name": "Hours Per Week",
-          "value": "16.0",
+          "value": "8.0",
           "value_type": "number"
         },
         {
@@ -805,12 +805,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 7980372003,
-      "updated_at": "2026-09-28T14:51:17-04:00",
-      "requisition_id": "2105",
-      "title": "Medical Assistant",
+      "id": 7763990003,
+      "updated_at": "2026-10-13T20:41:56-04:00",
+      "requisition_id": "2024",
+      "title": "Medical Assistant  ",
       "company_name": "Sollis Health",
-      "first_published": "2026-09-10T09:17:44-04:00",
+      "first_published": "2026-06-09T14:51:00-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -988,102 +988,11 @@
         }
       ],
       "id": 7773838003,
-      "updated_at": "2026-09-28T14:51:16-04:00",
+      "updated_at": "2026-10-12T13:25:29-04:00",
       "requisition_id": "2035",
       "title": "Medical Assistant - Full Time",
       "company_name": "Sollis Health",
       "first_published": "2026-07-30T09:52:43-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7763990003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5777357003,
-      "location": {
-        "name": "760 Montauk Hwy #2c, Water Mill, NY 11976"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "760 Montauk Hwy, Bldg 2, Unit C, Water Mill, NY 11976",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Nursing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Per Diem W2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "30.0",
-            "min_value": "20.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Day",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "7a-7p",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "8.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "No PTO",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7763990003,
-      "updated_at": "2026-10-06T10:05:57-04:00",
-      "requisition_id": "2024",
-      "title": "Medical Assistant - Hamptons - $20-$30/hr",
-      "company_name": "Sollis Health",
-      "first_published": "2026-06-09T14:51:00-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1808,97 +1717,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7687771003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5744246003,
-      "location": {
-        "name": "170 E 77th St, New York, NY 10075"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "170 E 77th St, New York, NY 10075",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Radiology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Per Diem W2",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "60.0",
-            "min_value": "53.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Overnight",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "Preferably weekends and Wednesdays",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "0.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "No PTO",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7687771003,
-      "updated_at": "2026-09-28T14:51:16-04:00",
-      "requisition_id": "1980",
-      "title": "Radiology Technologist II (CT Technologist & Xray Certified)",
-      "company_name": "Sollis Health",
-      "first_published": "2026-04-20T12:36:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7020992003",
       "data_compliance": [
         {
@@ -1986,6 +1804,97 @@
       "title": "Radiology Technologist II (CT Technologist & Xray Certified)",
       "company_name": "Sollis Health",
       "first_published": "2025-09-14T20:40:55-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7687771003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5744246003,
+      "location": {
+        "name": "170 E 77th St, New York, NY 10075"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "170 E 77th St, New York, NY 10075",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Radiology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Per Diem W2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "60.0",
+            "min_value": "53.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Overnight",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "Preferably weekends and Wednesdays",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7687771003,
+      "updated_at": "2026-09-28T14:51:16-04:00",
+      "requisition_id": "1980",
+      "title": "Radiology Technologist II (CT Technologist & Xray Certified)",
+      "company_name": "Sollis Health",
+      "first_published": "2026-04-20T12:36:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2164,93 +2073,6 @@
       "title": "Radiology Technologist III (Xray, CT and MRI Certified) - Part Time",
       "company_name": "Sollis Health",
       "first_published": "2026-09-17T12:53:08-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7986780003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5882396003,
-      "location": {
-        "name": "2333 Ponce de Leon Blvd, 3rd FL, Coral Gables, FL 33134"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Centers",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "2333 Ponce de Leon Blvd Ste 302, Coral Gables, FL 33134",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Radiology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Part Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": null,
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Day",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "7a-3p",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "16.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "Accrued",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7986780003,
-      "updated_at": "2026-09-28T14:51:17-04:00",
-      "requisition_id": "2109",
-      "title": "Radiology Technologist I - Part Time",
-      "company_name": "Sollis Health",
-      "first_published": "2026-09-08T09:44:40-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2967,6 +2789,97 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8019942003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5896414003,
+      "location": {
+        "name": "760 Montauk Hwy #2c, Water Mill, NY 11976"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "760 Montauk Hwy #2c, Water Mill, NY 11976",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Nursing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Per Diem W2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "70.0",
+            "min_value": "64.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7a-7p Pre September 9-5p Post September",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "0.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8019942003,
+      "updated_at": "2026-10-12T10:04:37-04:00",
+      "requisition_id": "2133",
+      "title": "Registered Nurse - Per Diem - Days",
+      "company_name": "Sollis Health",
+      "first_published": "2026-10-12T10:04:37-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7886429003",
       "data_compliance": [
         {
@@ -3050,6 +2963,93 @@
       "title": "Supervisor, Operations",
       "company_name": "Sollis Health",
       "first_published": "2026-08-18T13:36:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7986780003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5882396003,
+      "location": {
+        "name": "2333 Ponce de Leon Blvd, 3rd FL, Coral Gables, FL 33134"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Centers",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "2333 Ponce de Leon Blvd Ste 302, Coral Gables, FL 33134",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Radiology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7a-3p",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "16.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7986780003,
+      "updated_at": "2026-10-13T11:59:32-04:00",
+      "requisition_id": "2109",
+      "title": "X-Ray Technologist - Part Time",
+      "company_name": "Sollis Health",
+      "first_published": "2026-09-08T09:44:40-04:00",
       "language": "en",
       "application_deadline": null
     }
