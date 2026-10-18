@@ -1,7 +1,7 @@
 {
   "company": "nuro",
-  "fetched_at": "2026-10-15T08:13:07.190613",
-  "job_count": 109,
+  "fetched_at": "2026-10-18T07:56:35.793928",
+  "job_count": 108,
   "jobs": [
     {
       "absolute_url": "https://nuro.ai/careersitem?gh_jid=7793005",
@@ -271,11 +271,80 @@
         }
       ],
       "id": 8104145,
-      "updated_at": "2026-10-14T19:35:52-04:00",
+      "updated_at": "2026-10-16T19:25:41-04:00",
       "requisition_id": "M-2036",
       "title": "Autonomous Vehicle Operator",
       "company_name": "Nuro",
       "first_published": "2026-08-03T23:39:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://nuro.ai/careersitem?gh_jid=7943735",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3450712,
+      "location": {
+        "name": "California - LA"
+      },
+      "metadata": [
+        {
+          "id": 53829309,
+          "name": "Location",
+          "value": "California - LA",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4977510,
+          "name": "Department",
+          "value": "In-Vehicle Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 954897,
+          "name": "Job Family",
+          "value": "In-Vehicle Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4993730,
+          "name": "Time Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4978502,
+          "name": "Worker Sub-Type",
+          "value": "Temporary",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6653805,
+          "name": "Department (Job Board)",
+          "value": "In-Vehicle Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6644840,
+          "name": "Org (Job Board)",
+          "value": "Operations",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7943735,
+      "updated_at": "2026-10-16T19:23:37-04:00",
+      "requisition_id": "M-2027",
+      "title": "Autonomous Vehicle Operator - AM",
+      "company_name": "Nuro",
+      "first_published": "2026-05-26T19:57:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -340,9 +409,9 @@
         }
       ],
       "id": 8172396,
-      "updated_at": "2026-10-14T19:37:29-04:00",
+      "updated_at": "2026-10-16T19:23:59-04:00",
       "requisition_id": "M-2999",
-      "title": "Autonomous Vehicle Operator",
+      "title": "Autonomous Vehicle Operator - Overnight",
       "company_name": "Nuro",
       "first_published": "2026-09-01T20:05:20-04:00",
       "language": "en",
@@ -409,80 +478,11 @@
         }
       ],
       "id": 7436219,
-      "updated_at": "2026-10-14T19:37:52-04:00",
+      "updated_at": "2026-10-16T19:24:18-04:00",
       "requisition_id": "M-1999",
-      "title": "Autonomous Vehicle Operator",
+      "title": "Autonomous Vehicle Operator - PM",
       "company_name": "Nuro",
       "first_published": "2025-12-02T19:44:41-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://nuro.ai/careersitem?gh_jid=7943735",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3450712,
-      "location": {
-        "name": "California - LA"
-      },
-      "metadata": [
-        {
-          "id": 53829309,
-          "name": "Location",
-          "value": "California - LA",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4977510,
-          "name": "Department",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 954897,
-          "name": "Job Family",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4993730,
-          "name": "Time Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4978502,
-          "name": "Worker Sub-Type",
-          "value": "Temporary",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6653805,
-          "name": "Department (Job Board)",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6644840,
-          "name": "Org (Job Board)",
-          "value": "Operations",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7943735,
-      "updated_at": "2026-10-14T19:37:03-04:00",
-      "requisition_id": "M-2027",
-      "title": "Autonomous Vehicle Operator",
-      "company_name": "Nuro",
-      "first_published": "2026-05-26T19:57:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -966,75 +966,6 @@
       "title": "Director of Engineering, Eval Platform",
       "company_name": "Nuro",
       "first_published": "2026-01-29T20:22:39-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8180955",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3540148,
-      "location": {
-        "name": "Mountain View, California (HQ)"
-      },
-      "metadata": [
-        {
-          "id": 53829309,
-          "name": "Location",
-          "value": "California - HQ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4977510,
-          "name": "Department",
-          "value": "Controls, Pose and ESWE",
-          "value_type": "single_select"
-        },
-        {
-          "id": 954897,
-          "name": "Job Family",
-          "value": "Embedded Controls Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4993730,
-          "name": "Time Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4978502,
-          "name": "Worker Sub-Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6653805,
-          "name": "Department (Job Board)",
-          "value": "Controls, Pose, and Embedded Software",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6644840,
-          "name": "Org (Job Board)",
-          "value": "Software",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8180955,
-      "updated_at": "2026-10-09T11:02:43-04:00",
-      "requisition_id": "R-103095",
-      "title": "Embedded Software Engineer",
-      "company_name": "Nuro",
-      "first_published": "2026-09-22T16:51:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2001,75 +1932,6 @@
       "title": "Senior Commercial Counsel",
       "company_name": "Nuro",
       "first_published": "2026-09-15T18:11:00-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8263453",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3575469,
-      "location": {
-        "name": "Mountain View, California (HQ)"
-      },
-      "metadata": [
-        {
-          "id": 53829309,
-          "name": "Location",
-          "value": "California - HQ",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4977510,
-          "name": "Department",
-          "value": "Controls, Pose and ESWE",
-          "value_type": "single_select"
-        },
-        {
-          "id": 954897,
-          "name": "Job Family",
-          "value": "Autonomy",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4993730,
-          "name": "Time Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4978502,
-          "name": "Worker Sub-Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6653805,
-          "name": "Department (Job Board)",
-          "value": "Controls, Pose, and Embedded Software",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6644840,
-          "name": "Org (Job Board)",
-          "value": "Software",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8263453,
-      "updated_at": "2026-10-12T17:48:09-04:00",
-      "requisition_id": "R-103175",
-      "title": "Senior Controls Engineer, Vehicle Integration",
-      "company_name": "Nuro",
-      "first_published": "2026-10-12T17:48:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4352,6 +4214,75 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8263453",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3575469,
+      "location": {
+        "name": "Mountain View, California (HQ)"
+      },
+      "metadata": [
+        {
+          "id": 53829309,
+          "name": "Location",
+          "value": "California - HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4977510,
+          "name": "Department",
+          "value": "Controls, Pose and ESWE",
+          "value_type": "single_select"
+        },
+        {
+          "id": 954897,
+          "name": "Job Family",
+          "value": "Autonomy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4993730,
+          "name": "Time Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4978502,
+          "name": "Worker Sub-Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6653805,
+          "name": "Department (Job Board)",
+          "value": "Controls, Pose, and Embedded Software",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6644840,
+          "name": "Org (Job Board)",
+          "value": "Software",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8263453,
+      "updated_at": "2026-10-16T18:02:34-04:00",
+      "requisition_id": "R-103175",
+      "title": "Senior/Staff Software Engineer, Applied Controls",
+      "company_name": "Nuro",
+      "first_published": "2026-10-12T17:48:09-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://nuro.ai/careersitem?gh_jid=7243150",
       "data_compliance": [
         {
@@ -5176,144 +5107,6 @@
       "title": "Senior Technical Sourcer",
       "company_name": "Nuro",
       "first_published": "2026-05-18T14:33:18-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8114868",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3514967,
-      "location": {
-        "name": "California - LA"
-      },
-      "metadata": [
-        {
-          "id": 53829309,
-          "name": "Location",
-          "value": "California - LA Depot",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4977510,
-          "name": "Department",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 954897,
-          "name": "Job Family",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4993730,
-          "name": "Time Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4978502,
-          "name": "Worker Sub-Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6653805,
-          "name": "Department (Job Board)",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6644840,
-          "name": "Org (Job Board)",
-          "value": "Operations",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8114868,
-      "updated_at": "2026-10-09T11:02:43-04:00",
-      "requisition_id": "R-103003",
-      "title": "Shift Supervisor,  Los Angeles, CA",
-      "company_name": "Nuro",
-      "first_published": "2026-08-07T20:18:36-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8172372",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3536985,
-      "location": {
-        "name": "California - LA"
-      },
-      "metadata": [
-        {
-          "id": 53829309,
-          "name": "Location",
-          "value": "California - LA Depot",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4977510,
-          "name": "Department",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 954897,
-          "name": "Job Family",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4993730,
-          "name": "Time Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4978502,
-          "name": "Worker Sub-Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6653805,
-          "name": "Department (Job Board)",
-          "value": "In-Vehicle Operations",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6644840,
-          "name": "Org (Job Board)",
-          "value": "Operations",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8172372,
-      "updated_at": "2026-10-09T11:02:43-04:00",
-      "requisition_id": "M-100403",
-      "title": "Shift Supervisor,  Los Angeles, CA (Overnight Shift)",
-      "company_name": "Nuro",
-      "first_published": "2026-09-01T20:40:15-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6905,6 +6698,75 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8286615",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3583830,
+      "location": {
+        "name": "Mountain View, California (HQ)"
+      },
+      "metadata": [
+        {
+          "id": 53829309,
+          "name": "Location",
+          "value": "California - HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4977510,
+          "name": "Department",
+          "value": "Autonomy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 954897,
+          "name": "Job Family",
+          "value": "Project Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4993730,
+          "name": "Time Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4978502,
+          "name": "Worker Sub-Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6653805,
+          "name": "Department (Job Board)",
+          "value": "Autonomy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6644840,
+          "name": "Org (Job Board)",
+          "value": "Technical Program Management",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8286615,
+      "updated_at": "2026-10-16T12:15:15-04:00",
+      "requisition_id": "R-103184",
+      "title": "Staff Autonomy Program Manager",
+      "company_name": "Nuro",
+      "first_published": "2026-10-16T12:15:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://nuro.ai/careersitem?gh_jid=8114754",
       "data_compliance": [
         {
@@ -6970,6 +6832,75 @@
       "title": "Staff/Lead Machine Learning Engineer, Behavior & Planning",
       "company_name": "Nuro",
       "first_published": "2026-08-07T15:12:31-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://nuro.ai/careersitem?gh_jid=8286707",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3583859,
+      "location": {
+        "name": "Mountain View, California (HQ)"
+      },
+      "metadata": [
+        {
+          "id": 53829309,
+          "name": "Location",
+          "value": "California - HQ",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4977510,
+          "name": "Department",
+          "value": "Autonomy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 954897,
+          "name": "Job Family",
+          "value": "Operations Program Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4993730,
+          "name": "Time Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4978502,
+          "name": "Worker Sub-Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6653805,
+          "name": "Department (Job Board)",
+          "value": "Founders' Office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6644840,
+          "name": "Org (Job Board)",
+          "value": "Commercialization",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8286707,
+      "updated_at": "2026-10-16T12:16:17-04:00",
+      "requisition_id": "R-103186",
+      "title": "Staff Robotaxi Program Manager",
+      "company_name": "Nuro",
+      "first_published": "2026-10-15T19:25:41-04:00",
       "language": "en",
       "application_deadline": null
     },

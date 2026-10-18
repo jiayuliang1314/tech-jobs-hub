@@ -1,63 +1,8 @@
 {
   "company": "flatironhealth",
-  "fetched_at": "2026-10-15T08:06:43.703502",
-  "job_count": 21,
+  "fetched_at": "2026-10-18T07:50:06.291870",
+  "job_count": 19,
   "jobs": [
-    {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8249709",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3569230,
-      "location": {
-        "name": "Berlin office"
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "EUR",
-            "max_value": "104500.0",
-            "min_value": "76000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "Berlin office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Entry-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8249709,
-      "updated_at": "2026-10-07T10:39:38-04:00",
-      "requisition_id": "JR102155",
-      "title": "Applied AI Data Scientist",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-10-07T10:39:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8122311",
       "data_compliance": [
@@ -215,7 +160,7 @@
         }
       ],
       "id": 8013390,
-      "updated_at": "2026-10-02T13:07:13-04:00",
+      "updated_at": "2026-10-16T16:32:16-04:00",
       "requisition_id": "JR102010",
       "title": "Cloud Network Engineer",
       "company_name": "Flatiron Health",
@@ -664,61 +609,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8010993",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3473347,
-      "location": {
-        "name": "NY office"
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "192500.0",
-            "min_value": "140000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "Durham office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Mid-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8010993,
-      "updated_at": "2026-10-02T13:08:17-04:00",
-      "requisition_id": "JR102015",
-      "title": "Senior Employee Relations Partner",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-06-17T20:09:55-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8010995",
       "data_compliance": [
         {
@@ -770,6 +660,61 @@
       "title": "Senior Employee Relations Partner",
       "company_name": "Flatiron Health",
       "first_published": "2026-07-16T16:26:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8010993",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3473347,
+      "location": {
+        "name": "NY office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "192500.0",
+            "min_value": "140000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "Durham office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Mid-level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 8906496,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8010993,
+      "updated_at": "2026-10-02T13:08:17-04:00",
+      "requisition_id": "JR102015",
+      "title": "Senior Employee Relations Partner",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-06-17T20:09:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -880,61 +825,6 @@
       "title": "Senior Software Engineer (m/w/d)",
       "company_name": "Flatiron Health",
       "first_published": "2026-07-09T08:41:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8123090",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 3508682,
-      "location": {
-        "name": "NY office "
-      },
-      "metadata": [
-        {
-          "id": 6571036,
-          "name": "Job Compensation Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "178200.0",
-            "min_value": "129600.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 12077150,
-          "name": "Preferred Primary Location",
-          "value": "NY office",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14772347,
-          "name": "Experience Level",
-          "value": "Mid-level",
-          "value_type": "single_select"
-        },
-        {
-          "id": 8906496,
-          "name": "Worker Type",
-          "value": "Employee",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8123090,
-      "updated_at": "2026-10-02T13:08:17-04:00",
-      "requisition_id": "JR102077",
-      "title": "Software Engineer",
-      "company_name": "Flatiron Health",
-      "first_published": "2026-08-11T20:13:19-04:00",
       "language": "en",
       "application_deadline": null
     },
