@@ -1,7 +1,7 @@
 {
   "company": "flatironhealth",
-  "fetched_at": "2026-10-21T08:23:02.638936",
-  "job_count": 21,
+  "fetched_at": "2026-10-24T08:00:50.735972",
+  "job_count": 23,
   "jobs": [
     {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8122311",
@@ -114,7 +114,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8265541",
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8315819",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -125,9 +125,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3576358,
+      "internal_job_id": 3595150,
       "location": {
-        "name": "NY office "
+        "name": "NY office OR Remote - US"
       },
       "metadata": [
         {
@@ -135,8 +135,8 @@
           "name": "Job Compensation Range",
           "value": {
             "unit": "USD",
-            "max_value": "121000.0",
-            "min_value": "88000.0"
+            "max_value": "181500.0",
+            "min_value": "132000.0"
           },
           "value_type": "currency_range"
         },
@@ -159,12 +159,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8265541,
-      "updated_at": "2026-10-20T09:48:00-04:00",
-      "requisition_id": "JR102161",
-      "title": "Associate, Revenue Operations",
+      "id": 8315819,
+      "updated_at": "2026-10-23T09:36:19-04:00",
+      "requisition_id": "JR102174",
+      "title": "Clinical Genomics Advanced Practice Provider",
       "company_name": "Flatiron Health",
-      "first_published": "2026-10-19T13:33:19-04:00",
+      "first_published": "2026-10-23T09:36:19-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -198,7 +198,7 @@
         {
           "id": 12077150,
           "name": "Preferred Primary Location",
-          "value": "Berlin office",
+          "value": "London office",
           "value_type": "single_select"
         },
         {
@@ -215,7 +215,7 @@
         }
       ],
       "id": 8013390,
-      "updated_at": "2026-10-20T09:47:59-04:00",
+      "updated_at": "2026-10-21T09:03:40-04:00",
       "requisition_id": "JR102010",
       "title": "Cloud Network Engineer",
       "company_name": "Flatiron Health",
@@ -884,6 +884,61 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8306279",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3474317,
+      "location": {
+        "name": "London office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": {
+            "unit": "GBP",
+            "max_value": "118800.0",
+            "min_value": "86400.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "London office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Mid-level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 8906496,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8306279,
+      "updated_at": "2026-10-21T11:22:48-04:00",
+      "requisition_id": "JR102000",
+      "title": "Senior Software Engineer",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-10-21T11:22:48-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8013372",
       "data_compliance": [
         {
@@ -990,6 +1045,61 @@
       "title": "Strategic Partnerships Manager",
       "company_name": "Flatiron Health",
       "first_published": "2026-08-05T11:59:06-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://flatiron.com/careers/open-positions/job?gh_jid=8127129",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3519455,
+      "location": {
+        "name": "Durham office"
+      },
+      "metadata": [
+        {
+          "id": 6571036,
+          "name": "Job Compensation Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "94600.0",
+            "min_value": "68800.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 12077150,
+          "name": "Preferred Primary Location",
+          "value": "Durham office",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14772347,
+          "name": "Experience Level",
+          "value": "Entry-level",
+          "value_type": "single_select"
+        },
+        {
+          "id": 8906496,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8127129,
+      "updated_at": "2026-10-21T10:44:50-04:00",
+      "requisition_id": "JR102080",
+      "title": "Support Specialist, IT Operations",
+      "company_name": "Flatiron Health",
+      "first_published": "2026-08-21T16:21:21-04:00",
       "language": "en",
       "application_deadline": null
     },
