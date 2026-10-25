@@ -1,8 +1,59 @@
 {
   "company": "dunnhumby",
-  "fetched_at": "2026-10-22T08:25:43.083597",
-  "job_count": 48,
+  "fetched_at": "2026-10-25T08:14:03.418819",
+  "job_count": 53,
   "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6513693003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5189686003,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Media",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Rob Edwards",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 6513693003,
+      "updated_at": "2026-10-22T09:44:10-04:00",
+      "requisition_id": "98",
+      "title": "Account Manager",
+      "company_name": "dunnhumby",
+      "first_published": "2025-05-28T17:58:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7919992003",
       "data_compliance": [
@@ -47,7 +98,7 @@
         }
       ],
       "id": 7919992003,
-      "updated_at": "2026-10-09T09:39:22-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "DA4.40-2026-08-12",
       "title": "Applied Data Science Manager",
       "company_name": "dunnhumby",
@@ -98,63 +149,11 @@
         }
       ],
       "id": 8038055003,
-      "updated_at": "2026-10-21T10:49:41-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "PT4.3-2026-10-19",
       "title": "Business Operations, Property and Facilities Manager",
       "company_name": "dunnhumby",
       "first_published": "2026-10-21T10:49:41-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7994811003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "employment": "employment_required",
-      "internal_job_id": 5885650003,
-      "location": {
-        "name": "Minneapolis "
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Retail & CPG Expertise",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Mike Anderson",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7994811003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
-      "requisition_id": "CA3.107-2026-09-14",
-      "title": "Category Management Senior Client Lead",
-      "company_name": "dunnhumby",
-      "first_published": "2026-09-21T15:31:07-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -202,7 +201,7 @@
         }
       ],
       "id": 7790656003,
-      "updated_at": "2026-10-07T09:06:32-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA3.108-2026-06-30",
       "title": "Category Management Senior Client Lead",
       "company_name": "dunnhumby",
@@ -211,7 +210,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8012001003",
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7994811003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -222,15 +221,16 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5892970003,
+      "employment": "employment_required",
+      "internal_job_id": 5885650003,
       "location": {
-        "name": "London"
+        "name": "Minneapolis "
       },
       "metadata": [
         {
           "id": 4211885003,
           "name": "Grade",
-          "value": "1",
+          "value": "3",
           "value_type": "single_select"
         },
         {
@@ -248,16 +248,16 @@
         {
           "id": 4574849003,
           "name": "Hiring Manager",
-          "value": "Moray Duncan",
+          "value": "Mike Anderson",
           "value_type": "short_text"
         }
       ],
-      "id": 8012001003,
-      "updated_at": "2026-10-07T09:06:37-04:00",
-      "requisition_id": "CL1.84-2026-10-02",
-      "title": "Client Partnership Associate",
+      "id": 7994811003,
+      "updated_at": "2026-10-22T07:26:08-04:00",
+      "requisition_id": "CA3.107-2026-09-14",
+      "title": "Category Management Senior Client Lead",
       "company_name": "dunnhumby",
-      "first_published": "2026-10-07T06:16:47-04:00",
+      "first_published": "2026-09-21T15:31:07-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -304,7 +304,7 @@
         }
       ],
       "id": 8012004003,
-      "updated_at": "2026-10-08T05:45:35-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL1.74-2026-10-02",
       "title": "Client Success Associate",
       "company_name": "dunnhumby",
@@ -355,7 +355,7 @@
         }
       ],
       "id": 8012003003,
-      "updated_at": "2026-10-07T09:06:37-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL2.65-2026-10-02",
       "title": "Client Success Lead",
       "company_name": "dunnhumby",
@@ -406,7 +406,7 @@
         }
       ],
       "id": 8003818003,
-      "updated_at": "2026-10-07T09:06:36-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA2.25-2026-09-23",
       "title": "Client Success Lead (Media)",
       "company_name": "dunnhumby",
@@ -457,7 +457,7 @@
         }
       ],
       "id": 8003820003,
-      "updated_at": "2026-10-07T09:06:36-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL3.231-2026-09-23",
       "title": "Client Success Senior Lead (Media) ",
       "company_name": "dunnhumby",
@@ -508,11 +508,62 @@
         }
       ],
       "id": 8014944003,
-      "updated_at": "2026-10-15T04:54:02-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "TI3.460-2026-10-06",
       "title": "Configuration & Release Readiness Lead",
       "company_name": "dunnhumby",
       "first_published": "2026-10-15T04:54:02-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8039529003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5905559003,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "4",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Andonella Michalakakou",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8039529003,
+      "updated_at": "2026-10-22T11:20:56-04:00",
+      "requisition_id": "PD4.7FTC-2026-10-16",
+      "title": "Content Design Lead (12 month fixed term contract)",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-22T11:16:34-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -559,7 +610,7 @@
         }
       ],
       "id": 7997610003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA4.66-2026-09-16",
       "title": "Customer Engagement Client Manager",
       "company_name": "dunnhumby",
@@ -611,7 +662,7 @@
         }
       ],
       "id": 7800339003,
-      "updated_at": "2026-10-07T09:06:32-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA3.109-2026-07-09",
       "title": "Customer Engagement Senior Client Lead",
       "company_name": "dunnhumby",
@@ -662,11 +713,164 @@
         }
       ],
       "id": 7996489003,
-      "updated_at": "2026-10-22T00:56:24-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "PD4.93-2026-09-15",
       "title": "Delivery Manager",
       "company_name": "dunnhumby",
       "first_published": "2026-09-17T03:52:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8034952003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5903749003,
+      "location": {
+        "name": "Prague"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Marika Zamrzlová",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8034952003,
+      "updated_at": "2026-10-23T05:30:05-04:00",
+      "requisition_id": "CA3.95-2026-10-15",
+      "title": "Digital Propositions Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-23T05:30:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8042566003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5903749003,
+      "location": {
+        "name": "Bratislava"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Marika Zamrzlová",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8042566003,
+      "updated_at": "2026-10-23T05:32:45-04:00",
+      "requisition_id": "CA3.95-2026-10-15",
+      "title": "Digital Propositions Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-23T05:32:45-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8042568003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5903749003,
+      "location": {
+        "name": "Budapest"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Marika Zamrzlová",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8042568003,
+      "updated_at": "2026-10-23T05:35:25-04:00",
+      "requisition_id": "CA3.95-2026-10-15",
+      "title": "Digital Propositions Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-23T05:35:25-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -713,11 +917,62 @@
         }
       ],
       "id": 7996469003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
+      "updated_at": "2026-10-24T06:32:35-04:00",
       "requisition_id": "TI4.264-2026-09-15",
-      "title": "Engineering Manager",
+      "title": "Engineering Manager- Backend",
       "company_name": "dunnhumby",
       "first_published": "2026-09-25T03:50:14-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8036048003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5904173003,
+      "location": {
+        "name": "Gurgaon"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Corporate",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Samarpal Singh",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8036048003,
+      "updated_at": "2026-10-23T01:43:06-04:00",
+      "requisition_id": "FI2.47-2026-10-16",
+      "title": "Finance Analyst - Accounts Receivable",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-23T01:42:21-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -764,7 +1019,7 @@
         }
       ],
       "id": 8028166003,
-      "updated_at": "2026-10-14T03:51:31-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "FI1.4-2026-10-12",
       "title": "Finance Associate",
       "company_name": "dunnhumby",
@@ -815,7 +1070,7 @@
         }
       ],
       "id": 7790651003,
-      "updated_at": "2026-10-07T09:06:32-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL4.121-2026-06-30",
       "title": "General Client Manager",
       "company_name": "dunnhumby",
@@ -866,7 +1121,7 @@
         }
       ],
       "id": 7996467003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL5.40-2026-09-15",
       "title": "Head of Strategic Planning",
       "company_name": "dunnhumby",
@@ -918,7 +1173,7 @@
         }
       ],
       "id": 8014943003,
-      "updated_at": "2026-10-16T09:14:04-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL4.125-2026-10-06",
       "title": "Insights Analyst Manager",
       "company_name": "dunnhumby",
@@ -969,7 +1224,7 @@
         }
       ],
       "id": 8017252003,
-      "updated_at": "2026-10-14T03:33:49-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "HR2.11-2026-10-08",
       "title": "Instructional Designer",
       "company_name": "dunnhumby",
@@ -1020,62 +1275,11 @@
         }
       ],
       "id": 7823186003,
-      "updated_at": "2026-10-07T09:06:33-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CM2.87-2026-07-31",
       "title": "Media Insight Planning Executive",
       "company_name": "dunnhumby",
       "first_published": "2026-08-10T09:21:34-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7990547003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5883990003,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "1",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Part Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Media",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Sarah Pokorny",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7990547003,
-      "updated_at": "2026-10-21T06:47:16-04:00",
-      "requisition_id": "SA1.43FTC-2026-09-09",
-      "title": "Media Sales Administrator",
-      "company_name": "dunnhumby",
-      "first_published": "2026-10-21T06:47:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1122,11 +1326,62 @@
         }
       ],
       "id": 7990548003,
-      "updated_at": "2026-10-07T09:06:33-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "SA1.44FTC-2026-09-09",
       "title": "Media Sales Administrator",
       "company_name": "dunnhumby",
       "first_published": "2026-09-16T06:38:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7990547003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 5883990003,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "1",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Media",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Sarah Pokorny",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 7990547003,
+      "updated_at": "2026-10-22T07:26:08-04:00",
+      "requisition_id": "SA1.43FTC-2026-09-09",
+      "title": "Media Sales Administrator",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-21T06:47:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1173,7 +1428,7 @@
         }
       ],
       "id": 8003828003,
-      "updated_at": "2026-10-07T09:06:36-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA3.110-2026-09-22",
       "title": "Mobilisation Senior Lead",
       "company_name": "dunnhumby",
@@ -1224,7 +1479,7 @@
         }
       ],
       "id": 8035313003,
-      "updated_at": "2026-10-16T07:09:55-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CA3.74-2026-10-15",
       "title": "Price & Promotion Senior Client Lead",
       "company_name": "dunnhumby",
@@ -1276,7 +1531,7 @@
         }
       ],
       "id": 8013535003,
-      "updated_at": "2026-10-12T03:06:53-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "PD5.28-2026-10-05",
       "title": "Product Director - Retail & Insights",
       "company_name": "dunnhumby",
@@ -1327,7 +1582,7 @@
         }
       ],
       "id": 7733825003,
-      "updated_at": "2026-10-07T09:06:31-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "SA3.84-2026-05-13",
       "title": "Sales Operations Senior Lead",
       "company_name": "dunnhumby",
@@ -1378,7 +1633,7 @@
         }
       ],
       "id": 7638736003,
-      "updated_at": "2026-10-07T09:06:31-04:00",
+      "updated_at": "2026-10-22T07:26:07-04:00",
       "requisition_id": "TI3.112-2026-02-20",
       "title": "Senior AI Engineer",
       "company_name": "dunnhumby",
@@ -1430,62 +1685,11 @@
         }
       ],
       "id": 7594354003,
-      "updated_at": "2026-10-07T11:16:44-04:00",
+      "updated_at": "2026-10-22T07:26:07-04:00",
       "requisition_id": "DA3.45-2026-01-15",
       "title": "Senior Applied Data Scientist",
       "company_name": "dunnhumby",
       "first_published": "2026-09-11T06:22:35-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8011996003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5892965003,
-      "location": {
-        "name": "London"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Media",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Hannah Tarlinton",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 8011996003,
-      "updated_at": "2026-10-20T04:48:29-04:00",
-      "requisition_id": "SA3.16MAT-2026-10-02",
-      "title": "Senior Client Partner",
-      "company_name": "dunnhumby",
-      "first_published": "2026-10-12T11:29:23-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1532,7 +1736,7 @@
         }
       ],
       "id": 8038056003,
-      "updated_at": "2026-10-20T04:54:32-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "SA3.31-2026-10-19",
       "title": "Senior Client Partner",
       "company_name": "dunnhumby",
@@ -1541,7 +1745,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/6513693003",
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8011996003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1552,7 +1756,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 5189686003,
+      "internal_job_id": 5892965003,
       "location": {
         "name": "London"
       },
@@ -1578,16 +1782,16 @@
         {
           "id": 4574849003,
           "name": "Hiring Manager",
-          "value": "Rob Edwards",
+          "value": "Hannah Tarlinton",
           "value_type": "short_text"
         }
       ],
-      "id": 6513693003,
-      "updated_at": "2026-10-21T11:57:41-04:00",
-      "requisition_id": "98",
+      "id": 8011996003,
+      "updated_at": "2026-10-22T07:26:08-04:00",
+      "requisition_id": "SA3.16MAT-2026-10-02",
       "title": "Senior Client Partner",
       "company_name": "dunnhumby",
-      "first_published": "2025-05-28T17:58:29-04:00",
+      "first_published": "2026-10-12T11:29:23-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1634,7 +1838,7 @@
         }
       ],
       "id": 7638734003,
-      "updated_at": "2026-10-14T02:42:07-04:00",
+      "updated_at": "2026-10-22T07:26:07-04:00",
       "requisition_id": "TI3.337-2026-02-20",
       "title": "Senior Engineer(Business Intelligence)",
       "company_name": "dunnhumby",
@@ -1685,62 +1889,11 @@
         }
       ],
       "id": 7990546003,
-      "updated_at": "2026-10-07T09:06:33-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL4.89MAT-2026-09-09",
       "title": "Senior Go To Market Manager ",
       "company_name": "dunnhumby",
       "first_published": "2026-09-21T11:11:53-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7996488003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 5886475003,
-      "location": {
-        "name": "Gurgaon"
-      },
-      "metadata": [
-        {
-          "id": 4211885003,
-          "name": "Grade",
-          "value": "3",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4211908003,
-          "name": "Full Time / Part Time",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4411408003,
-          "name": "Careers Pages Web-Hook",
-          "value": "Retail & CPG Expertise",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4574849003,
-          "name": "Hiring Manager",
-          "value": "Mike Blacker",
-          "value_type": "short_text"
-        }
-      ],
-      "id": 7996488003,
-      "updated_at": "2026-10-20T04:00:48-04:00",
-      "requisition_id": "PD3.157-2026-09-15",
-      "title": "Senior Product Analyst",
-      "company_name": "dunnhumby",
-      "first_published": "2026-09-16T08:10:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1787,7 +1940,7 @@
         }
       ],
       "id": 7812148003,
-      "updated_at": "2026-10-07T09:06:32-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CM3.71-2026-07-21",
       "title": "Senior Production Lead",
       "company_name": "dunnhumby",
@@ -1838,7 +1991,7 @@
         }
       ],
       "id": 7996483003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "OP3.30FTC-2026-09-15",
       "title": "Senior Project Manager- Transformation FTC ",
       "company_name": "dunnhumby",
@@ -1889,7 +2042,7 @@
         }
       ],
       "id": 8003833003,
-      "updated_at": "2026-10-07T09:06:37-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "TI3.442-2026-09-23",
       "title": "Senior Software Engineer- AI",
       "company_name": "dunnhumby",
@@ -1940,7 +2093,7 @@
         }
       ],
       "id": 7998692003,
-      "updated_at": "2026-10-21T02:53:00-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "TI3.458-2026-09-16",
       "title": "Senior Software Engineer - Backend",
       "company_name": "dunnhumby",
@@ -1992,7 +2145,7 @@
         }
       ],
       "id": 8003819003,
-      "updated_at": "2026-10-13T18:03:39-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL1.92-2026-09-23",
       "title": "Shopper Insights Client Associate",
       "company_name": "dunnhumby",
@@ -2044,7 +2197,7 @@
         }
       ],
       "id": 8003816003,
-      "updated_at": "2026-10-08T05:27:44-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL2.286-2026-09-23",
       "title": "Shopper Insights Client Lead",
       "company_name": "dunnhumby",
@@ -2096,11 +2249,63 @@
         }
       ],
       "id": 7824290003,
-      "updated_at": "2026-10-07T09:06:33-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "2026",
       "title": "Shopper Insights Client Lead",
       "company_name": "dunnhumby",
       "first_published": "2026-08-03T11:48:19-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8036043003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "employment": "employment_required",
+      "internal_job_id": 5904168003,
+      "location": {
+        "name": "Bentonville"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Chanel Crafford",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8036043003,
+      "updated_at": "2026-10-22T13:47:37-04:00",
+      "requisition_id": "CL2.87-2026-10-16",
+      "title": "Shopper Insights Client Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-22T13:47:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2148,7 +2353,7 @@
         }
       ],
       "id": 8034946003,
-      "updated_at": "2026-10-19T05:30:38-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL2.244-2026-10-15",
       "title": "Shopper Insights Client Lead",
       "company_name": "dunnhumby",
@@ -2200,7 +2405,7 @@
         }
       ],
       "id": 8034944003,
-      "updated_at": "2026-10-19T12:27:13-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL3.36-2026-10-15",
       "title": "Shopper Insights Senior Client Lead",
       "company_name": "dunnhumby",
@@ -2252,11 +2457,63 @@
         }
       ],
       "id": 8001312003,
-      "updated_at": "2026-10-07T09:06:33-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL3.229-2026-09-03",
       "title": "Shopper Insights Senior Client Lead",
       "company_name": "dunnhumby",
       "first_published": "2026-09-21T15:28:23-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/dunnhumby/jobs/8036047003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "employment": "employment_required",
+      "internal_job_id": 5904172003,
+      "location": {
+        "name": "Bentonville"
+      },
+      "metadata": [
+        {
+          "id": 4211885003,
+          "name": "Grade",
+          "value": "3",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4211908003,
+          "name": "Full Time / Part Time",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4411408003,
+          "name": "Careers Pages Web-Hook",
+          "value": "Retail & CPG Expertise",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4574849003,
+          "name": "Hiring Manager",
+          "value": "Brooke Anderson",
+          "value_type": "short_text"
+        }
+      ],
+      "id": 8036047003,
+      "updated_at": "2026-10-22T13:54:16-04:00",
+      "requisition_id": "CL3.40-2026-10-16",
+      "title": "Shopper Insights Senior Client Lead",
+      "company_name": "dunnhumby",
+      "first_published": "2026-10-22T13:54:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2303,7 +2560,7 @@
         }
       ],
       "id": 7996473003,
-      "updated_at": "2026-10-21T01:40:39-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "TI2.394-2026-09-15",
       "title": "Software Engineer- Backend",
       "company_name": "dunnhumby",
@@ -2354,7 +2611,7 @@
         }
       ],
       "id": 7996468003,
-      "updated_at": "2026-10-07T09:06:34-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "ME3.26-2026-09-15",
       "title": "Strategic Planner",
       "company_name": "dunnhumby",
@@ -2406,7 +2663,7 @@
         }
       ],
       "id": 8003826003,
-      "updated_at": "2026-10-21T05:14:04-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "CL4.124-2026-09-23",
       "title": "Strategic Projects & Analytics Lead",
       "company_name": "dunnhumby",
@@ -2457,7 +2714,7 @@
         }
       ],
       "id": 7997611003,
-      "updated_at": "2026-10-18T11:16:42-04:00",
+      "updated_at": "2026-10-22T07:26:08-04:00",
       "requisition_id": "TI4.267-2026-09-16",
       "title": "Technical Architect",
       "company_name": "dunnhumby",
