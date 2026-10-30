@@ -1,7 +1,7 @@
 {
   "company": "phmg",
-  "fetched_at": "2026-10-27T08:46:03.208928",
-  "job_count": 24,
+  "fetched_at": "2026-10-30T09:34:13.824723",
+  "job_count": 25,
   "jobs": [
     {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8905962002",
@@ -56,7 +56,59 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8852081002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8532746002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6407684002,
+      "location": {
+        "name": "Phoenix"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "45000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "80000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8532746002,
+      "updated_at": "2026-10-30T03:52:04-04:00",
+      "requisition_id": "1092",
+      "title": "Business Development Executive",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-10-29T09:34:01-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8924858002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -98,12 +150,12 @@
           "value_type": "currency"
         }
       ],
-      "id": 8852081002,
-      "updated_at": "2026-10-01T05:40:11-04:00",
+      "id": 8924858002,
+      "updated_at": "2026-10-30T03:46:35-04:00",
       "requisition_id": "538",
       "title": "Business Development Executive",
       "company_name": "PHMG Careers",
-      "first_published": "2026-10-01T05:40:11-04:00",
+      "first_published": "2026-10-30T03:44:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -264,7 +316,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8811284002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8811301002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -275,9 +327,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6132485002,
+      "internal_job_id": 6510877002,
       "location": {
-        "name": "Chicago"
+        "name": "Manchester"
       },
       "metadata": [
         {
@@ -290,9 +342,9 @@
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "USD",
-            "max_value": "45000.0",
-            "min_value": "45000.0"
+            "unit": "GBP",
+            "max_value": "32000.0",
+            "min_value": "32000.0"
           },
           "value_type": "currency_range"
         },
@@ -300,18 +352,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": "USD",
-            "amount": "55000.0"
+            "unit": "GBP",
+            "amount": "36000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8811284002,
-      "updated_at": "2026-09-15T11:49:26-04:00",
-      "requisition_id": "1024",
+      "id": 8811301002,
+      "updated_at": "2026-09-15T11:51:53-04:00",
+      "requisition_id": "1118",
       "title": "Cloud Telephony Technician ",
       "company_name": "PHMG Careers",
-      "first_published": "2026-09-15T11:49:26-04:00",
+      "first_published": "2026-09-15T11:51:53-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -368,7 +420,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8811301002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8811284002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -379,9 +431,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6510877002,
+      "internal_job_id": 6132485002,
       "location": {
-        "name": "Manchester"
+        "name": "Chicago"
       },
       "metadata": [
         {
@@ -394,9 +446,9 @@
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "GBP",
-            "max_value": "32000.0",
-            "min_value": "32000.0"
+            "unit": "USD",
+            "max_value": "45000.0",
+            "min_value": "45000.0"
           },
           "value_type": "currency_range"
         },
@@ -404,18 +456,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": "GBP",
-            "amount": "36000.0"
+            "unit": "USD",
+            "amount": "55000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8811301002,
-      "updated_at": "2026-09-15T11:51:53-04:00",
-      "requisition_id": "1118",
+      "id": 8811284002,
+      "updated_at": "2026-09-15T11:49:26-04:00",
+      "requisition_id": "1024",
       "title": "Cloud Telephony Technician ",
       "company_name": "PHMG Careers",
-      "first_published": "2026-09-15T11:51:53-04:00",
+      "first_published": "2026-09-15T11:49:26-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -785,162 +837,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8852063002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6410422002,
-      "location": {
-        "name": "Tampa"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "40000.0",
-            "min_value": "40000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": "USD",
-            "amount": "90000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8852063002,
-      "updated_at": "2026-10-01T05:40:25-04:00",
-      "requisition_id": "1094",
-      "title": "Sales Development Representative",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-10-01T05:40:25-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8852078002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5272233002,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "40000.0",
-            "min_value": "40000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": null,
-            "amount": "90000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8852078002,
-      "updated_at": "2026-10-01T05:40:03-04:00",
-      "requisition_id": "537",
-      "title": "Sales Development Representative",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-10-01T05:40:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8532745002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6407683002,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Full-time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "40000.0",
-            "min_value": "40000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": "USD",
-            "amount": "75000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8532745002,
-      "updated_at": "2026-07-17T17:42:24-04:00",
-      "requisition_id": "1091",
-      "title": "Sales Development Representative",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-06-24T11:25:21-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8867697002",
       "data_compliance": [
         {
@@ -993,7 +889,163 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8852077002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8924855002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5272233002,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": null,
+            "amount": "90000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8924855002,
+      "updated_at": "2026-10-30T03:46:44-04:00",
+      "requisition_id": "537",
+      "title": "Sales Development Representative",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-10-30T03:41:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8924856002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6410422002,
+      "location": {
+        "name": "Tampa"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "50000.0",
+            "min_value": "50000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "90000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8924856002,
+      "updated_at": "2026-10-30T03:45:13-04:00",
+      "requisition_id": "1094",
+      "title": "Sales Development Representative",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-10-30T03:43:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8639469002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6450458002,
+      "location": {
+        "name": "Tampa"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "45000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "75000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8639469002,
+      "updated_at": "2026-10-30T03:52:54-04:00",
+      "requisition_id": "1109",
+      "title": "Sales Development Representative ",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-10-29T09:33:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8924857002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1035,12 +1087,64 @@
           "value_type": "currency"
         }
       ],
-      "id": 8852077002,
-      "updated_at": "2026-10-01T05:40:19-04:00",
+      "id": 8924857002,
+      "updated_at": "2026-10-30T03:46:28-04:00",
       "requisition_id": "644",
-      "title": "Sales Development Representative (B2B Sales)",
+      "title": "Sales Development Representative ",
       "company_name": "PHMG Careers",
-      "first_published": "2026-10-01T05:40:19-04:00",
+      "first_published": "2026-10-30T03:43:37-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8923192002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6407683002,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 4399498002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4429575002,
+          "name": "Salary Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "40000.0",
+            "min_value": "40000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 4429576002,
+          "name": "On Target Earnings",
+          "value": {
+            "unit": "USD",
+            "amount": "75000.0"
+          },
+          "value_type": "currency"
+        }
+      ],
+      "id": 8923192002,
+      "updated_at": "2026-10-30T03:53:21-04:00",
+      "requisition_id": "1091",
+      "title": "Sales Development Representative ",
+      "company_name": "PHMG Careers",
+      "first_published": "2026-10-29T06:41:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1097,58 +1201,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8911248002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 6558539002,
-      "location": {
-        "name": "Manchester"
-      },
-      "metadata": [
-        {
-          "id": 4399498002,
-          "name": "Employment Type",
-          "value": "Contract",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4429575002,
-          "name": "Salary Range",
-          "value": {
-            "unit": "GBP",
-            "max_value": "29000.0",
-            "min_value": "29000.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 4429576002,
-          "name": "On Target Earnings",
-          "value": {
-            "unit": "GBP",
-            "amount": "29000.0"
-          },
-          "value_type": "currency"
-        }
-      ],
-      "id": 8911248002,
-      "updated_at": "2026-10-23T09:34:58-04:00",
-      "requisition_id": "1128",
-      "title": "System Support Specialist  - North America",
-      "company_name": "PHMG Careers",
-      "first_published": "2026-10-23T09:34:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8725181002",
       "data_compliance": [
         {
@@ -1201,7 +1253,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8870384002",
+      "absolute_url": "https://careers.phmg.com/open-positions/?gh_jid=8911248002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1212,24 +1264,24 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 6551752002,
+      "internal_job_id": 6558539002,
       "location": {
-        "name": "Chicago"
+        "name": "Manchester"
       },
       "metadata": [
         {
           "id": 4399498002,
           "name": "Employment Type",
-          "value": "Full-time",
+          "value": "Contract",
           "value_type": "single_select"
         },
         {
           "id": 4429575002,
           "name": "Salary Range",
           "value": {
-            "unit": "USD",
-            "max_value": "85000.0",
-            "min_value": "80000.0"
+            "unit": "GBP",
+            "max_value": "29000.0",
+            "min_value": "29000.0"
           },
           "value_type": "currency_range"
         },
@@ -1237,18 +1289,18 @@
           "id": 4429576002,
           "name": "On Target Earnings",
           "value": {
-            "unit": "USD",
-            "amount": "115000.0"
+            "unit": "GBP",
+            "amount": "29000.0"
           },
           "value_type": "currency"
         }
       ],
-      "id": 8870384002,
-      "updated_at": "2026-10-21T15:29:09-04:00",
-      "requisition_id": "1126",
-      "title": "Talent Acquisition Lead",
+      "id": 8911248002,
+      "updated_at": "2026-10-23T09:34:58-04:00",
+      "requisition_id": "1128",
+      "title": "System Support Specialist  - North America",
       "company_name": "PHMG Careers",
-      "first_published": "2026-10-06T11:40:04-04:00",
+      "first_published": "2026-10-23T09:34:58-04:00",
       "language": "en",
       "application_deadline": null
     }
