@@ -1,50 +1,8 @@
 {
   "company": "rocketlab",
-  "fetched_at": "2026-10-30T09:19:20.730493",
+  "fetched_at": "2026-11-02T10:19:19.071310",
   "job_count": 556,
   "jobs": [
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040480003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5905984003,
-      "location": {
-        "name": "Albuquerque, NM"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Finance & Accounting"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8040480003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR106017",
-      "title": "Accounts Receivable Accountant II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-22T11:35:49-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
     {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040606003",
       "data_compliance": [
@@ -84,6 +42,48 @@
       "title": "Accounts Receivable Accountant II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-22T11:35:50-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040480003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5905984003,
+      "location": {
+        "name": "Albuquerque, NM"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Finance & Accounting"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8040480003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR106017",
+      "title": "Accounts Receivable Accountant II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-22T11:35:49-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -819,47 +819,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5768587003,
-      "location": {
-        "name": "Wallops Island, VA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Test & Launch"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7740849003,
-      "updated_at": "2026-10-30T05:18:07-04:00",
-      "requisition_id": "JR104386",
-      "title": "Avionics Test and Launch Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-14T14:19:46-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8019481003",
       "data_compliance": [
         {
@@ -902,6 +861,47 @@
       "title": "Avionics Test and Launch Engineer II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-09T10:18:10-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107255003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5768587003,
+      "location": {
+        "name": "Wallops Island, VA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Test & Launch"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8107255003,
+      "updated_at": "2026-10-30T13:04:51-04:00",
+      "requisition_id": "JR104386",
+      "title": "Avionics Test and Launch Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T13:04:51-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1071,47 +1071,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7753916003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5773028003,
-      "location": {
-        "name": "Littleton, CO"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Sales & Business Operations"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7753916003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR104574",
-      "title": "Business Development Director, National Security - TS/SCI Clearance",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-05-29T16:04:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7980935003",
       "data_compliance": [
         {
@@ -1149,6 +1108,47 @@
       "title": "Business Development Director, National Security - TS/SCI Clearance",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-08-28T18:29:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7753916003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5773028003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Sales & Business Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7753916003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR104574",
+      "title": "Business Development Director, National Security - TS/SCI Clearance",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-05-29T16:04:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1319,6 +1319,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5947985003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Supply Chain"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8087292003,
+      "updated_at": "2026-10-30T18:32:21-04:00",
+      "requisition_id": "JR106151",
+      "title": "Business Systems Engineer I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T18:32:21-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015205003",
       "data_compliance": [
         {
@@ -1362,45 +1403,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/6309302003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5093815003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 6309302003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2473",
-      "title": "CNC Operator",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2024-12-23T23:27:58-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8006440003",
       "data_compliance": [
         {
@@ -1438,6 +1440,45 @@
       "title": "CNC Operator",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-15T20:04:10-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/6309302003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5093815003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 6309302003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2473",
+      "title": "CNC Operator",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2024-12-23T23:27:58-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1595,7 +1636,7 @@
         }
       ],
       "id": 7853632003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T10:15:51-04:00",
       "requisition_id": "2440",
       "title": "Composite Development Technician, all levels ",
       "company_name": "Rocket Lab Corporation",
@@ -1883,7 +1924,49 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7830198003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8079650003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5940524003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Information Technology"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8079650003,
+      "updated_at": "2026-10-30T18:32:34-04:00",
+      "requisition_id": "JR106132",
+      "title": "Contractor Program Security Officer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T18:32:34-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107672003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1912,12 +1995,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7830198003,
-      "updated_at": "2026-10-29T15:24:53-04:00",
+      "id": 8107672003,
+      "updated_at": "2026-10-30T13:41:24-04:00",
       "requisition_id": "JR105106",
       "title": "Cybersecurity Engineer II - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-27T16:49:36-04:00",
+      "first_published": "2026-10-30T13:41:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1959,45 +2042,6 @@
       "title": "Development Engineer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-07-21T16:27:54-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822182003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5803268003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7822182003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105060",
-      "title": "Development Engineer - Electron",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-29T21:59:39-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2082,48 +2126,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7962866003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5855787003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Information Technology"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7962866003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105210",
-      "title": "Director, IT Infrastructure",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-24T12:13:42-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932127003",
       "data_compliance": [
         {
@@ -2162,6 +2164,48 @@
       "title": "Director, IT Infrastructure",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-08-24T12:13:39-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7962866003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5855787003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Information Technology"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7962866003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105210",
+      "title": "Director, IT Infrastructure",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-08-24T12:13:42-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2289,47 +2333,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057261003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5918539003,
-      "location": {
-        "name": "Pasadena, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Electrical, Electronic Design & Test"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8057261003,
-      "updated_at": "2026-10-29T16:56:25-04:00",
-      "requisition_id": "JR106127",
-      "title": "Electrical Engineer I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-29T16:56:25-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055708003",
       "data_compliance": [
         {
@@ -2367,6 +2370,47 @@
       "title": "Electrical Engineer I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T18:58:45-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057261003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5918539003,
+      "location": {
+        "name": "Pasadena, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Electrical, Electronic Design & Test"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8057261003,
+      "updated_at": "2026-10-29T16:56:25-04:00",
+      "requisition_id": "JR106127",
+      "title": "Electrical Engineer I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-29T16:56:25-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2495,7 +2539,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2506,10 +2550,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "education": "education_optional",
-      "internal_job_id": 5883758003,
+      "internal_job_id": 5887398003,
       "location": {
-        "name": "Toronto, CAN"
+        "name": "Pasadena, CA"
       },
       "metadata": [
         {
@@ -2527,12 +2570,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7990043003,
+      "id": 7998598003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105631",
+      "requisition_id": "JR105650",
       "title": "Electrical Engineering Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-09T18:47:32-04:00",
+      "first_published": "2026-09-17T16:51:12-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2578,7 +2621,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2589,9 +2632,10 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5887398003,
+      "education": "education_optional",
+      "internal_job_id": 5883758003,
       "location": {
-        "name": "Pasadena, CA"
+        "name": "Toronto, CAN"
       },
       "metadata": [
         {
@@ -2609,12 +2653,53 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7998598003,
+      "id": 7990043003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105650",
+      "requisition_id": "JR105631",
       "title": "Electrical Engineering Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-17T16:51:12-04:00",
+      "first_published": "2026-09-09T18:47:32-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107043003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5634606003,
+      "location": {
+        "name": "Stennis Space Center, MS"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Technician - Electrical & Electronic"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8107043003,
+      "updated_at": "2026-10-30T12:57:22-04:00",
+      "requisition_id": "2610",
+      "title": "Electrical Technician III",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T12:53:28-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3031,6 +3116,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8081555003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5881622003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8081555003,
+      "updated_at": "2026-10-29T14:35:13-04:00",
+      "requisition_id": "JR105410",
+      "title": "Flight Dynamics Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-29T14:35:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7979986003",
       "data_compliance": [
         {
@@ -3073,47 +3199,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8081555003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5881622003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8081555003,
-      "updated_at": "2026-10-29T14:35:13-04:00",
-      "requisition_id": "JR105410",
-      "title": "Flight Dynamics Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-29T14:35:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985939003",
       "data_compliance": [
         {
@@ -3149,6 +3234,48 @@
       "title": "Flight Software Engineer ",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-10T21:58:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5881093003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8038139003,
+      "updated_at": "2026-10-30T17:37:05-04:00",
+      "requisition_id": "JR105320",
+      "title": "Flight Software Engineer I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-19T17:58:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3520,45 +3647,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7810232003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5796549003,
-      "location": {
-        "name": "Littleton, CO"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7810232003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR104909",
-      "title": "GNC Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-20T16:18:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7807319003",
       "data_compliance": [
         {
@@ -3598,7 +3686,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7810232003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3609,7 +3697,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5888462003,
+      "internal_job_id": 5796549003,
       "location": {
         "name": "Littleton, CO"
       },
@@ -3617,24 +3705,22 @@
         {
           "id": 4018992003,
           "name": "Employment Type",
-          "value": "Intern",
+          "value": "Regular",
           "value_type": "single_select"
         },
         {
           "id": 36021371003,
           "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
+          "value": null,
           "value_type": "multi_select"
         }
       ],
-      "id": 8001399003,
+      "id": 7810232003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105577",
-      "title": "Government Operations Intern Spring 2027",
+      "requisition_id": "JR104909",
+      "title": "GNC Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-02T14:37:13-04:00",
+      "first_published": "2026-07-20T16:18:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3676,6 +3762,47 @@
       "title": "Government Operations Intern Spring 2027",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-02T14:42:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5888462003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8001399003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105577",
+      "title": "Government Operations Intern Spring 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-02T14:37:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3762,48 +3889,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015258003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_required",
-      "internal_job_id": 5894340003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Marketing & Communications"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8015258003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "123456",
-      "title": "Graphic Designer",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-06T22:26:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7919465003",
       "data_compliance": [
         {
@@ -3842,6 +3927,48 @@
       "title": "Graphic Designer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-08-20T15:48:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015258003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 5894340003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Marketing & Communications"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8015258003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "123456",
+      "title": "Graphic Designer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-06T22:26:56-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4176,7 +4303,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7677856003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107633003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4207,12 +4334,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7677856003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8107633003,
+      "updated_at": "2026-10-30T13:35:30-04:00",
       "requisition_id": "2737",
-      "title": "GSE Mechanical Technician II, III, Senior",
+      "title": "GSE Mechanical Technician II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-03-24T20:14:49-04:00",
+      "first_published": "2026-10-30T13:35:30-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4705,47 +4832,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7598613003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5705087003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Manufacturing & Integration"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7598613003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR103616",
-      "title": "Integrated Operations Engineer",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-01-22T19:44:25-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7482231003",
       "data_compliance": [
         {
@@ -4785,6 +4871,47 @@
       "title": "Integrated Operations Engineer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2025-10-22T21:35:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7598613003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5705087003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Manufacturing & Integration"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7598613003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR103616",
+      "title": "Integrated Operations Engineer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-01-22T19:44:25-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5039,7 +5166,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998365003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8005412003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5050,9 +5177,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5887288003,
+      "internal_job_id": 5889952003,
       "location": {
-        "name": "Auckland, NZ"
+        "name": "Albuquerque, NM"
       },
       "metadata": [
         {
@@ -5070,12 +5197,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7998365003,
+      "id": 8005412003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105785",
+      "requisition_id": "JR105865",
       "title": "IT Support Specialist",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-22T17:02:27-04:00",
+      "first_published": "2026-09-29T18:59:38-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5122,7 +5249,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8005412003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998365003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -5133,48 +5260,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5889952003,
-      "location": {
-        "name": "Albuquerque, NM"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Information Technology"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8005412003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105865",
-      "title": "IT Support Specialist",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-29T18:59:38-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5788740003,
+      "internal_job_id": 5887288003,
       "location": {
         "name": "Auckland, NZ"
       },
@@ -5194,12 +5280,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7790865003,
+      "id": 7998365003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR104778",
-      "title": "IT Systems Engineer",
+      "requisition_id": "JR105785",
+      "title": "IT Support Specialist",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-17T13:39:41-04:00",
+      "first_published": "2026-09-22T17:02:27-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5236,11 +5322,52 @@
         }
       ],
       "id": 7790862003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T09:03:09-04:00",
       "requisition_id": "JR104779",
       "title": "IT Systems Engineer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-07-01T12:20:23-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5788740003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Information Technology"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7790865003,
+      "updated_at": "2026-10-30T09:03:09-04:00",
+      "requisition_id": "JR104778",
+      "title": "IT Systems Engineer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-07-17T13:39:41-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5277,7 +5404,7 @@
         }
       ],
       "id": 7968936003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T09:03:09-04:00",
       "requisition_id": "JR105280",
       "title": "IT Systems Engineer - Launch (Linux)",
       "company_name": "Rocket Lab Corporation",
@@ -5692,48 +5819,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7767942003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5779101003,
-      "location": {
-        "name": "Toronto, CAN"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Manufacturing & Integration"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7767942003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR104653",
-      "title": "Lead, Manufacturing Engineer",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-06-12T14:48:06-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992602003",
       "data_compliance": [
         {
@@ -5772,6 +5857,48 @@
       "title": "Lead, Manufacturing Engineer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-11T16:38:22-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7767942003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5779101003,
+      "location": {
+        "name": "Toronto, CAN"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Manufacturing & Integration"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7767942003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR104653",
+      "title": "Lead, Manufacturing Engineer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-06-12T14:48:06-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6237,47 +6364,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7982071003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5880420003,
-      "location": {
-        "name": "Middle River, MD"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Supply Chain"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7982071003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105333",
-      "title": "Manager, Inventory and Logistics",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-31T20:09:28-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8036113003",
       "data_compliance": [
         {
@@ -6315,6 +6401,47 @@
       "title": "Manager, Inventory and Logistics",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-16T17:53:42-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7982071003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5880420003,
+      "location": {
+        "name": "Middle River, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Supply Chain"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7982071003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105333",
+      "title": "Manager, Inventory and Logistics",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-08-31T20:09:28-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -6650,47 +6777,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5882509003,
-      "location": {
-        "name": "Middle River, MD"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7987020003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105492",
-      "title": "Manufacturing Engineering Intern Spring 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T15:02:20-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003",
       "data_compliance": [
         {
@@ -6728,6 +6814,47 @@
       "title": "Manufacturing Engineering Intern Spring 2027",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-17T16:51:59-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5882509003,
+      "location": {
+        "name": "Middle River, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7987020003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105492",
+      "title": "Manufacturing Engineering Intern Spring 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-16T15:02:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7058,47 +7185,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8053936003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5880994003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Mechanical, Structural, Thermal"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8053936003,
-      "updated_at": "2026-10-29T19:48:08-04:00",
-      "requisition_id": "JR105373",
-      "title": "Mechanical Development & Test Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-28T17:43:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057254003",
       "data_compliance": [
         {
@@ -7136,6 +7222,46 @@
       "title": "Mechanical Engineer I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-29T16:06:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007217003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5750193003,
+      "location": {
+        "name": "Silver Spring, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8007217003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR104213",
+      "title": "Mechanical Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-28T15:19:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7181,46 +7307,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007217003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5750193003,
-      "location": {
-        "name": "Silver Spring, MD"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8007217003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR104213",
-      "title": "Mechanical Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-28T15:19:32-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7599452003",
       "data_compliance": [
         {
@@ -7258,6 +7344,47 @@
       "title": "Mechanical Engineer II, Neutron Avionics",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-01-21T14:39:30-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5881942003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7985634003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105466",
+      "title": "Mechanical Engineering Intern Spring 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-13T23:15:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7304,7 +7431,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7315,9 +7442,10 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5881942003,
+      "education": "education_optional",
+      "internal_job_id": 5883705003,
       "location": {
-        "name": "Long Beach, CA"
+        "name": "Silver Spring, MD"
       },
       "metadata": [
         {
@@ -7335,53 +7463,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7985634003,
+      "id": 7989904003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105466",
-      "title": "Mechanical Engineering Intern Spring 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-13T23:15:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5884325003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7991448003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105470",
+      "requisition_id": "JR105649",
       "title": "Mechanical Engineering Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-13T23:16:18-04:00",
+      "first_published": "2026-09-16T15:03:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7428,7 +7515,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -7439,10 +7526,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "education": "education_optional",
-      "internal_job_id": 5883705003,
+      "internal_job_id": 5884325003,
       "location": {
-        "name": "Silver Spring, MD"
+        "name": "Long Beach, CA"
       },
       "metadata": [
         {
@@ -7460,12 +7546,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7989904003,
+      "id": 7991448003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105649",
+      "requisition_id": "JR105470",
       "title": "Mechanical Engineering Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T15:03:48-04:00",
+      "first_published": "2026-09-13T23:16:18-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -7553,47 +7639,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8020217003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5717606003,
-      "location": {
-        "name": "Wallops Island, VA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Technician - Mechanical & Structural"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8020217003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2702",
-      "title": "Mechanical Technician II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-09T14:45:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8047308003",
       "data_compliance": [
         {
@@ -7631,47 +7676,6 @@
       "title": "Mechanical Technician II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T11:33:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8020274003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5717606003,
-      "location": {
-        "name": "Wallops Island, VA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Technician - Mechanical & Structural"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8020274003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2702",
-      "title": "Mechanical Technician III",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-09T14:45:15-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8288,7 +8292,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8035699003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109826003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -8319,12 +8323,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8035699003,
-      "updated_at": "2026-10-29T17:31:31-04:00",
+      "id": 8109826003,
+      "updated_at": "2026-10-30T16:29:48-04:00",
       "requisition_id": "JR106033",
-      "title": "Precision Cleaning Technician III - B Shift ",
+      "title": "Precision Cleaning Technician II - B Shift ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-23T17:24:20-04:00",
+      "first_published": "2026-10-30T16:29:02-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8366,48 +8370,6 @@
       "title": "Precision Cleaning Technician - (Overnight Shift)",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2025-11-16T19:42:26-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997776003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5803162003,
-      "location": {
-        "name": "Tucson, AZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Electrical, Electronic Design & Test",
-            "Engineering - Systems"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7997776003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2818",
-      "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T18:53:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8454,6 +8416,48 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997781003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5803162003,
+      "location": {
+        "name": "Chantilly, VA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Electrical, Electronic Design & Test",
+            "Engineering - Systems"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7997781003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2818",
+      "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-16T18:53:52-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8024986003",
       "data_compliance": [
         {
@@ -8495,7 +8499,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997781003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997776003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -8508,7 +8512,7 @@
       ],
       "internal_job_id": 5803162003,
       "location": {
-        "name": "Chantilly, VA"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -8527,12 +8531,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7997781003,
+      "id": 7997776003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "2818",
       "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T18:53:52-04:00",
+      "first_published": "2026-09-16T18:53:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -8907,47 +8911,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8002621003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5889015003,
-      "location": {
-        "name": "Tucson, AZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8002621003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105764",
-      "title": "Principal Machine Learning Engineer (EO/IR Image Analysis)",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-11T19:22:20-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8025563003",
       "data_compliance": [
         {
@@ -8989,7 +8952,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7626792003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8002621003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -9000,9 +8963,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5716863003,
+      "internal_job_id": 5889015003,
       "location": {
-        "name": "Long Beach, CA"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -9014,16 +8977,18 @@
         {
           "id": 36021371003,
           "name": "Job Discipline",
-          "value": null,
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
           "value_type": "multi_select"
         }
       ],
-      "id": 7626792003,
-      "updated_at": "2026-10-29T14:59:11-04:00",
-      "requisition_id": "JR103833",
-      "title": "Principal Network Software Engineer - TS/SCI",
+      "id": 8002621003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105764",
+      "title": "Principal Machine Learning Engineer (EO/IR Image Analysis)",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-02-10T16:55:21-05:00",
+      "first_published": "2026-10-11T19:22:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -9314,7 +9279,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7789008003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107846003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -9345,12 +9310,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7789008003,
-      "updated_at": "2026-10-29T14:43:38-04:00",
+      "id": 8107846003,
+      "updated_at": "2026-10-30T13:56:48-04:00",
       "requisition_id": "JR104812",
       "title": "Principal Spacecraft GNC Engineer - Secret Clearance ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-02T11:01:58-04:00",
+      "first_published": "2026-10-30T13:56:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -9387,7 +9352,7 @@
         }
       ],
       "id": 7984051003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T15:11:01-04:00",
       "requisition_id": "JR104794",
       "title": "Principal Spacecraft Operations Engineer - Secret Clearance Preferred",
       "company_name": "Rocket Lab Corporation",
@@ -9428,7 +9393,7 @@
         }
       ],
       "id": 7789719003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T15:11:05-04:00",
       "requisition_id": "JR104794",
       "title": "Principal Spacecraft Operations Engineer - Secret Clearance Preferred ",
       "company_name": "Rocket Lab Corporation",
@@ -9639,6 +9604,47 @@
       "title": "Production Planner I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-02T15:01:13-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8085934003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5946657003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Supply Chain"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8085934003,
+      "updated_at": "2026-10-30T18:32:46-04:00",
+      "requisition_id": "JR106164",
+      "title": "Production Planner I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T18:32:46-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10411,7 +10417,7 @@
         }
       ],
       "id": 8016306003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-11-01T21:24:58-05:00",
       "requisition_id": "1- Evergreen",
       "title": "R&D Mechanical Engineer",
       "company_name": "Rocket Lab Corporation",
@@ -10491,7 +10497,7 @@
         }
       ],
       "id": 8008866003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T14:33:37-04:00",
       "requisition_id": "JR105839",
       "title": "RF Engineer I",
       "company_name": "Rocket Lab Corporation",
@@ -10537,47 +10543,6 @@
       "title": "RF Engineer II - Radar",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-02T20:01:50-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013277003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5884382003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8013277003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105567",
-      "title": "RF Engineering Intern Summer 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-05T12:27:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -10746,47 +10711,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5882487003,
-      "location": {
-        "name": "Middle River, MD"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7986965003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105489",
-      "title": "Security Analyst Intern Spring 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T19:24:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986959003",
       "data_compliance": [
         {
@@ -10906,6 +10830,88 @@
       "title": "Security Analyst Intern Spring 2027",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-16T16:42:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5882487003,
+      "location": {
+        "name": "Middle River, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7986965003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105489",
+      "title": "Security Analyst Intern Spring 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-16T19:24:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5882483003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7986956003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105484",
+      "title": "Security Analyst Intern Summer 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-16T16:42:47-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11033,47 +11039,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5882483003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7986956003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105484",
-      "title": "Security Analyst Intern Summer 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T16:42:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001403003",
       "data_compliance": [
         {
@@ -11197,7 +11162,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997756003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997698003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11210,7 +11175,7 @@
       ],
       "internal_job_id": 5803162003,
       "location": {
-        "name": "Long Beach, CA"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -11229,12 +11194,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7997756003,
+      "id": 7997698003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "2818",
       "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T18:09:12-04:00",
+      "first_published": "2026-09-16T17:14:32-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11280,7 +11245,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997698003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997756003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11293,7 +11258,7 @@
       ],
       "internal_job_id": 5803162003,
       "location": {
-        "name": "Tucson, AZ"
+        "name": "Long Beach, CA"
       },
       "metadata": [
         {
@@ -11312,53 +11277,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7997698003,
+      "id": 7997756003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "2818",
       "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-16T17:14:32-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009917003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5892200003,
-      "location": {
-        "name": "Littleton, CO"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8009917003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2879",
-      "title": "Senior Avionics Engineer I - Mission Formulation",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-01T11:18:05-04:00",
+      "first_published": "2026-09-16T18:09:12-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11400,6 +11324,47 @@
       "title": "Senior Avionics Engineer I - Mission Formulation",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-01T11:18:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009917003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5892200003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8009917003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2879",
+      "title": "Senior Avionics Engineer I - Mission Formulation",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-01T11:18:05-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11450,7 +11415,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8000376003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109605003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11481,17 +11446,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8000376003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8109605003,
+      "updated_at": "2026-10-30T16:19:33-04:00",
       "requisition_id": "JR105274",
       "title": "Senior CNC Machinist - B Shift ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-16T11:20:17-04:00",
+      "first_published": "2026-10-30T16:18:48-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8035759003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109568003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11522,17 +11487,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8035759003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8109568003,
+      "updated_at": "2026-10-30T16:14:55-04:00",
       "requisition_id": "JR104940",
       "title": "Senior CNC Machinist - C Shift ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-16T12:38:21-04:00",
+      "first_published": "2026-10-30T16:14:55-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8035765003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109582003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11563,12 +11528,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8035765003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8109582003,
+      "updated_at": "2026-10-30T16:17:57-04:00",
       "requisition_id": "JR104940",
       "title": "Senior CNC Machinist - D Shift ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-16T12:42:23-04:00",
+      "first_published": "2026-10-30T16:17:57-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11697,47 +11662,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8079635003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5940512003,
-      "location": {
-        "name": "Tucson, AZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Legal"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8079635003,
-      "updated_at": "2026-10-29T16:49:14-04:00",
-      "requisition_id": "JR106149",
-      "title": "Senior Contracts Manager II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-29T16:49:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8081513003",
       "data_compliance": [
         {
@@ -11775,6 +11699,47 @@
       "title": "Senior Contracts Manager II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-29T16:49:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8079635003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5940512003,
+      "location": {
+        "name": "Tucson, AZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Legal"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8079635003,
+      "updated_at": "2026-10-29T16:49:14-04:00",
+      "requisition_id": "JR106149",
+      "title": "Senior Contracts Manager II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-29T16:49:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -11820,7 +11785,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7895526003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107680003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11851,17 +11816,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7895526003,
-      "updated_at": "2026-10-29T15:27:17-04:00",
+      "id": 8107680003,
+      "updated_at": "2026-10-30T13:43:40-04:00",
       "requisition_id": "JR105190",
       "title": "Senior Cybersecurity Engineer II -Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-27T17:27:05-04:00",
+      "first_published": "2026-10-30T13:43:40-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7881213003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107679003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -11892,12 +11857,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7881213003,
-      "updated_at": "2026-10-29T15:27:18-04:00",
+      "id": 8107679003,
+      "updated_at": "2026-10-30T13:43:09-04:00",
       "requisition_id": "JR105190",
       "title": "Senior Cybersecurity Engineer I -Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-27T17:27:07-04:00",
+      "first_published": "2026-10-30T13:43:09-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12023,47 +11988,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087772003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5904790003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8087772003,
-      "updated_at": "2026-10-29T19:08:39-04:00",
-      "requisition_id": "JR106061",
-      "title": "Senior DevOps Engineer I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-29T19:08:39-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8037898003",
       "data_compliance": [
         {
@@ -12105,7 +12029,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009590003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087772003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12116,9 +12040,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5890947003,
+      "internal_job_id": 5904790003,
       "location": {
-        "name": "Tucson, AZ"
+        "name": "Long Beach, CA"
       },
       "metadata": [
         {
@@ -12131,17 +12055,17 @@
           "id": 36021371003,
           "name": "Job Discipline",
           "value": [
-            "Sales & Business Operations"
+            "Engineering - Software, Firmware, GNC"
           ],
           "value_type": "multi_select"
         }
       ],
-      "id": 8009590003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105868",
-      "title": "Senior Director, Business Development - Civil & Commercial",
+      "id": 8087772003,
+      "updated_at": "2026-10-29T19:08:39-04:00",
+      "requisition_id": "JR106061",
+      "title": "Senior DevOps Engineer I",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-30T12:44:51-04:00",
+      "first_published": "2026-10-29T19:08:39-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12187,7 +12111,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009530003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009590003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12200,7 +12124,7 @@
       ],
       "internal_job_id": 5890947003,
       "location": {
-        "name": "Littleton, CO"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -12218,12 +12142,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8009530003,
+      "id": 8009590003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "JR105868",
       "title": "Senior Director, Business Development - Civil & Commercial",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-30T12:30:35-04:00",
+      "first_published": "2026-09-30T12:44:51-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12269,7 +12193,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996082003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009530003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12280,9 +12204,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5886316003,
+      "internal_job_id": 5890947003,
       "location": {
-        "name": "Long Beach, CA"
+        "name": "Littleton, CO"
       },
       "metadata": [
         {
@@ -12300,12 +12224,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7996082003,
+      "id": 8009530003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2868",
-      "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
+      "requisition_id": "JR105868",
+      "title": "Senior Director, Business Development - Civil & Commercial",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-15T12:57:25-04:00",
+      "first_published": "2026-09-30T12:30:35-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12433,6 +12357,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996082003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5886316003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Sales & Business Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7996082003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2868",
+      "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-15T12:57:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989650003",
       "data_compliance": [
         {
@@ -12513,7 +12478,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987216003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7929549003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -12526,7 +12491,7 @@
       ],
       "internal_job_id": 5854531003,
       "location": {
-        "name": "Chantilly, VA"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -12544,12 +12509,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7987216003,
+      "id": 7929549003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "2836",
       "title": "Senior Electrical Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-04T18:43:49-04:00",
+      "first_published": "2026-09-04T18:43:47-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12632,47 +12597,6 @@
       "title": "Senior Electrical Engineer II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T19:30:20-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7929549003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5854531003,
-      "location": {
-        "name": "Tucson, AZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Electrical Design & Test"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7929549003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2836",
-      "title": "Senior Electrical Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-04T18:43:47-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12797,6 +12721,47 @@
       "title": "Senior Electrical Engineer I - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T19:34:28-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107115003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5634606003,
+      "location": {
+        "name": "Stennis Space Center, MS"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Technician - Electrical & Electronic"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8107115003,
+      "updated_at": "2026-10-30T12:56:51-04:00",
+      "requisition_id": "2610",
+      "title": "Senior Electrical Technician ",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T12:56:51-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -12968,47 +12933,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984790003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5881622003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7984790003,
-      "updated_at": "2026-10-29T14:36:42-04:00",
-      "requisition_id": "JR105410",
-      "title": "Senior Flight Dynamics Engineer I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-21T12:28:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7861728003",
       "data_compliance": [
         {
@@ -13047,6 +12971,47 @@
       "title": "Senior Flight Dynamics Engineer I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-08-12T20:46:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107794003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5881622003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8107794003,
+      "updated_at": "2026-10-30T13:53:13-04:00",
+      "requisition_id": "JR105410",
+      "title": "Senior Flight Dynamics Engineer I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T13:53:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13093,7 +13058,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815781003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107921003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13124,17 +13089,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7815781003,
-      "updated_at": "2026-10-29T15:03:02-04:00",
+      "id": 8107921003,
+      "updated_at": "2026-10-30T14:01:09-04:00",
       "requisition_id": "JR104809",
       "title": "Senior Flight Dynamics Engineer II - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-24T13:57:19-04:00",
+      "first_published": "2026-10-30T14:01:09-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815774003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107912003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13165,12 +13130,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7815774003,
-      "updated_at": "2026-10-29T15:04:39-04:00",
+      "id": 8107912003,
+      "updated_at": "2026-10-30T14:01:10-04:00",
       "requisition_id": "JR104809",
       "title": "Senior Flight Dynamics Engineer I - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-24T13:53:58-04:00",
+      "first_published": "2026-10-30T14:01:10-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13256,7 +13221,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850062003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109167003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13287,17 +13252,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7850062003,
-      "updated_at": "2026-10-29T15:10:24-04:00",
+      "id": 8109167003,
+      "updated_at": "2026-10-30T15:49:21-04:00",
       "requisition_id": "JR105081",
       "title": "Senior Flight Software Engineer I",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-10T18:59:46-04:00",
+      "first_published": "2026-10-30T15:49:21-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850072003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109216003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13328,17 +13293,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7850072003,
-      "updated_at": "2026-10-29T15:10:25-04:00",
+      "id": 8109216003,
+      "updated_at": "2026-10-30T15:54:07-04:00",
       "requisition_id": "JR105081",
       "title": "Senior Flight Software Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-10T19:00:09-04:00",
+      "first_published": "2026-10-30T15:54:07-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815786003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107716003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13369,17 +13334,17 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7815786003,
-      "updated_at": "2026-10-29T15:08:14-04:00",
+      "id": 8107716003,
+      "updated_at": "2026-10-30T13:49:23-04:00",
       "requisition_id": "JR104067",
       "title": "Senior Flight Software Engineer II - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-24T14:07:54-04:00",
+      "first_published": "2026-10-30T13:49:23-04:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815785003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107730003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -13410,53 +13375,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7815785003,
-      "updated_at": "2026-10-29T15:08:15-04:00",
+      "id": 8107730003,
+      "updated_at": "2026-10-30T13:49:58-04:00",
       "requisition_id": "JR104067",
       "title": "Senior Flight Software Engineer I - Secret Clearance",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-24T14:07:53-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7859790003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5820770003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7859790003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105166",
-      "title": "Senior FPGA Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-26T12:33:20-04:00",
+      "first_published": "2026-10-30T13:49:58-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13498,6 +13422,47 @@
       "title": "Senior FPGA Engineer II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-05T16:12:12-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7859790003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5820770003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7859790003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105166",
+      "title": "Senior FPGA Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-26T12:33:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13666,47 +13631,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7783209003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5785690003,
-      "location": {
-        "name": "Littleton, CO"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7783209003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2795",
-      "title": "Senior GNC Engineer II- Mission Formulation",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-08T17:56:37-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7783208003",
       "data_compliance": [
         {
@@ -13744,6 +13668,47 @@
       "title": "Senior GNC Engineer II- Mission Formulation",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-07-08T17:56:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7783209003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5785690003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7783209003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2795",
+      "title": "Senior GNC Engineer II- Mission Formulation",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-07-08T17:56:37-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -13830,90 +13795,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7814686003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5771939003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7814686003,
-      "updated_at": "2026-10-29T15:19:57-04:00",
-      "requisition_id": "JR104568",
-      "title": "Senior Ground Software Engineer I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-23T17:18:04-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7814693003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5771939003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7814693003,
-      "updated_at": "2026-10-29T15:19:59-04:00",
-      "requisition_id": "JR104568",
-      "title": "Senior Ground Software Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-23T17:18:05-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7513269003",
       "data_compliance": [
         {
@@ -13955,47 +13836,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8060445003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5804394003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Electrical, Electronic Design & Test"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8060445003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105066",
-      "title": "Senior Harness Design Engineer I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-28T22:25:20-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055987003",
       "data_compliance": [
         {
@@ -14033,6 +13873,47 @@
       "title": "Senior Harness Design Engineer I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T19:11:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8060445003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5804394003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Electrical, Electronic Design & Test"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8060445003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105066",
+      "title": "Senior Harness Design Engineer I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-28T22:25:20-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -14485,7 +14366,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003909003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8108143003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -14497,9 +14378,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5889601003,
+      "internal_job_id": 5766387003,
       "location": {
-        "name": "Stennis Space Center, MS"
+        "name": "Long Beach, CA"
       },
       "metadata": [
         {
@@ -14517,12 +14398,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8003909003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105863",
-      "title": "Senior IT Support Analyst I",
+      "id": 8108143003,
+      "updated_at": "2026-10-30T14:27:21-04:00",
+      "requisition_id": "JR104393",
+      "title": "Senior IT Network Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-28T17:34:50-04:00",
+      "first_published": "2026-10-30T14:27:21-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -14609,7 +14490,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004986003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003909003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -14620,9 +14501,10 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5889034003,
+      "education": "education_optional",
+      "internal_job_id": 5889601003,
       "location": {
-        "name": "Albuquerque, NM"
+        "name": "Stennis Space Center, MS"
       },
       "metadata": [
         {
@@ -14640,12 +14522,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8004986003,
+      "id": 8003909003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105844",
-      "title": "Senior IT Support Specialist",
+      "requisition_id": "JR105863",
+      "title": "Senior IT Support Analyst I",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-25T11:06:11-04:00",
+      "first_published": "2026-09-28T17:34:50-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -14688,6 +14570,47 @@
       "title": "Senior IT Support Specialist",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-25T11:06:06-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004986003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5889034003,
+      "location": {
+        "name": "Albuquerque, NM"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Information Technology"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8004986003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105844",
+      "title": "Senior IT Support Specialist",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-25T11:06:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -14940,47 +14863,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825154003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5804548003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Manufacturing & Integration"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7825154003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "SManEng",
-      "title": "Senior Manufacturing Engineer",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-05T19:21:43-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7829601003",
       "data_compliance": [
         {
@@ -15019,6 +14901,47 @@
       "title": "Senior Manufacturing Engineer",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-08-05T16:26:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825154003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5804548003,
+      "location": {
+        "name": "Auckland, NZ"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Manufacturing & Integration"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7825154003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "SManEng",
+      "title": "Senior Manufacturing Engineer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-08-05T19:21:43-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15549,7 +15472,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932386003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965793003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15560,7 +15483,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5855910003,
+      "internal_job_id": 5872637003,
       "location": {
         "name": "Pasadena, CA"
       },
@@ -15580,12 +15503,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7932386003,
-      "updated_at": "2026-10-29T13:54:47-04:00",
-      "requisition_id": "2839",
+      "id": 7965793003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105301",
       "title": "Senior Mechanical Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-21T17:43:54-04:00",
+      "first_published": "2026-10-02T18:11:39-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15630,7 +15553,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965793003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932386003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15641,7 +15564,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5872637003,
+      "internal_job_id": 5855910003,
       "location": {
         "name": "Pasadena, CA"
       },
@@ -15661,12 +15584,53 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7965793003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105301",
+      "id": 7932386003,
+      "updated_at": "2026-10-29T13:54:47-04:00",
+      "requisition_id": "2839",
       "title": "Senior Mechanical Engineer II",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-02T18:11:39-04:00",
+      "first_published": "2026-08-21T17:43:54-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8108059003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5717606003,
+      "location": {
+        "name": "Wallops Island, VA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Technician - Mechanical & Structural"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8108059003,
+      "updated_at": "2026-10-30T14:09:29-04:00",
+      "requisition_id": "2702",
+      "title": "Senior Mechanical Technician ",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T14:09:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15706,84 +15670,6 @@
       "title": "Senior Network Software Engineer II -Secret Clearance",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-27T19:05:04-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7979963003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5716863003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7979963003,
-      "updated_at": "2026-10-29T14:59:43-04:00",
-      "requisition_id": "JR103833",
-      "title": "Senior Network Software Engineer II -Secret Clearance",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-27T18:36:56-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7979961003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5716863003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7979961003,
-      "updated_at": "2026-10-29T14:59:59-04:00",
-      "requisition_id": "JR103833",
-      "title": "Senior Network Software Engineer I -Secret Clearance",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-08-27T18:33:01-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15912,7 +15798,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984859003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055818003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -15923,9 +15809,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5881653003,
+      "internal_job_id": 5917159003,
       "location": {
-        "name": "Albuquerque, NM"
+        "name": "Warkworth, NZ"
       },
       "metadata": [
         {
@@ -15938,17 +15824,17 @@
           "id": 36021371003,
           "name": "Job Discipline",
           "value": [
-            "Program & Mission Management"
+            "Supply Chain"
           ],
           "value_type": "multi_select"
         }
       ],
-      "id": 7984859003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105396",
-      "title": "Senior Program Manager I",
+      "id": 8055818003,
+      "updated_at": "2026-11-01T16:04:25-05:00",
+      "requisition_id": "JR106136",
+      "title": "Senior Production Planner",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-09T14:05:48-04:00",
+      "first_published": "2026-11-01T15:57:52-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -15990,6 +15876,47 @@
       "title": "Senior Program Manager I",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-28T21:43:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984859003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5881653003,
+      "location": {
+        "name": "Albuquerque, NM"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Program & Mission Management"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7984859003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105396",
+      "title": "Senior Program Manager I",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-09T14:05:48-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -16445,47 +16372,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010034003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5889617003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Sales & Business Operations"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8010034003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105867",
-      "title": "Senior Proposal Manager I",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-30T17:56:16-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010039003",
       "data_compliance": [
         {
@@ -16527,7 +16413,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004018003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010034003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -16540,7 +16426,7 @@
       ],
       "internal_job_id": 5889617003,
       "location": {
-        "name": "Littleton, CO"
+        "name": "Long Beach, CA"
       },
       "metadata": [
         {
@@ -16558,12 +16444,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8004018003,
+      "id": 8010034003,
       "updated_at": "2026-10-29T13:46:32-04:00",
       "requisition_id": "JR105867",
-      "title": "Senior Proposal Manager II",
+      "title": "Senior Proposal Manager I",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-23T18:47:03-04:00",
+      "first_published": "2026-09-30T17:56:16-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -16646,6 +16532,47 @@
       "title": "Senior Proposal Manager II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-30T18:03:25-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004018003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5889617003,
+      "location": {
+        "name": "Littleton, CO"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Sales & Business Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8004018003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105867",
+      "title": "Senior Proposal Manager II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-23T18:47:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17215,7 +17142,7 @@
         }
       ],
       "id": 7984955003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T14:50:45-04:00",
       "requisition_id": "2858",
       "title": "Senior RF Engineer II - Radar",
       "company_name": "Rocket Lab Corporation",
@@ -17668,7 +17595,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7663529003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109162003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -17699,53 +17626,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7663529003,
-      "updated_at": "2026-10-29T15:17:41-04:00",
+      "id": 8109162003,
+      "updated_at": "2026-10-30T15:42:55-04:00",
       "requisition_id": "JR104034",
       "title": "Senior Spacecraft GNC Engineer I",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-03-13T19:26:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815817003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5731557003,
-      "location": {
-        "name": "Long Beach, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Software, Firmware, GNC"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7815817003,
-      "updated_at": "2026-10-29T15:17:43-04:00",
-      "requisition_id": "JR104034",
-      "title": "Senior Spacecraft GNC Engineer II",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-07-24T14:28:54-04:00",
+      "first_published": "2026-10-30T15:42:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17787,6 +17673,47 @@
       "title": "Senior Spacecraft GNC Engineer II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-10-19T17:24:46-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109164003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5731557003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Software, Firmware, GNC"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8109164003,
+      "updated_at": "2026-10-30T15:46:01-04:00",
+      "requisition_id": "JR104034",
+      "title": "Senior Spacecraft GNC Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T15:46:01-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -17990,6 +17917,47 @@
       "title": "Senior Spacecraft Operations Engineer II",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-04T19:39:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984049003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5788267003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Spacecraft & Payload Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7984049003,
+      "updated_at": "2026-10-30T15:14:41-04:00",
+      "requisition_id": "JR104794",
+      "title": " Senior Spacecraft Operations Engineer II- Secret Clearance",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-01T19:46:17-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -19363,6 +19331,48 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8080472003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5941300003,
+      "location": {
+        "name": "Long Beach, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Information Technology"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8080472003,
+      "updated_at": "2026-10-30T15:44:38-04:00",
+      "requisition_id": "JR106121",
+      "title": "Senior Technical Payroll Analyst I - ADP System Configuration",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-30T15:44:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988075003",
       "data_compliance": [
         {
@@ -19486,48 +19496,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7563374003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5690390003,
-      "location": {
-        "name": "Middle River, MD"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Engineering - Manufacturing & Integration",
-            "Engineering - Test, Launch, Recovery"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7563374003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "2665",
-      "title": "Senior Vehicle Integration Engineer",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2025-12-15T12:04:39-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7565875003",
       "data_compliance": [
         {
@@ -19570,7 +19538,49 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660870003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7563374003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5690390003,
+      "location": {
+        "name": "Middle River, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Manufacturing & Integration",
+            "Engineering - Test, Launch, Recovery"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7563374003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "2665",
+      "title": "Senior Vehicle Integration Engineer",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2025-12-15T12:04:39-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107416003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -19607,12 +19617,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7660870003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8107416003,
+      "updated_at": "2026-10-30T13:23:22-04:00",
       "requisition_id": "2725",
       "title": "Senior Vehicle Test and Launch Engineer",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-03-10T18:28:21-04:00",
+      "first_published": "2026-10-30T13:23:22-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -19647,7 +19657,7 @@
         }
       ],
       "id": 8039415003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "updated_at": "2026-10-30T16:25:27-04:00",
       "requisition_id": "JR106056",
       "title": "Senior Weld Engineer I",
       "company_name": "Rocket Lab Corporation",
@@ -19656,7 +19666,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7994713003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8109660003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -19687,12 +19697,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 7994713003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
+      "id": 8109660003,
+      "updated_at": "2026-10-30T16:21:31-04:00",
       "requisition_id": "JR105538",
       "title": "Senior Welder - B Shift",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-30T15:27:57-04:00",
+      "first_published": "2026-10-30T16:21:31-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -20588,47 +20598,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5883912003,
-      "location": {
-        "name": "Tucson, AZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7990378003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105643",
-      "title": "Supply Chain Intern Spring 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-17T16:57:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
       "data_compliance": [
         {
@@ -20752,7 +20721,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -20763,9 +20732,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5887669003,
+      "internal_job_id": 5883912003,
       "location": {
-        "name": "Silver Spring, MD"
+        "name": "Tucson, AZ"
       },
       "metadata": [
         {
@@ -20777,16 +20746,18 @@
         {
           "id": 36021371003,
           "name": "Job Discipline",
-          "value": null,
+          "value": [
+            "Internships"
+          ],
           "value_type": "multi_select"
         }
       ],
-      "id": 7999237003,
+      "id": 7990378003,
       "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105553",
-      "title": "Supply Chain Intern Summer 2027",
+      "requisition_id": "JR105643",
+      "title": "Supply Chain Intern Spring 2027",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-10-16T16:00:03-04:00",
+      "first_published": "2026-09-17T16:57:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -20828,6 +20799,45 @@
       "title": "Supply Chain Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-17T12:04:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5887669003,
+      "location": {
+        "name": "Silver Spring, MD"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7999237003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105553",
+      "title": "Supply Chain Intern Summer 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-16T16:00:03-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -20996,6 +21006,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5883801003,
+      "location": {
+        "name": "Pasadena, CA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Internships"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7990138003,
+      "updated_at": "2026-10-29T13:46:32-04:00",
+      "requisition_id": "JR105652",
+      "title": "Systems Engineering Intern Summer 2027",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-09-17T14:15:29-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
       "data_compliance": [
         {
@@ -21074,47 +21125,6 @@
       "title": "Systems Engineering Intern Summer 2027",
       "company_name": "Rocket Lab Corporation",
       "first_published": "2026-09-09T19:40:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5883801003,
-      "location": {
-        "name": "Pasadena, CA"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Intern",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Internships"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7990138003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105652",
-      "title": "Systems Engineering Intern Summer 2027",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-17T14:15:29-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -21609,47 +21619,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7978977003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5879095003,
-      "location": {
-        "name": "Auckland, NZ"
-      },
-      "metadata": [
-        {
-          "id": 4018992003,
-          "name": "Employment Type",
-          "value": "Regular",
-          "value_type": "single_select"
-        },
-        {
-          "id": 36021371003,
-          "name": "Job Discipline",
-          "value": [
-            "Information Technology"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7978977003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105328",
-      "title": "Team Lead - IT Support",
-      "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-15T22:15:29-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7711663003",
       "data_compliance": [
         {
@@ -21943,6 +21912,47 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5905855003,
+      "location": {
+        "name": "Wallops Island, VA"
+      },
+      "metadata": [
+        {
+          "id": 4018992003,
+          "name": "Employment Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        },
+        {
+          "id": 36021371003,
+          "name": "Job Discipline",
+          "value": [
+            "Engineering - Test & Launch"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8040212003,
+      "updated_at": "2026-10-30T10:37:41-04:00",
+      "requisition_id": "JR106069",
+      "title": "Test and Launch Operations Engineer II",
+      "company_name": "Rocket Lab Corporation",
+      "first_published": "2026-10-21T13:18:43-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003",
       "data_compliance": [
         {
@@ -22057,7 +22067,7 @@
         }
       ],
       "id": 8003533003,
-      "updated_at": "2026-10-30T05:18:30-04:00",
+      "updated_at": "2026-10-30T08:18:58-04:00",
       "requisition_id": "JR105560",
       "title": "Test Engineering Intern Spring 2027",
       "company_name": "Rocket Lab Corporation",
@@ -22274,7 +22284,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8000951003",
+      "absolute_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8035752003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -22285,7 +22295,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5888304003,
+      "internal_job_id": 5904053003,
       "location": {
         "name": "Long Beach, CA"
       },
@@ -22293,24 +22303,24 @@
         {
           "id": 4018992003,
           "name": "Employment Type",
-          "value": "Intern",
+          "value": "Regular",
           "value_type": "single_select"
         },
         {
           "id": 36021371003,
           "name": "Job Discipline",
           "value": [
-            "Internships"
+            "Technician - Mechanical & Structural"
           ],
           "value_type": "multi_select"
         }
       ],
-      "id": 8000951003,
-      "updated_at": "2026-10-29T13:46:32-04:00",
-      "requisition_id": "JR105543",
-      "title": "Thermal Engineering Intern Spring 2027",
+      "id": 8035752003,
+      "updated_at": "2026-10-30T19:12:18-04:00",
+      "requisition_id": "JR106043",
+      "title": "Test Technician III - B Shift ",
       "company_name": "Rocket Lab Corporation",
-      "first_published": "2026-09-21T11:54:43-04:00",
+      "first_published": "2026-10-30T19:12:18-04:00",
       "language": "en",
       "application_deadline": null
     },
