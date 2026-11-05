@@ -1,7 +1,7 @@
 {
   "company": "zuora",
-  "fetched_at": "2026-11-02T10:27:31.621203",
-  "job_count": 35,
+  "fetched_at": "2026-11-05T10:12:36.068284",
+  "job_count": 36,
   "jobs": [
     {
       "absolute_url": "https://boards.greenhouse.io/zuora/jobs/8197634?gh_jid=8197634",
@@ -340,6 +340,34 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/zuora/jobs/8312134?gh_jid=8312134",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "employment": "employment_required",
+      "internal_job_id": 3594053,
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "metadata": null,
+      "id": 8312134,
+      "updated_at": "2026-11-02T23:09:15-05:00",
+      "requisition_id": "P105621",
+      "title": "Performance Marketing Analyst",
+      "company_name": "Zuora",
+      "first_published": "2026-11-02T23:09:15-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/zuora/jobs/8197632?gh_jid=8197632",
       "data_compliance": [
         {
@@ -372,11 +400,11 @@
       "data_compliance": [
         {
           "type": "gdpr",
-          "requires_consent": false,
+          "requires_consent": true,
           "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
+          "requires_retention_consent": true,
+          "retention_period": 365,
+          "demographic_data_consent_applies": true
         }
       ],
       "education": "education_optional",
@@ -387,7 +415,7 @@
       },
       "metadata": null,
       "id": 7559435,
-      "updated_at": "2026-10-30T08:36:35-04:00",
+      "updated_at": "2026-11-02T19:33:31-05:00",
       "requisition_id": "P105384",
       "title": "Principal Product Manager, Payments",
       "company_name": "Zuora",
@@ -639,7 +667,7 @@
       },
       "metadata": null,
       "id": 8281561,
-      "updated_at": "2026-10-29T16:50:12-04:00",
+      "updated_at": "2026-11-04T14:49:34-05:00",
       "requisition_id": "P105609",
       "title": "Sr Payroll Specialist",
       "company_name": "Zuora",

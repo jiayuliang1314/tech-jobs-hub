@@ -1,7 +1,7 @@
 {
   "company": "sollishealth",
-  "fetched_at": "2026-11-02T10:42:30.123726",
-  "job_count": 40,
+  "fetched_at": "2026-11-05T10:27:05.486498",
+  "job_count": 44,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8035450003",
@@ -177,7 +177,7 @@
         }
       ],
       "id": 8075367003,
-      "updated_at": "2026-10-29T10:26:52-04:00",
+      "updated_at": "2026-11-04T10:08:13-05:00",
       "requisition_id": "2146",
       "title": "Advanced Care Provider (PA/NP) - Clinic - Full Time - Overnight",
       "company_name": "Sollis Health",
@@ -268,7 +268,7 @@
         }
       ],
       "id": 8014557003,
-      "updated_at": "2026-10-19T10:42:36-04:00",
+      "updated_at": "2026-11-04T10:08:38-05:00",
       "requisition_id": "2131",
       "title": "Advanced Care Provider (PA/NP) - House Calls/Clinic - Full Time",
       "company_name": "Sollis Health",
@@ -451,97 +451,6 @@
       "title": "Advanced Care Provider (PA/NP) - Per Diem Days",
       "company_name": "Sollis Health",
       "first_published": "2026-01-12T10:14:55-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7994203003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5885422003,
-      "location": {
-        "name": "503 W 35th St 2nd FL New York, NY 10001"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "170 E 77th St Lower level, New York, NY 10075",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Administrative Support",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Part Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "30.0",
-            "min_value": "26.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Variable",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "Variable",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "24.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "Accrued",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7994203003,
-      "updated_at": "2026-10-20T15:56:30-04:00",
-      "requisition_id": "2114",
-      "title": "Concierge Receptionist / Front Desk",
-      "company_name": "Sollis Health",
-      "first_published": "2026-10-06T11:18:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -815,6 +724,97 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8195197003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6052799003,
+      "location": {
+        "name": "1005 Van Ness Ave, San Francisco, CA 94109"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "1005 Van Ness Ave, San Francisco, CA 94109",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Physician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Per Diem W2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "213.0",
+            "min_value": "205.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Variable",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7A-3P, 3P-11P, on call 11PM-7AM",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "4.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8195197003,
+      "updated_at": "2026-11-04T14:26:45-05:00",
+      "requisition_id": "2158",
+      "title": "Emergency Medicine Physician - Concierge Clinic - Per Diem",
+      "company_name": "Sollis Health",
+      "first_published": "2026-11-04T14:26:45-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8077141003",
       "data_compliance": [
         {
@@ -897,7 +897,7 @@
         }
       ],
       "id": 8077141003,
-      "updated_at": "2026-10-30T11:14:21-04:00",
+      "updated_at": "2026-11-04T10:06:28-05:00",
       "requisition_id": "2148",
       "title": "Emergency Medicine Physician - Full Time",
       "company_name": "Sollis Health",
@@ -1079,7 +1079,7 @@
         }
       ],
       "id": 8075546003,
-      "updated_at": "2026-10-29T11:47:30-04:00",
+      "updated_at": "2026-11-04T10:09:09-05:00",
       "requisition_id": "2147",
       "title": "Emergency Medicine Physician - Nights - Clinic",
       "company_name": "Sollis Health",
@@ -1352,7 +1352,7 @@
         }
       ],
       "id": 7773838003,
-      "updated_at": "2026-10-27T11:00:10-04:00",
+      "updated_at": "2026-11-04T10:09:33-05:00",
       "requisition_id": "2035",
       "title": " Licensed Practical Nurse (LPN) - Full Time",
       "company_name": "Sollis Health",
@@ -1443,7 +1443,7 @@
         }
       ],
       "id": 8077898003,
-      "updated_at": "2026-10-30T13:30:26-04:00",
+      "updated_at": "2026-11-02T11:51:28-05:00",
       "requisition_id": "2151",
       "title": "Medical Assistant",
       "company_name": "Sollis Health",
@@ -1625,7 +1625,7 @@
         }
       ],
       "id": 8079843003,
-      "updated_at": "2026-10-30T13:30:11-04:00",
+      "updated_at": "2026-11-02T11:51:00-05:00",
       "requisition_id": "2152",
       "title": "Medical Assistant - Per Diem",
       "company_name": "Sollis Health",
@@ -1903,6 +1903,97 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7975846003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5877614003,
+      "location": {
+        "name": "155 N San Vicente Blvd, Beverly Hills, CA 90211"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "155 N San Vicente Blvd, Beverly Hills, CA 90211",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Radiology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "63.0",
+            "min_value": "55.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Night",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "11p - 7a",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "32.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 7975846003,
+      "updated_at": "2026-11-04T10:08:58-05:00",
+      "requisition_id": "2100",
+      "title": "Radiology Technologist II (CT Technologist & X Ray)",
+      "company_name": "Sollis Health",
+      "first_published": "2026-08-26T13:31:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8004463003",
       "data_compliance": [
         {
@@ -1994,97 +2085,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/7975846003",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "internal_job_id": 5877614003,
-      "location": {
-        "name": "155 N San Vicente Blvd, Beverly Hills, CA 90211"
-      },
-      "metadata": [
-        {
-          "id": 6985359003,
-          "name": "Division",
-          "value": "Clinic",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6319083003,
-          "name": "Job Location Address",
-          "value": "155 N San Vicente Blvd, Beverly Hills, CA 90211",
-          "value_type": "short_text"
-        },
-        {
-          "id": 8190409003,
-          "name": "Job Family",
-          "value": "Radiology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4260663003,
-          "name": "Employment Type",
-          "value": "Full Time",
-          "value_type": "single_select"
-        },
-        {
-          "id": 13819484003,
-          "name": "Job Posting Range",
-          "value": {
-            "unit": "USD",
-            "max_value": "63.0",
-            "min_value": "55.0"
-          },
-          "value_type": "currency_range"
-        },
-        {
-          "id": 6318399003,
-          "name": "Shift",
-          "value": "Night",
-          "value_type": "single_select"
-        },
-        {
-          "id": 6318465003,
-          "name": "Shift Time",
-          "value": "11p - 7a",
-          "value_type": "short_text"
-        },
-        {
-          "id": 6471226003,
-          "name": "Hours Per Week",
-          "value": "32.0",
-          "value_type": "number"
-        },
-        {
-          "id": 6318466003,
-          "name": "Ability to Work Remote",
-          "value": "On-Location",
-          "value_type": "single_select"
-        },
-        {
-          "id": 14674066003,
-          "name": "PTO",
-          "value": "Accrued",
-          "value_type": "single_select"
-        }
-      ],
-      "id": 7975846003,
-      "updated_at": "2026-09-29T15:44:16-04:00",
-      "requisition_id": "2100",
-      "title": "Radiology Technologist II (CT Technologist & X Ray)",
-      "company_name": "Sollis Health",
-      "first_published": "2026-08-26T13:31:58-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8034743003",
       "data_compliance": [
         {
@@ -2167,11 +2167,102 @@
         }
       ],
       "id": 8034743003,
-      "updated_at": "2026-10-16T10:18:41-04:00",
+      "updated_at": "2026-11-04T10:08:07-05:00",
       "requisition_id": "2138",
       "title": "Radiology Technologist II (CT Technologist & X-Ray)",
       "company_name": "Sollis Health",
       "first_published": "2026-10-16T10:18:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8161251003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6020414003,
+      "location": {
+        "name": "1005 Van Ness Ave, San Francisco, CA 94109"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "1005 Van Ness Ave, San Francisco, CA 94109",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Radiology",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "72.0",
+            "min_value": "63.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Variable",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7a - 3p, 3p - 11p, 11p - 7a",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "16.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8161251003,
+      "updated_at": "2026-11-03T09:28:15-05:00",
+      "requisition_id": "2153",
+      "title": "Radiology Technologist II (CT Technologist & X-Ray)",
+      "company_name": "Sollis Health",
+      "first_published": "2026-11-03T09:28:15-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2614,7 +2705,7 @@
         }
       ],
       "id": 8034740003,
-      "updated_at": "2026-10-16T10:19:03-04:00",
+      "updated_at": "2026-11-04T10:09:40-05:00",
       "requisition_id": "2137",
       "title": "Radiology Technologist III (Xray, CT and MRI Certified)",
       "company_name": "Sollis Health",
@@ -2879,11 +2970,98 @@
         }
       ],
       "id": 7997226003,
-      "updated_at": "2026-09-28T14:51:17-04:00",
+      "updated_at": "2026-11-04T10:07:21-05:00",
       "requisition_id": "2116",
       "title": "Radiology Technologist I (Xray Technologist) - Full Time",
       "company_name": "Sollis Health",
       "first_published": "2026-09-17T12:52:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8004667003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5889940003,
+      "location": {
+        "name": "555 Middlefield Rd, Palo Alto, CA 94301"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "555 Middlefield Road Palo Alto 94301",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Nursing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Full Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7A-3P, 3P-11P M-F, Sa/Su 9A-5P",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "32.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "Accrued",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8004667003,
+      "updated_at": "2026-09-29T09:28:13-04:00",
+      "requisition_id": "2123",
+      "title": "Registered Nurse - Emergency ",
+      "company_name": "Sollis Health",
+      "first_published": "2026-09-29T09:28:13-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2979,7 +3157,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8004667003",
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8161410003",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2990,9 +3168,9 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 5889940003,
+      "internal_job_id": 6020565003,
       "location": {
-        "name": "555 Middlefield Rd, Palo Alto, CA 94301"
+        "name": "155 N San Vicente Blvd, Beverly Hills, CA 90211"
       },
       "metadata": [
         {
@@ -3004,7 +3182,7 @@
         {
           "id": 6319083003,
           "name": "Job Location Address",
-          "value": "555 Middlefield Road Palo Alto 94301",
+          "value": "155 N San Vicente Blvd, Beverly Hills, CA 90211",
           "value_type": "short_text"
         },
         {
@@ -3022,19 +3200,23 @@
         {
           "id": 13819484003,
           "name": "Job Posting Range",
-          "value": null,
+          "value": {
+            "unit": "USD",
+            "max_value": "70.0",
+            "min_value": "65.0"
+          },
           "value_type": "currency_range"
         },
         {
           "id": 6318399003,
           "name": "Shift",
-          "value": "Day",
+          "value": "Variable",
           "value_type": "single_select"
         },
         {
           "id": 6318465003,
           "name": "Shift Time",
-          "value": "7A-3P, 3P-11P M-F, Sa/Su 9A-5P",
+          "value": "7a - 3p, 3p - 11p",
           "value_type": "short_text"
         },
         {
@@ -3056,12 +3238,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8004667003,
-      "updated_at": "2026-09-29T09:28:13-04:00",
-      "requisition_id": "2123",
-      "title": "Registered Nurse - Emergency ",
+      "id": 8161410003,
+      "updated_at": "2026-11-02T17:52:15-05:00",
+      "requisition_id": "2154",
+      "title": "Registered Nurse - Emergency - Full Time",
       "company_name": "Sollis Health",
-      "first_published": "2026-09-29T09:28:13-04:00",
+      "first_published": "2026-11-02T17:19:24-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3157,6 +3339,93 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8182824003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6040691003,
+      "location": {
+        "name": "555 Middlefield Rd, Palo Alto, CA 94301"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "555 Middlefield Road Palo Alto 94301",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Nursing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Per Diem W2",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Day",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7A-3P, 3P-11P",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "8.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8182824003,
+      "updated_at": "2026-11-04T09:01:42-05:00",
+      "requisition_id": "2156",
+      "title": "Registered Nurse - Emergency - Per Diem",
+      "company_name": "Sollis Health",
+      "first_published": "2026-11-04T09:01:42-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8037719003",
       "data_compliance": [
         {
@@ -3239,7 +3508,7 @@
         }
       ],
       "id": 8037719003,
-      "updated_at": "2026-10-20T10:15:03-04:00",
+      "updated_at": "2026-11-04T10:09:56-05:00",
       "requisition_id": "2140",
       "title": "Registered Nurse - Full Time",
       "company_name": "Sollis Health",
@@ -3331,6 +3600,93 @@
       "title": "Registered Nurse - Part Time",
       "company_name": "Sollis Health",
       "first_published": "2026-10-29T09:28:01-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/sollishealth/jobs/8193750003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6051428003,
+      "location": {
+        "name": "324 Royal Palm Way Suite 229, Palm Beach, FL 33480"
+      },
+      "metadata": [
+        {
+          "id": 6985359003,
+          "name": "Division",
+          "value": "Clinic",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6319083003,
+          "name": "Job Location Address",
+          "value": "324 Royal Palm Wy Ste 100, Palm Beach, FL 33480",
+          "value_type": "short_text"
+        },
+        {
+          "id": 8190409003,
+          "name": "Job Family",
+          "value": "Nursing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4260663003,
+          "name": "Employment Type",
+          "value": "Part Time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 13819484003,
+          "name": "Job Posting Range",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 6318399003,
+          "name": "Shift",
+          "value": "Variable",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6318465003,
+          "name": "Shift Time",
+          "value": "7a-3p, 3p-11p weekdays and weekends",
+          "value_type": "short_text"
+        },
+        {
+          "id": 6471226003,
+          "name": "Hours Per Week",
+          "value": "16.0",
+          "value_type": "number"
+        },
+        {
+          "id": 6318466003,
+          "name": "Ability to Work Remote",
+          "value": "On-Location",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14674066003,
+          "name": "PTO",
+          "value": "No PTO",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8193750003,
+      "updated_at": "2026-11-04T10:56:37-05:00",
+      "requisition_id": "2157",
+      "title": "Registered Nurse - Part Time",
+      "company_name": "Sollis Health",
+      "first_published": "2026-11-04T10:56:37-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3504,7 +3860,7 @@
         }
       ],
       "id": 8019942003,
-      "updated_at": "2026-10-12T10:04:37-04:00",
+      "updated_at": "2026-11-02T09:31:16-05:00",
       "requisition_id": "2133",
       "title": "Registered Nurse - Per Diem - Days",
       "company_name": "Sollis Health",
