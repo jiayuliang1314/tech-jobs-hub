@@ -1,8 +1,59 @@
 {
   "company": "asana",
-  "fetched_at": "2026-11-03T10:17:45.271568",
-  "job_count": 108,
+  "fetched_at": "2026-11-06T10:08:08.083062",
+  "job_count": 110,
   "jobs": [
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8305286?gh_jid=8305286",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3590931,
+      "location": {
+        "name": "Vancouver, BC"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "105 Workplace",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "General & Administrative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Administrative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8305286,
+      "updated_at": "2026-11-04T10:55:53-05:00",
+      "requisition_id": "JR106486",
+      "title": "Administrative Business Partner",
+      "company_name": "Asana",
+      "first_published": "2026-11-03T14:50:55-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://www.asana.com/jobs/apply/8194380?gh_jid=8194380",
       "data_compliance": [
@@ -46,9 +97,9 @@
         }
       ],
       "id": 8194380,
-      "updated_at": "2026-10-30T11:12:51-04:00",
+      "updated_at": "2026-11-04T10:55:22-05:00",
       "requisition_id": "JR106361",
-      "title": "AI GTM Specialist",
+      "title": "AI GTM Account Executive",
       "company_name": "Asana",
       "first_published": "2026-10-07T16:32:34-04:00",
       "language": "en",
@@ -303,7 +354,7 @@
         }
       ],
       "id": 8137748,
-      "updated_at": "2026-10-30T11:09:53-04:00",
+      "updated_at": "2026-11-05T11:44:43-05:00",
       "requisition_id": "JR106319",
       "title": "Benefits Manager, NAMER",
       "company_name": "Asana",
@@ -516,57 +567,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/7594694?gh_jid=7594694",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3356637,
-      "location": {
-        "name": "Chicago"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "506 Corporate Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7594694,
-      "updated_at": "2026-10-01T12:42:39-04:00",
-      "requisition_id": null,
-      "title": "Corporate Account Executive",
-      "company_name": "Asana",
-      "first_published": "2026-02-06T13:42:17-05:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/6981655?gh_jid=6981655",
       "data_compliance": [
         {
@@ -614,6 +614,57 @@
       "title": "Corporate Account Executive",
       "company_name": "Asana",
       "first_published": "2025-06-13T10:27:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/7594694?gh_jid=7594694",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3356637,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "506 Corporate Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 7594694,
+      "updated_at": "2026-10-01T12:42:39-04:00",
+      "requisition_id": null,
+      "title": "Corporate Account Executive",
+      "company_name": "Asana",
+      "first_published": "2026-02-06T13:42:17-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -864,11 +915,62 @@
         }
       ],
       "id": 8304597,
-      "updated_at": "2026-10-30T11:23:25-04:00",
+      "updated_at": "2026-11-03T21:43:27-05:00",
       "requisition_id": "JR106481",
       "title": "Customer Enablement Manager",
       "company_name": "Asana",
       "first_published": "2026-10-28T19:59:02-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3593847,
+      "location": {
+        "name": "US - Remote"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "517 Customer Success",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Customer Success",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8349347,
+      "updated_at": "2026-11-03T06:48:07-05:00",
+      "requisition_id": "JR106491",
+      "title": "Customer Success Manager (AI Success Architect)",
+      "company_name": "Asana",
+      "first_published": "2026-11-03T06:48:07-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1281,57 +1383,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8095543?gh_jid=8095543",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3507051,
-      "location": {
-        "name": "San Francisco"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "306 UXR",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Product & Design",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Experience Research",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8095543,
-      "updated_at": "2026-10-30T19:34:54-04:00",
-      "requisition_id": "JR106287",
-      "title": "Developer Advocate",
-      "company_name": "Asana",
-      "first_published": "2026-10-01T12:08:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/8257464?gh_jid=8257464",
       "data_compliance": [
         {
@@ -1383,57 +1434,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8257456?gh_jid=8257456",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3507051,
-      "location": {
-        "name": "New York City"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "306 UXR",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Product & Design",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Experience Research",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8257456,
-      "updated_at": "2026-10-30T19:34:54-04:00",
-      "requisition_id": "JR106287",
-      "title": "Developer Advocate",
-      "company_name": "Asana",
-      "first_published": "2026-10-05T16:38:49-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/8241249?gh_jid=8241249",
       "data_compliance": [
         {
@@ -1476,7 +1476,7 @@
         }
       ],
       "id": 8241249,
-      "updated_at": "2026-10-30T11:18:12-04:00",
+      "updated_at": "2026-11-03T16:38:35-05:00",
       "requisition_id": "JR106428",
       "title": "Digital & Scaled Customer Success Program Manager",
       "company_name": "Asana",
@@ -1532,6 +1532,57 @@
       "title": "Emerging Enterprise Account Executive",
       "company_name": "Asana",
       "first_published": "2026-10-15T12:58:04-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8268877?gh_jid=8268877",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3577781,
+      "location": {
+        "name": "New York City"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "518 Vertical Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8268877,
+      "updated_at": "2026-11-04T15:30:58-05:00",
+      "requisition_id": "JR106440",
+      "title": "Emerging Enterprise Account Executive, Healthcare",
+      "company_name": "Asana",
+      "first_published": "2026-11-04T15:09:54-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2088,7 +2139,7 @@
         }
       ],
       "id": 8303385,
-      "updated_at": "2026-10-30T11:04:04-04:00",
+      "updated_at": "2026-11-05T18:31:33-05:00",
       "requisition_id": "JR106164",
       "title": "Head of Global Campaigns",
       "company_name": "Asana",
@@ -2403,57 +2454,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8212344?gh_jid=8212344",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3554090,
-      "location": {
-        "name": "Dublin"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "106 Information Technology",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "General & Administrative",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Infrastructure Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": null,
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8212344,
-      "updated_at": "2026-10-30T11:15:54-04:00",
-      "requisition_id": "JR106399",
-      "title": "IT Support Specialist",
-      "company_name": "Asana",
-      "first_published": "2026-09-28T08:07:54-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/7839280?gh_jid=7839280",
       "data_compliance": [
         {
@@ -2505,7 +2505,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8204614?gh_jid=8204614",
+      "absolute_url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -2513,12 +2513,12 @@
           "requires_processing_consent": false,
           "requires_retention_consent": false,
           "retention_period": null,
-          "demographic_data_consent_applies": true
+          "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3550960,
+      "internal_job_id": 3604112,
       "location": {
-        "name": "San Francisco"
+        "name": "Vancouver, BC"
       },
       "metadata": [
         {
@@ -2546,12 +2546,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8204614,
-      "updated_at": "2026-10-30T11:14:52-04:00",
-      "requisition_id": "JR106395",
-      "title": "Lead Product Manager, Enterprise Services Management ",
+      "id": 8338202,
+      "updated_at": "2026-11-05T12:02:32-05:00",
+      "requisition_id": "JR106541",
+      "title": "Lead Product Manager, APIs and MCP",
       "company_name": "Asana",
-      "first_published": "2026-09-18T12:35:44-04:00",
+      "first_published": "2026-11-05T12:02:32-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -2607,6 +2607,57 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://www.asana.com/jobs/apply/8204614?gh_jid=8204614",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3550960,
+      "location": {
+        "name": "San Francisco"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "305 Product Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Product & Design",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Product Management",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8204614,
+      "updated_at": "2026-10-30T11:14:52-04:00",
+      "requisition_id": "JR106395",
+      "title": "Lead Product Manager, Enterprise Services Management ",
+      "company_name": "Asana",
+      "first_published": "2026-09-18T12:35:44-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518",
       "data_compliance": [
         {
@@ -2649,7 +2700,7 @@
         }
       ],
       "id": 8282518,
-      "updated_at": "2026-10-30T16:28:47-04:00",
+      "updated_at": "2026-11-05T03:04:37-05:00",
       "requisition_id": "JR106465",
       "title": "Legal Operations Analyst",
       "company_name": "Asana",
@@ -3168,7 +3219,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
+      "absolute_url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3179,7 +3230,7 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3522051,
+      "internal_job_id": 3601359,
       "location": {
         "name": "Vancouver, BC"
       },
@@ -3187,19 +3238,19 @@
         {
           "id": 170878,
           "name": "Cost Center",
-          "value": "311 Security Engineering",
+          "value": "109 Finance Technology",
           "value_type": "single_select"
         },
         {
           "id": 1310287,
           "name": "Careers Page: Heading",
-          "value": "Engineering & Data",
+          "value": "General & Administrative",
           "value_type": "single_select"
         },
         {
           "id": 1310293,
           "name": "Careers Page: Team",
-          "value": "Product Engineering",
+          "value": "Finance",
           "value_type": "single_select"
         },
         {
@@ -3209,12 +3260,12 @@
           "value_type": "multi_select"
         }
       ],
-      "id": 8137817,
-      "updated_at": "2026-10-30T11:10:05-04:00",
-      "requisition_id": "JR106320",
-      "title": "Product Security Engineer",
+      "id": 8331605,
+      "updated_at": "2026-11-03T15:39:53-05:00",
+      "requisition_id": "JR106532",
+      "title": "Product Owner - Netsuite",
       "company_name": "Asana",
-      "first_published": "2026-10-09T11:48:24-04:00",
+      "first_published": "2026-11-03T15:39:53-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3270,7 +3321,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8282680?gh_jid=8282680",
+      "absolute_url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -3281,42 +3332,42 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3582568,
+      "internal_job_id": 3522051,
       "location": {
-        "name": "US - Remote"
+        "name": "Vancouver, BC"
       },
       "metadata": [
         {
           "id": 170878,
           "name": "Cost Center",
-          "value": "523 Renewals",
+          "value": "311 Security Engineering",
           "value_type": "single_select"
         },
         {
           "id": 1310287,
           "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
+          "value": "Engineering & Data",
           "value_type": "single_select"
         },
         {
           "id": 1310293,
           "name": "Careers Page: Team",
-          "value": "Talent Acquisition",
+          "value": "Product Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4809868,
           "name": "Careers Page: Location",
-          "value": null,
+          "value": [],
           "value_type": "multi_select"
         }
       ],
-      "id": 8282680,
-      "updated_at": "2026-10-30T11:20:32-04:00",
-      "requisition_id": "JR106468",
-      "title": "Renewal Manager",
+      "id": 8137817,
+      "updated_at": "2026-10-30T11:10:05-04:00",
+      "requisition_id": "JR106320",
+      "title": "Product Security Engineer",
       "company_name": "Asana",
-      "first_published": "2026-10-26T14:50:08-04:00",
+      "first_published": "2026-10-09T11:48:24-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3470,6 +3521,108 @@
       "title": "Sales Engineer",
       "company_name": "Asana",
       "first_published": "2026-10-26T10:34:16-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3452664,
+      "location": {
+        "name": "Vancouver, BC"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "112 Security Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "General & Administrative",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Infrastructure Engineering",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8355820,
+      "updated_at": "2026-11-05T10:52:19-05:00",
+      "requisition_id": "JR106113",
+      "title": "Security Risk Engineer",
+      "company_name": "Asana",
+      "first_published": "2026-11-05T10:52:19-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8335947?gh_jid=8335947",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3603192,
+      "location": {
+        "name": "Chicago"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "526 GTM Strategy",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Talent Acquisition",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8335947,
+      "updated_at": "2026-11-05T10:56:06-05:00",
+      "requisition_id": "JR106534",
+      "title": "Senior Analyst, Channel Strategy & Operations",
+      "company_name": "Asana",
+      "first_published": "2026-11-05T10:56:06-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3631,59 +3784,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3593705,
-      "location": {
-        "name": "US CA - Remote"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "554 Professional Services & Paid Support",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Customer Success",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [
-            "US CA - Remote"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8311197,
-      "updated_at": "2026-10-30T11:23:46-04:00",
-      "requisition_id": "JR106487",
-      "title": "Senior Implementation Manager",
-      "company_name": "Asana",
-      "first_published": "2026-10-26T15:27:11-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591",
       "data_compliance": [
         {
@@ -3733,6 +3833,59 @@
       "title": "Senior Implementation Manager",
       "company_name": "Asana",
       "first_published": "2026-10-26T15:03:00-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3593705,
+      "location": {
+        "name": "US CA - Remote"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "554 Professional Services & Paid Support",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Customer Success",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [
+            "US CA - Remote"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8311197,
+      "updated_at": "2026-10-30T11:23:46-04:00",
+      "requisition_id": "JR106487",
+      "title": "Senior Implementation Manager",
+      "company_name": "Asana",
+      "first_published": "2026-10-26T15:27:11-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -3837,6 +3990,57 @@
       "title": "Senior Manager, Payroll",
       "company_name": "Asana",
       "first_published": "2026-10-13T21:33:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 2991542,
+      "location": {
+        "name": "Warsaw"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "307 Product Data",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Engineering & Data",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Data",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 6352958,
+      "updated_at": "2026-11-04T08:36:59-05:00",
+      "requisition_id": null,
+      "title": "Senior Product Data Scientist (Analyst)",
+      "company_name": "Asana",
+      "first_published": "2024-10-25T18:39:55-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4045,59 +4249,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/7964484?gh_jid=7964484",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3457834,
-      "location": {
-        "name": "Warsaw"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "311 Security Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Engineering & Data",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Infrastructure Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [
-            "Warsaw"
-          ],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 7964484,
-      "updated_at": "2026-10-07T06:56:36-04:00",
-      "requisition_id": null,
-      "title": "Senior Security Engineer, Threat Response",
-      "company_name": "Asana",
-      "first_published": "2026-06-02T10:54:14-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/7380414?gh_jid=7380414",
       "data_compliance": [
         {
@@ -4149,7 +4300,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/7959069?gh_jid=7959069",
+      "absolute_url": "https://www.asana.com/jobs/apply/7964484?gh_jid=7964484",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4160,21 +4311,21 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3455679,
+      "internal_job_id": 3457834,
       "location": {
-        "name": "San Francisco"
+        "name": "Warsaw"
       },
       "metadata": [
         {
           "id": 170878,
           "name": "Cost Center",
-          "value": "112 Security Operations",
+          "value": "311 Security Engineering",
           "value_type": "single_select"
         },
         {
           "id": 1310287,
           "name": "Careers Page: Heading",
-          "value": "General & Administrative",
+          "value": "Engineering & Data",
           "value_type": "single_select"
         },
         {
@@ -4186,16 +4337,18 @@
         {
           "id": 4809868,
           "name": "Careers Page: Location",
-          "value": [],
+          "value": [
+            "Warsaw"
+          ],
           "value_type": "multi_select"
         }
       ],
-      "id": 7959069,
-      "updated_at": "2026-10-30T11:03:14-04:00",
-      "requisition_id": "JR106131",
-      "title": "Senior Security Technical Program Manager",
+      "id": 7964484,
+      "updated_at": "2026-10-07T06:56:36-04:00",
+      "requisition_id": null,
+      "title": "Senior Security Engineer, Threat Response",
       "company_name": "Asana",
-      "first_published": "2026-06-24T14:41:47-04:00",
+      "first_published": "2026-06-02T10:54:14-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4508,57 +4661,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3360224,
-      "location": {
-        "name": "Dublin"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "522 Field Readiness & CoE",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8027399,
-      "updated_at": "2026-10-30T10:59:15-04:00",
-      "requisition_id": "JR105824",
-      "title": "Senior Solutions Architect",
-      "company_name": "Asana",
-      "first_published": "2026-06-24T17:30:25-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/8098020?gh_jid=8098020",
       "data_compliance": [
         {
@@ -4606,57 +4708,6 @@
       "title": "Senior Staff Engineer, AI",
       "company_name": "Asana",
       "first_published": "2026-10-06T14:42:13-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.asana.com/jobs/apply/8095555?gh_jid=8095555",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3507058,
-      "location": {
-        "name": "San Francisco"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "303 Foundations Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Engineering & Data",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Product Engineering",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8095555,
-      "updated_at": "2026-10-30T11:08:33-04:00",
-      "requisition_id": "JR106288",
-      "title": "Senior Staff Software Engineer, Developer Productivity",
-      "company_name": "Asana",
-      "first_published": "2026-09-17T11:59:46-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4712,7 +4763,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8129531?gh_jid=8129531",
+      "absolute_url": "https://www.asana.com/jobs/apply/8095555?gh_jid=8095555",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -4723,42 +4774,42 @@
           "demographic_data_consent_applies": true
         }
       ],
-      "internal_job_id": 3520295,
+      "internal_job_id": 3507058,
       "location": {
-        "name": "Vancouver, BC"
+        "name": "San Francisco"
       },
       "metadata": [
         {
           "id": 170878,
           "name": "Cost Center",
-          "value": "508 Content & Customers",
+          "value": "303 Foundations Engineering",
           "value_type": "single_select"
         },
         {
           "id": 1310287,
           "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
+          "value": "Engineering & Data",
           "value_type": "single_select"
         },
         {
           "id": 1310293,
           "name": "Careers Page: Team",
-          "value": "Marketing",
+          "value": "Product Engineering",
           "value_type": "single_select"
         },
         {
           "id": 4809868,
           "name": "Careers Page: Location",
-          "value": null,
+          "value": [],
           "value_type": "multi_select"
         }
       ],
-      "id": 8129531,
-      "updated_at": "2026-10-30T11:09:46-04:00",
-      "requisition_id": "JR106317",
-      "title": "Social Media Lead",
+      "id": 8095555,
+      "updated_at": "2026-10-30T11:08:33-04:00",
+      "requisition_id": "JR106288",
+      "title": "Senior Staff Software Engineer, Developer Productivity",
       "company_name": "Asana",
-      "first_published": "2026-09-02T15:33:13-04:00",
+      "first_published": "2026-09-17T11:59:46-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -4965,6 +5016,57 @@
       "title": "Software Engineer, Product",
       "company_name": "Asana",
       "first_published": "2026-05-29T19:08:49-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3360224,
+      "location": {
+        "name": "Dublin"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "522 Field Readiness & CoE",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8027399,
+      "updated_at": "2026-11-05T11:59:18-05:00",
+      "requisition_id": "JR105824",
+      "title": "Solutions Architect",
+      "company_name": "Asana",
+      "first_published": "2026-06-24T17:30:25-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -5228,57 +5330,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.asana.com/jobs/apply/8165185?gh_jid=8165185",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": true
-        }
-      ],
-      "internal_job_id": 3490809,
-      "location": {
-        "name": "New York City"
-      },
-      "metadata": [
-        {
-          "id": 170878,
-          "name": "Cost Center",
-          "value": "507 Enterprise Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310287,
-          "name": "Careers Page: Heading",
-          "value": "Business & Marketing",
-          "value_type": "single_select"
-        },
-        {
-          "id": 1310293,
-          "name": "Careers Page: Team",
-          "value": "Sales",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4809868,
-          "name": "Careers Page: Location",
-          "value": [],
-          "value_type": "multi_select"
-        }
-      ],
-      "id": 8165185,
-      "updated_at": "2026-10-30T11:06:01-04:00",
-      "requisition_id": "JR106241",
-      "title": "Strategic Enterprise Account Executive, Amazon",
-      "company_name": "Asana",
-      "first_published": "2026-08-28T16:59:03-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.asana.com/jobs/apply/8054355?gh_jid=8054355",
       "data_compliance": [
         {
@@ -5321,11 +5372,62 @@
         }
       ],
       "id": 8054355,
-      "updated_at": "2026-10-30T11:06:01-04:00",
+      "updated_at": "2026-11-05T14:31:56-05:00",
       "requisition_id": "JR106241",
       "title": "Strategic Enterprise Account Executive, Amazon",
       "company_name": "Asana",
       "first_published": "2026-07-22T16:30:58-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.asana.com/jobs/apply/8165185?gh_jid=8165185",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3490809,
+      "location": {
+        "name": "New York City"
+      },
+      "metadata": [
+        {
+          "id": 170878,
+          "name": "Cost Center",
+          "value": "507 Enterprise Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310287,
+          "name": "Careers Page: Heading",
+          "value": "Business & Marketing",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1310293,
+          "name": "Careers Page: Team",
+          "value": "Sales",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4809868,
+          "name": "Careers Page: Location",
+          "value": [],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8165185,
+      "updated_at": "2026-11-05T14:31:56-05:00",
+      "requisition_id": "JR106241",
+      "title": "Strategic Enterprise Account Executive, Amazon",
+      "company_name": "Asana",
+      "first_published": "2026-08-28T16:59:03-04:00",
       "language": "en",
       "application_deadline": null
     },
