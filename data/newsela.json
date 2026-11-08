@@ -1,7 +1,7 @@
 {
   "company": "newsela",
-  "fetched_at": "2026-11-05T10:21:35.975977",
-  "job_count": 11,
+  "fetched_at": "2026-11-08T10:01:24.601779",
+  "job_count": 12,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8325640",
@@ -62,11 +62,74 @@
         }
       ],
       "id": 8325640,
-      "updated_at": "2026-11-04T13:41:51-05:00",
+      "updated_at": "2026-11-05T09:54:30-05:00",
       "requisition_id": "526",
-      "title": "Account Executive (Remote, US)",
+      "title": "Account Executive, Mid-Market (Remote, US)",
       "company_name": "Newsela",
       "first_published": "2026-11-04T09:25:30-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8359053",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3612546,
+      "location": {
+        "name": "Remote - Argentina; Brazil; Colombia; Costa Rica; Mexico"
+      },
+      "metadata": [
+        {
+          "id": 36666,
+          "name": "Job Level",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134583,
+          "name": "Exemption Status",
+          "value": [
+            "N/A or International"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 2134589,
+          "name": "Add To Staff  (ATS) / Replacement (RPL)",
+          "value": [],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 57783940,
+          "name": "Base Compensation Recruiting Range",
+          "value": {
+            "unit": "USD",
+            "max_value": "5000.0",
+            "min_value": "4000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 15447084,
+          "name": "Bonus Eligible",
+          "value": null,
+          "value_type": "yes_no"
+        }
+      ],
+      "id": 8359053,
+      "updated_at": "2026-11-06T16:42:53-05:00",
+      "requisition_id": "532",
+      "title": "Contractor: Full Stack Engineer, Marketing ",
+      "company_name": "Newsela",
+      "first_published": "2026-11-06T15:49:20-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -270,7 +333,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8335463",
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8275341",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -281,29 +344,33 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3602977,
+      "internal_job_id": 3580342,
       "location": {
-        "name": "Remote "
+        "name": "Remote - US"
       },
       "metadata": [
         {
           "id": 36666,
           "name": "Job Level",
-          "value": [],
+          "value": [
+            "Director"
+          ],
           "value_type": "multi_select"
         },
         {
           "id": 2134583,
           "name": "Exemption Status",
           "value": [
-            "N/A or International"
+            "Exempt"
           ],
           "value_type": "multi_select"
         },
         {
           "id": 2134589,
           "name": "Add To Staff  (ATS) / Replacement (RPL)",
-          "value": [],
+          "value": [
+            "RPL (Replacement)"
+          ],
           "value_type": "multi_select"
         },
         {
@@ -319,16 +386,16 @@
         {
           "id": 15447084,
           "name": "Bonus Eligible",
-          "value": null,
+          "value": false,
           "value_type": "yes_no"
         }
       ],
-      "id": 8335463,
-      "updated_at": "2026-10-30T08:48:33-04:00",
-      "requisition_id": "528",
+      "id": 8275341,
+      "updated_at": "2026-11-05T09:48:36-05:00",
+      "requisition_id": "520",
       "title": "Director, Sales (Core & Supplemental)",
       "company_name": "Newsela",
-      "first_published": "2026-10-29T17:49:39-04:00",
+      "first_published": "2026-10-29T17:05:10-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -453,7 +520,7 @@
         }
       ],
       "id": 8347772,
-      "updated_at": "2026-11-04T10:26:45-05:00",
+      "updated_at": "2026-11-05T09:50:48-05:00",
       "requisition_id": "529",
       "title": "Field Sales Specialist (Per Diem)",
       "company_name": "Newsela",
@@ -529,7 +596,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8120805",
+      "absolute_url": "https://job-boards.greenhouse.io/newsela/jobs/8256234",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -540,7 +607,7 @@
           "demographic_data_consent_applies": false
         }
       ],
-      "internal_job_id": 3517315,
+      "internal_job_id": 3572668,
       "location": {
         "name": "Remote - US"
       },
@@ -565,7 +632,7 @@
           "id": 2134589,
           "name": "Add To Staff  (ATS) / Replacement (RPL)",
           "value": [
-            "ATS (Add To Staff)"
+            "RPL (Replacement)"
           ],
           "value_type": "multi_select"
         },
@@ -586,12 +653,12 @@
           "value_type": "yes_no"
         }
       ],
-      "id": 8120805,
-      "updated_at": "2026-10-29T13:07:14-04:00",
-      "requisition_id": "492",
+      "id": 8256234,
+      "updated_at": "2026-11-05T12:17:29-05:00",
+      "requisition_id": "518",
       "title": "Sales Representative, SMB (Remote, US)",
       "company_name": "Newsela",
-      "first_published": "2026-08-12T17:58:41-04:00",
+      "first_published": "2026-11-05T12:16:45-05:00",
       "language": "en",
       "application_deadline": null
     },
