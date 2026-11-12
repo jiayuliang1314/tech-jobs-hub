@@ -1,8 +1,66 @@
 {
   "company": "eyecarecenter",
-  "fetched_at": "2026-11-09T10:53:26.371526",
-  "job_count": 33,
+  "fetched_at": "2026-11-12T10:42:57.302106",
+  "job_count": 36,
   "jobs": [
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8936245002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6580910002,
+      "location": {
+        "name": "Charlotte, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Assistant Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8936245002,
+      "updated_at": "2026-11-10T10:16:04-05:00",
+      "requisition_id": "22937",
+      "title": "Assistant Office Manager",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-11-10T10:16:04-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
     {
       "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8921910002",
       "data_compliance": [
@@ -178,64 +236,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8863473002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6548523002,
-      "location": {
-        "name": "Charlotte, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Front Office Specialist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Front Desk (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8863473002,
-      "updated_at": "2026-10-02T10:04:45-04:00",
-      "requisition_id": "22656",
-      "title": "Front Office Specialist",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-02T10:04:45-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8826335002",
       "data_compliance": [
         {
@@ -290,6 +290,64 @@
       "title": "Front Office Specialist",
       "company_name": "eyecarecenter",
       "first_published": "2026-09-20T18:12:31-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8863473002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6548523002,
+      "location": {
+        "name": "Charlotte, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Front Office Specialist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Front Desk (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8863473002,
+      "updated_at": "2026-10-02T10:04:45-04:00",
+      "requisition_id": "22656",
+      "title": "Front Office Specialist",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-02T10:04:45-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -352,64 +410,6 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8845225002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6541132002,
-      "location": {
-        "name": "Elkin, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Office Manager",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Office Manager/Assistant Manager (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8845225002,
-      "updated_at": "2026-09-25T11:44:09-04:00",
-      "requisition_id": "22604",
-      "title": "Office Manager",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-09-25T11:44:09-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
       "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8843238002",
       "data_compliance": [
         {
@@ -468,7 +468,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8845216002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8935010002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -516,17 +516,17 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8845216002,
-      "updated_at": "2026-09-25T11:42:40-04:00",
+      "id": 8935010002,
+      "updated_at": "2026-11-09T11:27:55-05:00",
       "requisition_id": "22604",
       "title": "Office Manager",
       "company_name": "eyecarecenter",
-      "first_published": "2026-09-25T11:42:40-04:00",
+      "first_published": "2026-11-09T11:27:55-05:00",
       "language": "en",
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8845226002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8935015002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -574,12 +574,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8845226002,
-      "updated_at": "2026-09-25T11:44:41-04:00",
+      "id": 8935015002,
+      "updated_at": "2026-11-09T11:27:59-05:00",
       "requisition_id": "22604",
       "title": "Office Manager",
       "company_name": "eyecarecenter",
-      "first_published": "2026-09-25T11:44:41-04:00",
+      "first_published": "2026-11-09T11:27:59-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -638,6 +638,64 @@
       "title": "Office Manager",
       "company_name": "eyecarecenter",
       "first_published": "2026-09-03T19:43:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8935012002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6541132002,
+      "location": {
+        "name": "Elkin, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Office Manager",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Office Manager/Assistant Manager (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8935012002,
+      "updated_at": "2026-11-09T11:27:56-05:00",
+      "requisition_id": "22604",
+      "title": "Office Manager",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-11-09T11:27:56-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -816,7 +874,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8885256002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8921914002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -828,9 +886,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6558404002,
+      "internal_job_id": 6575046002,
       "location": {
-        "name": "Southern Shores, NC"
+        "name": "Charlotte, NC"
       },
       "metadata": [
         {
@@ -864,12 +922,70 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8885256002,
-      "updated_at": "2026-10-13T09:56:26-04:00",
-      "requisition_id": "22732",
+      "id": 8921914002,
+      "updated_at": "2026-10-28T10:24:48-04:00",
+      "requisition_id": "22853",
       "title": "Optical Technician / Optician",
       "company_name": "eyecarecenter",
-      "first_published": "2026-10-13T09:56:26-04:00",
+      "first_published": "2026-10-28T10:24:48-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8918178002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6573286002,
+      "location": {
+        "name": "Fayetteville, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optical Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optical Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8918178002,
+      "updated_at": "2026-11-09T12:39:21-05:00",
+      "requisition_id": "22832",
+      "title": "Optical Technician / Optician",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-11-09T12:39:21-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -932,7 +1048,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8921914002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8885256002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -944,9 +1060,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 6575046002,
+      "internal_job_id": 6558404002,
       "location": {
-        "name": "Charlotte, NC"
+        "name": "Southern Shores, NC"
       },
       "metadata": [
         {
@@ -980,186 +1096,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8921914002,
-      "updated_at": "2026-10-28T10:24:48-04:00",
-      "requisition_id": "22853",
+      "id": 8885256002,
+      "updated_at": "2026-10-13T09:56:26-04:00",
+      "requisition_id": "22732",
       "title": "Optical Technician / Optician",
       "company_name": "eyecarecenter",
-      "first_published": "2026-10-28T10:24:48-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8863454002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6502178002,
-      "location": {
-        "name": "Concord, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8863454002,
-      "updated_at": "2026-10-02T10:02:47-04:00",
-      "requisition_id": "22350",
-      "title": "Optometric Technician",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-02T10:02:47-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8918179002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6573287002,
-      "location": {
-        "name": "Lumberton, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8918179002,
-      "updated_at": "2026-10-26T17:39:36-04:00",
-      "requisition_id": "22833",
-      "title": "Optometric Technician",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-26T17:39:36-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8505175002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6380427002,
-      "location": {
-        "name": "Swansboro, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometric Technician",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometric Technician (OPT)",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8505175002,
-      "updated_at": "2026-08-07T15:08:38-04:00",
-      "requisition_id": "20927",
-      "title": "Optometric Technician",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-04-13T17:48:30-04:00",
+      "first_published": "2026-10-13T09:56:26-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1222,6 +1164,180 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8863454002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6502178002,
+      "location": {
+        "name": "Concord, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8863454002,
+      "updated_at": "2026-10-02T10:02:47-04:00",
+      "requisition_id": "22350",
+      "title": "Optometric Technician",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-02T10:02:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8505175002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6380427002,
+      "location": {
+        "name": "Swansboro, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8505175002,
+      "updated_at": "2026-08-07T15:08:38-04:00",
+      "requisition_id": "20927",
+      "title": "Optometric Technician",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-04-13T17:48:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8918179002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6573287002,
+      "location": {
+        "name": "Lumberton, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometric Technician",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometric Technician (OPT)",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8918179002,
+      "updated_at": "2026-10-26T17:39:36-04:00",
+      "requisition_id": "22833",
+      "title": "Optometric Technician",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-26T17:39:36-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889042002",
       "data_compliance": [
         {
@@ -1276,64 +1392,6 @@
       "title": "Optometrist ",
       "company_name": "eyecarecenter",
       "first_published": "2026-10-14T14:26:22-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8906242002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6567838002,
-      "location": {
-        "name": "Fayetteville, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenters",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8906242002,
-      "updated_at": "2026-11-04T14:00:32-05:00",
-      "requisition_id": "22795",
-      "title": "Optometrist ",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-21T11:33:30-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1454,6 +1512,64 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8906242002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6567838002,
+      "location": {
+        "name": "Fayetteville, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenters",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8906242002,
+      "updated_at": "2026-11-04T14:00:32-05:00",
+      "requisition_id": "22795",
+      "title": "Optometrist ",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-21T11:33:30-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889080002",
       "data_compliance": [
         {
@@ -1512,7 +1628,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889075002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8936372002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1524,9 +1640,9 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 5630989002,
+      "internal_job_id": 6580962002,
       "location": {
-        "name": "Wilson, NC"
+        "name": "Sanford, NC"
       },
       "metadata": [
         {
@@ -1560,128 +1676,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8889075002,
-      "updated_at": "2026-11-04T14:00:55-05:00",
-      "requisition_id": "13226",
+      "id": 8936372002,
+      "updated_at": "2026-11-10T10:58:36-05:00",
+      "requisition_id": "22938",
       "title": "Optometrist - Full-time",
       "company_name": "eyecarecenter",
-      "first_published": "2026-10-14T14:31:26-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889031002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 6431123002,
-      "location": {
-        "name": "Boone, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenters",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8889031002,
-      "updated_at": "2026-11-04T14:00:10-05:00",
-      "requisition_id": "21673",
-      "title": "Optometrist - Full-time",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-14T14:22:41-04:00",
-      "language": "en",
-      "application_deadline": null
-    },
-    {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889054002",
-      "data_compliance": [
-        {
-          "type": "gdpr",
-          "requires_consent": false,
-          "requires_processing_consent": false,
-          "requires_retention_consent": false,
-          "retention_period": null,
-          "demographic_data_consent_applies": false
-        }
-      ],
-      "education": "education_optional",
-      "internal_job_id": 5639571002,
-      "location": {
-        "name": "Dobson, NC"
-      },
-      "metadata": [
-        {
-          "id": 4122753002,
-          "name": "Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4122752002,
-          "name": "Brand",
-          "value": "eyecarecenter",
-          "value_type": "single_select"
-        },
-        {
-          "id": 4233969002,
-          "name": "State",
-          "value": "North Carolina",
-          "value_type": "single_select"
-        },
-        {
-          "id": 10823239002,
-          "name": "Bucket Title",
-          "value": "Optometrist",
-          "value_type": "single_select"
-        },
-        {
-          "id": 23413657002,
-          "name": "Recruiter Email",
-          "value": null,
-          "value_type": "single_select"
-        }
-      ],
-      "id": 8889054002,
-      "updated_at": "2026-11-04T14:00:24-05:00",
-      "requisition_id": "13403",
-      "title": "Optometrist - Full-time",
-      "company_name": "eyecarecenter",
-      "first_published": "2026-10-14T14:28:05-04:00",
+      "first_published": "2026-11-10T10:56:49-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1744,7 +1744,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889115002",
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889054002",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -1756,9 +1756,67 @@
         }
       ],
       "education": "education_optional",
-      "internal_job_id": 4963418002,
+      "internal_job_id": 5639571002,
       "location": {
-        "name": "Walkertown, NC"
+        "name": "Dobson, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenter",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8889054002,
+      "updated_at": "2026-11-04T14:00:24-05:00",
+      "requisition_id": "13403",
+      "title": "Optometrist - Full-time",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-14T14:28:05-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889031002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 6431123002,
+      "location": {
+        "name": "Boone, NC"
       },
       "metadata": [
         {
@@ -1792,12 +1850,70 @@
           "value_type": "single_select"
         }
       ],
-      "id": 8889115002,
-      "updated_at": "2026-11-04T14:01:52-05:00",
-      "requisition_id": "5944",
-      "title": "Optometrist - Medically Focused Optometry Practice",
+      "id": 8889031002,
+      "updated_at": "2026-11-04T14:00:10-05:00",
+      "requisition_id": "21673",
+      "title": "Optometrist - Full-time",
       "company_name": "eyecarecenter",
-      "first_published": "2026-10-14T14:41:22-04:00",
+      "first_published": "2026-10-14T14:22:41-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889075002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 5630989002,
+      "location": {
+        "name": "Wilson, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenters",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8889075002,
+      "updated_at": "2026-11-04T14:00:55-05:00",
+      "requisition_id": "13226",
+      "title": "Optometrist - Full-time",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-14T14:31:26-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1856,6 +1972,64 @@
       "title": "Optometrist - Medically Focused Optometry Practice",
       "company_name": "eyecarecenter",
       "first_published": "2026-10-14T14:40:03-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://www.eyecarecenter.com/careers/?gh_jid=8889115002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_optional",
+      "internal_job_id": 4963418002,
+      "location": {
+        "name": "Walkertown, NC"
+      },
+      "metadata": [
+        {
+          "id": 4122753002,
+          "name": "Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4122752002,
+          "name": "Brand",
+          "value": "eyecarecenters",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4233969002,
+          "name": "State",
+          "value": "North Carolina",
+          "value_type": "single_select"
+        },
+        {
+          "id": 10823239002,
+          "name": "Bucket Title",
+          "value": "Optometrist",
+          "value_type": "single_select"
+        },
+        {
+          "id": 23413657002,
+          "name": "Recruiter Email",
+          "value": null,
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8889115002,
+      "updated_at": "2026-11-04T14:01:52-05:00",
+      "requisition_id": "5944",
+      "title": "Optometrist - Medically Focused Optometry Practice",
+      "company_name": "eyecarecenter",
+      "first_published": "2026-10-14T14:41:22-04:00",
       "language": "en",
       "application_deadline": null
     },
