@@ -1,7 +1,7 @@
 {
   "company": "outfit7",
-  "fetched_at": "2026-11-12T10:37:20.148616",
-  "job_count": 10,
+  "fetched_at": "2026-11-15T10:18:39.461849",
+  "job_count": 11,
   "jobs": [
     {
       "absolute_url": "https://outfit7.com/careers/jobs?gh_jid=7985469003",
@@ -566,6 +566,119 @@
       "title": "IT Specialist",
       "company_name": "Outfit7",
       "first_published": "2026-10-08T07:54:15-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://outfit7.com/careers/jobs?gh_jid=8201867003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6056005003,
+      "location": {
+        "name": "Ljubljana, Slovenia; Limassol, Cyprus"
+      },
+      "metadata": [
+        {
+          "id": 27140153003,
+          "name": "Division",
+          "value": "Advertising",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4045077003,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        },
+        {
+          "id": 7481619003,
+          "name": "Priority",
+          "value": "1",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4296002003,
+          "name": "Publish - Description (Recruiter)",
+          "value": "We are looking for an adaptable and experienced Senior Data Scientist to join the Ad Mediation Analytics team. In this role, you will be responsible for ad mediation experimentation and design algorithms that power ad monetization across games played by millions.\nYou will collaborate closely with ad ops, platform engineering, data and analytics engineers, and game teams to turn complex ad mediation data into high-yield  initiatives using optimization techniques and machine learning. From designing floor-pricing algorithms and automatic ad mediation waterfall generation to developing self-serve data products, running tests.\nWe value clear thinking and communication, drive, curiosity and empirical rigor. If you are eager to tackle non-trivial challenges and inform impactful decisions in a collaborative, results-oriented environment, we would love to hear from you.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4310460003,
+          "name": "Publish - Responsibilities (Recruiter)",
+          "value": "- Design, optimize and test data-driven mediation algorithms. Leveraging optimization techniques and machine learning, you will segment users, automate segment-specific waterfall generation and floor-pricing strategies. \n- Architect end-to-end analytical solutions: provide ad event schemas, partner with analytics engineers to build high-reliability data modeling pipelines, dashboards and self-serve diagnostic tools that power rapid monetization decision-making.\n- Be responsible for experimentation across the mediation stack to evaluate and optimise ad mediation performance. Propose, design, and deploy A/B tests and other testing methodologies and evaluate their results.\n- Conduct deep-dive exploratory analysis and root-cause performance attribution to uncover optimization opportunities, explain performance shifts, and diagnose mediation anomalies.\n- Translate complex findings into insights that clearly articulate the business impact of mediation models, support ad mediation roadmaps, and executive leadership on monetization strategy.\n- Foster cross-functional collaboration across ad platform development, ad operations, data engineering, business and game development and support evidence-based decision-making.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4310461003,
+          "name": "Publish - Required Skills (Recruiter)",
+          "value": "- Proven track record of applying statistical and ML techniques pragmatically. Prioritizing projects and solutions with clear business impact, interpretability, and low operational overhead over unnecessary model complexity.\n- Strong analytical and problem-solving skills with attention to detail and ability to interpret datasets, identify patterns, and provide actionable business insights.\n- High technical autonomy and proven ability to translate ambiguous business challenges into well-defined problem formulation and independently drive projects.\n- Strong written and verbal communication in English, with the ability to translate complex statistical concepts and ad mediation dynamics into structured summaries for technical peers and leadership.\n- Active experience leveraging AI/LLM tools to accelerate analytic workflows.\n- Demonstrated cross-functional collaboration, with the ability to support product and monetization decisions by defending empirical findings constructively.\n- Expert proficiency in SQL and cloud-based data warehouses (e.g. BigQuery, Snowflake), and R or Python for data analysis, visualization, and statistical modeling.\n- Proficiency in production software best practices: Git, code reviews, automated testing, and modular, maintainable, clean code.\n- Solid business oriented mind set and strong product sense.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4310462003,
+          "name": "Publish - Required Experience (Recruiter)",
+          "value": "- 5+ years of experience as a data scientist, with a strong preference for experience in ad tech (ad mediation platforms and algorithms) and/or ad monetization in mobile games.\n- Proven experience designing and deploying machine learning and optimization algorithms preferably in ad tech.\n- Hands-on experience working with modern analytics engineering tools (dbt, Airflow) building dashboards (e.g., Shiny, Lightdash, Tableau) and internal data tools like bidding simulators and automated anomaly-detection.\n- Deep expertise in experimental design (user-level A/B testing, and causal inference) and automating statistical evaluation workflows.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4310463003,
+          "name": "Pubish - What Do We Offer",
+          "value": "- Employment relationship with a legal entity within Outfit7 Group for an indefinite period of time, with a six-month probationary period.\n- Diverse work with exciting daily challenges, working as part of a team in a fun, relaxed environment.\n- Participation in attractive projects.\n- Development opportunities through training, seminars, and conferences.\n- Choice of sport, fitness, educational, and entertainment activities outside of work.\n- Healthy meals in the office.\n- Flexible working hours.\n- 24 days of paid vacation.\n- Participation in a discretionary bonus plan.\n- Christmas bonus (subject to internal policies).\n- We are open to exploring remote work possibilities, subject to the specifics of the candidate's location and preferences.",
+          "value_type": "long_text"
+        },
+        {
+          "id": 4310464003,
+          "name": "Publish - Compensation",
+          "value": null,
+          "value_type": "long_text"
+        },
+        {
+          "id": 4296009003,
+          "name": "Publish - SLO Title (Recruiter)",
+          "value": "Podatkovni analitik IV.",
+          "value_type": "short_text"
+        },
+        {
+          "id": 4296010003,
+          "name": "Publish - SLO Descritpion (Recruiter)",
+          "value": "Sklenitev delovnega razmerja nudimo za nedoločen delovni čas s šestmesečnim poskusnim delom v podjetju Ekipa2 d.o.o., s sedežem v Ljubljani. Rok za prijavo: 15.12.2026",
+          "value_type": "long_text"
+        },
+        {
+          "id": 5685054003,
+          "name": "Job category (area)",
+          "value": "Sales & Business Development",
+          "value_type": "single_select"
+        },
+        {
+          "id": 14447584003,
+          "name": "Recuiter to display",
+          "value": "Tetiana Nevmerzhytska",
+          "value_type": "single_select"
+        },
+        {
+          "id": 25298087003,
+          "name": "Work Type",
+          "value": [
+            "Hybrid"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8201867003,
+      "updated_at": "2026-11-13T09:38:10-05:00",
+      "requisition_id": "507",
+      "title": "Senior Data Scientist (Ad Mediation Analytics)",
+      "company_name": "Outfit7",
+      "first_published": "2026-11-13T09:38:10-05:00",
       "language": "en",
       "application_deadline": null
     },
