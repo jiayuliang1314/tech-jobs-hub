@@ -1,7 +1,7 @@
 {
   "company": "applovin",
-  "fetched_at": "2026-11-17T11:21:53.152178",
-  "job_count": 43,
+  "fetched_at": "2026-11-20T10:45:50.435553",
+  "job_count": 45,
   "jobs": [
     {
       "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4724788006?gh_jid=4724788006",
@@ -335,18 +335,18 @@
         {
           "id": 4352349006,
           "name": "Worker Type",
-          "value": "Employee",
+          "value": "Contingent Worker",
           "value_type": "single_select"
         },
         {
           "id": 6008295006,
           "name": "Worker Sub-Type",
-          "value": "Fixed Term (Fixed Term)",
+          "value": "AL Access",
           "value_type": "single_select"
         }
       ],
       "id": 4681211006,
-      "updated_at": "2026-11-05T14:45:29-05:00",
+      "updated_at": "2026-11-20T04:46:13-05:00",
       "requisition_id": "P00011306",
       "title": "Business Development Associate (Consumer)",
       "company_name": "AppLovin",
@@ -667,7 +667,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4692974006?gh_jid=4692974006",
+      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4705313006?gh_jid=4705313006",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -680,7 +680,7 @@
       ],
       "internal_job_id": 4529865006,
       "location": {
-        "name": "Los Angeles/Santa Monica, CA"
+        "name": "Toronto"
       },
       "metadata": [
         {
@@ -696,12 +696,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 4692974006,
+      "id": 4705313006,
       "updated_at": "2026-11-05T14:45:29-05:00",
       "requisition_id": "P00011201",
       "title": "Director of Business Development",
       "company_name": "AppLovin",
-      "first_published": "2026-06-29T12:11:26-04:00",
+      "first_published": "2026-08-14T07:59:33-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -745,7 +745,7 @@
       "application_deadline": null
     },
     {
-      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4705313006?gh_jid=4705313006",
+      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4692974006?gh_jid=4692974006",
       "data_compliance": [
         {
           "type": "gdpr",
@@ -758,7 +758,7 @@
       ],
       "internal_job_id": 4529865006,
       "location": {
-        "name": "Toronto"
+        "name": "Los Angeles/Santa Monica, CA"
       },
       "metadata": [
         {
@@ -774,12 +774,12 @@
           "value_type": "single_select"
         }
       ],
-      "id": 4705313006,
+      "id": 4692974006,
       "updated_at": "2026-11-05T14:45:29-05:00",
       "requisition_id": "P00011201",
       "title": "Director of Business Development",
       "company_name": "AppLovin",
-      "first_published": "2026-08-14T07:59:33-04:00",
+      "first_published": "2026-06-29T12:11:26-04:00",
       "language": "en",
       "application_deadline": null
     },
@@ -1295,6 +1295,86 @@
       "application_deadline": null
     },
     {
+      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4730231006?gh_jid=4730231006",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 4572564006,
+      "location": {
+        "name": "Palo Alto, CA"
+      },
+      "metadata": [
+        {
+          "id": 4352349006,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6008295006,
+          "name": "Worker Sub-Type",
+          "value": "Regular",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 4730231006,
+      "updated_at": "2026-11-18T10:04:35-05:00",
+      "requisition_id": "P00011488",
+      "title": "Performance & Growth Marketing Manager",
+      "company_name": "AppLovin",
+      "first_published": "2026-11-18T10:04:35-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 4572661006,
+      "location": {
+        "name": "Palo Alto, CA"
+      },
+      "metadata": [
+        {
+          "id": 4352349006,
+          "name": "Worker Type",
+          "value": "Employee",
+          "value_type": "single_select"
+        },
+        {
+          "id": 6008295006,
+          "name": "Worker Sub-Type",
+          "value": "Intern (Fixed Term) (Trainee)",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 4730428006,
+      "updated_at": "2026-11-18T10:04:55-05:00",
+      "requisition_id": "P00011490",
+      "title": "Platform Partnerships Intern",
+      "company_name": "AppLovin",
+      "first_published": "2026-11-18T10:04:55-05:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
       "absolute_url": "https://boards.greenhouse.io/applovin/jobs/4713039006?gh_jid=4713039006",
       "data_compliance": [
         {
@@ -1404,9 +1484,9 @@
         }
       ],
       "id": 4701419006,
-      "updated_at": "2026-11-16T19:02:42-05:00",
+      "updated_at": "2026-11-17T11:15:14-05:00",
       "requisition_id": "P00011362",
-      "title": "Senior Creator Partnerships Manager",
+      "title": "Senior Creator Operations Manager",
       "company_name": "AppLovin",
       "first_published": "2026-09-03T03:28:45-04:00",
       "language": "en",
