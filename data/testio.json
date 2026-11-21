@@ -1,7 +1,7 @@
 {
   "company": "testio",
-  "fetched_at": "2026-11-18T11:11:10.840077",
-  "job_count": 6,
+  "fetched_at": "2026-11-21T10:45:15.203167",
+  "job_count": 8,
   "jobs": [
     {
       "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8225672002",
@@ -34,6 +34,39 @@
       "title": "Clown Wrangler",
       "company_name": "Termfront job board",
       "first_published": "2026-03-19T21:25:47-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8957111002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6590054002,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4001919002,
+          "name": "Employment Type",
+          "value": "Full-time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8957111002,
+      "updated_at": "2026-11-20T14:48:59-05:00",
+      "requisition_id": null,
+      "title": "Competent Sidekick",
+      "company_name": "Termfront job board",
+      "first_published": "2026-11-20T14:48:59-05:00",
       "language": "en",
       "application_deadline": null
     },
@@ -199,6 +232,39 @@
       "title": "Mango Wrangler",
       "company_name": "Termfront job board",
       "first_published": "2026-07-07T05:41:24-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/testio/jobs/8957139002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6590064002,
+      "location": {
+        "name": "London"
+      },
+      "metadata": [
+        {
+          "id": 4001919002,
+          "name": "Employment Type",
+          "value": "Part-time",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8957139002,
+      "updated_at": "2026-11-20T14:48:29-05:00",
+      "requisition_id": null,
+      "title": "Master Yodeller",
+      "company_name": "Termfront job board",
+      "first_published": "2026-11-20T14:48:29-05:00",
       "language": "en",
       "application_deadline": null
     }
